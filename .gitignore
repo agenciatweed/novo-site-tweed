@@ -1,0 +1,27 @@
+# Lista permitida: novos arquivos ficam privados ate revisao explicita.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/AGENTS.md
+!/DESIGN.md
+!/CONTEXT-SEO-GEO.md
+!/docs/
+!/tools/
+!/site/
+/site/*
+!/site/parallax/
+
+# Nunca versionar segredos, backups ou dependencias, mesmo dentro do site.
+**/.env
+**/.env.*
+**/*.pem
+**/*.key
+**/*.pfx
+**/*.p12
+**/credentials*
+**/node_modules/
+**/.DS_Store
+**/Thumbs.db
+**/*.bak
+**/*.zip

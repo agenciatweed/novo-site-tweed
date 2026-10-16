@@ -1,0 +1,1226 @@
+
+/* =====================================================================
+   TIPOGRAFIA — Inter, arquivos do repositório de marca
+   Subset Latin + Latin-1 + Latin Extended-A + pontuação editorial (492
+   glifos), WOFF2, ~20 KB por face. Só as quatro faces que a página usa.
+
+   As faixas de peso (`font-weight: 500 600`, `700 800`) declaram quais
+   pesos cada arquivo estático cobre. Sem isso o navegador sintetizaria
+   um falso-negrito nos passos 600 e 800 da escala.
+   ===================================================================== */
+@font-face{
+  font-family:'Inter';
+  src:url('/assets/fonts/inter-18pt-regular.woff2') format('woff2');
+  font-weight:400;font-style:normal;font-display:swap;
+}
+@font-face{
+  font-family:'Inter';
+  src:url('/assets/fonts/inter-24pt-medium.woff2') format('woff2');
+  font-weight:500 600;font-style:normal;font-display:swap;
+}
+@font-face{
+  font-family:'Inter';
+  src:url('/assets/fonts/inter-28pt-bold.woff2') format('woff2');
+  font-weight:700 800;font-style:normal;font-display:swap;
+}
+@font-face{
+  font-family:'Inter';
+  src:url('/assets/fonts/inter-28pt-bolditalic.woff2') format('woff2');
+  font-weight:700 800;font-style:italic;font-display:swap;
+}
+
+/* =====================================================================
+   AGÊNCIA TWEED — Landing page · Parallax Storytelling
+   Design system: Scroll-Triggered Storytelling + Exaggerated Minimalism
+   Paleta e tipografia: brand-guidelines-tweed (fonte única de verdade)
+     Azul-Escuro #0b0c13 · Teal Tweed #08ffb1 · Branco #FFFFFF · Inter
+   ===================================================================== */
+
+/* ---------- TOKENS ---------- */
+:root{
+  /* Superfícies */
+  --bg:#0b0c13;
+  --bg-raised:#11131c;
+  --bg-raised-2:#171a25;
+  --bg-glass:rgba(11,12,19,.72);
+
+  /* Acento (rampa teal) */
+  --accent:#08ffb1;
+  --accent-ink:#04140d;          /* texto sobre teal — contraste 15:1 */
+  --accent-04:rgba(8,255,177,.04);
+  --accent-08:rgba(8,255,177,.08);
+  --accent-14:rgba(8,255,177,.14);
+  --accent-24:rgba(8,255,177,.24);
+  --accent-40:rgba(8,255,177,.40);
+
+  /* Texto */
+  --text:#ffffff;
+  --text-muted:#a7acb9;          /* 8.4:1 sobre --bg */
+  --text-faint:#868da1;
+  /* Texto secundário sobre superfície tingida: o degradê teal dos cards
+     levanta o piso de luminância, e o cinza do fundo chapado não sobrevive.
+     O próprio modelo de referência usa cinza claro pelo mesmo motivo. */
+  --text-on-tint:#d3d7df;          /* 5.7:1 sobre --bg — piso AA */
+
+  /* Bordas */
+  --line:rgba(255,255,255,.09);
+  --line-soft:rgba(255,255,255,.055);
+  --line-strong:rgba(255,255,255,.28);
+
+  /* Tipografia */
+  --font:'Inter',ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;
+
+  --fs-mega:clamp(2.75rem,8.5vw,8rem);      /* números de capítulo / clímax */
+  --fs-display:clamp(2.25rem,6.2vw,5rem);   /* h1 */
+  --fs-h2:clamp(1.875rem,4.6vw,3.5rem);
+  --fs-h3:clamp(1.25rem,2.2vw,1.625rem);
+  --fs-lead:clamp(1.0625rem,1.7vw,1.375rem);
+  --fs-body:1.0625rem;
+  --fs-sm:.9375rem;
+  --fs-xs:.8125rem;
+
+  /* Espaçamento */
+  --gutter:clamp(1.25rem,5vw,4rem);
+  --maxw:1600px;
+  --maxw-prose:none;   /* texto corrido acompanha a largura total do container */
+
+  /* Movimento */
+  --ease:cubic-bezier(.16,1,.3,1);
+  --dur:.7s;
+
+  /* Camadas */
+  --z-bg:0;
+  --z-content:10;
+  --z-rail:20;
+  --z-nav:30;
+  --z-overlay:50;
+}
+
+/* ---------- RESET ---------- */
+*,*::before,*::after{box-sizing:border-box}
+html{
+  -webkit-text-size-adjust:100%;
+  scroll-behavior:smooth;
+  /* compensa a navbar fixa nos âncoras */
+  scroll-padding-top:6.5rem;
+  /* Diz ao navegador que a página é escura: barra de rolagem e qualquer
+     controle nativo param de renderizar em tema claro sobre o fundo #0b0c13. */
+  color-scheme:dark;
+  scrollbar-color:var(--line-strong) var(--bg);
+}
+body{
+  margin:0;
+  background:var(--bg);
+  color:var(--text);
+  font-family:var(--font);
+  font-optical-sizing:auto;
+  font-synthesis:none;          /* nunca falsificar peso ou itálico */
+  font-size:var(--fs-body);
+  line-height:1.65;
+  -webkit-font-smoothing:antialiased;
+  overflow-x:hidden;
+  /* Palavra longa sem espaço (e-mail, endereço, URL) quebra em vez de
+     estourar o container em telas estreitas. */
+  overflow-wrap:break-word;
+}
+
+/* Superfícies que o navegador desenha sozinho, trazidas para a paleta. */
+::selection{background:var(--accent);color:var(--accent-ink)}
+::-webkit-scrollbar{width:12px;height:12px}
+::-webkit-scrollbar-track{background:var(--bg)}
+::-webkit-scrollbar-thumb{
+  background:var(--line-strong);
+  border:3px solid var(--bg);
+  border-radius:999px;
+}
+::-webkit-scrollbar-thumb:hover{background:var(--accent-40)}
+img,svg{display:block;max-width:100%;height:auto}
+h1,h2,h3,p,figure,blockquote{margin:0}
+ul,ol{margin:0;padding:0;list-style:none}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit;background:none;border:0}
+
+/* Foco visível e consistente em tudo que é operável */
+:focus-visible{
+  outline:2px solid var(--accent);
+  outline-offset:3px;
+  border-radius:4px;
+}
+
+/* ---------- UTILITÁRIOS ---------- */
+.wrap{
+  width:100%;
+  max-width:var(--maxw);
+  margin-inline:auto;
+  padding-inline:var(--gutter);
+}
+.prose{max-width:var(--maxw-prose)}
+.sr-only{
+  position:absolute;width:1px;height:1px;padding:0;margin:-1px;
+  overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0;
+}
+/* Link de pular conteúdo: invisível ao mouse, presente ao teclado. */
+.skip-link:focus{
+  position:fixed;top:1rem;left:1rem;z-index:60;
+  width:auto;height:auto;margin:0;padding:.75rem 1.25rem;
+  clip:auto;overflow:visible;
+  display:inline-flex;align-items:center;min-height:44px;
+  background:var(--accent);color:var(--accent-ink);
+  font-size:var(--fs-sm);font-weight:600;border-radius:10px;
+}
+.eyebrow{
+  font-size:var(--fs-xs);
+  font-weight:600;
+  letter-spacing:.16em;
+  text-transform:uppercase;
+  color:var(--accent);
+}
+.muted{color:var(--text-muted)}
+.faint{color:var(--text-faint)}
+em{font-style:italic;color:var(--accent)}
+
+/* ---------- BARRA DE PROGRESSO ---------- */
+.progress{
+  position:fixed;inset:0 0 auto 0;height:2px;
+  z-index:var(--z-overlay);
+  background:var(--line-soft);
+}
+.progress__bar{
+  height:100%;
+  background:linear-gradient(90deg,var(--accent-40),var(--accent));
+  transform:scaleX(0);
+  transform-origin:0 50%;
+  will-change:transform;
+}
+
+/* ---------- NAVBAR FLUTUANTE ---------- */
+.nav{
+  position:fixed;
+  top:1rem;left:1rem;right:1rem;
+  z-index:var(--z-nav);
+  display:flex;align-items:center;justify-content:space-between;gap:1rem;
+  padding:.75rem 1rem .75rem 1.25rem;
+  border:1px solid var(--line);
+  border-radius:14px;
+  background:var(--bg-glass);
+  backdrop-filter:blur(14px) saturate(140%);
+  -webkit-backdrop-filter:blur(14px) saturate(140%);
+  transition:border-color .25s var(--ease),background .25s var(--ease);
+}
+.nav.is-scrolled{border-color:var(--accent-24)}
+.nav__logo{display:flex;align-items:center;min-height:44px}
+.nav__logo img{width:104px}
+.nav__links{display:flex;align-items:center;gap:.25rem}
+.nav__link{
+  display:inline-flex;align-items:center;
+  min-height:44px;padding:0 .875rem;
+  font-size:var(--fs-sm);font-weight:500;
+  border-radius:8px;cursor:pointer;
+  transition:color .2s var(--ease),background-color .2s var(--ease);
+}
+/* :not(.btn) é obrigatório: `.nav__link:hover` (0,2,0) venceria a cor de
+   `.btn--primary` (0,1,0) e pintaria o CTA de branco sobre teal claro. */
+.nav__link:not(.btn){color:var(--text-muted)}
+.nav__link:not(.btn):hover{color:var(--text);background:rgba(255,255,255,.05)}
+
+/* ---------- BOTÕES ----------
+   O invólucro existe para o halo poder viver FORA do botão e ATRÁS dele.
+   Num pseudo-elemento do próprio botão isso não funciona: o `transform` do
+   hover cria contexto de empilhamento, e aí um z-index negativo passa a
+   pintar acima do fundo do botão em vez de abaixo. */
+.btn-wrap{
+  position:relative;
+  display:inline-flex;
+  isolation:isolate;
+}
+/* Halo teal: nasce abaixo do botão e sobe ao entrar. */
+.btn-wrap::after{
+  content:'';
+  position:absolute;
+  left:50%;bottom:-14px;
+  width:min(190px,118%);height:26px;
+  transform:translate(-50%,7px);
+  border-radius:999px;
+  background:radial-gradient(60% 100% at 50% 50%,
+    rgba(8,255,177,.55),rgba(8,255,177,.28) 35%,transparent 70%);
+  filter:blur(11px) saturate(120%);
+  opacity:0;
+  z-index:-1;
+  pointer-events:none;
+  transition:opacity .3s var(--ease),transform .3s var(--ease);
+}
+.btn-wrap:hover::after,
+.btn-wrap:focus-within::after{opacity:1;transform:translate(-50%,0)}
+
+.btn{
+  position:relative;
+  display:inline-flex;align-items:center;justify-content:center;gap:.5rem;
+  min-height:48px;padding:0 1.75rem;
+  border-radius:999px;
+  font-size:var(--fs-sm);font-weight:600;letter-spacing:.01em;
+  white-space:nowrap;          /* rótulo de botão nunca quebra linha */
+  cursor:pointer;
+  transition:background-color .3s var(--ease),color .3s var(--ease),
+             border-color .3s var(--ease),box-shadow .3s var(--ease),
+             transform .3s var(--ease);
+}
+.btn-wrap:hover .btn,
+.btn:focus-visible{transform:translateY(-2px) scale(1.02)}
+
+/* Teal sólido: fundo intacto, como pedido. Ganha só o halo e a pílula. */
+.btn--primary{
+  background:var(--accent);color:var(--accent-ink);
+  box-shadow:0 0 0 0 var(--accent-24);
+}
+.btn--primary:hover{background:#5cffcb;box-shadow:0 0 0 6px var(--accent-14)}
+
+/* Escuro: ganha o vidro, mas o tom continua sendo o fundo do site. */
+.btn--ghost{
+  border:1px solid var(--line-strong);
+  color:var(--text);
+  background:rgba(11,12,19,.55);
+  backdrop-filter:blur(16px) saturate(140%);
+  -webkit-backdrop-filter:blur(16px) saturate(140%);
+}
+.btn--ghost:hover{border-color:var(--accent);color:var(--accent);background:rgba(11,12,19,.72)}
+/* Costura de luz na base do vidro, como na referência. */
+.btn--ghost::after{
+  content:'';
+  position:absolute;
+  left:50%;bottom:0;
+  width:70%;height:1px;
+  transform:translateX(-50%);
+  border-radius:999px;
+  background:linear-gradient(90deg,transparent,rgba(255,255,255,.9),transparent);
+  opacity:.2;
+  pointer-events:none;
+  transition:opacity .3s var(--ease);
+}
+.btn-wrap:hover .btn--ghost::after{opacity:.8}
+
+.btn--lg{min-height:56px;padding:0 2.25rem;font-size:var(--fs-body)}
+.btn__icone{width:20px;height:20px;flex:0 0 auto}
+
+/* ---------- TRILHA DE CAPÍTULOS (desktop) ---------- */
+.rail{
+  position:fixed;
+  right:1.5rem;top:50%;transform:translateY(-50%);
+  z-index:var(--z-rail);
+  display:none;flex-direction:column;align-items:flex-end;gap:.5rem;
+}
+.rail__dot{
+  position:relative;
+  display:flex;align-items:center;justify-content:flex-end;
+  width:24px;height:24px;          /* coluna estreita: nunca invade o texto */
+  cursor:pointer;
+}
+.rail__mark{
+  width:9px;height:9px;border-radius:50%;
+  border:1px solid var(--line-strong);
+  background:transparent;
+  transition:background-color .3s var(--ease),border-color .3s var(--ease),transform .3s var(--ease);
+}
+/* O rótulo só existe no hover e nunca captura clique — por isso sai do fluxo. */
+.rail__label{
+  position:absolute;
+  right:calc(100% + .25rem);
+  pointer-events:none;
+  font-size:var(--fs-xs);font-weight:500;color:var(--text-faint);
+  opacity:0;transform:translateX(6px);
+  transition:opacity .3s var(--ease),transform .3s var(--ease),color .3s var(--ease);
+  white-space:nowrap;
+}
+.rail__dot:hover .rail__label{opacity:1;transform:none;color:var(--text)}
+.rail__dot.is-active .rail__mark{background:var(--accent);border-color:var(--accent);transform:scale(1.25)}
+.rail__dot.is-active .rail__label{opacity:1;transform:none;color:var(--accent)}
+
+/* ---------- SEÇÕES ---------- */
+.section{
+  position:relative;
+  padding-block:clamp(4.25rem,9.8vh,7rem);   /* -30% em relação ao ritmo original */
+  overflow:hidden;             /* contém as camadas de parallax */
+}
+.section--tall{padding-block:clamp(5.5rem,14vh,9.75rem)}
+/* Garante que todo o conteúdo fique acima das camadas decorativas —
+   sem isso, um bloco de texto sem z-index próprio pode ser coberto pelo
+   numeral gigante do capítulo, que é posicionado (z-index 0). */
+.section > .wrap{position:relative;z-index:var(--z-content)}
+
+/* Marcador de capítulo — número gigante que acompanha o scroll */
+.chapter-mark{
+  position:absolute;
+  top:clamp(2rem,8vh,5rem);
+  left:var(--gutter);
+  z-index:var(--z-bg);
+  font-size:var(--fs-mega);
+  font-weight:800;
+  letter-spacing:-.05em;
+  line-height:.8;
+  color:rgba(255,255,255,.055);   /* preenchido, não contornado */
+  pointer-events:none;
+  user-select:none;
+}
+
+/* ---------- CAMADAS DE FUNDO / PARALLAX ---------- */
+.layer{
+  position:absolute;
+  z-index:var(--z-bg);
+  pointer-events:none;
+  will-change:transform;
+}
+.glow{
+  border-radius:50%;
+  filter:blur(90px);
+  opacity:.5;
+}
+.glow--teal{background:radial-gradient(circle,var(--accent-24),transparent 70%)}
+.glow--dim{background:radial-gradient(circle,rgba(255,255,255,.06),transparent 70%)}
+
+.grid-lines{
+  position:absolute;inset:-10% -10% 0;
+  z-index:var(--z-bg);
+  background-image:
+    linear-gradient(to right,var(--line-soft) 1px,transparent 1px),
+    linear-gradient(to bottom,var(--line-soft) 1px,transparent 1px);
+  background-size:clamp(60px,8vw,110px) clamp(60px,8vw,110px);
+  mask-image:radial-gradient(ellipse 70% 60% at 50% 40%,#000 20%,transparent 78%);
+  -webkit-mask-image:radial-gradient(ellipse 70% 60% at 50% 40%,#000 20%,transparent 78%);
+  pointer-events:none;
+}
+
+/* ---------- FEIXES DE LUZ (capítulo 07) ----------
+   O invólucro cobre o filtro e o clímax: um campo de luz só, contínuo por
+   cima da fronteira entre as duas seções. O recorte fica em .beams, então
+   nada alcança o rodapé. */
+.chapter-final{position:relative}
+.beams{
+  position:absolute;inset:0;
+  z-index:var(--z-bg);
+  overflow:hidden;
+  pointer-events:none;
+}
+.beams__canvas{
+  position:absolute;inset:0;
+  display:block;width:100%;height:100%;
+}
+.beams > span{position:absolute;pointer-events:none}
+/* Véu — o `bg-neutral-950/5` da referência, aqui com um papel a mais: ele
+   fixa um teto de luminância para os feixes. Sem isso o contraste do texto
+   passaria a depender de quantos feixes se sobrepõem no momento. */
+.beams__veil{inset:0;background:rgba(11,12,19,.34)}
+/* Bloom teal largo — o radial azul da referência, na nossa cor. */
+.beams__bloom{
+  inset:-25%;
+  background:radial-gradient(60% 60% at 50% 40%,rgba(8,255,177,.07),transparent 70%);
+}
+/* Topo curto: só o bastante para os feixes nascerem em vez de aparecerem
+   cortados na emenda com a seção anterior. */
+.beams__top{
+  inset:0 0 auto 0;height:72px;
+  background:linear-gradient(to bottom,var(--bg),transparent);
+}
+/* Base longa e opaca: o efeito morre bem antes de terminar a seção. */
+.beams__bottom{
+  inset:auto 0 0 0;height:clamp(120px,18vh,180px);
+  background:linear-gradient(to top,var(--bg) 30%,transparent);
+}
+
+/* ---------- REVEAL ----------
+   Escopado em .js: sem JavaScript o conteúdo nasce visível, nunca em branco.
+
+   A entrada é `animation`, não `transition`, de propósito: vários .reveal são
+   também .card ou .step, que têm transição própria de hover. Como `.js .reveal`
+   tem especificidade maior, um `transition` aqui sobrescrevia a do componente e
+   matava o easing do hover. Animação e transição não disputam a mesma propriedade. */
+.js .reveal{opacity:0}
+.js .reveal.is-in{
+  animation:revelar var(--dur) var(--ease) both;
+  animation-delay:var(--delay,0ms);
+}
+/* A entrada desliza com `translate`, não com `transform`, de propósito: com
+   `animation-fill-mode: both` o quadro final trava a propriedade animada, e
+   um `transform` aqui venceria o hover dos cards. As duas propriedades se
+   compõem em vez de disputar. */
+@keyframes revelar{
+  from{opacity:0;translate:0 26px}
+  to{opacity:1;translate:none}
+}
+
+/* ---------- HERO ---------- */
+.hero{
+  position:relative;
+  min-height:100svh;
+  display:flex;align-items:center;
+  padding-block:clamp(8rem,18vh,11rem) clamp(5rem,10vh,7rem);
+  overflow:hidden;
+  /* Fallback do canvas: se o WebGL não subir, sobra este eco da fita. */
+  background:
+    radial-gradient(60% 45% at 78% 74%,var(--accent-14),transparent 70%),
+    radial-gradient(45% 40% at 46% 28%,var(--accent-08),transparent 72%);
+}
+/* A fita de vidro. */
+.hero__wave{
+  position:absolute;inset:0;
+  z-index:var(--z-bg);
+  display:block;width:100%;height:100%;
+  pointer-events:none;
+}
+/* Garante contraste da headline sobre a fita, sem apagar o efeito à direita. */
+.hero__scrim{
+  position:absolute;inset:0;
+  z-index:1;
+  pointer-events:none;
+  background:linear-gradient(100deg,
+    var(--bg) 0%,
+    rgba(11,12,19,.82) 30%,
+    rgba(11,12,19,.35) 52%,
+    rgba(11,12,19,0) 72%);
+}
+.hero__content{position:relative;z-index:var(--z-content)}
+.hero__eyebrow{margin-bottom:1.5rem}
+.hero h1{
+  font-size:var(--fs-display);
+  font-weight:800;
+  letter-spacing:-.045em;
+  line-height:1.02;
+  max-width:16ch;
+  margin-bottom:1.75rem;
+  text-wrap:balance;
+}
+.hero h1 .accent{color:var(--accent)}
+.hero__lead{
+  font-size:var(--fs-lead);
+  /* Branco, não --text-muted: este parágrafo atravessa a fita de vidro, e o
+     cinza reprovava AA (2,6:1) no trecho mais claro do ciclo da animação. */
+  color:var(--text);
+  margin-bottom:2.5rem;
+}
+.hero__actions{display:flex;flex-wrap:wrap;gap:.875rem;margin-bottom:3.5rem}
+.hero__meta{
+  display:flex;flex-wrap:wrap;gap:clamp(1.5rem,4vw,3rem);
+  padding-top:1.75rem;
+  border-top:1px solid var(--line);
+  max-width:44rem;
+}
+.hero__meta-item{display:flex;flex-direction:column;gap:.125rem}
+.hero__meta-num{font-size:1.5rem;font-weight:700;letter-spacing:-.02em;color:var(--accent);line-height:1.2}
+.hero__meta-label{font-size:var(--fs-xs);color:var(--text-faint);letter-spacing:.04em}
+
+.scroll-cue{
+  position:absolute;
+  bottom:2rem;left:50%;
+  z-index:var(--z-content);
+  transform:translateX(-50%);
+  display:flex;flex-direction:column;align-items:center;gap:.625rem;
+  font-size:var(--fs-xs);letter-spacing:.14em;text-transform:uppercase;
+  color:var(--text-faint);
+  cursor:pointer;
+}
+.scroll-cue__line{
+  width:1px;height:44px;
+  background:linear-gradient(to bottom,var(--accent),transparent);
+  animation:cue 2.4s var(--ease) infinite;
+  transform-origin:top;
+}
+@keyframes cue{0%,100%{transform:scaleY(.35);opacity:.4}50%{transform:scaleY(1);opacity:1}}
+
+/* ---------- TÍTULOS DE SEÇÃO ---------- */
+.section__head{position:relative;z-index:var(--z-content);margin-bottom:clamp(2.5rem,6vw,4.5rem)}
+.section__head .eyebrow{display:block;margin-bottom:1rem}
+h2{
+  font-size:var(--fs-h2);
+  font-weight:800;
+  letter-spacing:-.035em;
+  line-height:1.06;
+  /* sem max-width: o título só quebra ao encostar nos 1600px */
+  text-wrap:pretty;
+}
+.section__lead{
+  margin-top:1.5rem;
+  font-size:var(--fs-lead);
+  color:var(--text-muted);
+  max-width:var(--maxw-prose);
+}
+.body-copy{color:var(--text-muted);max-width:var(--maxw-prose)}
+.body-copy + .body-copy{margin-top:1.25rem}
+
+/* ---------- DECLARAÇÃO GIGANTE (pull statement) ---------- */
+.statement{
+  position:relative;z-index:var(--z-content);
+  font-size:clamp(1.75rem,4.4vw,3.25rem);
+  font-weight:800;
+  letter-spacing:-.035em;
+  line-height:1.1;
+  text-wrap:pretty;
+}
+.statement em{font-style:italic}
+.statement--center{margin-inline:auto;text-align:center;max-width:26ch}
+
+/* ---------- CARDS / GRIDS ---------- */
+.grid{
+  position:relative;z-index:var(--z-content);
+  display:grid;
+  gap:clamp(1rem,2vw,1.5rem);
+}
+.grid--3{grid-template-columns:repeat(3,1fr)}
+.grid--4{grid-template-columns:repeat(4,minmax(0,1fr))}
+.grid--2{grid-template-columns:repeat(2,1fr)}
+
+/* ---------- SUPERFÍCIE COM DEGRADÊ E ANEL GIRATÓRIO ----------
+   Traduz o modelo de referência para a paleta da casa. O roxo/magenta
+   (hsl 263 / 284 / 306) vira a rampa teal, e o hsla(240,15%,9%) do original
+   vira o nosso #0b0c13.
+
+   Três radiais escuros no topo mantêm a área de leitura limpa; três coloridos
+   na base fazem o degradê. A sombra interna sobe da borda inferior. */
+@property --anel{
+  syntax:'<angle>';
+  initial-value:0deg;
+  inherits:false;
+}
+@keyframes anelGira{ to{ --anel:360deg } }
+
+.card,.stat,.brands{
+  position:relative;
+  border-radius:18px;
+  background-color:#0b0c13;
+  background-image:
+    radial-gradient(at 88% 40%,  #0b0c13 0px, transparent 85%),
+    radial-gradient(at 49% 30%,  #0b0c13 0px, transparent 85%),
+    radial-gradient(at 14% 26%,  #0b0c13 0px, transparent 85%),
+    radial-gradient(at 0%  64%,  hsla(161,100%,52%,.34) 0px, transparent 85%),
+    radial-gradient(at 41% 94%,  hsla(161,100%,80%,.24) 0px, transparent 85%),
+    radial-gradient(at 100% 99%, hsla(172,95%,45%,.38) 0px, transparent 85%);
+  box-shadow:inset 0 -16px 24px -4px rgba(255,255,255,.10);
+}
+/* O conteúdo sobe acima das duas camadas decorativas. */
+.card > *,.stat > *,.brands > *{position:relative;z-index:1}
+
+/* Sem estado de hover: estes cards não são clicáveis, e uma resposta ao
+   mouse sugeriria que são. O anel de luz já dá vida à superfície. */
+
+/* Sem suporte a máscara, o anel viraria um borrão colorido sobre o card.
+   Nesse caso entrega uma borda teal fixa e nada gira. */
+.card,.stat,.brands{border:1px solid rgba(8,255,177,.22)}
+
+@supports ((mask-composite:exclude) or (-webkit-mask-composite:xor)){
+  .card,.stat,.brands{border:0}
+  /* Anel de luz girando na borda, como no modelo. A máscara vaza o miolo,
+     então ele é de fato um anel de 1px — e pode pintar acima do fundo do
+     card sem cobrir nada. */
+  .card::before,.stat::before,.brands::before{
+    content:'';
+    position:absolute;inset:-1px;
+    border-radius:inherit;
+    padding:1px;
+    z-index:0;
+    pointer-events:none;
+    background:conic-gradient(from var(--anel,0deg),
+      rgba(255,255,255,.13) 0deg,
+      rgba(8,255,177,.95)  38deg,
+      rgba(255,255,255,.13) 96deg,
+      rgba(255,255,255,.13) 360deg);
+    -webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);
+    -webkit-mask-composite:xor;
+    mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);
+    mask-composite:exclude;
+    animation:anelGira 8s linear infinite;
+  }
+}
+
+.card{padding:clamp(1.5rem,2.5vw,2rem)}
+
+/* Capítulo 08: caixa translúcida, para os feixes do fundo atravessarem o
+   card. O degradê teal permanece; o que sai é a base opaca e a força total
+   dos radiais escuros — eles existiam para segurar o fundo chapado das
+   outras seções, e aqui bloqueariam justamente o movimento. */
+#filtro .card{
+  background-color:transparent;
+  background-image:
+    radial-gradient(at 88% 40%,  rgba(11,12,19,.55) 0px, transparent 85%),
+    radial-gradient(at 49% 30%,  rgba(11,12,19,.55) 0px, transparent 85%),
+    radial-gradient(at 14% 26%,  rgba(11,12,19,.55) 0px, transparent 85%),
+    radial-gradient(at 0%  64%,  hsla(161,100%,52%,.30) 0px, transparent 85%),
+    radial-gradient(at 41% 94%,  hsla(161,100%,80%,.20) 0px, transparent 85%),
+    radial-gradient(at 100% 99%, hsla(172,95%,45%,.34) 0px, transparent 85%);
+}
+.card__icon{
+  display:flex;align-items:center;justify-content:center;
+  width:44px;height:44px;margin-bottom:1.25rem;
+  border-radius:10px;
+  background:var(--accent-08);
+  color:var(--accent);
+}
+.card__icon svg{width:22px;height:22px}
+/* Sem moldura: só o glifo, tingido pela máscara. */
+.card__icon--solto{
+  width:44px;height:44px;
+  background:none;border-radius:0;
+}
+@supports ((mask-image:linear-gradient(#000,#000)) or (-webkit-mask-image:linear-gradient(#000,#000))){
+  .card__icon--solto{
+    background-color:var(--accent);
+    -webkit-mask:var(--icone) center/contain no-repeat;
+    mask:var(--icone) center/contain no-repeat;
+    /* Obrigatório, e depois do atalho para não ser resetado: em SVG o
+       `match-source` do Chrome vira luminância, e como a arte é preta a
+       máscara zeraria tudo. Aqui o que importa é o alfa. */
+    -webkit-mask-source-type:alpha;
+    mask-mode:alpha;
+  }
+  /* Arte embutida como data URI. Em file:// o Chrome trata cada arquivo
+     como origem opaca e bloqueia máscara vinda de URL externa; data: é
+     um dos esquemas que ele aceita. */
+  .card__icon--lowest-price{--icone:url("data:image/svg+xml,%3Csvg id='Layer_1' enable-background='new 0 0 512 512' height='512' viewBox='0 0 512 512' width='512' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='m266.734 360.865c1.195 9.841-1.441 18.821-7.624 25.97-7.314 8.457-19.501 14.115-33.362 15.674v10.614c0 4.418-3.582 8-8 8s-8-3.582-8-8v-10.729c-20.492-2.755-36.43-15.674-41.034-34.139-1.069-4.287 1.54-8.629 5.827-9.698 4.29-1.063 8.629 1.541 9.698 5.827 4.117 16.512 20.25 22.422 33.467 22.555.07-.001.141.001.211.002.444-.002.884-.002 1.32-.013 11.561-.275 22.462-4.42 27.771-10.56 3.24-3.746 4.497-8.187 3.843-13.575-1.544-12.716-12.117-20.01-34.282-23.648-34.978-5.743-43.121-23.456-43.792-37.304-.932-19.191 12.51-35.276 33.449-40.025 1.153-.262 2.33-.485 3.522-.669v-10.843c0-4.418 3.582-8 8-8s8 3.582 8 8v10.774c15.015 2.174 29.853 10.836 37.251 28.458 1.71 4.073-.205 8.763-4.279 10.473-4.074 1.711-8.763-.205-10.473-4.279-5.747-13.686-18.043-19.242-29.908-19.262-.328.025-.666.027-.997.012-2.58.062-5.129.385-7.577.94-10.594 2.402-21.676 9.876-21.007 23.646.209 4.313.846 17.438 30.403 22.291 10.856 1.782 43.894 7.205 47.573 37.508zm193.057 50.241-74.847 88.153c-2.595 3.057-6.232 4.74-10.242 4.74-4.009 0-7.647-1.684-10.242-4.739l-29.947-35.271c-30.855 25.914-70.626 40.011-113.188 40.011-1.041 0-2.08-.009-3.124-.025-1.018.017-2.045.024-3.061.024-61.684.003-117.705-30.144-146.771-79.19-26.375-44.505-25.798-97.604 1.582-145.679 17.138-30.091 43.385-64.163 82.106-106.522-10.998-5.002-18.668-16.086-18.668-28.935 0-17.266 13.846-31.35 31.017-31.756l-25.291-25.29c-12.646-12.646-12.646-33.222 0-45.867 10.703-10.704 27.723-12.532 40.471-4.35 1.369.878 2.709.998 4.213.376 1.501-.622 2.364-1.653 2.711-3.244 3.23-14.798 16.557-25.54 31.69-25.542 15.133 0 28.462 10.741 31.694 25.54.347 1.592 1.209 2.624 2.713 3.247 1.501.622 2.84.501 4.21-.377 12.747-8.181 29.766-6.354 40.47 4.349 12.646 12.647 12.646 33.224.001 45.869l-25.29 25.29c17.17.407 31.016 14.491 31.016 31.757 0 12.848-7.67 23.932-18.668 28.934 16.313 17.848 30.366 34.183 42.46 49.357.898-9.578 8.976-17.101 18.783-17.101h58.227c10.407.001 18.874 8.468 18.873 18.874v165.238h26.86c5.298 0 9.971 2.987 12.194 7.795 2.223 4.802 1.476 10.296-1.952 14.334zm-309.363-335.793 36.586 36.584h62.377l36.584-36.584c6.407-6.408 6.407-16.833 0-23.24-5.423-5.423-14.051-6.348-20.515-2.199-5.751 3.69-12.668 4.308-18.977 1.693-6.31-2.614-10.764-7.941-12.221-14.615-1.639-7.504-8.394-12.952-16.061-12.952-7.667.001-14.421 5.449-16.059 12.953-1.457 6.674-5.911 12.001-12.222 14.615-6.312 2.612-13.228 1.995-18.976-1.693-6.465-4.15-15.093-3.225-20.517 2.198-6.407 6.407-6.407 16.833.001 23.24zm-1.039 68.36c0 8.699 7.077 15.776 15.776 15.776h106.072c8.699 0 15.776-7.077 15.776-15.775 0-8.699-7.077-15.776-15.776-15.776h-106.072c-8.699-.001-15.776 7.076-15.776 15.775zm174.77 308.121-34.545-40.687c-3.429-4.041-4.175-9.535-1.951-14.341 2.223-4.805 6.895-7.792 12.193-7.792h26.86v-140.92c-15.886-21.373-36.054-45.177-61.512-72.604h-94.01c-41.955 45.199-69.754 80.721-87.341 111.599-24.816 43.573-25.427 89.601-1.721 129.604 26.643 44.958 78.743 72.28 135.933 71.323.09-.002.18-.002.27 0 39.886.683 77.148-12.127 105.824-36.182zm48.594 37.103c-.002.003-.004.005-.006.007zm71.256-83.922h-29.32c-4.418 0-8-3.582-8-8v-173.239c0-1.558-1.315-2.873-2.873-2.873h-58.227c-1.557 0-2.873 1.316-2.873 2.874v173.237c0 4.418-3.582 8-8 8h-29.32l69.307 81.628z'/%3E%3C/svg%3E")}
+  .card__icon--overload{--icone:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' id='Layer_1' data-name='Layer 1' viewBox='0 0 512 512'%3E%3Cpath d='M499.3,356.744h-3.2a20.068,20.068,0,0,0,0-12.472h1.3a7,7,0,0,0,7-7V310.8a7,7,0,0,0-7-7h-1.3a20.057,20.057,0,0,0-.007-12.444h1.3a7,7,0,0,0,7-7V257.871a7,7,0,0,0-7-7H496.1a20.068,20.068,0,0,0,0-12.472h1.3a7,7,0,0,0,7-7V204.948a7,7,0,0,0-7-7H483.708a20.215,20.215,0,0,0-19.246-26.476H369.585a7,7,0,0,0-7,7v26.476a7,7,0,0,0,7,7h13.693a20.054,20.054,0,0,0-.007,12.443h-1.326a7,7,0,0,0-7,7v26.476a7,7,0,0,0,7,7h1.333a20.077,20.077,0,0,0,0,12.472h-1.333a7,7,0,0,0-7,7V310.8a7,7,0,0,0,7,7h1.333a20.074,20.074,0,0,0,0,12.471h-1.333a7,7,0,0,0-7,7v19.474H308.725v-43.1L351.8,302.11c7.954-2.123,13.962-6.809,16.918-13.194,3.068-6.628,2.7-14.612-1.034-22.486l-38.3-80.533a6.938,6.938,0,0,0-.324-.681l-7.518-15.808a15.532,15.532,0,0,0-4.152-5.3,40.3,40.3,0,0,0-16.037-25.656,35.633,35.633,0,0,0-29.1-5.483c-3.636.871-7.8-1-11.753-2.991-14.38-7.221-29.612-7.133-42.893.245a48.8,48.8,0,0,0-24.093,34.884,15.339,15.339,0,0,0-3.056,4.291l-7.526,15.825a6.7,6.7,0,0,0-.291.612l-38.335,80.6c-3.732,7.869-4.1,15.852-1.03,22.48,2.956,6.385,8.964,11.071,16.913,13.193l43.084,11.535v43.1H137.057V337.27a7,7,0,0,0-7-7h-1.333a20.074,20.074,0,0,0,0-12.471h1.333a7,7,0,0,0,7-7V284.347a7,7,0,0,0-7-7h-1.333a20.077,20.077,0,0,0,0-12.472h1.333a7,7,0,0,0,7-7V231.4a7,7,0,0,0-7-7h-1.326a20.054,20.054,0,0,0-.007-12.443h13.693a7,7,0,0,0,7-7V178.472a7,7,0,0,0-7-7H47.538a20.215,20.215,0,0,0-19.246,26.476H14.6a7,7,0,0,0-7,7V231.4a7,7,0,0,0,7,7h1.3a20.058,20.058,0,0,0,0,12.472H14.6a7,7,0,0,0-7,7v26.476a7,7,0,0,0,7,7h1.3a20.038,20.038,0,0,0-.007,12.444H14.6a7,7,0,0,0-7,7V337.27a7,7,0,0,0,7,7h1.3a20.058,20.058,0,0,0,0,12.472H12.7a7,7,0,0,0-7,7V393.2a7,7,0,0,0,7,7H41.868V505a7,7,0,0,0,7,7H78.322a7,7,0,0,0,7-7V494.425H426.676V505a7,7,0,0,0,7,7h29.451a7,7,0,0,0,7-7V400.2H499.3a7,7,0,0,0,7-7V363.746A7,7,0,0,0,499.3,356.744ZM490.4,211.95v12.443H402.524a6.222,6.222,0,1,1,0-12.443H490.4Zm-13.55,118.318H402.524a6.242,6.242,0,0,1-6.235-6.236,6.318,6.318,0,0,1,6.235-6.235H490.4v12.471Zm6.236,20.24a6.319,6.319,0,0,1-6.236,6.236h-87.9V344.272h87.9A6.319,6.319,0,0,1,483.085,350.508Zm-94.138-46.715V291.349h87.9a6.222,6.222,0,1,1,0,12.444h-87.9Zm87.9-26.448H402.524a6.236,6.236,0,0,1,0-12.472H490.4v12.472Zm-87.9-26.476V238.4h87.9a6.236,6.236,0,0,1,0,12.472h-87.9Zm-12.36-52.923V185.474h87.875a6.236,6.236,0,1,1,0,12.472H376.587Zm-73.094-23.521c2.084-.856,4.756-.373,5.4.987l5.554,11.677-8.623,8.635-4.075-11.535a15.156,15.156,0,0,1-.992-5.454c.02-.153.03-.309.039-.466A4.35,4.35,0,0,1,303.493,174.425Zm-47.919,91.354a30.823,30.823,0,0,1-13.862-3.847,7,7,0,0,0-1.069-.577c-12.058-6.8-22.35-20.289-25.329-32.328a77.6,77.6,0,0,1-2.089-11.22l10.23-28.952a30.283,30.283,0,0,0,1.7-7.806,43.324,43.324,0,0,0,15.955-9.194c11.1,9.026,25.189,13.471,42.7,13.471,1.206,0,2.436-.029,3.676-.071a33.6,33.6,0,0,0,1.052,3.6l9.506,26.9a71.616,71.616,0,0,1-2.246,13.276c-2.925,11.822-12.9,25.044-24.676,31.951a6.945,6.945,0,0,0-1.013.582A31.221,31.221,0,0,1,255.574,265.779Zm11.537,12.191V285.4a11.111,11.111,0,0,1-22.222,0v-7.189a40.513,40.513,0,0,0,10.621,1.575h.129A40.718,40.718,0,0,0,267.111,277.97Zm-40.189-8.946c-10.2-2.366-19.616-4.463-29.5-6.5l7.453-21.093A72.72,72.72,0,0,0,226.922,269.024Zm79.807-28.706,7.844,22.2c-10.5,2.16-20.406,4.388-30.808,6.833A72.466,72.466,0,0,0,306.729,240.318Zm-82.318-97.854c9.1-5.06,19.693-5.049,29.8.025,4.33,2.18,12.4,6.237,21.274,4.1a21.472,21.472,0,0,1,17.793,3.3,25.138,25.138,0,0,1,8.425,10.506,19.684,19.684,0,0,0-3.549,1.08,18.138,18.138,0,0,0-9.83,9.721c-18.659.867-32.56-3.688-42.359-13.88a7,7,0,0,0-5.047-2.149h-.114a7,7,0,0,0-5.087,2.314c-5.044,5.6-9.268,8.3-14.161,10.007a18.22,18.22,0,0,0-7.714-6.014,19.626,19.626,0,0,0-4.613-1.254A34.328,34.328,0,0,1,224.411,142.464Zm-21.3,32.938c.641-1.351,3.316-1.836,5.4-.977A4.127,4.127,0,0,1,211,177.237c.006.025.008.05.013.075.023.1.057.2.085.3a13.134,13.134,0,0,1-.847,6.574l-4.075,11.535-8.624-8.635Zm-39.3,113.178c-2.735-.73-6.312-2.285-7.822-5.546-1.29-2.788-.944-6.551.972-10.59l34.21-71.931L201,210.362l-1.275,3.609a6.929,6.929,0,0,0-.367,1.037l-17.826,50.451a7,7,0,0,0,5.244,9.2c15.05,2.976,28.384,5.972,44.1,9.671V285.4a25.115,25.115,0,0,0,50.23,0v-1.025c15.083-3.594,28.741-6.687,44.1-9.709a7,7,0,0,0,5.25-9.2L311.8,212.646c-.056-.182-.118-.36-.189-.535L311,210.362l9.835-9.849,34.207,71.925c1.919,4.045,2.266,7.808.976,10.6-1.51,3.261-5.087,4.816-7.826,5.547l-48.275,12.926a7,7,0,0,0-5.192,6.764v48.473H217.279V308.271a7,7,0,0,0-5.192-6.764ZM47.538,185.474h87.875v12.472H47.538a6.236,6.236,0,1,1,0-12.472ZM21.6,211.95h87.875a6.222,6.222,0,1,1,0,12.443H21.6ZM123.053,238.4v12.472H35.15a6.236,6.236,0,1,1,0-12.472h87.9ZM21.6,264.873h87.875a6.236,6.236,0,0,1,0,12.472H21.6Zm101.452,26.476v12.444H35.15a6.222,6.222,0,1,1,0-12.444h87.9ZM21.6,317.8h87.875a6.318,6.318,0,0,1,6.235,6.235,6.242,6.242,0,0,1-6.235,6.236H21.6Zm101.452,26.475v12.472H35.15a6.236,6.236,0,1,1,0-12.472h87.9ZM71.32,498H55.872V400.2H71.32Zm355.356-17.575H85.324V400.2H426.676ZM456.127,498H440.68V400.2h15.447ZM492.3,386.2H19.7V370.748H492.3ZM277,461.457a7,7,0,0,1,7-7H413.324a7,7,0,1,1,0,14H284.006A7,7,0,0,1,277,461.457Zm-32.854,0a7,7,0,0,1,7-7h9.695a7,7,0,0,1,0,14h-9.695A7,7,0,0,1,244.15,461.457Zm-152.477,0a7,7,0,0,1,7-7H227.993a7,7,0,1,1,0,14H98.675A7,7,0,0,1,91.673,461.457ZM326.785,137.866l16.072-23.5a7,7,0,1,1,11.559,7.906l-16.072,23.5a7,7,0,0,1-11.559-7.906Zm98.53-6.336a65.765,65.765,0,1,0-65.793-65.766A65.84,65.84,0,0,0,425.315,131.53Zm0-117.526a51.761,51.761,0,1,1-51.789,51.76A51.818,51.818,0,0,1,425.315,14Zm-7,51.76V33.62a7,7,0,1,1,14,0v28.1l12.964,7.476a7,7,0,1,1-6.994,12.131l-16.469-9.5A7,7,0,0,1,418.313,65.764ZM157.526,122.273a7,7,0,1,1,11.559-7.906l16.073,23.5a7,7,0,1,1-11.558,7.906Zm139.829-13.758a7,7,0,0,1,.305-6.894l20.892-33.364a7,7,0,0,1,11.869,7.431l-14.7,23.472,11.231.78a7,7,0,0,1,5.167,11.118l-15.363,21a7,7,0,1,1-11.3-8.268l7.874-10.764-10.219-.709A7,7,0,0,1,297.355,108.515Zm-117.562,2.543A7,7,0,0,1,184.96,99.94l11.232-.78-14.7-23.472a7,7,0,0,1,11.87-7.431l20.891,33.364a7,7,0,0,1-5.45,10.7l-10.219.709L206.46,123.8a7,7,0,0,1-11.3,8.268Z'/%3E%3C/svg%3E")}
+  .card__icon--handoff{--icone:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' id='Icons' viewBox='0 0 60 60'%3E%3Cpath d='M55.5,37h-.261A4.469,4.469,0,0,0,56,34.5a4.564,4.564,0,0,0-3.414-4.346l4.808-8.627a4.8,4.8,0,0,0,.394-3.727A4.339,4.339,0,0,0,55.6,15.155a4.457,4.457,0,0,0-2.416-.462l.526-.941a4.828,4.828,0,0,0,.39-3.731,4.357,4.357,0,0,0-2.183-2.647A4.436,4.436,0,0,0,49.5,6.917l.038-.069a4.781,4.781,0,0,0,.4-3.707A4.357,4.357,0,0,0,47.754.475,4.547,4.547,0,0,0,41.776,2.3l-.122.219A4.465,4.465,0,0,0,36.435.264a4.521,4.521,0,0,0-2.718,2.115l.008,0c-.182.305-.621,1.1-1.875,3.345C30.373,8.379,28.218,12.248,26.123,16a4.979,4.979,0,0,0-3.636,1.426l.007.007c-.258.244-1.038,1-3.544,3.452l-.658-1.855A5.1,5.1,0,0,0,13.05,15.26,5.05,5.05,0,0,0,8.615,21.6l2.016,7.421c-.482.47-.965.943-1.486,1.453A8.7,8.7,0,0,1,3,33a3,3,0,0,0-3,3V53a3,3,0,0,0,3,3H5.789a10.874,10.874,0,0,1,6.051,1.832A12.869,12.869,0,0,0,19,60H46.31a4.794,4.794,0,0,0,3.434-1.468A4.351,4.351,0,0,0,51,55.332,4.435,4.435,0,0,0,50.227,53H51.3a4.8,4.8,0,0,0,3.44-1.471A4.348,4.348,0,0,0,56,48.331,4.443,4.443,0,0,0,55.228,46H55.3a4.807,4.807,0,0,0,3.441-1.471A4.349,4.349,0,0,0,60,41.331,4.539,4.539,0,0,0,55.5,37ZM35.451,3.374l.012-.02a2.517,2.517,0,0,1,1.515-1.166,2.451,2.451,0,0,1,1.886.2,2.5,2.5,0,0,1,.975,3.392v0L32.779,18.452a1,1,0,1,0,1.746.973l9-16.153a2.552,2.552,0,0,1,3.321-1.015,2.38,2.38,0,0,1,1.183,1.46A2.774,2.774,0,0,1,47.8,5.871l-8.9,15.988a1,1,0,1,0,1.746.975L47.7,10.167v0a2.563,2.563,0,0,1,3.315-1.008A2.37,2.37,0,0,1,52.19,10.6a2.814,2.814,0,0,1-.223,2.175L44.521,26.142a1,1,0,1,0,1.747.972l5.112-9.173,0-.011a2.558,2.558,0,0,1,3.315-.991,2.354,2.354,0,0,1,1.177,1.443,2.784,2.784,0,0,1-.229,2.167L50.382,30H24.729l4.716-5.373a5.107,5.107,0,0,0,.746-6.418,4.948,4.948,0,0,0-2.037-1.738C30.158,12.875,35.379,3.5,35.451,3.374ZM10.544,21.07a3.05,3.05,0,0,1,2.668-3.817,3.127,3.127,0,0,1,3.175,2.389l.987,2.787c-1.331,1.3-3,2.936-5.106,4.991ZM57.305,43.141a2.8,2.8,0,0,1-2,.858H37a1,1,0,0,0,0,2H51.5A2.554,2.554,0,0,1,54,48.405a2.383,2.383,0,0,1-.694,1.737,2.8,2.8,0,0,1-2,.858H36a1,1,0,0,0,0,2H46.5A2.555,2.555,0,0,1,49,55.406a2.386,2.386,0,0,1-.694,1.739A2.794,2.794,0,0,1,46.31,58H19a10.879,10.879,0,0,1-6.049-1.832A12.863,12.863,0,0,0,5.789,54H3a1,1,0,0,1-1-1V36a1,1,0,0,1,1-1,10.674,10.674,0,0,0,7.546-3.1S23.773,18.969,23.893,18.854A2.992,2.992,0,0,1,26.006,18a3.133,3.133,0,0,1,.32.017,2.992,2.992,0,0,1,2.2,1.306,3.127,3.127,0,0,1-.543,3.938l-6.217,7.08A1,1,0,0,0,22.52,32H51.5A2.565,2.565,0,0,1,54,34.5,2.5,2.5,0,0,1,51.5,37H37a1,1,0,0,0,0,2H55.5A2.554,2.554,0,0,1,58,41.405,2.381,2.381,0,0,1,57.305,43.141Z'/%3E%3Cpath d='M14.372,8.071a1,1,0,0,0-.744,1.858l5,2a1,1,0,0,0,.744-1.858Z'/%3E%3Cpath d='M22,8a1,1,0,0,0,.856-1.515l-3-5a1,1,0,1,0-1.714,1.03l3,5A1,1,0,0,0,22,8Z'/%3E%3Cpath d='M26.8,7.98A.948.948,0,0,0,27,8a1,1,0,0,0,.979-.8l1-5A1,1,0,1,0,27.02,1.8l-1,5A1,1,0,0,0,26.8,7.98Z'/%3E%3C/svg%3E")}
+  .card__icon--formula{--icone:url("data:image/svg+xml,%3Csvg id='Layer_1' enable-background='new 0 0 512 512' height='512' viewBox='0 0 512 512' width='512' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='m473.688 301.998-39.021-67.584c-.91-1.577-2.332-2.796-4.029-3.456l-82.387-32.034c2.564-8.655 3.948-17.812 3.948-27.287 0-53.045-43.155-96.2-96.2-96.2s-96.2 43.155-96.2 96.2c0 9.476 1.384 18.632 3.948 27.287l-82.387 32.034c-1.697.66-3.119 1.879-4.029 3.456l-39.021 67.584c-1.167 2.021-1.393 4.452-.618 6.654.774 2.202 2.472 3.956 4.647 4.802l33.919 13.189v110.08c0 3.299 2.026 6.26 5.102 7.456l171.739 66.777c.933.363 1.916.544 2.899.544s1.967-.181 2.899-.544l171.739-66.777c3.076-1.196 5.102-4.157 5.102-7.456v-110.08l33.919-13.189c2.176-.846 3.873-2.6 4.647-4.802.777-2.202.551-4.632-.616-6.654zm-217.688-210.561c44.223 0 80.2 35.978 80.2 80.2s-35.978 80.2-80.2 80.2-80.2-35.978-80.2-80.2 35.977-80.2 80.2-80.2zm0 176.4c38.118 0 71.129-22.285 86.689-54.511l63.135 25.026-149.824 58.256-149.825-58.256 63.135-25.026c15.56 32.226 48.571 54.511 86.69 54.511zm-199.169 34.084 30.926-53.564 156.651 60.911-30.926 53.565zm35.429 30.943 121.821 47.368c3.679 1.429 7.853-.037 9.827-3.456l24.092-41.728v156.758l-155.74-60.556zm327.48 98.386-155.74 60.556v-156.758l24.092 41.729c1.975 3.419 6.148 4.886 9.827 3.456l121.821-47.368zm-121.222-68.417-30.927-53.565 156.652-60.911 30.926 53.564zm-62.423-139.23c5.538 0 10.75-2.162 14.675-6.087l62.364-62.363c8.103-8.104 8.103-21.29-.001-29.396-3.925-3.925-9.145-6.087-14.696-6.087s-10.771 2.162-14.697 6.087l-45.906 45.907-12.252-15.417c-3.962-4.984-9.889-7.843-16.26-7.843-4.667 0-9.252 1.602-12.912 4.51-8.96 7.125-10.454 20.211-3.332 29.17l26.103 32.848c3.902 5.436 10.204 8.672 16.914 8.671zm-29.73-58.165c1.076-.855 2.201-1.035 2.956-1.035 1.465 0 2.826.656 3.734 1.798l17.83 22.438c1.419 1.785 3.531 2.88 5.808 3.01 2.271.127 4.5-.718 6.112-2.33l52.247-52.248c.903-.904 2.105-1.401 3.384-1.401s2.479.498 3.382 1.4c1.866 1.867 1.867 4.904.001 6.77l-62.363 62.363c-1.158 1.157-2.468 1.4-3.363 1.4-1.601 0-3.042-.75-3.955-2.057-.095-.136-.193-.268-.296-.397l-26.239-33.02c-1.634-2.055-1.291-5.057.762-6.691zm41.635-119.469v-37.469c0-4.418 3.581-8 8-8 4.418 0 8 3.582 8 8v37.469c0 4.418-3.582 8-8 8-4.419 0-8-3.582-8-8zm-80.779-12.666c-2.209-3.826-.897-8.719 2.929-10.928 3.825-2.208 8.719-.898 10.928 2.928l18.734 32.449c2.209 3.826.898 8.719-2.928 10.928-1.26.727-2.636 1.073-3.993 1.073-2.765 0-5.453-1.435-6.936-4.001zm-60.483 50.942c2.209-3.827 7.102-5.138 10.928-2.928l32.449 18.734c3.826 2.209 5.137 7.102 2.928 10.928-1.481 2.566-4.171 4.001-6.936 4.001-1.357 0-2.732-.346-3.992-1.073l-32.449-18.734c-3.826-2.209-5.137-7.102-2.928-10.928zm-23.98 85.286c0-4.418 3.581-8 8-8h37.468c4.419 0 8 3.582 8 8s-3.581 8-8 8h-37.468c-4.419 0-8-3.581-8-8zm228.866-109.674 18.734-32.449c2.209-3.827 7.102-5.139 10.928-2.928 3.826 2.209 5.138 7.102 2.929 10.928l-18.735 32.449c-1.482 2.566-4.171 4.001-6.936 4.001-1.357 0-2.733-.346-3.993-1.073-3.825-2.208-5.136-7.101-2.927-10.928zm45.228 54.769c-2.209-3.826-.898-8.719 2.928-10.928l32.449-18.734c3.826-2.208 8.719-.897 10.928 2.928 2.209 3.826.898 8.719-2.928 10.928l-32.449 18.734c-1.26.727-2.635 1.073-3.992 1.073-2.766 0-5.455-1.435-6.936-4.001zm22.711 51.116h37.468c4.419 0 8 3.582 8 8s-3.581 8-8 8h-37.468c-4.419 0-8-3.582-8-8s3.582-8 8-8z'/%3E%3C/svg%3E")}
+}
+@supports not ((mask-image:linear-gradient(#000,#000)) or (-webkit-mask-image:linear-gradient(#000,#000))){
+  .card__icon--solto{display:none}
+}
+.card h3{font-size:var(--fs-h3);font-weight:700;letter-spacing:-.02em;line-height:1.25;margin-bottom:.625rem}
+.card p{font-size:var(--fs-sm);color:var(--text-on-tint);line-height:1.65}
+
+/* ---------- MÉTODO (etapas) ---------- */
+.steps{position:relative;z-index:var(--z-content);display:grid;gap:0}
+.step{
+  display:grid;
+  grid-template-columns:5.5rem 1fr;
+  gap:clamp(1rem,3vw,2.5rem);
+  padding-block:clamp(1.5rem,3vw,2.25rem);
+  border-top:1px solid var(--line);
+  transition:border-color .25s var(--ease);
+}
+.step:last-child{border-bottom:1px solid var(--line)}
+.step:hover{border-top-color:var(--accent-40)}
+.step__num{
+  font-size:clamp(1.75rem,3.2vw,2.75rem);
+  font-weight:800;letter-spacing:-.04em;line-height:1;
+  color:var(--text-faint);        /* cinza sólido, sem contorno */
+  transition:color .3s var(--ease);
+}
+.step:hover .step__num{color:var(--accent)}
+.step h3{font-size:var(--fs-h3);font-weight:700;letter-spacing:-.02em;margin-bottom:.5rem}
+.step p{font-size:var(--fs-sm);color:var(--text-muted)}
+
+/* ---------- PILARES (lista numerada em duas colunas) ---------- */
+/* Cinco pilares, cinco colunas: a simetria é o argumento visual. */
+.pillars{
+  position:relative;z-index:var(--z-content);
+  display:grid;grid-template-columns:repeat(5,minmax(0,1fr));
+  gap:clamp(1.25rem,2.2vw,2.25rem);
+}
+.pillar{display:flex;flex-direction:column;gap:.875rem;align-items:flex-start}
+.pillar__bullet{
+  flex:0 0 auto;
+  width:28px;height:28px;
+  display:flex;align-items:center;justify-content:center;
+  border:1px solid var(--accent-40);border-radius:50%;
+  font-size:var(--fs-xs);font-weight:700;color:var(--accent);
+}
+.pillar h3{font-size:1.0625rem;font-weight:700;letter-spacing:-.01em;margin-bottom:.375rem}
+.pillar p{font-size:var(--fs-sm);color:var(--text-muted)}
+
+/* ---------- SERVIÇOS (esteira) ----------
+   Full-bleed e infinita. Cada linha carrega a lista duas vezes: a animação
+   percorre exatamente uma cópia e reinicia, então a emenda nunca aparece.
+   A segunda cópia é aria-hidden — o leitor de tela lê a lista uma vez só. */
+.servicos-titulo{
+  display:block;text-align:center;
+  margin-top:clamp(3rem,6vw,4rem);   /* o mesmo respiro que o bloco tinha antes */
+  margin-bottom:1.5rem;
+}
+
+.servicos-marquee{
+  position:relative;
+  z-index:var(--z-content);
+  margin-top:clamp(2rem,4vw,3rem);
+  overflow:hidden;
+  /* dissolve nas pontas em vez de cortar no seco */
+  -webkit-mask-image:linear-gradient(to right,transparent,#000 7%,#000 93%,transparent);
+  mask-image:linear-gradient(to right,transparent,#000 7%,#000 93%,transparent);
+}
+.marquee{
+  display:flex;
+  width:max-content;
+  gap:.625rem;
+  animation:esteira 38s linear infinite;
+}
+/* Da direita para a esquerda: percorre exatamente uma cópia da lista. */
+@keyframes esteira{
+  from{transform:translate3d(0,0,0)}
+  to{transform:translate3d(-50%,0,0)}
+}
+/* Segunda linha (só no mobile): meio ciclo de atraso faz ela começar pelo
+   serviço do meio da lista, então as duas nunca mostram o mesmo item. */
+.marquee--2{display:none;animation-delay:-19s;margin-top:.625rem}
+.marquee__lista{display:flex;gap:.625rem;flex:0 0 auto}
+
+.servicos-marquee:hover .marquee{animation-play-state:paused}
+
+.chip{
+  flex:0 0 auto;
+  white-space:nowrap;
+  padding:.5rem 1rem;
+  border:1px solid var(--line);border-radius:999px;
+  font-size:var(--fs-sm);color:var(--text-muted);
+  background:var(--bg-raised);
+  transition:border-color .2s var(--ease),color .2s var(--ease);
+}
+.chip:hover{border-color:var(--accent-24);color:var(--text)}
+
+/* ---------- PROVA / NÚMEROS ---------- */
+.stats{
+  position:relative;z-index:var(--z-content);
+  display:grid;grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:clamp(1rem,2vw,1.5rem);
+}
+.stat{padding:clamp(1.25rem,2.5vw,1.75rem)}
+.stat__num{
+  font-size:clamp(1.875rem,3.6vw,2.75rem);
+  font-weight:800;letter-spacing:-.04em;line-height:1.1;
+  color:var(--accent);
+  font-variant-numeric:tabular-nums;
+}
+.stat__label{margin-top:.5rem;font-size:var(--fs-sm);color:var(--text-on-tint)}
+
+.brands{
+  z-index:var(--z-content);
+  margin-top:clamp(3rem,6vw,4.5rem);
+  /* Lateral pela metade: a arte já traz respiro dentro do próprio PNG. */
+  padding:clamp(1.5rem,4vw,3rem) clamp(.75rem,2vw,1.5rem);
+}
+.brands picture{display:block}
+.brands__caption{
+  font-size:var(--fs-xs);letter-spacing:.14em;text-transform:uppercase;
+  color:var(--text-on-tint);margin-bottom:1.5rem;text-align:center;
+}
+.brands img{width:100%;height:auto}
+
+/* ---------- DEPOIMENTOS ----------
+   O trilho é o único bloco full-bleed do site: escapa do .wrap e ocupa a
+   largura inteira da tela em qualquer viewport. */
+.depo-rail{
+  position:relative;
+  z-index:var(--z-content);
+}
+.depo-track{
+  /* offsetParent dos cards: deixa offsetLeft ser a coordenada exata dentro
+     do conteúdo rolável, que é o que a paginação usa para alinhar. */
+  position:relative;
+  display:flex;
+  align-items:stretch;
+  gap:clamp(1rem,1.8vw,1.5rem);
+  overflow-x:auto;
+  overscroll-behavior-x:contain;
+  scroll-snap-type:x proximity;
+  scroll-behavior:smooth;
+  /* O respiro lateral acompanha a margem do resto do site, mas o trilho
+     em si continua indo de borda a borda. */
+  padding:.75rem var(--gutter) 1.5rem;
+  scroll-padding-inline:var(--gutter);
+  scrollbar-width:none;
+  -ms-overflow-style:none;
+}
+.depo-track::-webkit-scrollbar{display:none}
+.depo-track:focus-visible{outline:2px solid var(--accent);outline-offset:-4px;border-radius:12px}
+
+/* Véus nas pontas, indicando que há mais para os lados. */
+.depo-fade{
+  position:absolute;top:0;bottom:0;
+  width:clamp(40px,6vw,110px);
+  pointer-events:none;
+}
+.depo-fade--esq{left:0;background:linear-gradient(to right,var(--bg),transparent)}
+.depo-fade--dir{right:0;background:linear-gradient(to left,var(--bg),transparent)}
+/* Onde a trilha de capítulos existe, o véu direito precisa ser mais largo:
+   o trilho é full-bleed e passa por baixo dela, e sem isso o rótulo do
+   capítulo ativo cai em cima do texto de um depoimento. */
+@media (min-width:1180px){
+  .depo-fade--dir{width:clamp(150px,13vw,240px)}
+}
+
+.depo{
+  flex:0 0 auto;
+  display:flex;flex-direction:column;
+  width:min(86vw,560px);
+  padding:clamp(1.5rem,2.4vw,2.25rem);
+  border-radius:24px;
+  scroll-snap-align:start;
+  border:1px solid rgba(8,255,177,.20);
+  background-color:#0b0c13;
+  background-image:
+    radial-gradient(at 82% 34%,  #0b0c13 0px, transparent 82%),
+    radial-gradient(at 20% 24%,  #0b0c13 0px, transparent 82%),
+    radial-gradient(at 6%  70%,  hsla(161,100%,52%,.20) 0px, transparent 84%),
+    radial-gradient(at 96% 98%,  hsla(172,95%,45%,.24) 0px, transparent 84%);
+  box-shadow:0 24px 48px -28px rgba(0,0,0,.9);
+  transition:transform .3s var(--ease),border-color .3s var(--ease),box-shadow .3s var(--ease);
+}
+/* Leve desalinho, como no modelo — o suficiente para não parecer planilha. */
+.depo:nth-child(odd){transform:rotate(-.5deg)}
+.depo:nth-child(even){transform:rotate(.5deg)}
+/* Só o endireitar. Sem halo e sem levantar. */
+.depo:hover{
+  transform:rotate(0deg);
+  border-color:rgba(8,255,177,.42);
+}
+
+.depo__stars{display:block;width:104px;height:auto;margin-bottom:1.125rem}
+
+.depo__texto{
+  margin:0;
+  color:var(--text);
+  letter-spacing:-.01em;
+  text-wrap:pretty;
+}
+/* Três tamanhos de corpo: depoimento curto respira grande, longo se acomoda.
+   É o que aproxima as alturas dos cards sem cortar a palavra de ninguém. */
+.depo--curto .depo__texto{font-size:clamp(1rem,1.4vw,1.25rem);line-height:1.45}
+.depo--medio .depo__texto{font-size:clamp(.9375rem,1.05vw,1rem);line-height:1.6}
+
+.depo__autor{
+  display:flex;flex-direction:column;gap:.125rem;
+  margin-top:auto;padding-top:1.25rem;
+}
+.depo__autor cite{
+  font-style:normal;font-weight:700;
+  font-size:var(--fs-sm);color:var(--text);letter-spacing:-.01em;
+}
+.depo__autor span{font-size:var(--fs-xs);color:var(--text-on-tint)}
+
+/* Acima do trilho, à direita: quem chega vê o controle antes das setas
+   fazerem falta. */
+.depo-nav{
+  display:flex;gap:.625rem;justify-content:flex-end;
+  margin-top:clamp(2rem,4vw,3rem);
+  margin-bottom:clamp(.875rem,1.8vw,1.25rem);
+}
+.depo-btn{
+  display:inline-flex;align-items:center;justify-content:center;
+  width:48px;height:48px;
+  border-radius:999px;
+  border:1px solid var(--line-strong);
+  color:var(--text);
+  background:rgba(11,12,19,.55);
+  cursor:pointer;
+  transition:background-color .2s var(--ease),border-color .2s var(--ease),
+             color .2s var(--ease),opacity .2s var(--ease);
+}
+.depo-btn svg{width:20px;height:20px}
+.depo-btn:hover{border-color:var(--accent);color:var(--accent)}
+.depo-btn--primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.depo-btn--primary:hover{background:#5cffcb;border-color:#5cffcb;color:var(--accent-ink)}
+.depo-btn[disabled]{opacity:.35;pointer-events:none}
+
+/* ---------- QUEM SOMOS ---------- */
+.founders{
+  position:relative;z-index:var(--z-content);
+  display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);
+  gap:clamp(2rem,5vw,4rem);
+  align-items:center;
+}
+.founders__media{
+  position:relative;
+  border-radius:16px;overflow:hidden;
+  border:1px solid var(--line);
+  /* mesma proporção do arquivo (1025×824): o corte lateral vem só do parallax */
+  aspect-ratio:1025/824;
+}
+.founders__media img{
+  width:100%;height:100%;
+  object-fit:cover;object-position:center;
+  will-change:transform;
+  /* Sobra mínima só para cobrir o deslize do parallax — quanto menor a escala,
+     menos a foto perde nas laterais. */
+  transform:scale(1.09);
+}
+.founders__media::after{
+  content:'';position:absolute;inset:0;
+  background:linear-gradient(to top,rgba(11,12,19,.55),transparent 55%);
+  pointer-events:none;
+}
+.founders blockquote{
+  font-size:clamp(1.375rem,2.8vw,2rem);
+  font-weight:700;letter-spacing:-.03em;line-height:1.2;
+  margin-bottom:1.5rem;text-wrap:balance;
+}
+.founders cite{
+  display:block;margin-top:1.5rem;
+  font-style:normal;font-size:var(--fs-sm);color:var(--text-faint);
+}
+
+/* ---------- FILTRO (para quem não é) ---------- */
+/* O capítulo 07 tem feixes de luz atrás do texto: o cinza de fundo chapado
+   reprovava AA (3,46:1). Mesma solução dos cards tingidos. */
+#filtro .section__lead{color:var(--text-on-tint)}
+
+/* ---------- CLÍMAX / CTA ---------- */
+.climax{
+  position:relative;
+  text-align:center;
+  padding-block:clamp(7rem,18vh,12rem);
+  overflow:hidden;
+}
+.climax__title{
+  position:relative;z-index:var(--z-content);
+  font-size:var(--fs-display);
+  font-weight:800;letter-spacing:-.045em;line-height:1.04;
+  max-width:18ch;margin-inline:auto;
+  text-wrap:balance;
+}
+.climax__lead{
+  position:relative;z-index:var(--z-content);
+  margin:1.75rem auto 2.75rem;
+  /* Os feixes do capítulo 07 atravessam esta seção: o cinza de fundo
+     chapado reprovava AA aqui. */
+  font-size:var(--fs-lead);color:var(--text-on-tint);
+  max-width:52ch;
+}
+.climax__actions{
+  position:relative;z-index:var(--z-content);
+  display:flex;flex-wrap:wrap;gap:.875rem;justify-content:center;
+}
+
+/* ---------- RODAPÉ ---------- */
+.footer{
+  position:relative;
+  border-top:1px solid var(--line);
+  padding-block:clamp(3rem,6vw,4.5rem) 2rem;
+}
+.footer__top{
+  display:flex;flex-wrap:wrap;gap:2rem;
+  justify-content:space-between;align-items:flex-start;
+}
+.footer__brand img{width:132px;margin-bottom:1.25rem}
+.footer__sign{font-size:var(--fs-sm);color:var(--text-muted);max-width:34ch}
+.footer__cols{display:flex;flex-wrap:wrap;gap:clamp(2.5rem,9vw,8rem)}
+.footer__col h3{
+  font-size:var(--fs-xs);letter-spacing:.14em;text-transform:uppercase;
+  color:var(--accent);font-weight:600;margin-bottom:1rem;
+}
+.footer__col a,.footer__col span{
+  display:inline-flex;align-items:center;min-height:44px;  /* alvo de toque */
+  font-size:var(--fs-sm);color:var(--text-muted);
+  transition:color .2s var(--ease);
+}
+/* Ícones sociais: alvo de 44px, herdam a cor do link do rodapé. */
+.footer__social{display:flex;gap:.25rem;align-items:center}
+.footer__social a{
+  display:inline-flex;align-items:center;justify-content:center;
+  width:44px;height:44px;min-height:44px;
+  color:var(--text-muted);
+  border-radius:10px;
+  transition:color .2s var(--ease),background-color .2s var(--ease);
+}
+.footer__social a:hover{color:var(--accent);background:rgba(255,255,255,.05)}
+.footer__social svg{width:20px;height:20px}
+
+/* Duas linhas dentro de um link só: precisa sair do inline-flex centrado. */
+.footer__endereco{
+  display:block;min-height:0;
+  padding-block:.625rem;line-height:1.5;
+}
+.footer__col a:hover{color:var(--accent)}
+.footer__bottom{
+  display:flex;flex-wrap:wrap;gap:1rem;align-items:flex-end;justify-content:space-between;
+  margin-top:clamp(2.5rem,5vw,4rem);
+  padding-top:1.5rem;
+  border-top:1px solid var(--line-soft);
+  font-size:var(--fs-xs);color:var(--text-faint);
+}
+/* O cachorrinho Tweed: decoração discreta, sempre em opacidade cheia */
+.footer__dog{width:clamp(56px,7vw,84px);opacity:1}
+
+/* =====================================================================
+   RESILIÊNCIA — o que acontece quando o suporte não está lá
+   ===================================================================== */
+
+/* Filhos de grid/flex encolhem abaixo do conteúdo em vez de estourar a
+   coluna quando cai uma palavra longa sem espaço. */
+.grid > *,.pillars > *,.stats > *,.founders > *,.steps > *{min-width:0}
+
+/* Navbar: sem desfoque de fundo, o painel a 72% deixa o texto da página
+   atravessar e a leitura vira ruído. Fecha o fundo. */
+@supports not ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){
+  .nav{background:#0e1018}
+  /* O botão de vidro sem desfoque vira um vidro sujo: fecha o fundo. */
+  .btn--ghost{background:#12141d}
+  .btn--ghost:hover{background:#171a25}
+}
+
+/* Moldura da foto: fallback de proporção para navegadores sem aspect-ratio. */
+@supports not (aspect-ratio:1/1){
+  .founders__media{height:0;padding-top:80.39%}
+  .founders__media img{position:absolute;inset:0}
+}
+
+/* A grade do hero só existe porque a máscara a dissolve nas bordas.
+   Sem suporte à máscara ela vira uma gaiola dura — melhor não desenhar. */
+@supports not ((mask-image:radial-gradient(#000,transparent)) or (-webkit-mask-image:radial-gradient(#000,transparent))){
+  .grid-lines{display:none}
+}
+
+/* Alto contraste do Windows: o sistema substitui as cores, então tudo que
+   dependia só de background para existir precisa de contorno próprio, e o
+   que era pura decoração some em vez de virar bloco opaco. */
+@media (forced-colors:active){
+  .layer,.grid-lines,.chapter-mark,.founders__media::after{display:none}
+  .btn,.card,.chip,.stat,.brands,.nav{border:1px solid CanvasText}
+  .btn--primary{background:Highlight;color:HighlightText}
+  .rail__mark{border-color:CanvasText}
+  .rail__dot.is-active .rail__mark{background:Highlight}
+  .progress__bar{background:Highlight;forced-color-adjust:none}
+  :focus-visible{outline:2px solid CanvasText;outline-offset:3px}
+}
+
+/* =====================================================================
+   RESPONSIVO
+   ===================================================================== */
+@media (min-width:1180px){
+  .rail{display:flex}
+}
+/* Abaixo de 900px os links secundários da navbar ficam apertados demais
+   ao lado do CTA — some com eles e mantém só a ação principal. */
+@media (max-width:900px){
+  .nav__links .nav__link:not(.nav__link--cta){display:none}
+}
+/* Os cinco pilares perdem colunas progressivamente — nunca ficam ilegíveis. */
+@media (max-width:1180px){
+  .pillars{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .grid--4{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:960px){
+  .grid--3{grid-template-columns:1fr}
+  .founders{grid-template-columns:1fr}
+  .founders__media{max-width:640px}
+}
+@media (max-width:760px){
+  .pillars{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:720px){
+  .stats{grid-template-columns:1fr}
+  :root{--fs-body:1rem}
+  .grid--2{grid-template-columns:1fr}
+
+  /* Metade do ritmo vertical do desktop: no celular a mesma folga vira
+     rolagem vazia entre um capítulo e outro. */
+  .section{padding-block:clamp(2.15rem,5vh,3.5rem)}
+  .section--tall{padding-block:clamp(2.75rem,7vh,4.9rem)}
+  .climax{padding-block:clamp(3.5rem,9vh,6rem)}
+  .footer{padding-block:clamp(1.5rem,3vw,2.25rem) 2rem}
+
+  /* A arte mobile já traz margem desenhada dentro do PNG. */
+  .brands{padding-inline:0}
+
+  /* Duas esteiras no celular, a de baixo defasada em meio ciclo. */
+  .marquee--2{display:flex}
+
+  /* Hero mais compacto: o topo precisa apenas limpar a navbar fixa (92px),
+     e a pista de scroll é dispensável quando o conteúdo já transborda a dobra. */
+  .hero{min-height:auto;padding-block:7.75rem 3.5rem}
+  .scroll-cue{display:none}
+  .hero__meta{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem}
+  .hero__meta-num{font-size:1.25rem}
+  .hero__meta-label{line-height:1.35}
+  .step{grid-template-columns:1fr;gap:.5rem}
+  .footer__top{flex-direction:column}
+}
+@media (max-width:480px){
+  .pillars{grid-template-columns:1fr}
+  .grid--4{grid-template-columns:1fr}
+}
+@media (max-width:420px){
+  .btn-wrap,.btn{width:100%}
+  .hero__actions,.climax__actions{flex-direction:column;align-items:stretch}
+}
+
+/* =====================================================================
+   MOVIMENTO REDUZIDO — parallax e reveals desligados por completo
+   ===================================================================== */
+@media (prefers-reduced-motion:reduce){
+  html{scroll-behavior:auto}
+
+  /* Some o deslocamento: parallax, entrada dos blocos e a pista pulsante.
+     O que morre aqui é movimento — não o feedback de interação. */
+  .layer,[data-parallax]{transform:none !important}
+  .founders__media img{transform:scale(1.09) !important}
+  .scroll-cue__line{animation:none;transform:scaleY(.7);opacity:.7}
+
+  .js .reveal,.js .reveal.is-in{
+    opacity:1 !important;
+    transform:none !important;
+    translate:none !important;
+    animation:none !important;
+  }
+  /* O anel para de girar; a borda fica no ponto em que estava. */
+  .card::before,.stat::before,.brands::before{animation:none}
+
+  /* Depoimentos: o trilho salta em vez de deslizar, e o card não levanta.
+     A inclinação fica — é composição, não movimento. */
+  .depo-track{scroll-behavior:auto}
+  .depo:hover{transform:rotate(0deg)}
+
+  /* Serviços voltam a ser uma lista parada e completa: uma esteira pausada
+     esconderia metade dos itens fora da tela. */
+  .servicos-marquee{overflow:visible;mask-image:none;-webkit-mask-image:none;padding-inline:var(--gutter)}
+  .marquee{animation:none;width:auto;flex-wrap:wrap;justify-content:center}
+  .marquee__lista{flex-wrap:wrap;justify-content:center}
+  .marquee__lista--copia,.marquee--2{display:none}
+  /* O rótulo da trilha ainda aparece — só deixa de deslizar para entrar. */
+  .rail__label{transition:opacity .3s var(--ease),color .3s var(--ease)}
+  .rail__dot .rail__label{transform:none}
+
+  /* Botão: o halo ainda acende, mas nada levanta nem sobe. */
+  .btn-wrap:hover .btn,.btn:focus-visible{transform:none}
+  .btn-wrap::after{transform:translate(-50%,0);transition:opacity .3s var(--ease)}
+
+  /* Preservado de propósito: as transições de cor, borda e sombra de 150–300ms
+     em botões, links, cards e chips. São mudança de estado, não movimento —
+     matá-las tira do usuário o retorno de hover e foco sem lhe poupar nada. */
+}
+
+/* Extensão editorial do sistema existente. A home não carrega este arquivo. */
+.article-hero{padding-block:9rem 4rem}
+.article-back{display:inline-flex;align-items:center;gap:.75rem;min-height:44px;margin-bottom:2rem;color:var(--text-muted);font-size:var(--fs-sm)}
+.article-back:hover{color:var(--accent)}
+.article-opening{display:grid;grid-template-columns:minmax(0,1fr) minmax(220px,28%);align-items:center;gap:clamp(2rem,5vw,5rem)}
+.article-opening h1{font-size:var(--fs-display);line-height:1.02;letter-spacing:-.045em;font-weight:800;margin-top:1rem;overflow-wrap:anywhere}
+.article-description{font-size:var(--fs-lead);color:var(--text-muted);margin-top:1.75rem}
+.article-meta{margin-top:1.75rem;font-size:var(--fs-xs);color:var(--text-faint)}
+.article-meta a{text-decoration:underline;text-underline-offset:4px}
+.article-cover{border-radius:16px;overflow:hidden;background:var(--bg-raised)}
+.article-cover img{width:100%;height:auto}
+.article-body{padding-block:1rem 3rem;color:var(--text-on-tint)}
+.article-body p{margin-block:0 1.4rem}
+.article-body h2{font-size:var(--fs-h2);line-height:1.12;letter-spacing:-.035em;color:var(--text);margin-block:3.5rem 1.25rem;clear:both}
+.article-body strong,.article-body b{font-weight:700;color:var(--text)}
+.article-body em,.article-body i{font-style:normal}
+.article-body a,.article-toc a{color:var(--text);text-decoration:underline;text-decoration-color:var(--accent);text-underline-offset:4px;overflow-wrap:anywhere}
+.article-body a:hover,.article-toc a:hover{color:var(--accent)}
+.article-body ul,.article-body ol{padding-left:1.5rem;margin-block:1.25rem 1.75rem;list-style:disc}
+.article-body ol{list-style:decimal}
+.article-body li{padding-left:.25rem;margin-bottom:.75rem}
+.article-body li::marker{color:var(--accent)}
+.article-body blockquote{font-size:var(--fs-lead);color:var(--text);padding:clamp(1.5rem,3vw,2.5rem);margin-block:2rem;background:var(--bg-raised);border-radius:18px}
+.article-body blockquote p:last-child{margin-bottom:0}
+.article-body hr{border:0;border-top:1px solid var(--line);margin-block:3rem}
+.article-body img{max-width:100%;height:auto;max-height:520px;width:auto;border-radius:10px;margin-block:1.5rem}
+.article-body p:has(> img){display:flow-root}
+.article-body a:has(> img){display:inline-block}
+.article-toc{border-block:1px solid var(--line);padding-block:1rem;margin-bottom:2.5rem}
+.article-toc summary{cursor:pointer;min-height:44px;align-content:center;color:var(--text);font-weight:600}
+.article-toc ol{columns:2;column-gap:3rem;margin-bottom:.5rem}
+.article-toc li{break-inside:avoid;font-size:var(--fs-sm)}
+.article-related{padding-block:2rem 4rem}
+.article-related h2{font-size:var(--fs-h3);letter-spacing:-.02em;margin-bottom:1.25rem}
+.article-related>div{display:grid;grid-template-columns:1fr 1fr;gap:2rem}
+.article-related a{padding-block:1rem;border-top:1px solid var(--line);font-size:var(--fs-lead);line-height:1.4}
+.article-related a:hover{color:var(--accent)}
+.article-contact{padding-block:4rem 5rem;border-top:1px solid var(--line)}
+.article-contact h2{font-size:var(--fs-h2);line-height:1.1;letter-spacing:-.035em}
+.article-contact p{font-size:var(--fs-lead);color:var(--text-muted);margin-block:1.5rem 2rem}
+@media(max-width:960px){.article-opening{grid-template-columns:minmax(0,1fr) minmax(180px,26%);gap:2rem}.article-opening h1{font-size:clamp(2.25rem,5.5vw,4rem)}}
+@media(max-width:720px){.article-hero{padding-block:7.75rem 2rem}.article-opening{grid-template-columns:1fr;gap:2rem}.article-opening h1{font-size:clamp(2.25rem,8.5vw,3.5rem)}.article-cover img{max-height:430px;object-fit:contain}.article-body h2{margin-top:2.5rem}.article-toc ol{columns:1}.article-related>div{grid-template-columns:1fr;gap:.5rem}.article-contact{padding-block:2.5rem 3rem}}
+@media print{.nav,.footer,.article-back,.article-toc,.article-related,.article-contact{display:none}.article-hero{padding-block:1rem}.article-opening{display:block}.article-cover{display:none}body{background:#fff;color:#111}.article-body,.article-body strong,.article-body h2,.article-meta,.article-description,.article-opening h1,.article-body a{color:#111}.article-body blockquote{background:#eee;color:#111}}

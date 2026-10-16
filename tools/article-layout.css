@@ -1,0 +1,43 @@
+/* Extensão editorial do sistema existente. A home não carrega este arquivo. */
+.article-hero{padding-block:9rem 4rem}
+.article-back{display:inline-flex;align-items:center;gap:.75rem;min-height:44px;margin-bottom:2rem;color:var(--text-muted);font-size:var(--fs-sm)}
+.article-back:hover{color:var(--accent)}
+.article-opening{display:grid;grid-template-columns:minmax(0,1fr) minmax(220px,28%);align-items:center;gap:clamp(2rem,5vw,5rem)}
+.article-opening h1{font-size:var(--fs-display);line-height:1.02;letter-spacing:-.045em;font-weight:800;margin-top:1rem;overflow-wrap:anywhere}
+.article-description{font-size:var(--fs-lead);color:var(--text-muted);margin-top:1.75rem}
+.article-meta{margin-top:1.75rem;font-size:var(--fs-xs);color:var(--text-faint)}
+.article-meta a{text-decoration:underline;text-underline-offset:4px}
+.article-cover{border-radius:16px;overflow:hidden;background:var(--bg-raised)}
+.article-cover img{width:100%;height:auto}
+.article-body{padding-block:1rem 3rem;color:var(--text-on-tint)}
+.article-body p{margin-block:0 1.4rem}
+.article-body h2{font-size:var(--fs-h2);line-height:1.12;letter-spacing:-.035em;color:var(--text);margin-block:3.5rem 1.25rem;clear:both}
+.article-body strong,.article-body b{font-weight:700;color:var(--text)}
+.article-body em,.article-body i{font-style:normal}
+.article-body a,.article-toc a{color:var(--text);text-decoration:underline;text-decoration-color:var(--accent);text-underline-offset:4px;overflow-wrap:anywhere}
+.article-body a:hover,.article-toc a:hover{color:var(--accent)}
+.article-body ul,.article-body ol{padding-left:1.5rem;margin-block:1.25rem 1.75rem;list-style:disc}
+.article-body ol{list-style:decimal}
+.article-body li{padding-left:.25rem;margin-bottom:.75rem}
+.article-body li::marker{color:var(--accent)}
+.article-body blockquote{font-size:var(--fs-lead);color:var(--text);padding:clamp(1.5rem,3vw,2.5rem);margin-block:2rem;background:var(--bg-raised);border-radius:18px}
+.article-body blockquote p:last-child{margin-bottom:0}
+.article-body hr{border:0;border-top:1px solid var(--line);margin-block:3rem}
+.article-body img{max-width:100%;height:auto;max-height:520px;width:auto;border-radius:10px;margin-block:1.5rem}
+.article-body p:has(> img){display:flow-root}
+.article-body a:has(> img){display:inline-block}
+.article-toc{border-block:1px solid var(--line);padding-block:1rem;margin-bottom:2.5rem}
+.article-toc summary{cursor:pointer;min-height:44px;align-content:center;color:var(--text);font-weight:600}
+.article-toc ol{columns:2;column-gap:3rem;margin-bottom:.5rem}
+.article-toc li{break-inside:avoid;font-size:var(--fs-sm)}
+.article-related{padding-block:2rem 4rem}
+.article-related h2{font-size:var(--fs-h3);letter-spacing:-.02em;margin-bottom:1.25rem}
+.article-related>div{display:grid;grid-template-columns:1fr 1fr;gap:2rem}
+.article-related a{padding-block:1rem;border-top:1px solid var(--line);font-size:var(--fs-lead);line-height:1.4}
+.article-related a:hover{color:var(--accent)}
+.article-contact{padding-block:4rem 5rem;border-top:1px solid var(--line)}
+.article-contact h2{font-size:var(--fs-h2);line-height:1.1;letter-spacing:-.035em}
+.article-contact p{font-size:var(--fs-lead);color:var(--text-muted);margin-block:1.5rem 2rem}
+@media(max-width:960px){.article-opening{grid-template-columns:minmax(0,1fr) minmax(180px,26%);gap:2rem}.article-opening h1{font-size:clamp(2.25rem,5.5vw,4rem)}}
+@media(max-width:720px){.article-hero{padding-block:7.75rem 2rem}.article-opening{grid-template-columns:1fr;gap:2rem}.article-opening h1{font-size:clamp(2.25rem,8.5vw,3.5rem)}.article-cover img{max-height:430px;object-fit:contain}.article-body h2{margin-top:2.5rem}.article-toc ol{columns:1}.article-related>div{grid-template-columns:1fr;gap:.5rem}.article-contact{padding-block:2.5rem 3rem}}
+@media print{.nav,.footer,.article-back,.article-toc,.article-related,.article-contact{display:none}.article-hero{padding-block:1rem}.article-opening{display:block}.article-cover{display:none}body{background:#fff;color:#111}.article-body,.article-body strong,.article-body h2,.article-meta,.article-description,.article-opening h1,.article-body a{color:#111}.article-body blockquote{background:#eee;color:#111}}
