@@ -24,6 +24,7 @@ for r in records:
     name = r['slug']
     soup = BeautifulSoup((SITE / name / 'index.html').read_text(encoding='utf8'), 'html.parser')
     check(len(soup.find_all('h1')) == 1, name + ': H1')
+    check(len(soup.select('.progress .progress__bar#progressBar')) == 1, name + ': barra de progresso')
     check(soup.h1.get_text() == r['title'], name + ': título')
     check(soup.find('link', rel='canonical')['href'] == BASE + '/' + name + '/', name + ': canonical')
     check(bool(soup.find('meta', attrs={'name':'description'})['content']), name + ': description')

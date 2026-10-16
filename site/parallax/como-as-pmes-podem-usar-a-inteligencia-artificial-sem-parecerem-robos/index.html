@@ -18,6 +18,7 @@
 <link rel="stylesheet" href="/assets/artigos-tweed.css">
 <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://www.agenciatweed.com.br/#organizacao", "name": "Agência Tweed", "url": "https://www.agenciatweed.com.br/", "logo": {"@type": "ImageObject", "url": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg"}}, {"@type": "Person", "@id": "https://www.agenciatweed.com.br/#felipe-rijo", "name": "Felipe Rijo", "url": "https://www.agenciatweed.com.br/#agencia"}, {"@type": "Article", "@id": "https://www.agenciatweed.com.br/como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos/#artigo", "headline": "Como as PMEs podem usar a inteligência artificial sem parecerem robôs", "description": "Pequenas empresas podem usar IA com eficiência, mas a conexão real exige empatia. Descubra como equilibrar automação e sensibilidade.", "inLanguage": "pt-BR", "url": "https://www.agenciatweed.com.br/como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos/", "mainEntityOfPage": "https://www.agenciatweed.com.br/como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos/", "datePublished": "2025-11-03T20:21:23Z", "dateModified": "2025-11-03T20:21:23Z", "author": {"@id": "https://www.agenciatweed.com.br/#felipe-rijo"}, "publisher": {"@id": "https://www.agenciatweed.com.br/#organizacao"}, "image": {"@type": "ImageObject", "url": "https://www.agenciatweed.com.br/assets/artigos-restaurados/53cd9547b3e9adde.png", "width": 768, "height": 578}, "articleSection": ["Pequeno, mas Estratégico"], "wordCount": 413}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Agência Tweed", "item": "https://www.agenciatweed.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.agenciatweed.com.br/blog/"}, {"@type": "ListItem", "position": 3, "name": "Pequeno, mas Estratégico", "item": "https://www.agenciatweed.com.br/blog-pequeno-mas-estrategico/"}, {"@type": "ListItem", "position": 4, "name": "Como as PMEs podem usar a inteligência artificial sem parecerem robôs", "item": "https://www.agenciatweed.com.br/como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos/"}]}]}</script>
 </head><body>
+<div class="progress" aria-hidden="true" hidden><div class="progress__bar" id="progressBar"></div></div>
 <a href="#conteudo" class="sr-only skip-link">Pular para o conteúdo</a>
 <header class="nav" id="nav">
 <a aria-label="Tweed — início" class="nav__logo" href="https://www.agenciatweed.com.br/#topo">
@@ -109,5 +110,31 @@
 </div>
 </div>
 </footer>
-<script>document.getElementById('ano').textContent=new Date().getFullYear();const nav=document.getElementById('nav');function updateNav(){nav.classList.toggle('is-scrolled',scrollY>24)}addEventListener('scroll',updateNav,{passive:true});updateNav();</script>
+<script>
+(function(){
+  'use strict';
+  document.getElementById('ano').textContent=new Date().getFullYear();
+  var nav=document.getElementById('nav');
+  var bar=document.getElementById('progressBar');
+  var ticking=false;
+  function update(){
+    ticking=false;
+    var scrollable=document.documentElement.scrollHeight-window.innerHeight;
+    var progress=scrollable>0?Math.min(1,Math.max(0,window.scrollY/scrollable)):0;
+    bar.style.transform='scaleX('+progress+')';
+    nav.classList.toggle('is-scrolled',window.scrollY>24);
+  }
+  function scheduleUpdate(){
+    if(!ticking){ticking=true;window.requestAnimationFrame(update)}
+  }
+  window.addEventListener('scroll',scheduleUpdate,{passive:true});
+  window.addEventListener('resize',scheduleUpdate,{passive:true});
+  window.addEventListener('load',scheduleUpdate);
+  window.addEventListener('pageshow',scheduleUpdate);
+  if(document.fonts)document.fonts.ready.then(scheduleUpdate);
+  if('ResizeObserver' in window)new ResizeObserver(scheduleUpdate).observe(document.body);
+  update();
+  bar.parentElement.hidden=false;
+})();
+</script>
 </body></html>

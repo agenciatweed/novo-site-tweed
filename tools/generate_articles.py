@@ -146,6 +146,7 @@ for record in records:
 <link rel="stylesheet" href="/assets/artigos-tweed.css">
 <script type="application/ld+json">{json.dumps(schema, ensure_ascii=False).replace('</', '<\\/')}</script>
 </head><body>
+<div class="progress" aria-hidden="true" hidden><div class="progress__bar" id="progressBar"></div></div>
 <a href="#conteudo" class="sr-only skip-link">Pular para o conteúdo</a>
 {nav}
 <main id="conteudo"><article>
@@ -163,7 +164,33 @@ for record in records:
 <aside class="wrap article-related" aria-labelledby="leituras"><h2 id="leituras">Continue a leitura.</h2><div>{related_html}</div></aside>
 <section class="wrap article-contact" aria-labelledby="conversa"><h2 id="conversa">Sua marca precisa ser percebida à altura do que entrega.</h2><p>Estratégia, design e execução sob uma direção única. Conheça o jeito Tweed de construir presença.</p><span class="btn-wrap"><a class="btn btn--primary btn--lg" href="{BASE}/#contato">Começar uma conversa</a></span></section>
 </main>{footer}
-<script>document.getElementById('ano').textContent=new Date().getFullYear();const nav=document.getElementById('nav');function updateNav(){{nav.classList.toggle('is-scrolled',scrollY>24)}}addEventListener('scroll',updateNav,{{passive:true}});updateNav();</script>
+<script>
+(function(){{
+  'use strict';
+  document.getElementById('ano').textContent=new Date().getFullYear();
+  var nav=document.getElementById('nav');
+  var bar=document.getElementById('progressBar');
+  var ticking=false;
+  function update(){{
+    ticking=false;
+    var scrollable=document.documentElement.scrollHeight-window.innerHeight;
+    var progress=scrollable>0?Math.min(1,Math.max(0,window.scrollY/scrollable)):0;
+    bar.style.transform='scaleX('+progress+')';
+    nav.classList.toggle('is-scrolled',window.scrollY>24);
+  }}
+  function scheduleUpdate(){{
+    if(!ticking){{ticking=true;window.requestAnimationFrame(update)}}
+  }}
+  window.addEventListener('scroll',scheduleUpdate,{{passive:true}});
+  window.addEventListener('resize',scheduleUpdate,{{passive:true}});
+  window.addEventListener('load',scheduleUpdate);
+  window.addEventListener('pageshow',scheduleUpdate);
+  if(document.fonts)document.fonts.ready.then(scheduleUpdate);
+  if('ResizeObserver' in window)new ResizeObserver(scheduleUpdate).observe(document.body);
+  update();
+  bar.parentElement.hidden=false;
+}})();
+</script>
 </body></html>'''
     folder = SITE / slug
     folder.mkdir(exist_ok=True)

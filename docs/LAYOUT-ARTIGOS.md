@@ -19,7 +19,8 @@ FINISH: unreviewed and undocumented is unfinished; this build ends with the fini
 ## Implementação
 
 - Estilos da home extraídos para `assets/artigos-tweed.css`, acrescidos de `tools/article-layout.css`. A home continua com seu CSS original embutido.
-- Conteúdo visível sem JavaScript; apenas a borda da navbar e o ano do rodapé dependem de JS.
+- Conteúdo visível sem JavaScript; a faixa de progresso, a borda da navbar e o ano do rodapé são aprimoramentos por JS.
+- Os 55 artigos reaproveitam a faixa fixa de 2px da home. A proporção é o deslocamento da página dividido pela área rolável, de zero no topo a 100% no fim. A atualização usa `requestAnimationFrame` sob demanda e eventos passivos; recalcula em redimensionamento, carregamento de fontes/imagens, abertura do índice e restauração da navegação. Sem JS a faixa fica oculta. Com movimento reduzido, o indicador continua funcional, sem animação adicional.
 - O corpo público não exibe aviso de recuperação ou migração; esse histórico pertence apenas à documentação técnica.
 - Índice recolhível usa `details` nativo; títulos do corpo normalizados como H2 sob um único H1.
 - Menu e rodapé apontam para as âncoras da home no domínio canônico. Leituras relacionadas ligam somente artigos recuperados.
