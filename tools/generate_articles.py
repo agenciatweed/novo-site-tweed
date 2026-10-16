@@ -12,12 +12,15 @@ import re
 import xml.etree.ElementTree as ET
 
 from bs4 import BeautifulSoup
+from blog_pages import build_blog
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / 'site/parallax'
 BASE = 'https://www.agenciatweed.com.br'
 DATE = '2026-10-16'
 records = json.loads((ROOT / 'docs/artigos-recuperados.json').read_text(encoding='utf8'))
+sections = json.loads((ROOT / 'docs/secoes-blog.json').read_text(encoding='utf8'))
+section_by_name = {s['name']: s for s in sections}
 home_bytes = (SITE / 'index.html').read_bytes()
 home = home_bytes.decode('utf8')
 home_soup = BeautifulSoup(home, 'html.parser')
@@ -114,12 +117,15 @@ for record in records:
          'articleSection': record['categories'], 'wordCount': count},
         {'@type': 'BreadcrumbList', 'itemListElement': [
             {'@type': 'ListItem', 'position': 1, 'name': 'Agência Tweed', 'item': BASE + '/'},
-            {'@type': 'ListItem', 'position': 2, 'name': title, 'item': url}]}]}
+            {'@type': 'ListItem', 'position': 2, 'name': 'Blog', 'item': BASE + '/blog/'},
+            {'@type': 'ListItem', 'position': 3, 'name': record['categories'][0], 'item': BASE + '/' + section_by_name[record['categories'][0]]['slug'] + '/'},
+            {'@type': 'ListItem', 'position': 4, 'name': title, 'item': url}]}]}
     related = sorted((r for r in records if r['slug'] != slug),
                      key=lambda r: (-len(set(r['categories']) & set(record['categories'])), r['slug']))[:2]
     related_html = ''.join(f'<a href="{BASE}/{r["slug"]}/">{esc(r["title"])}</a>' for r in related)
     toc = ''.join(f'<li><a href="#{h["id"]}">{esc(h.get_text(" ", strip=True))}</a></li>' for h in body_soup.find_all('h2'))
     toc_html = f'<details class="article-toc"><summary>Neste artigo</summary><ol>{toc}</ol></details>' if toc else ''
+    category_links = ' · '.join(f'<a class="article-category" href="{BASE}/{section_by_name[name]["slug"]}/">{esc(name)}</a>' for name in record['categories'])
     doc = f'''<!doctype html>
 <html lang="pt-BR"><head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
@@ -146,7 +152,7 @@ for record in records:
 <header class="article-hero wrap">
 <a class="article-back" href="{BASE}/">Voltar para a Tweed</a>
 <div class="article-opening"><div>
-<p class="eyebrow">{esc(' · '.join(record['categories']))}</p>
+<p class="eyebrow">{category_links}</p>
 <h1>{esc(title)}</h1>
 <p class="article-description">{esc(description)}</p>
 <p class="article-meta"><a href="{BASE}/#agencia">{esc(record['author'])}</a><span aria-hidden="true"> · </span><time datetime="{record['published']}">{published_label}</time><span aria-hidden="true"> · </span>{minutes} min de leitura</p>
@@ -163,10 +169,12 @@ for record in records:
     folder.mkdir(exist_ok=True)
     (folder / 'index.html').write_text(doc, encoding='utf8')
 
+build_blog(ROOT, records, sections, nav, footer)
+collection_slugs = ['blog'] + [s['slug'] for s in sections]
 ns = 'http://www.sitemaps.org/schemas/sitemap/0.9'
 ET.register_namespace('', ns)
 urlset = ET.Element('{'+ns+'}urlset')
-for slug in [''] + sorted(slugs):
+for slug in [''] + sorted(slugs | set(collection_slugs)):
     node = ET.SubElement(urlset, 'url')
     ET.SubElement(node, 'loc').text = BASE + '/' + (slug + '/' if slug else '')
     if slug:
@@ -174,5 +182,21 @@ for slug in [''] + sorted(slugs):
 ET.indent(urlset)
 ET.ElementTree(urlset).write(SITE / 'sitemap.xml', encoding='utf-8', xml_declaration=True)
 
+route_names = '|'.join(re.escape(s) for s in sorted(slugs | set(collection_slugs)))
+htaccess = '''# Agencia Tweed: canonicalizacao somente das rotas do site institucional.
+# Pastas de clientes e old_wp_site nao participam destas regras.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www\\.agenciatweed\\.com\\.br$ [NC,OR]
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(?:index\\.html)?$ https://www.agenciatweed.com.br/ [R=301,L]
+
+RewriteCond %{HTTP_HOST} !^www\\.agenciatweed\\.com\\.br$ [NC,OR]
+RewriteCond %{HTTPS} !=on
+RewriteRule ^((?:robots\\.txt|sitemap\\.xml|(?:ROUTES)(?:/index\\.html|/)?))$ https://www.agenciatweed.com.br/$1 [R=301,L,NE]
+</IfModule>
+'''.replace('ROUTES', route_names)
+(SITE / '.htaccess').write_text(htaccess, encoding='utf8')
+
 assert (SITE / 'index.html').read_bytes() == home_bytes, 'A home não pode mudar'
-print(f'Geradas {len(records)} páginas; sitemap com {len(records)+1} URLs; home intacta ({hashlib.sha256(home_bytes).hexdigest()}).')
+print(f'Gerados {len(records)} artigos e {len(collection_slugs)} páginas do blog; sitemap com {len(records)+len(collection_slugs)+1} URLs; home intacta ({hashlib.sha256(home_bytes).hexdigest()}).')

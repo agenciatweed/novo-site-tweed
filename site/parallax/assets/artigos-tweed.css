@@ -1190,6 +1190,8 @@ h2{
 .article-description{font-size:var(--fs-lead);color:var(--text-muted);margin-top:1.75rem}
 .article-meta{margin-top:1.75rem;font-size:var(--fs-xs);color:var(--text-faint)}
 .article-meta a{text-decoration:underline;text-underline-offset:4px}
+.article-category{display:inline-flex;align-items:center;min-height:44px;text-decoration:underline;text-underline-offset:.3em;text-decoration-color:var(--accent-40)}
+.article-category:hover{text-decoration-color:var(--accent)}
 .article-cover{border-radius:16px;overflow:hidden;background:var(--bg-raised)}
 .article-cover img{width:100%;height:auto}
 .article-body{padding-block:1rem 3rem;color:var(--text-on-tint)}

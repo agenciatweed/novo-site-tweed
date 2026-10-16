@@ -12,6 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / 'site/parallax'
 BASE = 'https://www.agenciatweed.com.br'
 records = json.loads((ROOT / 'docs/artigos-recuperados.json').read_text(encoding='utf8'))
+sections = json.loads((ROOT / 'docs/secoes-blog.json').read_text(encoding='utf8'))
 home = BeautifulSoup((SITE / 'index.html').read_text(encoding='utf8'), 'html.parser')
 home_ids = {x['id'] for x in home.select('[id]')}
 errors = []
@@ -26,6 +27,7 @@ for r in records:
     check(soup.h1.get_text() == r['title'], name + ': título')
     check(soup.find('link', rel='canonical')['href'] == BASE + '/' + name + '/', name + ': canonical')
     check(bool(soup.find('meta', attrs={'name':'description'})['content']), name + ': description')
+    check({a['href'] for a in soup.select('.article-category')} == {BASE+'/'+s['slug']+'/' for s in sections if s['name'] in r['categories']}, name + ': links de categoria')
     for script in soup.find_all('script', type='application/ld+json'):
         json.loads(script.string)
     ids = [x['id'] for x in soup.select('[id]')]
@@ -68,7 +70,7 @@ for bot in ('GPTBot','ClaudeBot'):
     check(not robots.can_fetch(bot, BASE + '/'), 'Bot não bloqueado: ' + bot)
 tree = ET.parse(SITE / 'sitemap.xml')
 urls = [n.text for n in tree.findall('.//{*}loc')]
-check(set(urls) == {BASE+'/'} | {BASE+'/'+r['slug']+'/' for r in records}, 'Sitemap divergente')
+check(set(urls) == {BASE+'/',BASE+'/blog/'} | {BASE+'/'+r['slug']+'/' for r in records} | {BASE+'/'+s['slug']+'/' for s in sections}, 'Sitemap divergente')
 check(hashlib.sha256((SITE / 'index.html').read_bytes()).hexdigest() == '0231d4d86f1ae71588ca6479dcda41ca1aa13c313d2d3888a2ca678465aba575', 'Home alterada')
 print(json.dumps({'articles':len(records), 'sitemap_urls':len(urls), 'errors':errors}, ensure_ascii=True, indent=2))
 raise SystemExit(bool(errors))

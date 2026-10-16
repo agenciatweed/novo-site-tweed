@@ -7,9 +7,12 @@ Site institucional estático. A versão aprovada está em `site/parallax/`.
 - Orientações de trabalho: `AGENTS.md`.
 - Sistema visual: `DESIGN.md`.
 - Contexto da expansão: `CONTEXT-SEO-GEO.md`.
+- Índice do blog e seis séries: `site/parallax/blog/` e `docs/LAYOUT-BLOG.md`.
 - Limites e procedimento de publicação: `docs/PUBLICACAO.md`.
 
 Não há build obrigatório. HTML, CSS e JavaScript estão em `site/parallax/index.html`, com recursos em `site/parallax/assets/`.
+
+O blog é estático e permanece sem links de entrada na home. `python tools/generate_articles.py` regenera artigos, índice, séries e sitemap; os utilitários locais usam BeautifulSoup, sem dependência Python na hospedagem. As verificações estão em `tools/validate_articles.py` e `tools/validate_blog.py`.
 
 ## Escopo do Git
 

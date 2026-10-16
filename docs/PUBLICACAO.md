@@ -66,6 +66,10 @@ O `.htaccess` restringe a canonicalização às rotas nomeadas do site instituci
 
 O inventário, manifesto com hashes e resultados estão em `docs/ARTIGOS-RESTAURADOS.md` e `docs/publicacao-artigos-manifesto.json`. A home publicada continua com o hash da conferência inicial. Esta autorização não permite alterações gerais nos outros projetos hospedados.
 
+## Extensão do blog — 16/10/2026
+
+O proprietário solicitou reconstruir `/blog/` e seis páginas de séries, com listas minimalistas, e ligar os eyebrows dos artigos a essas séries. A home permanece fora dessa integração. O envio da extensão fica limitado a 121 arquivos: sete páginas novas, 55 artigos com links de categoria e breadcrumbs atualizados, 55 miniaturas novas, dois CSS, sitemap e `.htaccess`. Cópias dos arquivos anteriores ficam em `.local/backups/`, fora do Git. O manifesto específico está em `docs/publicacao-blog-manifesto.json`.
+
 ## Procedimento para uma futura publicação autorizada
 
 1. Preparar e verificar os arquivos locais; revisar a lista exata de destinos.

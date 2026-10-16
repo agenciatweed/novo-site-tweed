@@ -23,6 +23,7 @@ FINISH: unreviewed and undocumented is unfinished; this build ends with the fini
 - O corpo público não exibe aviso de recuperação ou migração; esse histórico pertence apenas à documentação técnica.
 - Índice recolhível usa `details` nativo; títulos do corpo normalizados como H2 sob um único H1.
 - Menu e rodapé apontam para as âncoras da home no domínio canônico. Leituras relacionadas ligam somente artigos recuperados.
+- A categoria acima do H1 é um link para a respectiva série do blog. O breadcrumb estruturado passa por Blog e série; a home continua sem links de entrada para o blog.
 - Imagens mantêm os arquivos recuperados, sem geração ou alteração visual. Origem, dimensões e SHA-256 estão em `docs/imagens-recuperadas.json`.
 - Textos preservados; normalizados atributos legados, headings, espaços vazios e links internos. Datas originais preservadas; quando a data de modificação legada antecede a publicação, o JSON-LD usa a publicação como piso.
 

@@ -1,0 +1,607 @@
+[
+  {
+    "path": "assets/artigos-miniaturas/post-1015.png",
+    "bytes": 88882,
+    "sha256": "ac66311faacecaf3f216256367614b36b4285251a5ed48ac3edc658bb6376860"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-436.png",
+    "bytes": 35779,
+    "sha256": "e794e5367b30dfe75022e5302552005ae7121a96fe949ccc3186e146f1d61067"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-439.png",
+    "bytes": 43282,
+    "sha256": "e1e6a8c6b24e440d72de204d9ac15404f06fcc5199e65857b4963eea393df63f"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-442.png",
+    "bytes": 47666,
+    "sha256": "1905ddf1228ae7d48238f4dc4ca484276aba81eb9fc5cfaf26adf3ad4d387a26"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-494.png",
+    "bytes": 48494,
+    "sha256": "ab49d80bc424f0f160a69d7852a9884e09fe665e71f340b434cd698b84aa74ee"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-498.png",
+    "bytes": 48374,
+    "sha256": "59cc215f589b18913624d2a4ab489ba5e53e8d17bd5623066231ab09188e09d0"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-501.png",
+    "bytes": 39439,
+    "sha256": "08802cce87ad70ad115ade5b68789028da3dd20350d2b628640187e0eeee4f60"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-504.png",
+    "bytes": 45008,
+    "sha256": "5ef9b731b5a14b02f21547d086a54371bf4aa321d79a76a2db4f5f08d8048a6a"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-545.png",
+    "bytes": 48087,
+    "sha256": "103257db4689b29994f87720e4b5942227ae7e7afe7295b57519fa237989f71a"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-547.png",
+    "bytes": 42802,
+    "sha256": "1dc739abac5bfc824e4c6b5ad9fb199861f23f7d53a779adc5d652908310d46f"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-549.png",
+    "bytes": 38168,
+    "sha256": "2b03e70b128692d7df11a488b5b7a9f477e7d4ee7556ef1a1b9a04354feb6880"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-551.png",
+    "bytes": 45438,
+    "sha256": "de8e10f7bdb5d20240c1e1184d44d1b219f1a81e373f35a5cb44f62163410d6e"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-553.png",
+    "bytes": 45439,
+    "sha256": "62f59d2d9936216055618728ce21a4e09a23e72df82710a6f8278a989b39dbf9"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-555.png",
+    "bytes": 50142,
+    "sha256": "9f2c22d829a2147d614b3fa81bc3d479e3648115d27664db19ce3ddbe8835ea4"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-557.png",
+    "bytes": 43016,
+    "sha256": "a1c81d1c1dcab9d305d477b2acf7236f9d2a098b0826072b722e08e2f2244fb9"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-559.png",
+    "bytes": 44998,
+    "sha256": "4fac39a3fcedc0248442a07c2e3484bd12ee82666b39b9d3280ec2992fa0fb7b"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-561.png",
+    "bytes": 50931,
+    "sha256": "130ff5fd8450b6cbf84b6d34216c7620d0a75fd481dac9874ad5e0d985225f88"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-563.png",
+    "bytes": 46032,
+    "sha256": "b9e6c4e8c4dd42ee7f0a04a50afa1791258094a2d3b9f6a8ebe871e5797f46b9"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-565.png",
+    "bytes": 46775,
+    "sha256": "ac9c7dab0274b8e015a139fe93376e7c9c1f0bce60a5e82a1e883da746153f7f"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-567.png",
+    "bytes": 49140,
+    "sha256": "c40ee0db426bec095f89818a68fa05f102b45c7e256bfb4236b9691bae07e834"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-569.png",
+    "bytes": 43828,
+    "sha256": "36ef7b5858e34200c79d952415366fc66f359cc9e78229f941c0d35be1f27736"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-571.png",
+    "bytes": 47492,
+    "sha256": "45f630386327774da979ec477d0c7b3834b00cef8ff3835922e874e4cb6fb575"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-573.png",
+    "bytes": 46691,
+    "sha256": "f2b31e6dfddcabc2ef8e0ef0ad18ce8a90af8af4aeb5863c70ef593d46cdefa7"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-575.png",
+    "bytes": 45667,
+    "sha256": "ebeb19491247485d2d84d92498c94f46be9e28acbf0e3217bc323a0037537196"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-577.png",
+    "bytes": 54400,
+    "sha256": "32cb93d86063ce04e9efc7c7e25813bbae5765973c31353736f14f8300933221"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-579.png",
+    "bytes": 44253,
+    "sha256": "e75f5e0e1d44d7c9831171f1055cfc2f1569f41c022a05f7af2368b72f1e36f2"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-581.png",
+    "bytes": 48347,
+    "sha256": "d67691bef5b6574dee446f6584723849f5e71a6afc68fb34c5043ff6fc44c30b"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-583.png",
+    "bytes": 47344,
+    "sha256": "71cede721cdb00fc5cd55c3765e1b5c48d0d50b7308a6ab277190be6f23d5ed0"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-585.png",
+    "bytes": 51126,
+    "sha256": "c1940fac5fc1226b98bacb8a5f78675962d54eae62357725b5f75f324929891b"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-587.png",
+    "bytes": 48837,
+    "sha256": "a5b81c6ce1f5bc11df89fee2d8eeea2ad6d34207b902dc7ab1d1837b667a663d"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-711.png",
+    "bytes": 46876,
+    "sha256": "4497899a9289365850d987ce53ede691a4342eaea69f000ee1ae443f2a68fb19"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-714.png",
+    "bytes": 35431,
+    "sha256": "8c0e3bca114398be40659a0fd3949fd19f93261ad4e3ed63ae73d5e72b70e4cc"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-717.png",
+    "bytes": 38629,
+    "sha256": "081a6815d80b37ddd84aec00779f16352ece2dfb846b79189b624fdc20019ca6"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-720.png",
+    "bytes": 45901,
+    "sha256": "419ff77c16e52f2f569310b97d8bd0ce9c7904a4981bdcaa20cee88be0149373"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-723.png",
+    "bytes": 51400,
+    "sha256": "7fde4c8673a1d2ad1e42fe6163f78ee920c48a86e45e855d8d4c738ccccb47d4"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-726.png",
+    "bytes": 36384,
+    "sha256": "0ddb06faf541932991a23e974e7006f94d5a47241ed06a9776957fb739a8a13a"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-729.jpg",
+    "bytes": 6702,
+    "sha256": "aec72a0f18f512bf55cd43b635ece7f77fc93c936004da05e431056121c5a054"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-734.png",
+    "bytes": 34414,
+    "sha256": "fd9d6cbc94bb1fa48fdc5c52c420d8d454fef30af9976a814265d1b7babb6ac3"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-743.png",
+    "bytes": 34168,
+    "sha256": "4c7782943750b20eccbb9227a437a8aa5926e650747cf76a383383ea6a546d11"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-769.png",
+    "bytes": 36191,
+    "sha256": "66cbb746e298bade2bd550e8ad443152f9d103e724c049853dddacbe6f118abf"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-892.png",
+    "bytes": 43992,
+    "sha256": "be7901c1eafe09a7aab165e4f8becea93c9e2834790e9fbfcf41855a2ba36b7a"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-925.png",
+    "bytes": 56925,
+    "sha256": "65c38d08b3439c3ae20a1285cb336e375210be04eee3747eabbcef170424248d"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-928.png",
+    "bytes": 66797,
+    "sha256": "1f247f191f2c383d44a67fc60253d0c6ba5b02fc27b588b8b74f0c892d5f77b6"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-931.png",
+    "bytes": 78815,
+    "sha256": "af1f9e63ea87cf39a030223b841885b6683c291a39c69a2956b575cefaa91cb9"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-934.png",
+    "bytes": 50558,
+    "sha256": "993d6999ae2c219e90472d665a74cd951f7a41dd1fee437403a8bd59f6773785"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-937.png",
+    "bytes": 111097,
+    "sha256": "2c008f3e88e8c11633aa172bd763ea2fd3e62eb875b907e495ee3b65e22ea464"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-940.png",
+    "bytes": 51992,
+    "sha256": "b78cd705e71670e02b4abc74ca7f7a655f36d42699adf6a132b7cbfc8f1d23bb"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-945.png",
+    "bytes": 94712,
+    "sha256": "15e894d426c5d6913f76c9e6a95bcf15e9ee52c38524076b085b18f67a6a5a67"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-949.png",
+    "bytes": 98095,
+    "sha256": "8d5daca672f60a10dc563df13b766fed11af40d650bb79c36b94c9f1890c3ae2"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-952.png",
+    "bytes": 97436,
+    "sha256": "89bf94937994bcb2c1c6f57536da42f22956b09ea58eb5bb34a0f7bdc05093c3"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-955.png",
+    "bytes": 91186,
+    "sha256": "62f7f14e20735b9425a3580b2cc7e00470bbe8ae1e70da88a42d13cca9d97a61"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-958.png",
+    "bytes": 77001,
+    "sha256": "26d05c997c4b1ee30b2aaa4d3d1cb38d15e86bdd4d26e6ec2257eeb1acc4446a"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-961.png",
+    "bytes": 88167,
+    "sha256": "97b44374523fb21bb0ec5ac3699d0fed8ca92673f50e1be62642c9e6b80f2bcf"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-970.png",
+    "bytes": 75147,
+    "sha256": "95b69717fd8b8f457836ad2638e6ad330ca49856f0cb2810f395dba44a1e402d"
+  },
+  {
+    "path": "assets/artigos-miniaturas/post-973.png",
+    "bytes": 41061,
+    "sha256": "196754ec2a53d348a4be9c3958cf0cba3e5bee713205e09edaee9ff30491753a"
+  },
+  {
+    "path": "assets/artigos-tweed.css",
+    "bytes": 65322,
+    "sha256": "9fd9af8ba6bb136e20f8ddebbc27292ee39cfab5bb2afa960e6267f3a1af3fdd"
+  },
+  {
+    "path": "assets/blog-tweed.css",
+    "bytes": 4002,
+    "sha256": "2e11e607500abd00ef3f0cf6b111f45f91cef248c53beb12b0b7f4b7e8431189"
+  },
+  {
+    "path": "blog/index.html",
+    "bytes": 23443,
+    "sha256": "4e845d4c046be204da8d467f6184428cc04f42d3ccac54f4949424393aa595a5"
+  },
+  {
+    "path": "blog-pequeno-mas-estrategico/index.html",
+    "bytes": 16791,
+    "sha256": "af6f98d452c09be150a0e840cf7b71fecfbc08b637999e111e2ab34a694048e9"
+  },
+  {
+    "path": "blog-marcas-com-alma/index.html",
+    "bytes": 15221,
+    "sha256": "726c7ed1d6a10a406f67af4123613525100816796ef76e41a7e9a85edeba21c4"
+  },
+  {
+    "path": "blog-marcas-que-ficam/index.html",
+    "bytes": 13976,
+    "sha256": "087dee434561114ac6e2b1900bc3cbc87b75949008f79f2e03bfa107dce7c733"
+  },
+  {
+    "path": "blog-branding-na-marra/index.html",
+    "bytes": 16717,
+    "sha256": "6f33b901b441082c65a07089d3bc4bd93bfc7b0c67e28ec33b782fe1579e7f79"
+  },
+  {
+    "path": "blog-marcas-em-acao/index.html",
+    "bytes": 15368,
+    "sha256": "a94130438acfdd468da12abca618dce097068b5931e61221967ac250e7d2884a"
+  },
+  {
+    "path": "blog-marcas-em-movimento/index.html",
+    "bytes": 13816,
+    "sha256": "9295b7662fa67ed2827da15fe34931ee37617e04afd8f064f3f9e85f7d680abd"
+  },
+  {
+    "path": "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade/index.html",
+    "bytes": 26512,
+    "sha256": "87412473b28d4cbdc9b497eb511f0d6fd7c7f211939b7be5d3dd02a979af96e3"
+  },
+  {
+    "path": "efeito-isca/index.html",
+    "bytes": 19682,
+    "sha256": "d1879961f6bf8cf74d107150e44d7c87cf1ee97a96c7277f1496db36aa26c492"
+  },
+  {
+    "path": "divida-de-marca/index.html",
+    "bytes": 22753,
+    "sha256": "97c718cb73f333b31df9fed8e425480c4a6deb5041e0df4a01067a8ddbe5e525"
+  },
+  {
+    "path": "narrativas-miticas/index.html",
+    "bytes": 15402,
+    "sha256": "a086acd0ea9d7a4a43b701efc32874786c09af916c9c4ee37049e7303fe26eab"
+  },
+  {
+    "path": "crescer-sem-perder-a-alma/index.html",
+    "bytes": 15265,
+    "sha256": "b9f4925b08193c325c3c8ac08bbffce9e66edb5f599bcf3709eacc9b2611475d"
+  },
+  {
+    "path": "da-embalagem-ao-pos-venda/index.html",
+    "bytes": 15497,
+    "sha256": "562bf38ec5309c62c838cf8e45ab4eae77dea6fea15220aaaaa39caf4290cda1"
+  },
+  {
+    "path": "nao-venda-ajude/index.html",
+    "bytes": 16126,
+    "sha256": "796ed5aee0c6b6327c63b024bdb0c66bd3ff35e560f0447df70fcea9240864b7"
+  },
+  {
+    "path": "da-satisfacao-ao-encantamento/index.html",
+    "bytes": 15628,
+    "sha256": "15b6f74827e5a6d4073b48acbdb11258e84ae811f5b762b0de7ed83f35da3c12"
+  },
+  {
+    "path": "o-melhor-cliente-e-aquele-que-voce-ja-tem/index.html",
+    "bytes": 17023,
+    "sha256": "bae14114b6db5a60f3eec1822ca4e57ebe03dc09ba6d23cfde72d61e45456c00"
+  },
+  {
+    "path": "multiplas-faces-da-marca-combinando-arquetipos-para-uma-identidade-rica/index.html",
+    "bytes": 22748,
+    "sha256": "dff937e407aea2c0d4d76df869acf9beb16b584a48f7fc0bab22ea81be0b799b"
+  },
+  {
+    "path": "do-oceano-vermelho-ao-azul-estrategias-de-nicho-para-pmes-fugirem-da-concorrencia/index.html",
+    "bytes": 26682,
+    "sha256": "6dc0a231b381225c8c43f4cddb87c438891ad52393ee241ed762057efcbb2a98"
+  },
+  {
+    "path": "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding/index.html",
+    "bytes": 25147,
+    "sha256": "d17641435faaa691f2535e26d93fe0366defc9512fc3224f15e3733a3cd36cb1"
+  },
+  {
+    "path": "marca-nas-maos-do-cliente-como-o-conteudo-gerado-pelo-usuario-impulsiona-seu-branding/index.html",
+    "bytes": 26100,
+    "sha256": "a2affa4c7bc4037a481d4fdfd024e0d97a915bf228b2066523530e039239940d"
+  },
+  {
+    "path": "alem-do-anuncio-como-o-boca-a-boca-mantem-sua-marca-viva-quando-a-propaganda-termina/index.html",
+    "bytes": 26859,
+    "sha256": "6f54e920d0dfb06d0ee2bd355283c1a9a009444dfe3170b7eda6a088630cf09c"
+  },
+  {
+    "path": "metricas-sem-vaidade/index.html",
+    "bytes": 28261,
+    "sha256": "7ed32b8ee08140ab209e6450cc74b62134c7ea1ad26ae76035e35222b2d51552"
+  },
+  {
+    "path": "orcamento-de-marketing-2026-para-pmes/index.html",
+    "bytes": 18212,
+    "sha256": "970560b71ea615a89b5bf2b6b9e81a6f6fa823c03c7865cd9e58934a1a83d962"
+  },
+  {
+    "path": "menos-e-mais-o-poder-de-campanhas-pequenas-com-grandes-ideias/index.html",
+    "bytes": 14770,
+    "sha256": "421643f2a640cc28889b0923007dca28f16bfdee1ab7820f1fb8e9a418e6bbf9"
+  },
+  {
+    "path": "sua-marca-precisa-de-consistencia-nao-de-perfeicao/index.html",
+    "bytes": 13753,
+    "sha256": "5def0a547820715b85bd6ceadc9e3a04b46158dcfc56448b72a2cb37bee61960"
+  },
+  {
+    "path": "quando-tudo-parece-igual-os-arquetipos-ajudam-sua-marca-a-ser-lembrada/index.html",
+    "bytes": 14778,
+    "sha256": "bd00169ed6493745816a379af6ee6295c288a870b4c5f7200e30131b4371c33c"
+  },
+  {
+    "path": "como-parecer-grande-sem-ser-grande-os-segredos-do-branding-enxuto/index.html",
+    "bytes": 14297,
+    "sha256": "8f90f516aea4a46ac66e0c12c5f5b42766f0e1926d6a8e4dffad45fe547684a3"
+  },
+  {
+    "path": "como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos/index.html",
+    "bytes": 15260,
+    "sha256": "b2840b2077078b6785f0606a6b37f5577edee953a86ea60495edbe70fc886d34"
+  },
+  {
+    "path": "qual-e-o-arquetipo-da-sua-concorrencia-e-por-que-voce-deveria-saber-disso/index.html",
+    "bytes": 15489,
+    "sha256": "a852c08f127e491c8ca1a7300079a17b6e93e8ca42262ab8ca340558c95ce6de"
+  },
+  {
+    "path": "se-o-seu-cliente-nao-consegue-explicar-sua-marca-talvez-ela-ainda-nao-exista-de-verdade/index.html",
+    "bytes": 14786,
+    "sha256": "e35c198436c11402c1f0a46264e0fbe35b93eab9893ff2555f23a46e43af66e6"
+  },
+  {
+    "path": "a-cultura-interna-e-o-branding-que-o-cliente-ainda-vai-sentir/index.html",
+    "bytes": 14041,
+    "sha256": "86a886761ece497de9fa342b39083bb626078e8bef3605109c3352349833871f"
+  },
+  {
+    "path": "ancoragem-o-truque-psicologico-que-molda-quanto-o-cliente-acha-que-vale-seu-produto/index.html",
+    "bytes": 17678,
+    "sha256": "6e480beb0762b6e58ba3f71a4d7a3ed8b70880a2cff9bf3fbe7f137b9b2a82d8"
+  },
+  {
+    "path": "marcas-memoraveis-nao-gritam-elas-fazem-sentido/index.html",
+    "bytes": 14180,
+    "sha256": "1f4c260ee0547a6c1a8d72bc5c4f2036f27875cb2b4d8c868a0749f8fdf4a59c"
+  },
+  {
+    "path": "o-que-voce-ve-e-tudo-o-que-existe/index.html",
+    "bytes": 17586,
+    "sha256": "b9c1c5fb13799f142029422282faf76c5c9858513a3667eea6928c8d7e4f0812"
+  },
+  {
+    "path": "marca-nao-se-faz-no-canva-se-faz-no-cotidiano/index.html",
+    "bytes": 13739,
+    "sha256": "e2c3ac7672cc06370c21532a55a697e1fdc2dabf1438e5a371a72f88ca3631cd"
+  },
+  {
+    "path": "o-que-pequenas-empresas-podem-aprender-com-os-erros-das-grandes/index.html",
+    "bytes": 15234,
+    "sha256": "1af8fda3c79c50714ea3b5baf6495ae8135e3aa1917cb2022a1bcbadd521b7d2"
+  },
+  {
+    "path": "clientes-nao-compram-produtos-compram-a-energia-da-sua-marca/index.html",
+    "bytes": 14830,
+    "sha256": "cb9366851351024990da2396b005a1adfa9fb66efa51fe44c1da86af06bfe5ed"
+  },
+  {
+    "path": "por-que-a-escassez-vende-mas-nem-sempre/index.html",
+    "bytes": 16927,
+    "sha256": "6dffc22b4b0e25f8f8095e0976bfef9cd6c87f4c2a0ac7661d8ac9634c9fc026"
+  },
+  {
+    "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
+    "bytes": 15188,
+    "sha256": "789126c4be314d99285a74b45f4b04e5232b4b48c0f9a6d768232912c880ea75"
+  },
+  {
+    "path": "framing-a-arte-invisivel-que-decide-o-sucesso-da-sua-comunicacao/index.html",
+    "bytes": 17806,
+    "sha256": "01e37f1702c2253e7e2d06056f472045f9bcbec561c6b8debc71ae658eac2bb6"
+  },
+  {
+    "path": "branding-nao-acontece-so-no-marketing-ele-vive-na-operacao/index.html",
+    "bytes": 14107,
+    "sha256": "b2b43e972f2b4263ba0358db50d5731ad24d70248f96dc31d582e2ef8ba88513"
+  },
+  {
+    "path": "o-paradoxo-da-escolha/index.html",
+    "bytes": 16951,
+    "sha256": "854a5bb6cc9cb63b31257de6813f60643a48e9d3b20bf022cc6de42da3970245"
+  },
+  {
+    "path": "seu-logotipo-e-bonito-mas-sua-marca-e-clara/index.html",
+    "bytes": 14227,
+    "sha256": "a0c691d937d2004feb503cca46a68a625f2234b6d3dda057deee31180f75d784"
+  },
+  {
+    "path": "a-biblioteca-estrategica-da-tweed-os-livros-que-moldam-nossa-abordagem-de-branding-e-marketing/index.html",
+    "bytes": 25121,
+    "sha256": "20f446aa8e21d79410658b3f77ad7099a1d957c6c6836b316fe164d7059f8a7d"
+  },
+  {
+    "path": "o-arcabouco-invisivel-da-tweed-os-livros-que-moldam-nossas-estrategias/index.html",
+    "bytes": 22164,
+    "sha256": "f48d97072eea31669f2a78f8ec7729a534ac336517145e2ac59fa80b17b59848"
+  },
+  {
+    "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",
+    "bytes": 13852,
+    "sha256": "a1d9ec4d3aa8df1adf4110243295683c591e618784216c28ebd513b655ad64a4"
+  },
+  {
+    "path": "marca-nao-e-um-logotipo-por-que-pmes-precisam-contar-boas-historias/index.html",
+    "bytes": 15376,
+    "sha256": "7a0a848af876147d859308afb0e0a28ff83969bf3282e5c3b74d327211a670a3"
+  },
+  {
+    "path": "ninguem-compra-sozinho/index.html",
+    "bytes": 17989,
+    "sha256": "2646c616f80e1cdb142d3bbd53606687c4ab0a503d593d0e39a1f807ab8a2ae7"
+  },
+  {
+    "path": "o-que-empresas-como-harley-davidson-dove-e-natura-tem-em-comum-com-a-sua-pme/index.html",
+    "bytes": 14908,
+    "sha256": "d67b3eed7ecb330b8d8244533095aad7ba2408e0e8ebcd58d13556446b76125c"
+  },
+  {
+    "path": "marketing-nao-e-persuasao-e-arquitetura-de-escolha/index.html",
+    "bytes": 17417,
+    "sha256": "bbfe48458d1bdc4f5555a9d33af229e874ef9be9edb1c198e35810cc5c60b0a1"
+  },
+  {
+    "path": "como-marcas-locais-constroem-comunidades-mais-fortes-do-que-muitas-multinacionais/index.html",
+    "bytes": 14763,
+    "sha256": "553caf7f1dcf085101dfd3614a6c5140716eb7caf5f1a922868b7d3f2424272f"
+  },
+  {
+    "path": "voce-nao-decide-seu-cerebro-decide-por-voce-e-depois-inventa-uma-desculpa/index.html",
+    "bytes": 19353,
+    "sha256": "38acb8940b1d19a9ed16144f700a5ad953c31e19673f9559b1f68ece4f5bc6a9"
+  },
+  {
+    "path": "a-marca-que-voce-posta-e-a-mesma-que-voce-entrega/index.html",
+    "bytes": 13914,
+    "sha256": "fda94317699afb97204a0da9c7a05bca341f3ab4c74fada91395c5e14c039dd7"
+  },
+  {
+    "path": "o-que-sua-marca-comunica-quando-voce-nao-esta-por-perto/index.html",
+    "bytes": 14454,
+    "sha256": "b0508989cd4616a0ae38c42bddcb43d7169d67e905e6632f116fad3bc0cd6959"
+  },
+  {
+    "path": "grandes-ideias-pequenas-verbas-marcas-que-marcam/index.html",
+    "bytes": 13922,
+    "sha256": "f6a9df54a11feeacd5e6f289df80e0d3fd489d57491edb51d7993e111cb3a1c9"
+  },
+  {
+    "path": "arquetipos-de-marca-para-pequenas-empresas/index.html",
+    "bytes": 14799,
+    "sha256": "9d4e775acfeb1a2090d9c95c3db59326b205776b50d4987ebe6ac1c073601bb0"
+  },
+  {
+    "path": "posicionamento-de-marca-para-pequenas-empresas/index.html",
+    "bytes": 14946,
+    "sha256": "2437499f73638f0043e2b97ee45d1891fceae1226b8e3b264df99dc07927fb2d"
+  },
+  {
+    "path": "branding-na-pratica-para-pmes/index.html",
+    "bytes": 13838,
+    "sha256": "b60578b98bc70b53f1033d86f66878e3ab1b124a692e49e85c72ca60dd7f3cd6"
+  },
+  {
+    "path": "branding-como-experiencia-do-cliente/index.html",
+    "bytes": 14623,
+    "sha256": "eee8a01ce86b357b3fa236dcc598e0fa4f55518b24110fed31e67b4f009a111c"
+  },
+  {
+    "path": "branding-para-pequenos-negocios/index.html",
+    "bytes": 13817,
+    "sha256": "a12d444e7f2baae24d128b2e8b2640ffca1b2636f30a10bb364270a761e1905d"
+  },
+  {
+    "path": "marketing-estrategico-para-pequenas-empresas/index.html",
+    "bytes": 16031,
+    "sha256": "0207a5ff684b8dd0595c7053d2f7b19e623650e6b4f1d630addd368bd3635689"
+  },
+  {
+    "path": "branding-o-superpoder-escondido-para-pequenas-empresas/index.html",
+    "bytes": 17561,
+    "sha256": "c10b75ddcf27c2b231717b5a92358e4df17cbd19f46c251f587c8c0b56180cb8"
+  },
+  {
+    "path": "sitemap.xml",
+    "bytes": 9657,
+    "sha256": "c55f8732c0f50537fd7805077ec95e38214bff389a9606865575fb91afbdac6e"
+  },
+  {
+    "path": ".htaccess",
+    "bytes": 4129,
+    "sha256": "31ffb50f049486d836d99a3c03ba0ed434e0a86ea6fcc234c88564d45258c104"
+  }
+]
