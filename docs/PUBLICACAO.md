@@ -64,11 +64,17 @@ Foram publicados 55 artigos em pastas novas, 80 imagens recuperadas em `assets/a
 
 O `.htaccess` restringe a canonicalização às rotas nomeadas do site institucional. As pastas e arquivos de clientes e a instalação antiga não participam das regras. Qualquer nova rota exige revisão dessa lista explícita.
 
-O inventário, manifesto com hashes e resultados estão em `docs/ARTIGOS-RESTAURADOS.md` e `docs/publicacao-artigos-manifesto.json`. A home publicada continua com o hash da conferência inicial. Esta autorização não permite alterações gerais nos outros projetos hospedados.
+O inventário, manifesto com hashes e resultados estão em `docs/ARTIGOS-RESTAURADOS.md` e `docs/publicacao-artigos-manifesto.json`. Naquela etapa, a home publicada manteve o hash da conferência inicial. Esta autorização não permite alterações gerais nos outros projetos hospedados.
 
 ## Extensão do blog — 16/10/2026
 
 O proprietário solicitou reconstruir `/blog/` e seis páginas de séries, com listas minimalistas, e ligar os eyebrows dos artigos a essas séries. A home permanece fora dessa integração. O envio da extensão fica limitado a 121 arquivos: sete páginas novas, 55 artigos com links de categoria e breadcrumbs atualizados, 55 miniaturas novas, dois CSS, sitemap e `.htaccess`. Cópias dos arquivos anteriores ficam em `.local/backups/`, fora do Git. O manifesto específico está em `docs/publicacao-blog-manifesto.json`.
+
+## Revisão da home: manifesto e justificativas — 16/10/2026
+
+Por solicitação do proprietário, foram inseridas suas quatro justificativas dentro das caixas de “Talvez a Tweed não seja para você”, abaixo dos títulos existentes. Apenas quatro elementos `p` foram adicionados; CSS, demais conteúdos, menu e metadados permaneceram intactos. O corpo secundário reutiliza `.card p` (15px, entrelinha 1,65 e cor para superfície tingida), preservando a largura dos títulos.
+
+A versão anterior foi salva em `.local/backups/` e comparada com a origem publicada. A referência aprovada da home para as verificações posteriores passa a ser SHA-256 `9c77eb0c302fdd182cdc2314d6f7abafc5a9da92faff3de7c1e9d38afc0a9e84`. O único arquivo do servidor envolvido nesta revisão é `/home/agenciatweed/www/index.html`.
 
 ## Procedimento para uma futura publicação autorizada
 

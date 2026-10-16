@@ -72,6 +72,6 @@ for bot in ('GPTBot','ClaudeBot'):
 tree = ET.parse(SITE / 'sitemap.xml')
 urls = [n.text for n in tree.findall('.//{*}loc')]
 check(set(urls) == {BASE+'/',BASE+'/blog/'} | {BASE+'/'+r['slug']+'/' for r in records} | {BASE+'/'+s['slug']+'/' for s in sections}, 'Sitemap divergente')
-check(hashlib.sha256((SITE / 'index.html').read_bytes()).hexdigest() == '0231d4d86f1ae71588ca6479dcda41ca1aa13c313d2d3888a2ca678465aba575', 'Home alterada')
+check(hashlib.sha256((SITE / 'index.html').read_bytes()).hexdigest() == '9c77eb0c302fdd182cdc2314d6f7abafc5a9da92faff3de7c1e9d38afc0a9e84', 'Home alterada fora da revisão aprovada')
 print(json.dumps({'articles':len(records), 'sitemap_urls':len(urls), 'errors':errors}, ensure_ascii=True, indent=2))
 raise SystemExit(bool(errors))
