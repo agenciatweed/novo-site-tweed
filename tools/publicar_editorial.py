@@ -18,17 +18,25 @@ def fingerprint(item):return sha(json.dumps({k:v for k,v in item.items() if k no
 def guard(item,job):
     assert job['action']=='publicar' and job['state'] in ('pending','running'),'Solicitação de publicação não está ativa.'
     assert fingerprint(item)==job['snapshot'],'Texto ou capa mudou após a aprovação.'
+    assert item.get('automation',{}).get('reviewKey')==review_key(item),'O texto mudou após a revisão automática.'
     assert item['status']=='Pronto' and all(item.get('checks',{}).get(k) is True for k in ('thesis','facts','voice','privacy')),'Revisão não aprovada.'
     assert all(item.get(k,'').strip() for k in ('title','body','keyword','meta','sources','imageAlt','prompt','slug','date')),'Metadados incompletos.'
     assert re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*',item['slug']) and len(item['slug'])<=180,'Slug inválido.'
     assert datetime.date.fromisoformat(item['date'])<=datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-3))).date(),'A data de publicação ainda não chegou.'
     assert re.fullmatch(r'conteudos/'+re.escape(item['id'])+r'/imagens/[a-f0-9]{64}\.(png|jpg|webp)',item.get('imageFile','')),'Capa local obrigatória.'
-def render_body(item):
-    source=item['body'];faq=[]
-    for block in item.get('faq','').strip().split('\n\n'):
+def faq_metadata(item):
+    pairs=[]
+    for block in re.split(r'\n\s*\n',item.get('faq','').strip()):
         lines=block.strip().splitlines()
-        if len(lines)>1:faq.append((lines[0],' '.join(lines[1:])))
-    if faq:source+='\n\n## Perguntas frequentes\n\n'+'\n\n'.join('### '+q+'\n\n'+a for q,a in faq)
+        if len(lines)>1:
+            pairs.append({'q':lines[0].strip(),'a':' '.join(lines[1:]).strip()})
+    return pairs
+
+def review_key(item):
+    return sha(json.dumps([item.get(k,'') for k in ('title','edition','expert','angle','audience','goal','body','sources','prompt')],ensure_ascii=False,separators=(',',':')).encode())
+
+def render_body(item):
+    source=item['body']
     soup=BeautifulSoup(markdown.markdown(source,extensions=['extra','sane_lists']),'html.parser')
     allowed={'p','h2','h3','h4','ul','ol','li','strong','em','a','blockquote','br','code','pre','hr','table','thead','tbody','tr','td','th'}
     for tag in list(soup.find_all(True)):
@@ -67,7 +75,7 @@ def publish(args,editorial):
     assert not any(r['slug']==slug and r.get('editorial_id')!=item['id'] for r in ledger),'Slug editorial já existente.'
     if not journal:assert not (ROOT/'site/parallax'/slug).exists(),'Pasta já existente: publicação cancelada.'
     body,citations=render_body(item);img_path='/assets/artigos-editoriais/'+source.name;published=item['date']+'T12:00:00-03:00'
-    record={'id':'editorial-'+item['id'],'editorial_id':item['id'],'slug':slug,'title':item['title'],'original_url':BASE+'/'+slug+'/','author':'Felipe Rijo','published':published,'original_modified':published,'categories':[load(editorial/'editorial/editorias.json')['editorias'][item['edition']]['name']],'description':item['meta'],'content':body,'image':{'path':img_path,'width':width,'height':height,'source':item['imageFile'],'sha256':sha(image_bytes)},'image_alt':item['imageAlt'],'keyword':item['keyword'],'citations':citations}
+    record={'id':'editorial-'+item['id'],'editorial_id':item['id'],'slug':slug,'title':item['title'],'original_url':BASE+'/'+slug+'/','author':'Felipe Rijo','published':published,'original_modified':published,'categories':[load(editorial/'editorial/editorias.json')['editorias'][item['edition']]['name']],'description':item['meta'],'content':body,'image':{'path':img_path,'width':width,'height':height,'source':item['imageFile'],'sha256':sha(image_bytes)},'image_alt':item['imageAlt'],'keyword':item['keyword'],'citations':citations,'faq':faq_metadata(item)}
     ledger=[r for r in ledger if r.get('editorial_id')!=item['id']]+[record]
     thumbs=load(ROOT/'docs/miniaturas-blog.json');thumbs[slug]={'path':img_path,'width':width,'height':height,'source':item['imageFile'],'sha256':sha(image_bytes)}
     section=next(s for s in load(ROOT/'docs/secoes-blog.json') if s['name']==record['categories'][0])
@@ -82,6 +90,10 @@ def publish(args,editorial):
             if old.exists():shutil.copyfile(old,stage/'site/parallax'/r['slug']/'index.html')
         subprocess.run([sys.executable,str(ROOT/'tools/validate_articles.py')],env=env,check=True)
         subprocess.run([sys.executable,str(ROOT/'tools/validate_blog.py')],env=env,check=True)
+        page=BeautifulSoup((stage/'site/parallax'/slug/'index.html').read_text(encoding='utf8'),'html.parser')
+        data=json.loads(page.find('script',type='application/ld+json').string)
+        article=next(n for n in data['@graph'] if n.get('@type')=='BlogPosting')
+        assert article.get('hasPart',[])==[{'@type':'Question','name':f['q'],'acceptedAnswer':{'@type':'Answer','text':f['a']}} for f in record['faq']],'FAQ estruturado divergente.'
         candidates=[img_path.lstrip('/'),slug+'/index.html','blog/index.html',section['slug']+'/index.html','sitemap.xml','.htaccess']
         plan=[]
         for rel in candidates:

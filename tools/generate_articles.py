@@ -129,6 +129,11 @@ for record in records:
         article_schema['keywords'] = record['keyword']
         article_schema['isPartOf'] = {'@id': BASE + '/blog/#pagina'}
         article_schema['copyrightHolder'] = {'@id': BASE + '/#organizacao'}
+        if record.get('faq'):
+            article_schema['hasPart'] = [
+                {'@type': 'Question', 'name': f['q'],
+                 'acceptedAnswer': {'@type': 'Answer', 'text': f['a']}}
+                for f in record['faq']]
         if record.get('citations'):
             article_schema['citation'] = record['citations']
     related = sorted((r for r in records if r['slug'] != slug),
