@@ -1,43 +1,53 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 4187,
-    "sha256": "4d03e9d3faf4abd8d8aa986c38ac59c1dd41cac4f6a6ea1b80a9caa4ce4e146f"
+    "bytes": 4311,
+    "sha256": "52f04359a558c634b790f6cf8d0c63fa709ca31a98eeeb1dc19ec542a559ee10"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
-    "bytes": 16149,
-    "sha256": "5221c03522163a58d5b5d5ed536331454be0d6bf84bacacffe09db6fc860752c"
+    "bytes": 16563,
+    "sha256": "dfd4f1101400115ec54abbdf9dd1efeadd282094ac6e7b151bbfcba688edf923"
   },
   {
     "path": "a-biblioteca-estrategica-da-tweed-os-livros-que-moldam-nossa-abordagem-de-branding-e-marketing/index.html",
-    "bytes": 26082,
-    "sha256": "9be082b6f0931913da843103fb09fb18ac279c7aac78634c43c6011427480db7"
+    "bytes": 26522,
+    "sha256": "7c0b01643e71dfe452e6aac0c59577a4ceb0c2343bb052f31a95accf152ffa3f"
   },
   {
     "path": "a-cultura-interna-e-o-branding-que-o-cliente-ainda-vai-sentir/index.html",
-    "bytes": 15002,
-    "sha256": "c42eae2ece3d81251d764e4b21e228ba18960d4d69ca2abd11f94cba49ae58d7"
+    "bytes": 15448,
+    "sha256": "e93a042e107690685ec0e1e9db6381166055ea99407d62e1c14139d1f58e130d"
   },
   {
     "path": "a-marca-que-voce-posta-e-a-mesma-que-voce-entrega/index.html",
-    "bytes": 14875,
-    "sha256": "a5178744fa4d21741ee09086fc197cea8ab257c58c68c65287fe5feec8dd6592"
+    "bytes": 15319,
+    "sha256": "51024cf92bc90a839ad53e710ff2c07e3d0e684e77f0df332f5a77c8b86a65f2"
   },
   {
     "path": "alem-do-anuncio-como-o-boca-a-boca-mantem-sua-marca-viva-quando-a-propaganda-termina/index.html",
-    "bytes": 27820,
-    "sha256": "2b0e0f730a50dec1623f828348850e10be9aeb22f5c8f56154405766dd199c9e"
+    "bytes": 28340,
+    "sha256": "3aad4006706e03d74e251dce61466a2655f2df93d7ecad08e69d872f60b9e100"
   },
   {
     "path": "ancoragem-o-truque-psicologico-que-molda-quanto-o-cliente-acha-que-vale-seu-produto/index.html",
-    "bytes": 18639,
-    "sha256": "598b976c00aa7f97afa3d59c19ffe7f9dc7553daf7c7f6e93f0353bcb50649f7"
+    "bytes": 19063,
+    "sha256": "e99a31690299e9ca8259c73b46aebeba43f7b3e98ea52ba34bbbe6c33bf28a8e"
   },
   {
     "path": "arquetipos-de-marca-para-pequenas-empresas/index.html",
-    "bytes": 15760,
-    "sha256": "21c097c50bf6ef56cb927dca6c08dd83c8ae06e173499fb51493223ab7406ce5"
+    "bytes": 16206,
+    "sha256": "a2b1e9e128d07d166c1cb6ece14391a78bcc798a60c54b533cfa14c6bb7c2633"
+  },
+  {
+    "path": "assets/artigos-editoriais/9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3.png",
+    "bytes": 1483743,
+    "sha256": "9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3"
+  },
+  {
+    "path": "assets/artigos-editoriais/e9006ef3463dc16b77f44976b53baaed5e2aa7e30ebd3860a31ccde68ad15b40.png",
+    "bytes": 1334677,
+    "sha256": "e9006ef3463dc16b77f44976b53baaed5e2aa7e30ebd3860a31ccde68ad15b40"
   },
   {
     "path": "assets/artigos-editoriais/ff0d217924f02f63fff51f01eec304b9f81c8fb2e0b64835f976ab958bbfaced.png",
@@ -721,8 +731,8 @@
   },
   {
     "path": "assets/artigos-tweed.css",
-    "bytes": 65322,
-    "sha256": "9fd9af8ba6bb136e20f8ddebbc27292ee39cfab5bb2afa960e6267f3a1af3fdd"
+    "bytes": 66360,
+    "sha256": "233b78bc31a0f46603fb3f4628ad231722907505e921f48247908805eeeeb68e"
   },
   {
     "path": "assets/blog-tweed.css",
@@ -741,8 +751,8 @@
   },
   {
     "path": "blog-marcas-em-acao/index.html",
-    "bytes": 15368,
-    "sha256": "a94130438acfdd468da12abca618dce097068b5931e61221967ac250e7d2884a"
+    "bytes": 16040,
+    "sha256": "538d4ba5c363ff2c0f71ef766902d4e8596e967494c2586f469ce0e20b3a9da9"
   },
   {
     "path": "blog-marcas-em-movimento/index.html",
@@ -751,8 +761,8 @@
   },
   {
     "path": "blog-marcas-que-ficam/index.html",
-    "bytes": 13976,
-    "sha256": "087dee434561114ac6e2b1900bc3cbc87b75949008f79f2e03bfa107dce7c733"
+    "bytes": 14644,
+    "sha256": "aee697fac3c654b226cd343650f0f5b175ab4d4900638a88cec9a6e61768e476"
   },
   {
     "path": "blog-pequeno-mas-estrategico/index.html",
@@ -761,228 +771,233 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 23558,
-    "sha256": "5f1cd6ad965e332f0cee91bd44ab93dc5b006af930139ef292ffd4307c0ba7d7"
+    "bytes": 23554,
+    "sha256": "109771683f0a3b2689a45163af9895f5f7786d837158d5ca484a86e3f72a95da"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
-    "bytes": 15584,
-    "sha256": "2749b2f56be4a711e7fa369ceaba6cb3ae2957b67a0aeaeb2290098df6f87942"
+    "bytes": 15935,
+    "sha256": "f568aba876c33dac3a4e23e768d2f2608265b1cb0b9fba1658f1d54d2d4a1d71"
   },
   {
     "path": "branding-na-pratica-para-pmes/index.html",
-    "bytes": 14799,
-    "sha256": "b11cc34f6b09668bf47966fe7ba622ff8d35c8e8454380f1a771c302b62e50ef"
+    "bytes": 15226,
+    "sha256": "7caa8054b4c68f134350e1383b998a799a2684497752f940ca3ed3eab4fb5e9b"
   },
   {
     "path": "branding-nao-acontece-so-no-marketing-ele-vive-na-operacao/index.html",
-    "bytes": 15068,
-    "sha256": "f759d8892cd69d7785eba5f7f66c82874596c5f4cf8e9fa099275648addf115b"
+    "bytes": 15547,
+    "sha256": "bcf5291969f7dc22c2a20117626c36e54b1e5746126513e3267ec356160064ae"
   },
   {
     "path": "branding-o-superpoder-escondido-para-pequenas-empresas/index.html",
-    "bytes": 18522,
-    "sha256": "f18aa636cce0e46fdd8db510ad7828f7ff49d64fc327631becc136695ca3b680"
+    "bytes": 18913,
+    "sha256": "c2a243a83d97a101ca50e361fb7cdfc0108a2d478b52029b6df54ef5fefc4fd7"
   },
   {
     "path": "branding-para-pequenos-negocios/index.html",
-    "bytes": 14778,
-    "sha256": "31d975b63aba3cd53aebeb8267276bdabf20d6a7a8f6579b39cfa355987e135f"
+    "bytes": 15135,
+    "sha256": "ad83636648fdd86a060b7bf4ea2e874f61f72e7dcb32bb0d9df88c91b05d5bb7"
   },
   {
     "path": "clientes-nao-compram-produtos-compram-a-energia-da-sua-marca/index.html",
-    "bytes": 15791,
-    "sha256": "7807c7790378bf983de6b83d938d1546bd34221e881ab1ac5dfd101a5f94c65f"
+    "bytes": 16226,
+    "sha256": "52e8b68db2b7ea59f5c96634067fb13cfb6aba9228f8a070ba535aeee258c44a"
   },
   {
     "path": "como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos/index.html",
-    "bytes": 16221,
-    "sha256": "afc5d9fe9e1bc911d823c9216c51a7f83fd3822486b097aa85864a9306a1f5a1"
+    "bytes": 16584,
+    "sha256": "a4f3d4abe145865cfb80b0097de6221b38f84158d390514277fa98f55ef4b44a"
   },
   {
     "path": "como-marcas-locais-constroem-comunidades-mais-fortes-do-que-muitas-multinacionais/index.html",
-    "bytes": 15724,
-    "sha256": "2c04ec690a75c510dc262dac869b484e1678caba4971e4bf41a9f2aca7b1eaec"
+    "bytes": 16203,
+    "sha256": "555a5b780dfbb0066436befd51a337161f8827a4d09e20f51caace2883fd4e8a"
   },
   {
     "path": "como-parecer-grande-sem-ser-grande-os-segredos-do-branding-enxuto/index.html",
-    "bytes": 15258,
-    "sha256": "57faeb10356517ff77f19d03db98eba38a1bb041b345476024d093d16bef7f92"
+    "bytes": 15590,
+    "sha256": "270597bb861c7bee886378e3666042caa87afd9ce3d50211a6ca304a88e70e5a"
   },
   {
     "path": "crescer-sem-perder-a-alma/index.html",
-    "bytes": 16226,
-    "sha256": "1cdc3d79cdd3b5c4567137aa326191b0a578cd7b47136c4fbaf688fb678341dd"
+    "bytes": 16585,
+    "sha256": "008535b166585258b5a217c65f516df9227ea75614831972875f1123f30a3f0f"
   },
   {
     "path": "da-embalagem-ao-pos-venda/index.html",
-    "bytes": 16458,
-    "sha256": "81438ed964291833b93bc91c3a258678056714705ce7ee0e0bb76cbd58e14e09"
+    "bytes": 16883,
+    "sha256": "06ac625f39abd5df183eba072a46e3b18558ad2d5e76e86f38b18f0e41774235"
   },
   {
     "path": "da-satisfacao-ao-encantamento/index.html",
-    "bytes": 16589,
-    "sha256": "35c316680d58a80809d328f5c0f4b04a965091b013ecf86c4956a073ade42371"
+    "bytes": 16982,
+    "sha256": "8b6b7e55fbd31f39c75b1b5387ede8518e56d6acff24f20c1b2eef3412fd9844"
   },
   {
     "path": "divida-de-marca/index.html",
-    "bytes": 23714,
-    "sha256": "c1a841106884545e60fe87007724376e213bb34f6760f85884f60299799d4fc4"
+    "bytes": 24102,
+    "sha256": "d185044215757cfb7a00d03169813f0534013826e5b0d9c2a9fd114f5b8848c9"
   },
   {
     "path": "do-oceano-vermelho-ao-azul-estrategias-de-nicho-para-pmes-fugirem-da-concorrencia/index.html",
-    "bytes": 27643,
-    "sha256": "db3a42ed3a2be8ab9aef98118e7e57206c89da4a3d55780a3df9a476656c107b"
+    "bytes": 28047,
+    "sha256": "fea29771e8ea23df6986c10fc4042845492d1c8b6d4025ba50dfa7bc965e27b5"
   },
   {
     "path": "efeito-isca/index.html",
-    "bytes": 20643,
-    "sha256": "fed28b4dc07671a1c5ce79a54d695cce22540f210dc9e29327ae94b7432cc647"
+    "bytes": 21037,
+    "sha256": "f8e89020b4be073566cf7290fe638dfe4a69a764a2854cbf7070929952eeb305"
   },
   {
     "path": "framing-a-arte-invisivel-que-decide-o-sucesso-da-sua-comunicacao/index.html",
-    "bytes": 18767,
-    "sha256": "ff3810ecf67a46725d2064c74030b2cb5eae622cf58da5f11d1322b83ee32a6c"
+    "bytes": 19225,
+    "sha256": "4201ffb1f9431014be924c82d566481b942cf8f30b19f5ad03052eb168f64f3b"
   },
   {
     "path": "grandes-ideias-pequenas-verbas-marcas-que-marcam/index.html",
-    "bytes": 14883,
-    "sha256": "ce88eb397c130511f63264c2e3262677d594c98c38b9a4be6e7c4babbdc9817c"
+    "bytes": 15265,
+    "sha256": "7832addfbb1031a20b727514d93284cafb77635153c105185ffbd0d8a40a31f7"
   },
   {
     "path": "marca-nao-e-um-logotipo-por-que-pmes-precisam-contar-boas-historias/index.html",
-    "bytes": 16337,
-    "sha256": "8288e74bc5b06405efacbd910ee548cc3f85d32b70931b49d47835d24513d786"
+    "bytes": 16647,
+    "sha256": "e78bd2fb906ad39b0fe2c509bd78bda02d0fbdeac065a400860ee44d4fe779fe"
   },
   {
     "path": "marca-nao-se-faz-no-canva-se-faz-no-cotidiano/index.html",
-    "bytes": 14700,
-    "sha256": "0115c7c8548fc02aebc014ec5778a3753bae31e7e813b5beb91fa43c8c230320"
+    "bytes": 15049,
+    "sha256": "f48fead258211c3dec772764332154b6d729762e72a1389bdcf0e76fd3d35f63"
   },
   {
     "path": "marca-nas-maos-do-cliente-como-o-conteudo-gerado-pelo-usuario-impulsiona-seu-branding/index.html",
-    "bytes": 27061,
-    "sha256": "a7d24f40795fa3da4e3b2c8dc8ddef98fd723bab7f5432ab8c2fb619b7d6d36a"
+    "bytes": 27462,
+    "sha256": "6d2235974e7366f8ba307ecfe9b9a7a76535ec2b9af0c6bc224cb1ee24fefbf4"
   },
   {
     "path": "marcas-memoraveis-nao-gritam-elas-fazem-sentido/index.html",
-    "bytes": 15141,
-    "sha256": "49ea8b4d243d0996abd22990482be662c2e72c17d429c0a0b38fe1af7c7d547b"
+    "bytes": 15579,
+    "sha256": "a7bdbff40d48a6472113020bdbc6b47781dc292a1fe0f2eb3e88f6f420fe0e71"
   },
   {
     "path": "marketing-estrategico-para-pequenas-empresas/index.html",
-    "bytes": 16992,
-    "sha256": "63bdb00e8b6d8ba59a94b723d45a60411ec233b4bb751e6b4067f36efe5545f8"
+    "bytes": 17340,
+    "sha256": "8d32bcabe68f8e924e0868ab2156ba05ae12d4b096d2513fca2e33f57818435f"
   },
   {
     "path": "marketing-nao-e-persuasao-e-arquitetura-de-escolha/index.html",
-    "bytes": 18378,
-    "sha256": "27f886e984258e2421fe8c3ce084ff71307bff97f62b1b2d81fc0fccfd37734a"
+    "bytes": 18757,
+    "sha256": "dec3108ee63c02e070da422127bf64a3e88d2633942bcdc787fc5324f5d4a23f"
   },
   {
     "path": "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade/index.html",
-    "bytes": 27473,
-    "sha256": "e703de643ce7a03bd867840900ee0fa92f57e0d1e06712ac8c3217e5a3f9e377"
+    "bytes": 27897,
+    "sha256": "882cd397de6b379873e80b23aa66e8f4122cf6e6f39329a26965ba6e591a3926"
   },
   {
     "path": "menos-e-mais-o-poder-de-campanhas-pequenas-com-grandes-ideias/index.html",
-    "bytes": 15731,
-    "sha256": "bed92bd7702570f418181e6720d70550a6baab642a151c49e632a93ac956775a"
+    "bytes": 16031,
+    "sha256": "1397a6c0dbd5d20a75be5709ddc73a4f30753d3e13a9ebc3ffae01d3f1bda9c2"
   },
   {
     "path": "metricas-sem-vaidade/index.html",
-    "bytes": 29222,
-    "sha256": "dc515fa3c0f51e3bd30271dfeea75822453e0549ffa6d2f3ef4dd06aaff81cbb"
+    "bytes": 29635,
+    "sha256": "d4225c5d1f9b1319b3d7176df89cf1175f96e6237ca3700634fd02c7988ab985"
   },
   {
     "path": "multiplas-faces-da-marca-combinando-arquetipos-para-uma-identidade-rica/index.html",
-    "bytes": 23709,
-    "sha256": "14484d1acbb2fd3dd8d189c759883c436edb0c62d782ea1e541bcd353c8a1092"
+    "bytes": 24155,
+    "sha256": "75f5ccda4203e074078ae6b855c56d8b368a0330d5a4ac63f86149a7b735db41"
   },
   {
     "path": "nao-venda-ajude/index.html",
-    "bytes": 17087,
-    "sha256": "2a9b92b862b83ff62e004d9e1a86b9733de0de0c8f145326d112c1871e5d42ee"
+    "bytes": 17587,
+    "sha256": "295cacd8c99c3874a962f7d7c98770876dda7fc01942bce46dd9da1afb4634cf"
   },
   {
     "path": "narrativas-miticas/index.html",
-    "bytes": 16363,
-    "sha256": "a88ed68d1fc7fcb2501186fc40ad19f63a96c55d99ff4b04a5159d5a9bb1ae8c"
+    "bytes": 16817,
+    "sha256": "633243c912348eb8c6db10902ea6bbd38b6a6752d9e27b6544a6e9a15b10f13f"
   },
   {
     "path": "ninguem-compra-sozinho/index.html",
-    "bytes": 18950,
-    "sha256": "1e894bcce53e59e2c82509d8e904514f3d18065fc2a5fb7cec86ee50c19572c8"
+    "bytes": 19467,
+    "sha256": "b9092b154a6f46474edd6694d82ff0d0a6d90c120afcd8a700fe4fb2e68624ed"
   },
   {
     "path": "o-arcabouco-invisivel-da-tweed-os-livros-que-moldam-nossas-estrategias/index.html",
-    "bytes": 23125,
-    "sha256": "9bff67b230ab7c8cd8bf7e4414736441c9216eec07e0244e4a95b895dbd694d7"
+    "bytes": 23605,
+    "sha256": "8db76727c259252a565206fc8477410bad44e322e48e3c70bd41a55a725f4613"
+  },
+  {
+    "path": "o-atendimento-esta-desmentindo-o-seu-posicionamento/index.html",
+    "bytes": 20475,
+    "sha256": "bf369ab05931f7c79686cab84917ba2fad89e9ca820d37786b4f6e248dab5fb2"
   },
   {
     "path": "o-custo-invisivel-de-coordenar-o-proprio-marketing/index.html",
-    "bytes": 19825,
-    "sha256": "960b38896d5eb30bb333974785b5913ce570fe53dabaa6b5d36659471f893497"
+    "bytes": 20191,
+    "sha256": "1c0889492883360f4da82de44e423ed8c5938c2f3a4bba86c698f21239fe90ba"
   },
   {
     "path": "o-melhor-cliente-e-aquele-que-voce-ja-tem/index.html",
-    "bytes": 17984,
-    "sha256": "ced02dcd0d84438c7eb50a2b8e529862a6fe5baf612e560f90891c57d4ad5a87"
+    "bytes": 18395,
+    "sha256": "13e0df7ea63f2705b78a8273287032ff9cb114625233c22679a9c7de9b52fe2f"
   },
   {
     "path": "o-paradoxo-da-escolha/index.html",
-    "bytes": 17912,
-    "sha256": "1e2a9ca1924fc4e89305bd3993414e7a41158f57bebd4622eaa7a0fd6cba9ae6"
+    "bytes": 18308,
+    "sha256": "1f1f3348a647f35fd3c05bb5a2dc2057048fc1a64a18709fe0ab6a71d69c9039"
   },
   {
     "path": "o-que-empresas-como-harley-davidson-dove-e-natura-tem-em-comum-com-a-sua-pme/index.html",
-    "bytes": 15869,
-    "sha256": "d759a9bfd1d41429ab0227be13bfbe25c5d63b22c66b76239e6724e48787fa61"
+    "bytes": 16295,
+    "sha256": "8d072924553087f705e5542a87a815585e84aabbebb23d978850240afcc3a2fb"
   },
   {
     "path": "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding/index.html",
-    "bytes": 26108,
-    "sha256": "a67c2a2be71cf27348d6e2f607a93c45a3ab66a45c1460b1308e55a2c17802e2"
+    "bytes": 26485,
+    "sha256": "c68e3e1aae0f5254b511f36b32ad0e2ed4b96f23080ab0ba8ad400d895482257"
   },
   {
     "path": "o-que-pequenas-empresas-podem-aprender-com-os-erros-das-grandes/index.html",
-    "bytes": 16195,
-    "sha256": "f38cc843f470ec358ebc4213a84c22ff56b22758fc506076f61813170704cc30"
+    "bytes": 16550,
+    "sha256": "56012d962171f122f48bf4f64b395e586e8c3d1f10cb0f65eaafa5a6557fcd26"
   },
   {
     "path": "o-que-sua-marca-comunica-quando-voce-nao-esta-por-perto/index.html",
-    "bytes": 15415,
-    "sha256": "0ce7df5834bc97aecdab67804f8d1c6f5ae7a6e94cc9fecca0a687201149ecdc"
+    "bytes": 15784,
+    "sha256": "62764bc48a64f561bfbf405b223df71da0ce2ab23ff39b67a1dd5971b2feea3d"
   },
   {
     "path": "o-que-voce-ve-e-tudo-o-que-existe/index.html",
-    "bytes": 18547,
-    "sha256": "95a9e86494b211ceac635c72c83ba09f7d6a423635dc9444b75e5221cd40ffc0"
+    "bytes": 18998,
+    "sha256": "e2536f9704876728a49c256647b0b4984793d6f310daebcc0c09c482b3a2be45"
   },
   {
     "path": "orcamento-de-marketing-2026-para-pmes/index.html",
-    "bytes": 19173,
-    "sha256": "49a7d01e4bead249ae5f60b88d44b0a992e8196d456f53e214f12fcb42d34784"
+    "bytes": 19587,
+    "sha256": "4feee671304869f00f3702beeb2127679cc57a923a16320fe8b8a11a28699b80"
   },
   {
     "path": "por-que-a-escassez-vende-mas-nem-sempre/index.html",
-    "bytes": 17888,
-    "sha256": "8741ed7652e651251b3d71079d0ffbcddd162926e0004f98d3de949792c7c78c"
+    "bytes": 18333,
+    "sha256": "03911d95cf8444abd516b36965936992c467db411270859248dfa2e901e3d5ef"
   },
   {
     "path": "posicionamento-de-marca-para-pequenas-empresas/index.html",
-    "bytes": 15907,
-    "sha256": "2d5c7b94749ceffc1d033975810a77f1c9dd85fe3c460cce62deaa6d22fe7392"
+    "bytes": 16303,
+    "sha256": "b4dec60f9215aa28c62b0f2d650e24d1a8343fc134e18aecc9765d3ead104896"
   },
   {
     "path": "qual-e-o-arquetipo-da-sua-concorrencia-e-por-que-voce-deveria-saber-disso/index.html",
-    "bytes": 16450,
-    "sha256": "27bad6d86ee291ece3b4fd185c40fb76a364cb84b9cc5df095143967c8654e9c"
+    "bytes": 16931,
+    "sha256": "e9ea77e262a27a1f09b72a5c9969802525b194e27906002f3c64409a7dd62a76"
   },
   {
     "path": "quando-tudo-parece-igual-os-arquetipos-ajudam-sua-marca-a-ser-lembrada/index.html",
-    "bytes": 15739,
-    "sha256": "bd663e50eccbeed52f92432d52746a5a78dd239adb3dc837e74eb4e5f25ca610"
+    "bytes": 16188,
+    "sha256": "0d6419bb365729e493785d3f7205aeffc0b17937c71eb0b604e184ed9bc7d05d"
   },
   {
     "path": "robots.txt",
@@ -991,32 +1006,37 @@
   },
   {
     "path": "se-o-seu-cliente-nao-consegue-explicar-sua-marca-talvez-ela-ainda-nao-exista-de-verdade/index.html",
-    "bytes": 15747,
-    "sha256": "7e0363552d62a1ef34a1d756b7cc54d66c5b1611f164d54da24a228b4a3d5cfe"
+    "bytes": 16068,
+    "sha256": "6f572555aecf32c209ef551fe3bf77fc95269e876c45ba49a10327a3a5ab112c"
+  },
+  {
+    "path": "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar/index.html",
+    "bytes": 20278,
+    "sha256": "4ed0ceff9e3d8082b6d9b4820a291368c471c00eef459d92729c44f839a1cb50"
   },
   {
     "path": "seu-logotipo-e-bonito-mas-sua-marca-e-clara/index.html",
-    "bytes": 15188,
-    "sha256": "26032baeabb38070c88f755d426cb053fae8dcc8f96368b9cdf85f632fc1fdf1"
+    "bytes": 15725,
+    "sha256": "44899132f9b4bcf4fcbedc90fca22441c63aa1517fff7bf50126f9c7478873cb"
   },
   {
     "path": "sitemap.xml",
-    "bytes": 9811,
-    "sha256": "916d3eca491063d058ce6554ed7c06d90f4043bbdea09bab894f43bdbfb2a00f"
+    "bytes": 10126,
+    "sha256": "09ad7b69a7e616840fca3c5dd8bb9a4830125942e0295399ed735787c6f9428b"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",
-    "bytes": 14813,
-    "sha256": "5fc32fd83050517438b9d3f56218e2fe69d5475af84bc7861d172e77f58cb0e8"
+    "bytes": 15192,
+    "sha256": "e78e8a9c048123ba82ad9ef9881402f3c668e55364c0a1bfaad0588375c4ff92"
   },
   {
     "path": "sua-marca-precisa-de-consistencia-nao-de-perfeicao/index.html",
-    "bytes": 14714,
-    "sha256": "a3c0ee7ad86ec149acba2de86b238eb4c61be43ee0b588fd7599295648171dc3"
+    "bytes": 15090,
+    "sha256": "fa1c3179faceac4f4e23b472a7d4b96dea8874578924beecbf203636b3c65a9a"
   },
   {
     "path": "voce-nao-decide-seu-cerebro-decide-por-voce-e-depois-inventa-uma-desculpa/index.html",
-    "bytes": 20314,
-    "sha256": "44a33b005ece1dbd2f13f0bcac5845f1f4f1e3899bfd182ebfe614d8255bcc60"
+    "bytes": 20690,
+    "sha256": "e24b5947d4a96bbfc0f3efac9492810cc6f70963947fb3b163dea0be605eb9dc"
   }
 ]

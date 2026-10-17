@@ -92,3 +92,24 @@ Após aprovação humana em Pronto, foi publicado `/o-custo-invisivel-de-coorden
 O job `83e1387a-fa22-4d5a-8e1a-8cfd13ac8bed` passou no dry-run, comparação prévia de hashes, upload por arquivo e verificação SFTP/HTTP. Backups locais dos arquivos sobrescritos: `TweedEditorial/backups/publicacoes/83e1387a-fa22-4d5a-8e1a-8cfd13ac8bed/`, fora do Git. O registro de retomada está em `TweedEditorial/.local/publicacoes/83e1387a-fa22-4d5a-8e1a-8cfd13ac8bed.json`.
 
 Página e capa conferidas em desktop/mobile, links dos dois índices verificados e post confirmado na aba Artigos, fora da mesa editorial. Validação final: 56 artigos, sete páginas de blog e 64 URLs no sitemap.
+
+## Links contextuais e recomendações por conteúdo — 17/10/2026
+
+Por solicitação do proprietário, foram reavaliados os 56 artigos e seus dois destinos de Continue a leitura. Os 112 destinos selecionados têm justificativas editoriais em `docs/leituras-relacionadas.json` e são validados contra o catálogo. Todos os 56 HTML foram atualizados, além do sitemap; a home, o menu, as imagens e pastas de clientes não foram alterados.
+
+Foram inseridos também dois links dentro dos textos, sem reescrever frases: o artigo de integração de marketing e vendas aponta para o novo artigo de coordenação do marketing, que aponta para UX como extensão do branding. Âncoras/contextos e razões estão em `docs/planos-links/2026-10-17-integracao-marketing.json`; o registro persistente é `docs/links-internos.json`. Contagem final por corpo: nenhum acima de quatro, máximo atual três; o artigo novo possui um. As duas recomendações finais são contadas separadamente.
+
+Backups dos arquivos anteriores em `TweedEditorial/backups/publicacoes/links-9cb716882a7b26f3/`, fora do Git. Envio por lista explícita, comparação prévia dos hashes e conferência SFTP/HTTP concluídos. As 56 páginas e os 64 endereços do sitemap passaram nos validadores; quatro páginas representativas foram conferidas em desktop e mobile, incluindo os links novos e a integridade da home publicada. As próximas publicações exigem planos atualizados de links e recomendações, e incluem na lista de envio todos os artigos antigos afetados. Fontes e notas vazio é opcional e não produz seção na página.
+
+## Remoção de nota herdada — 17/10/2026
+
+Removida a seção Fontes e notas do artigo o-custo-invisivel-de-coordenar-o-proprio-marketing, incluindo a entrada no índice. A nota veio do rascunho inicial e foi retirada também do registro editorial e dos metadados arquivados. Preservados corpo, links e recomendações. Somente o HTML deste artigo foi enviado, com comparação de hash e confirmação SFTP/HTTP. Backup: TweedEditorial/backups/publicacoes/remocao-notas-a1-20261017/. Manifesto e hashes dos planos foram atualizados sem mudar suas escolhas editoriais.
+
+## Anel nas capas dos artigos — 17/10/2026
+
+Aplicado aos 56 artigos o mesmo anel de luz dos cards da seção 01: 1px, teal e branco, volta em 8 segundos. Pausa fora da tela ou com aba oculta; movimento reduzido mantém borda estática. Alterados tools/article-layout.css e tools/generate_articles.py para persistir nas futuras publicações, além do registro em design.md. Publicados exclusivamente assets/artigos-tweed.css e 56 HTML de artigos, com versão da URL do CSS para atualizar caches. Backup em TweedEditorial/backups/publicacoes/capas-anel-20261017/. Os 57 arquivos foram conferidos por SFTP/HTTP; desktop/mobile e preferência de movimento reduzido verificados. Conteúdo, links, imagens, metadados, sitemap, home e materiais de clientes preservados.
+
+
+## Publicações sobre valor e atendimento — 17/10/2026
+
+Publicados os artigos seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar e o-atendimento-esta-desmentindo-o-seu-posicionamento, ambos aprovados em Pronto, com capas 1344 × 896 e FAQ apenas estruturado. Cada publicação passou por análise completa do acervo, planos de links e relacionados, dry-run e verificação SFTP/HTTP. Planos históricos no painel em editorial/planos-links/2026-10-17-a2.json, a3.json e editorial/planos-relacionados/ equivalentes. Inseridos cinco links no corpo no total; nenhum post acima de quatro. Atualizados os pares de recomendação mais pertinentes, além dos índices, sitemap e regras estreitas. Backups por job e88fa5e0-566f-4497-844f-93ccd63565b2 e 79b8dc87-4703-4649-8ea4-d3aec67a05fa. Confirmados 58 artigos e 66 URLs, páginas em desktop/mobile, efeito de capa herdado e home preservada. Os dois registros foram arquivados em Artigos após confirmação.

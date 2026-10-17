@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "links": [
+    {
+      "from": "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade",
+      "to": "o-custo-invisivel-de-coordenar-o-proprio-marketing",
+      "anchor": "uma agência que olhe para o todo",
+      "context": "Ele precisa de uma agência que olhe para o todo.",
+      "reason": "O artigo sobre marketing e vendas defende uma agência que conecte o processo inteiro; o novo artigo aprofunda a responsabilidade de integrar fornecedores e decisões.",
+      "modifiedAt": "2026-10-17"
+    },
+    {
+      "from": "o-custo-invisivel-de-coordenar-o-proprio-marketing",
+      "to": "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding",
+      "anchor": "uma página que não sustenta seu argumento",
+      "context": "O exemplo é hipotético, mas ajuda a distinguir qualidade de uma peça e qualidade de um sistema de comunicação. Uma campanha pode ter ótima execução e apontar para uma página que não sustenta seu argumento. Uma identidade visual pode ser consistente enquanto a proposta comercial vende um serviço que a operação já não oferece.",
+      "reason": "O trecho mostra como uma campanha perde coerência na página de destino; o artigo de UX explica como o site sustenta a promessa da marca.",
+      "modifiedAt": "2026-10-17"
+    },
+    {
+      "from": "seu-logotipo-e-bonito-mas-sua-marca-e-clara",
+      "to": "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar",
+      "anchor": "proposta de valor",
+      "context": "Branding vai muito além do visual. Uma marca forte nasce de clareza: de posicio-namento, de proposta de valor, de narrativa. O design é a expressão dessa clareza, não o ponto de partida. Quando não existe direção estratégica, até o layout mais sofisticado vira apenas ruído bonito.",
+      "reason": "A passagem sobre clareza da proposta ganha aprofundamento prático na negociação de preço e confiança.",
+      "modifiedAt": "2026-10-17"
+    },
+    {
+      "from": "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar",
+      "to": "divida-de-marca",
+      "anchor": "sinais de confiança",
+      "context": "Os sinais de confiança precisam ser verdadeiros e pertinentes à dúvida do comprador. Um caso autorizado pode mostrar experiência com um problema semelhante. Uma descrição clara do processo pode explicar como a empresa lida com incertezas. A identificação dos responsáveis pode esclarecer a senioridade disponível.",
+      "reason": "Aprofunda a relação entre clareza, posicionamento e valor percebido que sustenta a negociação.",
+      "modifiedAt": "2026-10-17"
+    },
+    {
+      "from": "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar",
+      "to": "posicionamento-de-marca-para-pequenas-empresas",
+      "anchor": "para quem o trabalho faz sentido",
+      "context": "Uma proposta de valor ganha precisão quando mostra para quem o trabalho faz sentido, qual problema ele enfrenta e quais condições são necessárias para entregar bem. Isso pode incluir reconhecer que a empresa não é a melhor alternativa para determinada demanda.",
+      "reason": "Aprofunda a relação entre clareza, posicionamento e valor percebido que sustenta a negociação.",
+      "modifiedAt": "2026-10-17"
+    },
+    {
+      "from": "branding-nao-acontece-so-no-marketing-ele-vive-na-operacao",
+      "to": "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+      "anchor": "um atendimento humanizado",
+      "context": "Uma marca que se posiciona como próxima precisa ter um atendimento humanizado. Uma que promete agilidade precisa garantir que seu processo de entrega seja rápido e transparente. Uma que fala de cuidado precisa refletir isso na embalagem, no tom de voz, na escuta atenta.",
+      "reason": "O novo artigo traduz a promessa de proximidade em responsabilidades, contexto e decisões operacionais de atendimento.",
+      "modifiedAt": "2026-10-17"
+    },
+    {
+      "from": "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+      "to": "branding-nao-acontece-so-no-marketing-ele-vive-na-operacao",
+      "anchor": "o funcionamento da empresa",
+      "context": "A equipe pode estar se esforçando. O problema é que o funcionamento da empresa dificulta a proximidade prometida. Pedir mais simpatia aos atendentes não define um responsável, não organiza o histórico e não esclarece o próximo passo.",
+      "reason": "Relaciona a causa operacional da experiência de atendimento à construção de marca além do marketing.",
+      "modifiedAt": "2026-10-17"
+    }
+  ]
+}
