@@ -4,6 +4,7 @@ Usa BeautifulSoup apenas na manutenção local. O servidor entrega HTML/CSS puro
 Fontes e proveniência ficam em docs/, nunca são enviadas com o site.
 """
 from pathlib import Path
+import os
 from urllib.parse import urlparse, unquote
 import hashlib
 import html
@@ -14,11 +15,14 @@ import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 from blog_pages import build_blog
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(os.environ.get('TWEED_BUILD_ROOT', Path(__file__).resolve().parents[1]))
 SITE = ROOT / 'site/parallax'
 BASE = 'https://www.agenciatweed.com.br'
 DATE = '2026-10-16'
 records = json.loads((ROOT / 'docs/artigos-recuperados.json').read_text(encoding='utf8'))
+extra_records = ROOT / 'docs/artigos-editoriais.json'
+if extra_records.exists():
+    records += json.loads(extra_records.read_text(encoding='utf8'))
 sections = json.loads((ROOT / 'docs/secoes-blog.json').read_text(encoding='utf8'))
 section_by_name = {s['name']: s for s in sections}
 home_bytes = (SITE / 'index.html').read_bytes()
@@ -108,7 +112,7 @@ for record in records:
         {'@type': 'Organization', '@id': BASE + '/#organizacao', 'name': 'Agência Tweed', 'url': BASE + '/',
          'logo': {'@type': 'ImageObject', 'url': BASE + '/assets/logo_tweed_teal.svg'}},
         {'@type': 'Person', '@id': BASE + '/#felipe-rijo', 'name': record['author'], 'url': BASE + '/#agencia'},
-        {'@type': 'Article', '@id': url + '#artigo', 'headline': title, 'description': description,
+        {'@type': 'BlogPosting' if record.get('editorial_id') else 'Article', '@id': url + '#artigo', 'headline': title, 'description': description,
          'inLanguage': 'pt-BR', 'url': url, 'mainEntityOfPage': url,
          'datePublished': record['published'],
          'dateModified': max(record['published'], record['original_modified']),
@@ -120,6 +124,13 @@ for record in records:
             {'@type': 'ListItem', 'position': 2, 'name': 'Blog', 'item': BASE + '/blog/'},
             {'@type': 'ListItem', 'position': 3, 'name': record['categories'][0], 'item': BASE + '/' + section_by_name[record['categories'][0]]['slug'] + '/'},
             {'@type': 'ListItem', 'position': 4, 'name': title, 'item': url}]}]}
+    if record.get('editorial_id'):
+        article_schema = schema['@graph'][2]
+        article_schema['keywords'] = record['keyword']
+        article_schema['isPartOf'] = {'@id': BASE + '/blog/#pagina'}
+        article_schema['copyrightHolder'] = {'@id': BASE + '/#organizacao'}
+        if record.get('citations'):
+            article_schema['citation'] = record['citations']
     related = sorted((r for r in records if r['slug'] != slug),
                      key=lambda r: (-len(set(r['categories']) & set(record['categories'])), r['slug']))[:2]
     related_html = ''.join(f'<a href="{BASE}/{r["slug"]}/">{esc(r["title"])}</a>' for r in related)
@@ -205,7 +216,7 @@ for slug in [''] + sorted(slugs | set(collection_slugs)):
     node = ET.SubElement(urlset, 'url')
     ET.SubElement(node, 'loc').text = BASE + '/' + (slug + '/' if slug else '')
     if slug:
-        ET.SubElement(node, 'lastmod').text = DATE
+        ET.SubElement(node, 'lastmod').text = next((r['published'][:10] for r in records if r['slug'] == slug and r.get('editorial_id')), DATE)
 ET.indent(urlset)
 ET.ElementTree(urlset).write(SITE / 'sitemap.xml', encoding='utf-8', xml_declaration=True)
 

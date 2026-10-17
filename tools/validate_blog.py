@@ -1,14 +1,18 @@
 """Confere o índice, as seis séries e os links de retorno dos artigos."""
 from pathlib import Path
+import os
 from urllib.parse import urlparse
 import hashlib
 import json
 from bs4 import BeautifulSoup
 
-ROOT=Path(__file__).resolve().parents[1]
+ROOT=Path(os.environ.get('TWEED_BUILD_ROOT', Path(__file__).resolve().parents[1]))
 SITE=ROOT/'site/parallax'
 BASE='https://www.agenciatweed.com.br'
 posts=json.loads((ROOT/'docs/artigos-recuperados.json').read_text(encoding='utf8'))
+extra_records = ROOT / 'docs/artigos-editoriais.json'
+if extra_records.exists():
+    posts += json.loads(extra_records.read_text(encoding='utf8'))
 sections=json.loads((ROOT/'docs/secoes-blog.json').read_text(encoding='utf8'))
 thumbs=json.loads((ROOT/'docs/miniaturas-blog.json').read_text(encoding='utf8'))
 all_urls={BASE+'/'+p['slug']+'/' for p in posts}
@@ -24,7 +28,7 @@ for section,block in zip(sections,overview.select('.blog-series')):
     assert actual==expected,section['slug']
     assert page.select_one('.blog-lead').get_text()==section['intro']
     seen.extend(actual)
-assert len(seen)==55 and set(seen)==all_urls
+assert len(seen)==len(posts) and set(seen)==all_urls
 for slug in ['blog']+[s['slug'] for s in sections]:
     soup=BeautifulSoup((SITE/slug/'index.html').read_text(encoding='utf8'),'html.parser')
     assert len(soup.select('h1'))==1,slug
@@ -45,4 +49,4 @@ for slug in ['blog']+[s['slug'] for s in sections]:
     assert 'semanais' not in soup.get_text().lower(),slug
 for thumb in thumbs.values():
     assert hashlib.sha256((SITE/thumb['path'].lstrip('/')).read_bytes()).hexdigest()==thumb['sha256']
-print('Blog: 7 páginas, 6 séries, 55 artigos alcançáveis, ordem cronológica e 55 miniaturas conferidos.')
+print(f'Blog: 7 páginas, 6 séries, {len(posts)} artigos alcançáveis e miniaturas conferidos.')

@@ -1,5 +1,6 @@
 """Verifica conteúdo recuperado, navegação, metadados e arquivos estáticos."""
 from pathlib import Path
+import os
 from urllib.parse import urlparse
 from urllib.robotparser import RobotFileParser
 import hashlib
@@ -8,10 +9,13 @@ import re
 import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(os.environ.get('TWEED_BUILD_ROOT', Path(__file__).resolve().parents[1]))
 SITE = ROOT / 'site/parallax'
 BASE = 'https://www.agenciatweed.com.br'
 records = json.loads((ROOT / 'docs/artigos-recuperados.json').read_text(encoding='utf8'))
+extra_records = ROOT / 'docs/artigos-editoriais.json'
+if extra_records.exists():
+    records += json.loads(extra_records.read_text(encoding='utf8'))
 sections = json.loads((ROOT / 'docs/secoes-blog.json').read_text(encoding='utf8'))
 home = BeautifulSoup((SITE / 'index.html').read_text(encoding='utf8'), 'html.parser')
 home_ids = {x['id'] for x in home.select('[id]')}
