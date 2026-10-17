@@ -84,3 +84,11 @@ A versão anterior foi salva em `.local/backups/` e comparada com a origem publi
 4. Enviar somente os arquivos aprovados, sem exclusões nem operações em pastas inteiras.
 5. Conferir o conteúdo servido por HTTP e os arquivos enviados; verificar links, metadados e comportamento nos tamanhos relevantes.
 6. Registrar a lista publicada e o caminho das cópias para eventual restauração pontual.
+
+## Primeiro artigo publicado pela mesa editorial — 17/10/2026
+
+Após aprovação humana em Pronto, foi publicado `/o-custo-invisivel-de-coordenar-o-proprio-marketing/`, com capa de 1344 × 896 px e BlogPosting específico. O FAQ permanece apenas no JSON-LD. A lista explícita de envio teve seis arquivos: capa, artigo, `blog/index.html`, `blog-pequeno-mas-estrategico/index.html`, `sitemap.xml` e `.htaccess` com a nova rota. Não houve alteração na home nem nos 55 artigos anteriores ou em pastas de clientes.
+
+O job `83e1387a-fa22-4d5a-8e1a-8cfd13ac8bed` passou no dry-run, comparação prévia de hashes, upload por arquivo e verificação SFTP/HTTP. Backups locais dos arquivos sobrescritos: `TweedEditorial/backups/publicacoes/83e1387a-fa22-4d5a-8e1a-8cfd13ac8bed/`, fora do Git. O registro de retomada está em `TweedEditorial/.local/publicacoes/83e1387a-fa22-4d5a-8e1a-8cfd13ac8bed.json`.
+
+Página e capa conferidas em desktop/mobile, links dos dois índices verificados e post confirmado na aba Artigos, fora da mesa editorial. Validação final: 56 artigos, sete páginas de blog e 64 URLs no sitemap.
