@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 4311,
-    "sha256": "52f04359a558c634b790f6cf8d0c63fa709ca31a98eeeb1dc19ec542a559ee10"
+    "bytes": 4487,
+    "sha256": "6f811690d37deaf97b4e08e308898fe5e32221527af5ed0a9e347a0043abf990"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -35,14 +35,34 @@
     "sha256": "e99a31690299e9ca8259c73b46aebeba43f7b3e98ea52ba34bbbe6c33bf28a8e"
   },
   {
+    "path": "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido/index.html",
+    "bytes": 20683,
+    "sha256": "01f8b8996fb58c94fe1a11da45bdb20b5bf24c8275537450f3bff1ffed49c325"
+  },
+  {
     "path": "arquetipos-de-marca-para-pequenas-empresas/index.html",
     "bytes": 16206,
     "sha256": "a2b1e9e128d07d166c1cb6ece14391a78bcc798a60c54b533cfa14c6bb7c2633"
   },
   {
+    "path": "assets/artigos-editoriais/8f46d32ab62b15cbeb3e3f55c167b8f9b0af2a4cfb2107488c1ab01c246ca17a.png",
+    "bytes": 1830112,
+    "sha256": "8f46d32ab62b15cbeb3e3f55c167b8f9b0af2a4cfb2107488c1ab01c246ca17a"
+  },
+  {
     "path": "assets/artigos-editoriais/9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3.png",
     "bytes": 1483743,
     "sha256": "9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3"
+  },
+  {
+    "path": "assets/artigos-editoriais/cd4bd419ca02a7f3c0728c92d637e56dfab93f9c63929934ea5caa7bf4108793.png",
+    "bytes": 1210185,
+    "sha256": "cd4bd419ca02a7f3c0728c92d637e56dfab93f9c63929934ea5caa7bf4108793"
+  },
+  {
+    "path": "assets/artigos-editoriais/d9bcdfabc1c53a1e2ea3befc4e076fab1c1d73bbbe17bdf771b3f77c1004b6a4.png",
+    "bytes": 1520125,
+    "sha256": "d9bcdfabc1c53a1e2ea3befc4e076fab1c1d73bbbe17bdf771b3f77c1004b6a4"
   },
   {
     "path": "assets/artigos-editoriais/e9006ef3463dc16b77f44976b53baaed5e2aa7e30ebd3860a31ccde68ad15b40.png",
@@ -741,13 +761,13 @@
   },
   {
     "path": "blog-branding-na-marra/index.html",
-    "bytes": 16717,
-    "sha256": "6f33b901b441082c65a07089d3bc4bd93bfc7b0c67e28ec33b782fe1579e7f79"
+    "bytes": 17382,
+    "sha256": "869a283d64906cc657e931366481dc42da591d6ef218e11bdf6a0b8e2e43c325"
   },
   {
     "path": "blog-marcas-com-alma/index.html",
-    "bytes": 15221,
-    "sha256": "726c7ed1d6a10a406f67af4123613525100816796ef76e41a7e9a85edeba21c4"
+    "bytes": 15956,
+    "sha256": "f19f06138df04c4307f0505bc5bdbe194fd2d077761f5fa5a82e4b1f2a050788"
   },
   {
     "path": "blog-marcas-em-acao/index.html",
@@ -756,8 +776,8 @@
   },
   {
     "path": "blog-marcas-em-movimento/index.html",
-    "bytes": 13816,
-    "sha256": "9295b7662fa67ed2827da15fe34931ee37617e04afd8f064f3f9e85f7d680abd"
+    "bytes": 14558,
+    "sha256": "8c165c5a05ed15f7a4fd791e944430c2859fc55a699495002b71536d71573b5d"
   },
   {
     "path": "blog-marcas-que-ficam/index.html",
@@ -771,8 +791,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 23554,
-    "sha256": "109771683f0a3b2689a45163af9895f5f7786d837158d5ca484a86e3f72a95da"
+    "bytes": 23356,
+    "sha256": "9e798c823f07562c10a66453570fcd595ee25c90678083fbab60a458accbd52c"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -980,6 +1000,11 @@
     "sha256": "4feee671304869f00f3702beeb2127679cc57a923a16320fe8b8a11a28699b80"
   },
   {
+    "path": "personalidade-de-marca-aparece-nas-escolhas-pequenas/index.html",
+    "bytes": 20675,
+    "sha256": "708f3a14a424324d6aec7f80267bdb3327489e65c218d8611873b972b77f8d17"
+  },
+  {
     "path": "por-que-a-escassez-vende-mas-nem-sempre/index.html",
     "bytes": 18333,
     "sha256": "03911d95cf8444abd516b36965936992c467db411270859248dfa2e901e3d5ef"
@@ -1021,8 +1046,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 10126,
-    "sha256": "09ad7b69a7e616840fca3c5dd8bb9a4830125942e0295399ed735787c6f9428b"
+    "bytes": 10590,
+    "sha256": "704f3d5e4b2c16af7c6abe2abe4aa3ba42b6c693cfd0fb31aa5cde006f0b61b1"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",
@@ -1033,6 +1058,11 @@
     "path": "sua-marca-precisa-de-consistencia-nao-de-perfeicao/index.html",
     "bytes": 15090,
     "sha256": "fa1c3179faceac4f4e23b472a7d4b96dea8874578924beecbf203636b3c65a9a"
+  },
+  {
+    "path": "uma-boa-restricao-pode-melhorar-uma-ideia/index.html",
+    "bytes": 20236,
+    "sha256": "6f943c10e8ad301622c20a2167fab03e330987f1b28001dfacf32d49b67f1a5f"
   },
   {
     "path": "voce-nao-decide-seu-cerebro-decide-por-voce-e-depois-inventa-uma-desculpa/index.html",

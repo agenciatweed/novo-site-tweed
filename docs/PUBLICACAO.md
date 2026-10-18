@@ -113,3 +113,10 @@ Aplicado aos 56 artigos o mesmo anel de luz dos cards da seção 01: 1px, teal e
 ## Publicações sobre valor e atendimento — 17/10/2026
 
 Publicados os artigos seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar e o-atendimento-esta-desmentindo-o-seu-posicionamento, ambos aprovados em Pronto, com capas 1344 × 896 e FAQ apenas estruturado. Cada publicação passou por análise completa do acervo, planos de links e relacionados, dry-run e verificação SFTP/HTTP. Planos históricos no painel em editorial/planos-links/2026-10-17-a2.json, a3.json e editorial/planos-relacionados/ equivalentes. Inseridos cinco links no corpo no total; nenhum post acima de quatro. Atualizados os pares de recomendação mais pertinentes, além dos índices, sitemap e regras estreitas. Backups por job e88fa5e0-566f-4497-844f-93ccd63565b2 e 79b8dc87-4703-4649-8ea4-d3aec67a05fa. Confirmados 58 artigos e 66 URLs, páginas em desktop/mobile, efeito de capa herdado e home preservada. Os dois registros foram arquivados em Artigos após confirmação.
+
+
+## FTP normal e retomada de três artigos — 18/10/2026
+
+Por solicitação de Felipe, o publicador passou a usar FTP normal na porta 21, modo passivo, raiz /www/, selecionado por transport em TweedEditorial/editorial/integracao.json. A credencial permanece no cofre TweedEditorial/Kinghost. A autenticação e a leitura da home foram conferidas antes de qualquer escrita. Preservados pré-verificação de hashes, backups individuais, envio temporário, renomeação e confirmação FTP/HTTP. A retomada mantém exatamente a lista do journal original.
+
+Publicados e arquivados após confirmação: uma-boa-restricao-pode-melhorar-uma-ideia; antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido; personalidade-de-marca-aparece-nas-escolhas-pequenas. Cada job passou em dry-run antes do envio, com planos scope:new-only. Posts antigos não foram reavaliados nem modificados. Backups em TweedEditorial/backups/publicacoes/ nos respectivos IDs dos jobs. Índices, capas, sitemap e regras estreitas de URL atualizados. Home e materiais de clientes preservados.

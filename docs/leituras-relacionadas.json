@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "catalogSha256": "8d1f8acfaca2a8f453d27b608fa75ccd19e5d53a3ea399e59b0eecc22315875c",
-  "reviewedAt": "2026-10-17",
+  "catalogSha256": "7b7691da1a2a1fa791da3d960986921fb762b1615ec598950ee17dea41772a1f",
+  "reviewedAt": "2026-10-18",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
       "targets": [
@@ -466,6 +466,30 @@
       ],
       "reason": "A operação explica as condições para cumprir a promessa; o segundo artigo conecta diretamente comunicação e atendimento percebido.",
       "modifiedAt": "2026-10-17"
+    },
+    "uma-boa-restricao-pode-melhorar-uma-ideia": {
+      "targets": [
+        "menos-e-mais-o-poder-de-campanhas-pequenas-com-grandes-ideias",
+        "grandes-ideias-pequenas-verbas-marcas-que-marcam"
+      ],
+      "reason": "Dois aprofundamentos sobre concentrar recursos e construir campanhas a partir de uma ideia clara.",
+      "modifiedAt": "2026-10-18"
+    },
+    "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido": {
+      "targets": [
+        "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade",
+        "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding"
+      ],
+      "reason": "Conecta a coerência da oferta à integração comercial e à página de destino como experiência de marca.",
+      "modifiedAt": "2026-10-18"
+    },
+    "personalidade-de-marca-aparece-nas-escolhas-pequenas": {
+      "targets": [
+        "multiplas-faces-da-marca-combinando-arquetipos-para-uma-identidade-rica",
+        "branding-na-pratica-para-pmes"
+      ],
+      "reason": "Relaciona a interpretação de arquétipos à expressão cotidiana da personalidade e à passagem do manual à prática.",
+      "modifiedAt": "2026-10-18"
     }
   }
 }

@@ -56,6 +56,30 @@
       "context": "A equipe pode estar se esforçando. O problema é que o funcionamento da empresa dificulta a proximidade prometida. Pedir mais simpatia aos atendentes não define um responsável, não organiza o histórico e não esclarece o próximo passo.",
       "reason": "Relaciona a causa operacional da experiência de atendimento à construção de marca além do marketing.",
       "modifiedAt": "2026-10-17"
+    },
+    {
+      "from": "uma-boa-restricao-pode-melhorar-uma-ideia",
+      "to": "marcas-memoraveis-nao-gritam-elas-fazem-sentido",
+      "anchor": "uma mensagem principal",
+      "context": "Há limites que comprometem o trabalho e precisam ser negociados. Mas também existem restrições que ajudam a definir o problema: um público específico, uma mensagem principal, um formato que a equipe consegue executar bem. Elas oferecem critérios para escolher entre caminhos possíveis.",
+      "reason": "Aprofunda diretamente o conceito do trecho em um artigo já publicado, sem alterar a redação aprovada.",
+      "modifiedAt": "2026-10-18"
+    },
+    {
+      "from": "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido",
+      "to": "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding",
+      "anchor": "a página demonstra",
+      "context": "Uma revisão útil começa com uma campanha e uma oferta, em vez de tentar avaliar todos os canais de uma vez. Anote o que é prometido, o que a página demonstra e o que aparece na proposta comercial. Procure diferenças de escopo, esforço, prazo, público e condições de contratação.",
+      "reason": "Aprofunda diretamente o conceito do trecho em um artigo já publicado, sem alterar a redação aprovada.",
+      "modifiedAt": "2026-10-18"
+    },
+    {
+      "from": "personalidade-de-marca-aparece-nas-escolhas-pequenas",
+      "to": "multiplas-faces-da-marca-combinando-arquetipos-para-uma-identidade-rica",
+      "anchor": "Arquétipos podem ajudar",
+      "context": "Arquétipos podem ajudar uma equipe a conversar sobre repertório, postura e possibilidades de expressão. É importante tratá-los como uma lente interpretativa de criação, não como diagnóstico científico da empresa ou de seus clientes.",
+      "reason": "Aprofunda diretamente o conceito do trecho em um artigo já publicado, sem alterar a redação aprovada.",
+      "modifiedAt": "2026-10-18"
     }
   ]
 }

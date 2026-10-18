@@ -1,4 +1,4 @@
-"""Publica somente uma solicitação Pronto aprovada. --dry-run não altera site/FTP."""
+"""Publica Pronto aprovado via transporte configurado; dry-run não altera site/servidor."""
 from pathlib import Path
 import argparse,base64,hashlib,json,os,re,shutil,subprocess,sys,tempfile,datetime,errno,io
 ROOT=Path(__file__).resolve().parents[1]
@@ -6,6 +6,8 @@ sys.path.insert(0,str(ROOT/'.local/editorial-runtime'))
 from bs4 import BeautifulSoup
 from PIL import Image
 import markdown
+from internal_links import merge_plan, patch_document
+from related_articles import validate_related,patch_related
 BASE='https://www.agenciatweed.com.br'
 HOST='ftp.web-ded-128487a.kinghost.net'
 REMOTE='/home/agenciatweed/www'
@@ -20,7 +22,7 @@ def guard(item,job):
     assert fingerprint(item)==job['snapshot'],'Texto ou capa mudou após a aprovação.'
     assert item.get('automation',{}).get('reviewKey')==review_key(item),'O texto mudou após a revisão automática.'
     assert item['status']=='Pronto' and all(item.get('checks',{}).get(k) is True for k in ('thesis','facts','voice','privacy')),'Revisão não aprovada.'
-    assert all(item.get(k,'').strip() for k in ('title','body','keyword','meta','sources','imageAlt','prompt','slug','date')),'Metadados incompletos.'
+    assert all(item.get(k,'').strip() for k in ('title','body','keyword','meta','imageAlt','prompt','slug','date')),'Metadados incompletos.'
     assert re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*',item['slug']) and len(item['slug'])<=180,'Slug inválido.'
     assert datetime.date.fromisoformat(item['date'])<=datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-3))).date(),'A data de publicação ainda não chegou.'
     assert re.fullmatch(r'conteudos/'+re.escape(item['id'])+r'/imagens/[a-f0-9]{64}\.(png|jpg|webp)',item.get('imageFile','')),'Capa local obrigatória.'
@@ -53,7 +55,7 @@ def render_body(item):
     return str(soup),urls
 
 def main():
-    parser=argparse.ArgumentParser();parser.add_argument('--editorial-root',type=Path,required=True);parser.add_argument('--job',required=True);parser.add_argument('--dry-run',action='store_true');args=parser.parse_args();editorial=args.editorial_root.resolve()
+    parser=argparse.ArgumentParser();parser.add_argument('--editorial-root',type=Path,required=True);parser.add_argument('--job',required=True);parser.add_argument('--dry-run',action='store_true');parser.add_argument('--links',type=Path,required=True);parser.add_argument('--related',type=Path,required=True);args=parser.parse_args();editorial=args.editorial_root.resolve()
     config=load(editorial/'editorial/integracao.json');assert (editorial/config['siteRoot']).resolve()==ROOT,'Raiz do site divergente da configuração.'
     lock=editorial/'.local/project.lock';lock.parent.mkdir(exist_ok=True)
     try:fd=os.open(lock,os.O_CREAT|os.O_EXCL|os.O_WRONLY)
@@ -77,17 +79,27 @@ def publish(args,editorial):
     body,citations=render_body(item);img_path='/assets/artigos-editoriais/'+source.name;published=item['date']+'T12:00:00-03:00'
     record={'id':'editorial-'+item['id'],'editorial_id':item['id'],'slug':slug,'title':item['title'],'original_url':BASE+'/'+slug+'/','author':'Felipe Rijo','published':published,'original_modified':published,'categories':[load(editorial/'editorial/editorias.json')['editorias'][item['edition']]['name']],'description':item['meta'],'content':body,'image':{'path':img_path,'width':width,'height':height,'source':item['imageFile'],'sha256':sha(image_bytes)},'image_alt':item['imageAlt'],'keyword':item['keyword'],'citations':citations,'faq':faq_metadata(item)}
     ledger=[r for r in ledger if r.get('editorial_id')!=item['id']]+[record]
+    links_plan=load(args.links);assert links_plan['newSlug']==slug,'Plano de links pertence a outro artigo.'
+    registry=merge_plan(ROOT,restored+ledger,links_plan)
+    related_plan=validate_related(load(args.related),restored+ledger)
+    if links_plan.get('scope')=='new-only':
+        previous_related=load(ROOT/'docs/leituras-relacionadas.json')
+        assert all(related_plan['articles'].get(r['slug'])==previous_related['articles'][r['slug']] for r in restored+ledger if r['slug']!=slug),'Na rodada reduzida, preserve as recomendações dos artigos antigos.'
     thumbs=load(ROOT/'docs/miniaturas-blog.json');thumbs[slug]={'path':img_path,'width':width,'height':height,'source':item['imageFile'],'sha256':sha(image_bytes)}
     section=next(s for s in load(ROOT/'docs/secoes-blog.json') if s['name']==record['categories'][0])
     with tempfile.TemporaryDirectory(prefix='tweed-editorial-') as tmp:
         stage=Path(tmp);shutil.copytree(ROOT/'site/parallax',stage/'site/parallax');shutil.copytree(ROOT/'docs',stage/'docs');shutil.copytree(ROOT/'tools',stage/'tools',ignore=shutil.ignore_patterns('__pycache__'))
-        write(stage/'docs/artigos-editoriais.json',ledger);write(stage/'docs/miniaturas-blog.json',thumbs);dest=stage/'site/parallax'/img_path.lstrip('/');dest.parent.mkdir(exist_ok=True);dest.write_bytes(image_bytes)
+        write(stage/'docs/leituras-relacionadas.json',related_plan);write(stage/'docs/links-internos.json',registry);write(stage/'docs/artigos-editoriais.json',ledger);write(stage/'docs/miniaturas-blog.json',thumbs);dest=stage/'site/parallax'/img_path.lstrip('/');dest.parent.mkdir(exist_ok=True);dest.write_bytes(image_bytes)
         env={**os.environ,'TWEED_BUILD_ROOT':str(stage)}
         subprocess.run([sys.executable,str(ROOT/'tools/generate_articles.py')],env=env,check=True,stdout=subprocess.DEVNULL)
-        # Preserve os artigos anteriores byte a byte. O gerador é reutilizado somente para o novo artigo e índices.
+        # Preserva o conteúdo anterior e aplica somente os links e relacionados revisados.
         for r in restored+[r for r in ledger if r['slug']!=slug]:
             old=ROOT/'site/parallax'/r['slug']/'index.html'
-            if old.exists():shutil.copyfile(old,stage/'site/parallax'/r['slug']/'index.html')
+            if old.exists():
+                patched=patch_document(old.read_text(encoding='utf8'),r['slug'],registry,{p['slug'] for p in restored+ledger})
+                patched=patch_related(patched,r['slug'],related_plan,restored+ledger)
+                if patched==old.read_text(encoding='utf8'):shutil.copyfile(old,stage/'site/parallax'/r['slug']/'index.html')
+                else:(stage/'site/parallax'/r['slug']/'index.html').write_text(patched,encoding='utf8')
         subprocess.run([sys.executable,str(ROOT/'tools/validate_articles.py')],env=env,check=True)
         subprocess.run([sys.executable,str(ROOT/'tools/validate_blog.py')],env=env,check=True)
         page=BeautifulSoup((stage/'site/parallax'/slug/'index.html').read_text(encoding='utf8'),'html.parser')
@@ -95,6 +107,9 @@ def publish(args,editorial):
         article=next(n for n in data['@graph'] if n.get('@type')=='BlogPosting')
         assert article.get('hasPart',[])==[{'@type':'Question','name':f['q'],'acceptedAnswer':{'@type':'Answer','text':f['a']}} for f in record['faq']],'FAQ estruturado divergente.'
         candidates=[img_path.lstrip('/'),slug+'/index.html','blog/index.html',section['slug']+'/index.html','sitemap.xml','.htaccess']
+        candidates=list(dict.fromkeys(candidates+[link['from']+'/index.html' for link in links_plan['links']]+[r['slug']+'/index.html' for r in restored+ledger]))
+        # Uma retomada mantém exatamente a lista validada no primeiro envio.
+        if journal:candidates=[e['path'] for e in journal['plan']]
         plan=[]
         for rel in candidates:
             new=(stage/'site/parallax'/rel).read_bytes();old=ROOT/'site/parallax'/rel
@@ -112,7 +127,7 @@ def publish(args,editorial):
         deploy(stage/'site/parallax',plan,editorial,job['id'])
         for entry in plan:
             out=ROOT/'site/parallax'/entry['path'];out.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(stage/'site/parallax'/entry['path'],out)
-        write(ROOT/'docs/artigos-editoriais.json',ledger);write(ROOT/'docs/miniaturas-blog.json',thumbs)
+        write(ROOT/'docs/leituras-relacionadas.json',related_plan);write(ROOT/'docs/links-internos.json',registry);write(ROOT/'docs/artigos-editoriais.json',ledger);write(ROOT/'docs/miniaturas-blog.json',thumbs)
         manifest=load(ROOT/'docs/publicacao-artigos-manifesto.json');by_path={e['path']:e for e in manifest}
         for entry in plan:by_path[entry['path']]={k:entry[k] for k in ('path','bytes','sha256')}
         write(ROOT/'docs/publicacao-artigos-manifesto.json',sorted(by_path.values(),key=lambda e:e['path']))
@@ -123,6 +138,9 @@ def publish(args,editorial):
         print('Publicação e arquivos remotos verificados. Faça commit/push dos dois repositórios.')
 
 def deploy(site,plan,editorial,job_id):
+    transport=load(editorial/'editorial/integracao.json').get('transport','sftp')
+    if transport=='ftp':return deploy_ftp(site,plan,editorial,job_id)
+    assert transport=='sftp','Transporte desconhecido.'
     import paramiko
     sys.path.insert(0,str(editorial/'scripts'))
     from credencial_sftp import read as credential
@@ -146,7 +164,8 @@ def deploy(site,plan,editorial,job_id):
         backup=editorial/'backups/publicacoes'/job_id
         for name,data in remote_data.items():
             if data is not None:
-                target=backup/name;target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(data)
+                target=backup/name;target.parent.mkdir(parents=True,exist_ok=True)
+                if not target.exists():target.write_bytes(data)
         for entry in plan:
             name=entry['path'];parts=name.split('/')[:-1];current=REMOTE
             for part in parts:
@@ -166,6 +185,51 @@ def deploy(site,plan,editorial,job_id):
             if entry['path']=='.htaccess':continue
             url=BASE+'/'+entry['path'].removesuffix('index.html');r=requests.get(url,timeout=30);r.raise_for_status();assert sha(r.content)==entry['sha256'],'HTTP diverge: '+url
     finally:client.close()
+def deploy_ftp(site,plan,editorial,job_id):
+    import ftplib,requests
+    sys.path.insert(0,str(editorial/'scripts'))
+    from credencial_sftp import read as credential
+    remote='/www'
+    ftp=ftplib.FTP()
+    try:
+        ftp.connect(HOST,21,timeout=30);ftp.login('agenciatweed',credential());ftp.set_pasv(True)
+        def download(name):
+            output=io.BytesIO();ftp.retrbinary('RETR '+remote+'/'+name,output.write);return output.getvalue()
+        previous={}
+        for entry in plan:
+            name=entry['path'];assert '..' not in name.split('/') and not name.startswith('/')
+            try:data=download(name)
+            except ftplib.error_perm as error:
+                if not str(error).startswith('550') or entry['before'] is not None:raise
+                data=None
+            assert data is None or sha(data) in (entry['before'],entry['sha256']),'Arquivo remoto mudou: '+name
+            previous[name]=data
+        for name,data in previous.items():
+            if data is not None:
+                backup=editorial/'backups/publicacoes'/job_id/name;backup.parent.mkdir(parents=True,exist_ok=True)
+                if not backup.exists():backup.write_bytes(data)
+        for entry in plan:
+            name=entry['path']
+            if previous[name] is not None and sha(previous[name])==entry['sha256']:continue
+            current=remote
+            for part in name.split('/')[:-1]:
+                current+='/'+part
+                try:ftp.cwd(current)
+                except ftplib.error_perm as error:
+                    if not str(error).startswith('550'):raise
+                    ftp.mkd(current)
+                finally:ftp.cwd(remote)
+            temporary=name+'.tweed-'+job_id
+            with (site/name).open('rb') as source:ftp.storbinary('STOR '+remote+'/'+temporary,source)
+            assert sha(download(temporary))==entry['sha256'],'Upload FTP incompleto.'
+            ftp.rename(remote+'/'+temporary,remote+'/'+name)
+        for entry in plan:
+            assert sha(download(entry['path']))==entry['sha256'],'Verificação FTP falhou.'
+            if entry['path']=='.htaccess':continue
+            url=BASE+'/'+entry['path'].removesuffix('index.html');response=requests.get(url,timeout=30);response.raise_for_status()
+            assert sha(response.content)==entry['sha256'],'HTTP diverge: '+url
+    finally:ftp.close()
+
 if __name__=='__main__':
     try:main()
     except Exception as e:raise SystemExit(str(e))

@@ -404,5 +404,26 @@
     "height": 896,
     "source": "conteudos/a3/imagens/9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3.png",
     "sha256": "9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3"
+  },
+  "uma-boa-restricao-pode-melhorar-uma-ideia": {
+    "path": "/assets/artigos-editoriais/d9bcdfabc1c53a1e2ea3befc4e076fab1c1d73bbbe17bdf771b3f77c1004b6a4.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/a4/imagens/d9bcdfabc1c53a1e2ea3befc4e076fab1c1d73bbbe17bdf771b3f77c1004b6a4.png",
+    "sha256": "d9bcdfabc1c53a1e2ea3befc4e076fab1c1d73bbbe17bdf771b3f77c1004b6a4"
+  },
+  "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido": {
+    "path": "/assets/artigos-editoriais/cd4bd419ca02a7f3c0728c92d637e56dfab93f9c63929934ea5caa7bf4108793.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/a5/imagens/cd4bd419ca02a7f3c0728c92d637e56dfab93f9c63929934ea5caa7bf4108793.png",
+    "sha256": "cd4bd419ca02a7f3c0728c92d637e56dfab93f9c63929934ea5caa7bf4108793"
+  },
+  "personalidade-de-marca-aparece-nas-escolhas-pequenas": {
+    "path": "/assets/artigos-editoriais/8f46d32ab62b15cbeb3e3f55c167b8f9b0af2a4cfb2107488c1ab01c246ca17a.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/a6/imagens/8f46d32ab62b15cbeb3e3f55c167b8f9b0af2a4cfb2107488c1ab01c246ca17a.png",
+    "sha256": "8f46d32ab62b15cbeb3e3f55c167b8f9b0af2a4cfb2107488c1ab01c246ca17a"
   }
 }
