@@ -120,3 +120,8 @@ Publicados os artigos seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar e
 Por solicitação de Felipe, o publicador passou a usar FTP normal na porta 21, modo passivo, raiz /www/, selecionado por transport em TweedEditorial/editorial/integracao.json. A credencial permanece no cofre TweedEditorial/Kinghost. A autenticação e a leitura da home foram conferidas antes de qualquer escrita. Preservados pré-verificação de hashes, backups individuais, envio temporário, renomeação e confirmação FTP/HTTP. A retomada mantém exatamente a lista do journal original.
 
 Publicados e arquivados após confirmação: uma-boa-restricao-pode-melhorar-uma-ideia; antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido; personalidade-de-marca-aparece-nas-escolhas-pequenas. Cada job passou em dry-run antes do envio, com planos scope:new-only. Posts antigos não foram reavaliados nem modificados. Backups em TweedEditorial/backups/publicacoes/ nos respectivos IDs dos jobs. Índices, capas, sitemap e regras estreitas de URL atualizados. Home e materiais de clientes preservados.
+
+
+## Rodada 7 — plano de mídia e comentários — 18/10/2026
+
+Publicados plano-de-midia-2027-alem-de-uma-plataforma e comentarios-parte-do-produto-experiencia-de-marca, aprovados em Pronto, após dry-run e verificação FTP/HTTP. Planos new-only preservaram todas as entradas antigas de relacionados e os HTML antigos. Cada novo post tem um link contextual e duas sugestões por pertinência. Notas preenchidas foram preservadas; FAQ permanece exclusivamente estruturado. Índices do blog e séries, capas, sitemap e regras estreitas atualizados. Backups sob os jobs 07e0b0e0-31f5-4e14-91a6-539eaf05f8d0 e bab89bc8-2b6d-4823-8d34-f117ff12476c. Acervo validado: 63 artigos e 71 URLs; home preservada.

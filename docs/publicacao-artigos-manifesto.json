@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 4487,
-    "sha256": "6f811690d37deaf97b4e08e308898fe5e32221527af5ed0a9e347a0043abf990"
+    "bytes": 4593,
+    "sha256": "d33bc2a89f4e0795ee31b34df15252ef8b9632e6db8e13681ddc5c7b6d1d71e5"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -43,6 +43,16 @@
     "path": "arquetipos-de-marca-para-pequenas-empresas/index.html",
     "bytes": 16206,
     "sha256": "a2b1e9e128d07d166c1cb6ece14391a78bcc798a60c54b533cfa14c6bb7c2633"
+  },
+  {
+    "path": "assets/artigos-editoriais/0aed6dd48d0273afc49035151d3d0b9d116c5f07e804b93b743434c0fa1b081f.png",
+    "bytes": 1109494,
+    "sha256": "0aed6dd48d0273afc49035151d3d0b9d116c5f07e804b93b743434c0fa1b081f"
+  },
+  {
+    "path": "assets/artigos-editoriais/466cf4a03b605ece7f8be90d8fd7c105e1313134f7055c586e89366224b6c5ae.png",
+    "bytes": 2256052,
+    "sha256": "466cf4a03b605ece7f8be90d8fd7c105e1313134f7055c586e89366224b6c5ae"
   },
   {
     "path": "assets/artigos-editoriais/8f46d32ab62b15cbeb3e3f55c167b8f9b0af2a4cfb2107488c1ab01c246ca17a.png",
@@ -771,13 +781,13 @@
   },
   {
     "path": "blog-marcas-em-acao/index.html",
-    "bytes": 16040,
-    "sha256": "538d4ba5c363ff2c0f71ef766902d4e8596e967494c2586f469ce0e20b3a9da9"
+    "bytes": 16535,
+    "sha256": "94358a5049f7bd4469152853900816fa8740a37f8ab1bf0e8b6298c05d65546b"
   },
   {
     "path": "blog-marcas-em-movimento/index.html",
-    "bytes": 14558,
-    "sha256": "8c165c5a05ed15f7a4fd791e944430c2859fc55a699495002b71536d71573b5d"
+    "bytes": 15043,
+    "sha256": "b12711d0ac16b034a64585065435473b595a272071dbf4ee4f50964b05b9ce40"
   },
   {
     "path": "blog-marcas-que-ficam/index.html",
@@ -791,8 +801,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 23356,
-    "sha256": "9e798c823f07562c10a66453570fcd595ee25c90678083fbab60a458accbd52c"
+    "bytes": 23268,
+    "sha256": "4d7121508ee9e1fd7348166187345ab5269ddd0442451cdd12a4610c55db521b"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -823,6 +833,11 @@
     "path": "clientes-nao-compram-produtos-compram-a-energia-da-sua-marca/index.html",
     "bytes": 16226,
     "sha256": "52e8b68db2b7ea59f5c96634067fb13cfb6aba9228f8a070ba535aeee258c44a"
+  },
+  {
+    "path": "comentarios-parte-do-produto-experiencia-de-marca/index.html",
+    "bytes": 20272,
+    "sha256": "75a324575c14c88e387763267876db8403220b5cd6f9408e756d2efaf9b9c2a7"
   },
   {
     "path": "como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos/index.html",
@@ -1005,6 +1020,11 @@
     "sha256": "708f3a14a424324d6aec7f80267bdb3327489e65c218d8611873b972b77f8d17"
   },
   {
+    "path": "plano-de-midia-2027-alem-de-uma-plataforma/index.html",
+    "bytes": 20863,
+    "sha256": "60a6f5c546372146fc53ee4a73bd0511a690ec76cd565c054621a91def0926da"
+  },
+  {
     "path": "por-que-a-escassez-vende-mas-nem-sempre/index.html",
     "bytes": 18333,
     "sha256": "03911d95cf8444abd516b36965936992c467db411270859248dfa2e901e3d5ef"
@@ -1046,8 +1066,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 10590,
-    "sha256": "704f3d5e4b2c16af7c6abe2abe4aa3ba42b6c693cfd0fb31aa5cde006f0b61b1"
+    "bytes": 10889,
+    "sha256": "f1ac1830a90432d4f531744b72f2557c2b17cd3954759ce3f15c0210d83c20c5"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",

@@ -80,6 +80,22 @@
       "context": "Arquétipos podem ajudar uma equipe a conversar sobre repertório, postura e possibilidades de expressão. É importante tratá-los como uma lente interpretativa de criação, não como diagnóstico científico da empresa ou de seus clientes.",
       "reason": "Aprofunda diretamente o conceito do trecho em um artigo já publicado, sem alterar a redação aprovada.",
       "modifiedAt": "2026-10-18"
+    },
+    {
+      "from": "plano-de-midia-2027-alem-de-uma-plataforma",
+      "to": "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido",
+      "anchor": "expectativas incompatíveis",
+      "context": "Uma campanha pode ser coerente visualmente e ainda assim encaminhar expectativas incompatíveis. O anúncio destaca facilidade; a página omite esforço; o comercial apresenta exigências que surgem apenas no final.",
+      "reason": "Liga a distribuição de canais à coerência da oferta e à integração entre marketing e vendas.",
+      "modifiedAt": "2026-10-18"
+    },
+    {
+      "from": "comentarios-parte-do-produto-experiencia-de-marca",
+      "to": "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+      "anchor": "não confundir cordialidade com resposta",
+      "context": "O importante é não confundir cordialidade com resposta. Uma frase simpática que ignora a pergunta continua deixando a dúvida aberta. Da mesma forma, prometer uma solução sem ter condições de cumpri-la cria outra expectativa difícil de sustentar.",
+      "reason": "Aprofunda a resposta como experiência de marca e a participação pública de clientes como evidência.",
+      "modifiedAt": "2026-10-18"
     }
   ]
 }

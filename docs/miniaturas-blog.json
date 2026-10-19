@@ -425,5 +425,19 @@
     "height": 896,
     "source": "conteudos/a6/imagens/8f46d32ab62b15cbeb3e3f55c167b8f9b0af2a4cfb2107488c1ab01c246ca17a.png",
     "sha256": "8f46d32ab62b15cbeb3e3f55c167b8f9b0af2a4cfb2107488c1ab01c246ca17a"
+  },
+  "plano-de-midia-2027-alem-de-uma-plataforma": {
+    "path": "/assets/artigos-editoriais/0aed6dd48d0273afc49035151d3d0b9d116c5f07e804b93b743434c0fa1b081f.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/c8e26c5f-2cb8-4de4-a2a3-e5f4afaeb06d/imagens/0aed6dd48d0273afc49035151d3d0b9d116c5f07e804b93b743434c0fa1b081f.png",
+    "sha256": "0aed6dd48d0273afc49035151d3d0b9d116c5f07e804b93b743434c0fa1b081f"
+  },
+  "comentarios-parte-do-produto-experiencia-de-marca": {
+    "path": "/assets/artigos-editoriais/466cf4a03b605ece7f8be90d8fd7c105e1313134f7055c586e89366224b6c5ae.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/11159e4a-b666-46eb-838f-1109f8b0543a/imagens/466cf4a03b605ece7f8be90d8fd7c105e1313134f7055c586e89366224b6c5ae.png",
+    "sha256": "466cf4a03b605ece7f8be90d8fd7c105e1313134f7055c586e89366224b6c5ae"
   }
 }

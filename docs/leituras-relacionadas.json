@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "7b7691da1a2a1fa791da3d960986921fb762b1615ec598950ee17dea41772a1f",
+  "catalogSha256": "7d50ce6c2b4b1d5c0f6f15fdca77c745daa0d4be19ed437a0344a85c959707ee",
   "reviewedAt": "2026-10-18",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -489,6 +489,22 @@
         "branding-na-pratica-para-pmes"
       ],
       "reason": "Relaciona a interpretação de arquétipos à expressão cotidiana da personalidade e à passagem do manual à prática.",
+      "modifiedAt": "2026-10-18"
+    },
+    "plano-de-midia-2027-alem-de-uma-plataforma": {
+      "targets": [
+        "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido",
+        "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade"
+      ],
+      "reason": "Liga a distribuição de canais à coerência da oferta e à integração entre marketing e vendas.",
+      "modifiedAt": "2026-10-18"
+    },
+    "comentarios-parte-do-produto-experiencia-de-marca": {
+      "targets": [
+        "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+        "marca-nas-maos-do-cliente-como-o-conteudo-gerado-pelo-usuario-impulsiona-seu-branding"
+      ],
+      "reason": "Aprofunda a resposta como experiência de marca e a participação pública de clientes como evidência.",
       "modifiedAt": "2026-10-18"
     }
   }
