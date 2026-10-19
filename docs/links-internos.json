@@ -96,6 +96,46 @@
       "context": "O importante é não confundir cordialidade com resposta. Uma frase simpática que ignora a pergunta continua deixando a dúvida aberta. Da mesma forma, prometer uma solução sem ter condições de cumpri-la cria outra expectativa difícil de sustentar.",
       "reason": "Aprofunda a resposta como experiência de marca e a participação pública de clientes como evidência.",
       "modifiedAt": "2026-10-18"
+    },
+    {
+      "from": "menos-e-mais-o-poder-de-campanhas-pequenas-com-grandes-ideias",
+      "to": "uma-boa-restricao-pode-melhorar-uma-ideia",
+      "anchor": "recursos bastante limitados",
+      "context": "Recentemente, acompanhamos a criação de uma campanha feita com recursos bastante limitados, mas com uma ideia poderosa: celebrar o cotidiano de clientes reais com frases e imagens colhidas em interações autênticas. Em vez de contratar atores ou produzir algo mirabolante, usou-se o que já existia: a verdade da marca no dia a dia. Resultado? Um engajamento orgânico alto, um aumento significativo de recomendações e uma conexão emocional que dinheiro nenhum compra.",
+      "reason": "Aprofunda como limites de recursos orientam escolhas criativas sem romantizar falta de condições.",
+      "modifiedAt": "2026-10-19"
+    },
+    {
+      "from": "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding",
+      "to": "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido",
+      "anchor": "Mesma promessa",
+      "context": "Mesma promessa em anúncio, página e checkout",
+      "reason": "Aprofunda a coerência da oferta entre anúncio, destino e conversa de contratação.",
+      "modifiedAt": "2026-10-19"
+    },
+    {
+      "from": "multiplas-faces-da-marca-combinando-arquetipos-para-uma-identidade-rica",
+      "to": "personalidade-de-marca-aparece-nas-escolhas-pequenas",
+      "anchor": "maneiras coerentes de expressar essa essência",
+      "context": "Essência é aquilo que permanece.Faces são maneiras coerentes de expressar essa essência.",
+      "reason": "Traduz a essência e referências arquetípicas em decisões pequenas de linguagem e comportamento.",
+      "modifiedAt": "2026-10-19"
+    },
+    {
+      "from": "orcamento-de-marketing-2026-para-pmes",
+      "to": "plano-de-midia-2027-alem-de-uma-plataforma",
+      "anchor": "poucos testes",
+      "context": "Se o caixa está curto, rode ondas de 30 a 45 dias com poucos testes, priorizados por impacto esperado, confiança na hipótese e esforço de execução. Esses “sprints” são apenas ciclos curtos com início, meio, fim e critérios de sucesso definidos. O ritmo dá previsibilidade, mantém a equipe focada e cria uma cadência de aprendizados que vira vantagem competitiva. Em 2026, não vence quem grita mais, e sim quem aprende mais rápido e transforma aprendizado em receita. Em resumo, o orçamento de marketing 2026 para PMEs deve responder menos à tesoura e mais à pergunta: “qual é o mínimo para proteger meu pipeline e bater a meta?”.",
+      "reason": "Detalha como testar canais com papéis definidos e critérios de avaliação compatíveis com a capacidade.",
+      "modifiedAt": "2026-10-19"
+    },
+    {
+      "from": "marca-nas-maos-do-cliente-como-o-conteudo-gerado-pelo-usuario-impulsiona-seu-branding",
+      "to": "comentarios-parte-do-produto-experiencia-de-marca",
+      "anchor": "conversas em tempo real",
+      "context": "David Cancel fala sobre conversas em tempo real e como elas melhoram experiência e encurtam ciclos (Conversational Marketing, David Cancel). Quando sua conversa é boa, ela vira print — e print vira prova social.",
+      "reason": "Conecta conversa pública e prova social ao tratamento de dúvidas e respostas nos comentários.",
+      "modifiedAt": "2026-10-19"
     }
   ]
 }

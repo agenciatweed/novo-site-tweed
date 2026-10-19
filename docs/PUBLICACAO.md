@@ -125,3 +125,8 @@ Publicados e arquivados após confirmação: uma-boa-restricao-pode-melhorar-uma
 ## Rodada 7 — plano de mídia e comentários — 18/10/2026
 
 Publicados plano-de-midia-2027-alem-de-uma-plataforma e comentarios-parte-do-produto-experiencia-de-marca, aprovados em Pronto, após dry-run e verificação FTP/HTTP. Planos new-only preservaram todas as entradas antigas de relacionados e os HTML antigos. Cada novo post tem um link contextual e duas sugestões por pertinência. Notas preenchidas foram preservadas; FAQ permanece exclusivamente estruturado. Índices do blog e séries, capas, sitemap e regras estreitas atualizados. Backups sob os jobs 07e0b0e0-31f5-4e14-91a6-539eaf05f8d0 e bab89bc8-2b6d-4823-8d34-f117ff12476c. Acervo validado: 63 artigos e 71 URLs; home preservada.
+
+
+## Manutenção periódica — execução 10 — 19/10/2026
+
+Reavaliados os 63 pares de Continue a leitura contra o acervo atual: nove pares atualizados e 54 preservados. Inseridos cinco links naturais de artigos anteriores para os posts recentes sobre restrições criativas, oferta antes de mídia, personalidade cotidiana, plano de mídia e comentários. Sem reescrita do corpo. Planos históricos no painel: editorial/planos-links/2026-10-19-ciclo10-1.json até -5.json e editorial/planos-relacionados/2026-10-19-ciclo10.json. Cada plano passou em dry-run e verificação FTP/HTTP; backups individuais em TweedEditorial/backups/publicacoes/links-<hash-do-plano>/. Atualizados somente nove artigos e sitemap, mais registros locais. Os 63 artigos e 71 URLs passaram nos validadores; nove páginas ao vivo, cinco âncoras, pares relacionados e desktop/mobile conferidos. Home e materiais de clientes preservados. Próxima manutenção prevista na execução 20.

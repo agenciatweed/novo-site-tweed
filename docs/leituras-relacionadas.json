@@ -1,7 +1,7 @@
 {
   "version": 1,
   "catalogSha256": "7d50ce6c2b4b1d5c0f6f15fdca77c745daa0d4be19ed437a0344a85c959707ee",
-  "reviewedAt": "2026-10-18",
+  "reviewedAt": "2026-10-19",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
       "targets": [
@@ -78,10 +78,10 @@
     "multiplas-faces-da-marca-combinando-arquetipos-para-uma-identidade-rica": {
       "targets": [
         "arquetipos-de-marca-para-pequenas-empresas",
-        "quando-tudo-parece-igual-os-arquetipos-ajudam-sua-marca-a-ser-lembrada"
+        "personalidade-de-marca-aparece-nas-escolhas-pequenas"
       ],
-      "reason": "Desenvolve a definição de personalidade e a diferenciação por arquétipos.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Combina o repertório arquetípico com tradução prática da personalidade em escolhas de linguagem e experiência.",
+      "modifiedAt": "2026-10-19"
     },
     "do-oceano-vermelho-ao-azul-estrategias-de-nicho-para-pmes-fugirem-da-concorrencia": {
       "targets": [
@@ -94,18 +94,18 @@
     "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding": {
       "targets": [
         "divida-de-marca",
-        "a-marca-que-voce-posta-e-a-mesma-que-voce-entrega"
+        "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido"
       ],
-      "reason": "Explora confiança percebida e coerência entre comunicação e experiência.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Preserva a percepção de confiança e aprofunda o alinhamento de promessa, página e conversa comercial.",
+      "modifiedAt": "2026-10-19"
     },
     "marca-nas-maos-do-cliente-como-o-conteudo-gerado-pelo-usuario-impulsiona-seu-branding": {
       "targets": [
         "ninguem-compra-sozinho",
-        "alem-do-anuncio-como-o-boca-a-boca-mantem-sua-marca-viva-quando-a-propaganda-termina"
+        "comentarios-parte-do-produto-experiencia-de-marca"
       ],
-      "reason": "Relaciona conteúdo de clientes à influência social e ao boca a boca.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Preserva a influência social e aprofunda os comentários e respostas como evidência pública de uso e atendimento.",
+      "modifiedAt": "2026-10-19"
     },
     "alem-do-anuncio-como-o-boca-a-boca-mantem-sua-marca-viva-quando-a-propaganda-termina": {
       "targets": [
@@ -126,18 +126,18 @@
     "orcamento-de-marketing-2026-para-pmes": {
       "targets": [
         "metricas-sem-vaidade",
-        "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade"
+        "plano-de-midia-2027-alem-de-uma-plataforma"
       ],
-      "reason": "Aprofunda mensuração de resultados e conversão de demanda em vendas.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Combina critérios de acompanhamento com distribuição de investimento entre canais segundo seus papéis.",
+      "modifiedAt": "2026-10-19"
     },
     "menos-e-mais-o-poder-de-campanhas-pequenas-com-grandes-ideias": {
       "targets": [
         "grandes-ideias-pequenas-verbas-marcas-que-marcam",
-        "branding-para-pequenos-negocios"
+        "uma-boa-restricao-pode-melhorar-uma-ideia"
       ],
-      "reason": "Desenvolve criatividade de baixo orçamento e construção intencional de marca.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Mantém campanhas criativas enxutas e acrescenta critérios para usar restrições sem comprometer qualidade.",
+      "modifiedAt": "2026-10-19"
     },
     "sua-marca-precisa-de-consistencia-nao-de-perfeicao": {
       "targets": [
@@ -382,10 +382,10 @@
     "grandes-ideias-pequenas-verbas-marcas-que-marcam": {
       "targets": [
         "menos-e-mais-o-poder-de-campanhas-pequenas-com-grandes-ideias",
-        "branding-para-pequenos-negocios"
+        "uma-boa-restricao-pode-melhorar-uma-ideia"
       ],
-      "reason": "Desenvolve campanhas pequenas e branding com poucos recursos.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Relaciona criatividade com verba limitada a campanhas enxutas e à definição de restrições produtivas.",
+      "modifiedAt": "2026-10-19"
     },
     "arquetipos-de-marca-para-pequenas-empresas": {
       "targets": [
@@ -405,11 +405,11 @@
     },
     "branding-na-pratica-para-pmes": {
       "targets": [
-        "branding-nao-acontece-so-no-marketing-ele-vive-na-operacao",
+        "personalidade-de-marca-aparece-nas-escolhas-pequenas",
         "o-atendimento-esta-desmentindo-o-seu-posicionamento"
       ],
-      "reason": "A relação entre manual e prática ganha aplicação concreta no atendimento, preservando a visão de operação integrada.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Dois aprofundamentos práticos de como o manual ganha comportamento: personalidade cotidiana e atendimento.",
+      "modifiedAt": "2026-10-19"
     },
     "branding-como-experiencia-do-cliente": {
       "targets": [
@@ -462,10 +462,10 @@
     "o-atendimento-esta-desmentindo-o-seu-posicionamento": {
       "targets": [
         "branding-nao-acontece-so-no-marketing-ele-vive-na-operacao",
-        "a-marca-que-voce-posta-e-a-mesma-que-voce-entrega"
+        "comentarios-parte-do-produto-experiencia-de-marca"
       ],
-      "reason": "A operação explica as condições para cumprir a promessa; o segundo artigo conecta diretamente comunicação e atendimento percebido.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Mantém as condições operacionais e acrescenta aplicação direta em dúvidas e respostas públicas.",
+      "modifiedAt": "2026-10-19"
     },
     "uma-boa-restricao-pode-melhorar-uma-ideia": {
       "targets": [
@@ -477,11 +477,11 @@
     },
     "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido": {
       "targets": [
-        "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade",
+        "plano-de-midia-2027-alem-de-uma-plataforma",
         "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding"
       ],
-      "reason": "Conecta a coerência da oferta à integração comercial e à página de destino como experiência de marca.",
-      "modifiedAt": "2026-10-18"
+      "reason": "Conecta coerência da oferta à distribuição entre ambientes e à experiência na página de destino.",
+      "modifiedAt": "2026-10-19"
     },
     "personalidade-de-marca-aparece-nas-escolhas-pequenas": {
       "targets": [
