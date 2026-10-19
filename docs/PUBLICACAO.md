@@ -130,3 +130,8 @@ Publicados plano-de-midia-2027-alem-de-uma-plataforma e comentarios-parte-do-pro
 ## Manutenção periódica — execução 10 — 19/10/2026
 
 Reavaliados os 63 pares de Continue a leitura contra o acervo atual: nove pares atualizados e 54 preservados. Inseridos cinco links naturais de artigos anteriores para os posts recentes sobre restrições criativas, oferta antes de mídia, personalidade cotidiana, plano de mídia e comentários. Sem reescrita do corpo. Planos históricos no painel: editorial/planos-links/2026-10-19-ciclo10-1.json até -5.json e editorial/planos-relacionados/2026-10-19-ciclo10.json. Cada plano passou em dry-run e verificação FTP/HTTP; backups individuais em TweedEditorial/backups/publicacoes/links-<hash-do-plano>/. Atualizados somente nove artigos e sitemap, mais registros locais. Os 63 artigos e 71 URLs passaram nos validadores; nove páginas ao vivo, cinco âncoras, pares relacionados e desktop/mobile conferidos. Home e materiais de clientes preservados. Próxima manutenção prevista na execução 20.
+
+
+## Rodada 11 — quatro publicações — 19/10/2026
+
+Publicados marca-recomendada-por-ia-confianca, microcomunidades-relevancia-alem-das-impressoes, legibilidade-digital-marca-pessoas-ia e identidade-visual-2027-textura-cor-autoria. Aprovação humana em Pronto e capas existentes preservadas. Planos new-only, um link contextual e dois relacionados por artigo; recomendações antigas copiadas intactas. Cada job passou em dry-run, backup individual e verificação FTP/HTTP antes do arquivo em Artigos. Atualizados somente artigo, capa, índices, sitemap e regras estreitas, além dos registros. Backups por ID do job em TweedEditorial/backups/publicacoes/.

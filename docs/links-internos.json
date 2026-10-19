@@ -136,6 +136,38 @@
       "context": "David Cancel fala sobre conversas em tempo real e como elas melhoram experiência e encurtam ciclos (Conversational Marketing, David Cancel). Quando sua conversa é boa, ela vira print — e print vira prova social.",
       "reason": "Conecta conversa pública e prova social ao tratamento de dúvidas e respostas nos comentários.",
       "modifiedAt": "2026-10-19"
+    },
+    {
+      "from": "marca-recomendada-por-ia-confianca",
+      "to": "divida-de-marca",
+      "anchor": "evidências",
+      "context": "Pergunte quais riscos o comprador tenta avaliar. Ele quer saber se a equipe entende o contexto? Se haverá acompanhamento? Se o produto serve à aplicação pretendida? Procure evidências que possam responder a essas perguntas sem exagerar seu alcance.",
+      "reason": "Aprofunda sinais de confiança, risco percebido e evidências para avaliar uma oferta.",
+      "modifiedAt": "2026-10-19"
+    },
+    {
+      "from": "microcomunidades-relevancia-alem-das-impressoes",
+      "to": "como-marcas-locais-constroem-comunidades-mais-fortes-do-que-muitas-multinacionais",
+      "anchor": "Uma associação profissional",
+      "context": "Uma associação profissional, uma comunidade local ou uma newsletter especializada pode reunir pessoas com problemas próximos. Isso abre espaço para participação útil, desde que a marca compreenda a conversa e respeite as condições daquele ambiente.",
+      "reason": "Relaciona a participação em contextos específicos à comunidade local e à influência social nas escolhas.",
+      "modifiedAt": "2026-10-19"
+    },
+    {
+      "from": "legibilidade-digital-marca-pessoas-ia",
+      "to": "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding",
+      "anchor": "Informações consistentes",
+      "context": "Informações consistentes também importam. Se o horário, a descrição do serviço ou o endereço divergem entre os canais, existe uma dúvida prática a resolver. Manter os dados corretos beneficia diretamente quem está tentando contratar, independentemente de qualquer sistema de IA.",
+      "reason": "Conecta a compreensão digital da oferta à confiança depois da recomendação e à experiência concreta no site.",
+      "modifiedAt": "2026-10-19"
+    },
+    {
+      "from": "identidade-visual-2027-textura-cor-autoria",
+      "to": "personalidade-de-marca-aparece-nas-escolhas-pequenas",
+      "anchor": "particularidade na linguagem",
+      "context": "Outra empresa poderia encontrar sua particularidade na linguagem, na maneira de apresentar projetos ou numa combinação recorrente de formas. O recurso precisa nascer do contexto da marca. Aplicar uma textura comprada sobre tudo pode produzir apenas uma nova uniformidade.",
+      "reason": "Aprofunda autoria visual com decisões de personalidade e clareza estratégica além do acabamento.",
+      "modifiedAt": "2026-10-19"
     }
   ]
 }

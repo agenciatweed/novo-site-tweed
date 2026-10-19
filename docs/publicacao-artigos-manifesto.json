@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 4593,
-    "sha256": "d33bc2a89f4e0795ee31b34df15252ef8b9632e6db8e13681ddc5c7b6d1d71e5"
+    "bytes": 4774,
+    "sha256": "3fdd20c7b727c3bb4f0fd342ebb22a043703609a2abf2eec7be27a1f2150b99a"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -50,6 +50,16 @@
     "sha256": "0aed6dd48d0273afc49035151d3d0b9d116c5f07e804b93b743434c0fa1b081f"
   },
   {
+    "path": "assets/artigos-editoriais/2136e7215b18dc9c5bff7cc2d9a8a1a625a05d3d617de6d692dad8ed9c97f216.png",
+    "bytes": 1385311,
+    "sha256": "2136e7215b18dc9c5bff7cc2d9a8a1a625a05d3d617de6d692dad8ed9c97f216"
+  },
+  {
+    "path": "assets/artigos-editoriais/381f03b2f8762f26ed8c497cfec885c94f56566d61d452c2801c48d8978e2059.png",
+    "bytes": 1222661,
+    "sha256": "381f03b2f8762f26ed8c497cfec885c94f56566d61d452c2801c48d8978e2059"
+  },
+  {
     "path": "assets/artigos-editoriais/466cf4a03b605ece7f8be90d8fd7c105e1313134f7055c586e89366224b6c5ae.png",
     "bytes": 2256052,
     "sha256": "466cf4a03b605ece7f8be90d8fd7c105e1313134f7055c586e89366224b6c5ae"
@@ -58,6 +68,11 @@
     "path": "assets/artigos-editoriais/8f46d32ab62b15cbeb3e3f55c167b8f9b0af2a4cfb2107488c1ab01c246ca17a.png",
     "bytes": 1830112,
     "sha256": "8f46d32ab62b15cbeb3e3f55c167b8f9b0af2a4cfb2107488c1ab01c246ca17a"
+  },
+  {
+    "path": "assets/artigos-editoriais/9414b7842f54932c3c627daad66daaf617f977ba3bb3c0260b13e6828e945f09.png",
+    "bytes": 1322131,
+    "sha256": "9414b7842f54932c3c627daad66daaf617f977ba3bb3c0260b13e6828e945f09"
   },
   {
     "path": "assets/artigos-editoriais/9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3.png",
@@ -73,6 +88,11 @@
     "path": "assets/artigos-editoriais/d9bcdfabc1c53a1e2ea3befc4e076fab1c1d73bbbe17bdf771b3f77c1004b6a4.png",
     "bytes": 1520125,
     "sha256": "d9bcdfabc1c53a1e2ea3befc4e076fab1c1d73bbbe17bdf771b3f77c1004b6a4"
+  },
+  {
+    "path": "assets/artigos-editoriais/daf4ee2bd6ba4503923101e4c94ca8f8955f9d0bafcaaa8068902ec982a83f7e.png",
+    "bytes": 2129295,
+    "sha256": "daf4ee2bd6ba4503923101e4c94ca8f8955f9d0bafcaaa8068902ec982a83f7e"
   },
   {
     "path": "assets/artigos-editoriais/e9006ef3463dc16b77f44976b53baaed5e2aa7e30ebd3860a31ccde68ad15b40.png",
@@ -771,13 +791,13 @@
   },
   {
     "path": "blog-branding-na-marra/index.html",
-    "bytes": 17382,
-    "sha256": "869a283d64906cc657e931366481dc42da591d6ef218e11bdf6a0b8e2e43c325"
+    "bytes": 17921,
+    "sha256": "4c9348c160c4770bf82eb1733ffb19177c12a2db8cf773381b6acb944f291dee"
   },
   {
     "path": "blog-marcas-com-alma/index.html",
-    "bytes": 15956,
-    "sha256": "f19f06138df04c4307f0505bc5bdbe194fd2d077761f5fa5a82e4b1f2a050788"
+    "bytes": 16452,
+    "sha256": "b483d2c545b95099d13a6055b21c41f747b2ee1170d848aea1b6c73b532b12b4"
   },
   {
     "path": "blog-marcas-em-acao/index.html",
@@ -791,18 +811,18 @@
   },
   {
     "path": "blog-marcas-que-ficam/index.html",
-    "bytes": 14644,
-    "sha256": "aee697fac3c654b226cd343650f0f5b175ab4d4900638a88cec9a6e61768e476"
+    "bytes": 15182,
+    "sha256": "526b4eecad2283b7472def5cc2ba4b5fc6dcad4ec61c84f37537e6899ac417d2"
   },
   {
     "path": "blog-pequeno-mas-estrategico/index.html",
-    "bytes": 17399,
-    "sha256": "c34314f02edaa896dd065bd2a02db501f4e56a118262181e3673dab503b137e8"
+    "bytes": 17952,
+    "sha256": "ff93b78ec12c4c5d584769beda07e6431b24f7647630f8dd8ccf8c4d7d097ea6"
   },
   {
     "path": "blog/index.html",
-    "bytes": 23268,
-    "sha256": "4d7121508ee9e1fd7348166187345ab5269ddd0442451cdd12a4610c55db521b"
+    "bytes": 23343,
+    "sha256": "355e4edb6fbc19c3cf215fc4b15a5db7998ed6ff05d97af394a0bd6463314744"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -895,6 +915,16 @@
     "sha256": "e38ea11c4f25fe80b1d1850403f764d3565b96de518d9e993d462a7eaf9affa9"
   },
   {
+    "path": "identidade-visual-2027-textura-cor-autoria/index.html",
+    "bytes": 20280,
+    "sha256": "f819516d408dcdf46c2f899c1ef69a82c1c1510da3481ad91af2c727add5c841"
+  },
+  {
+    "path": "legibilidade-digital-marca-pessoas-ia/index.html",
+    "bytes": 20588,
+    "sha256": "7b4c58bb006be7f8433a14dce74e918e05f6b666530ff95a4a15e1dfcb5f6f7c"
+  },
+  {
     "path": "marca-nao-e-um-logotipo-por-que-pmes-precisam-contar-boas-historias/index.html",
     "bytes": 16647,
     "sha256": "e78bd2fb906ad39b0fe2c509bd78bda02d0fbdeac065a400860ee44d4fe779fe"
@@ -908,6 +938,11 @@
     "path": "marca-nas-maos-do-cliente-como-o-conteudo-gerado-pelo-usuario-impulsiona-seu-branding/index.html",
     "bytes": 27476,
     "sha256": "ee24a1c78d2f53c9192c91d5f45ba315e690c81cc2c9cb9bc28b89fe951f3520"
+  },
+  {
+    "path": "marca-recomendada-por-ia-confianca/index.html",
+    "bytes": 20069,
+    "sha256": "c37233cde1fe66a89e2c1997e5cc4273c7cb5583abcabdd376247ffeaf190834"
   },
   {
     "path": "marcas-memoraveis-nao-gritam-elas-fazem-sentido/index.html",
@@ -938,6 +973,11 @@
     "path": "metricas-sem-vaidade/index.html",
     "bytes": 29635,
     "sha256": "d4225c5d1f9b1319b3d7176df89cf1175f96e6237ca3700634fd02c7988ab985"
+  },
+  {
+    "path": "microcomunidades-relevancia-alem-das-impressoes/index.html",
+    "bytes": 20323,
+    "sha256": "aa6501531453cea31d61945e89c06677868529b2544122a66f1710cbcc703fb6"
   },
   {
     "path": "multiplas-faces-da-marca-combinando-arquetipos-para-uma-identidade-rica/index.html",
@@ -1066,8 +1106,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 10889,
-    "sha256": "7c0cba9b787f75de84098bef32436467b9dd9ba39ff7332f86287cb0d2163ac7"
+    "bytes": 11465,
+    "sha256": "7ae28e5f2597e90205717ed46d5a535067bc96dcfd8898de79329a032e13309b"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",

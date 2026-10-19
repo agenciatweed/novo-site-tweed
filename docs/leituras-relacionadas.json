@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "7d50ce6c2b4b1d5c0f6f15fdca77c745daa0d4be19ed437a0344a85c959707ee",
+  "catalogSha256": "6831e020568170e817e8f5af89e83ae90074076d1b688ac5a30817975d3d44b6",
   "reviewedAt": "2026-10-19",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -506,6 +506,38 @@
       ],
       "reason": "Aprofunda a resposta como experiência de marca e a participação pública de clientes como evidência.",
       "modifiedAt": "2026-10-18"
+    },
+    "marca-recomendada-por-ia-confianca": {
+      "targets": [
+        "divida-de-marca",
+        "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar"
+      ],
+      "reason": "Aprofunda sinais de confiança, risco percebido e evidências para avaliar uma oferta.",
+      "modifiedAt": "2026-10-19"
+    },
+    "microcomunidades-relevancia-alem-das-impressoes": {
+      "targets": [
+        "como-marcas-locais-constroem-comunidades-mais-fortes-do-que-muitas-multinacionais",
+        "ninguem-compra-sozinho"
+      ],
+      "reason": "Relaciona a participação em contextos específicos à comunidade local e à influência social nas escolhas.",
+      "modifiedAt": "2026-10-19"
+    },
+    "legibilidade-digital-marca-pessoas-ia": {
+      "targets": [
+        "marca-recomendada-por-ia-confianca",
+        "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding"
+      ],
+      "reason": "Conecta a compreensão digital da oferta à confiança depois da recomendação e à experiência concreta no site.",
+      "modifiedAt": "2026-10-19"
+    },
+    "identidade-visual-2027-textura-cor-autoria": {
+      "targets": [
+        "personalidade-de-marca-aparece-nas-escolhas-pequenas",
+        "seu-logotipo-e-bonito-mas-sua-marca-e-clara"
+      ],
+      "reason": "Aprofunda autoria visual com decisões de personalidade e clareza estratégica além do acabamento.",
+      "modifiedAt": "2026-10-19"
     }
   }
 }

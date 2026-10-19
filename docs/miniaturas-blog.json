@@ -439,5 +439,33 @@
     "height": 896,
     "source": "conteudos/11159e4a-b666-46eb-838f-1109f8b0543a/imagens/466cf4a03b605ece7f8be90d8fd7c105e1313134f7055c586e89366224b6c5ae.png",
     "sha256": "466cf4a03b605ece7f8be90d8fd7c105e1313134f7055c586e89366224b6c5ae"
+  },
+  "marca-recomendada-por-ia-confianca": {
+    "path": "/assets/artigos-editoriais/381f03b2f8762f26ed8c497cfec885c94f56566d61d452c2801c48d8978e2059.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/abdd5daf-4afb-4654-bff5-aa466b1dc27a/imagens/381f03b2f8762f26ed8c497cfec885c94f56566d61d452c2801c48d8978e2059.png",
+    "sha256": "381f03b2f8762f26ed8c497cfec885c94f56566d61d452c2801c48d8978e2059"
+  },
+  "microcomunidades-relevancia-alem-das-impressoes": {
+    "path": "/assets/artigos-editoriais/2136e7215b18dc9c5bff7cc2d9a8a1a625a05d3d617de6d692dad8ed9c97f216.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/b9b22beb-9381-489d-8314-4ac863fcdbc7/imagens/2136e7215b18dc9c5bff7cc2d9a8a1a625a05d3d617de6d692dad8ed9c97f216.png",
+    "sha256": "2136e7215b18dc9c5bff7cc2d9a8a1a625a05d3d617de6d692dad8ed9c97f216"
+  },
+  "legibilidade-digital-marca-pessoas-ia": {
+    "path": "/assets/artigos-editoriais/9414b7842f54932c3c627daad66daaf617f977ba3bb3c0260b13e6828e945f09.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/8473fdeb-fa34-4020-84df-503960a927ce/imagens/9414b7842f54932c3c627daad66daaf617f977ba3bb3c0260b13e6828e945f09.png",
+    "sha256": "9414b7842f54932c3c627daad66daaf617f977ba3bb3c0260b13e6828e945f09"
+  },
+  "identidade-visual-2027-textura-cor-autoria": {
+    "path": "/assets/artigos-editoriais/daf4ee2bd6ba4503923101e4c94ca8f8955f9d0bafcaaa8068902ec982a83f7e.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/a392ec62-9a33-4bae-832c-1fc667c016a6/imagens/daf4ee2bd6ba4503923101e4c94ca8f8955f9d0bafcaaa8068902ec982a83f7e.png",
+    "sha256": "daf4ee2bd6ba4503923101e4c94ca8f8955f9d0bafcaaa8068902ec982a83f7e"
   }
 }
