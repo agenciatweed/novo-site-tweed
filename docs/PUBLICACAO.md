@@ -135,3 +135,10 @@ Reavaliados os 63 pares de Continue a leitura contra o acervo atual: nove pares 
 ## Rodada 11 — quatro publicações — 19/10/2026
 
 Publicados marca-recomendada-por-ia-confianca, microcomunidades-relevancia-alem-das-impressoes, legibilidade-digital-marca-pessoas-ia e identidade-visual-2027-textura-cor-autoria. Aprovação humana em Pronto e capas existentes preservadas. Planos new-only, um link contextual e dois relacionados por artigo; recomendações antigas copiadas intactas. Cada job passou em dry-run, backup individual e verificação FTP/HTTP antes do arquivo em Artigos. Atualizados somente artigo, capa, índices, sitemap e regras estreitas, além dos registros. Backups por ID do job em TweedEditorial/backups/publicacoes/.
+
+
+## Rodada 20 — vídeo e manutenção — 21/10/2026
+
+Publicado reaproveitamento-video-adaptacao-criativa após aprovação humana, dry-run e confirmação FTP/HTTP dos seis arquivos. Capa 1344 × 896, um link contextual, dois relacionados e FAQ apenas estruturado. Arquivado em Artigos. Backups por job e8cbd758-645e-440d-a407-7f0dd7a368b9. Planos históricos no painel: 2026-10-21-video.json.
+
+Manutenção da execução 20: reavaliados 68 pares; cinco alterados e 63 preservados. Inseridos cinco links de entrada para os cinco posts recentes, sem reescrita, respeitando quatro links por corpo. Publicados seis artigos antigos e sitemap em cinco planos sequenciais, com dry-run, backups e confirmação FTP/HTTP. Planos no painel: 2026-10-21-ciclo20-1.json a -5.json e relacionados 2026-10-21-ciclo20.json. Validadores: 68 artigos e 76 URLs; novo artigo desktop/mobile e home preservada conferidos. Contador concluído; próxima manutenção na execução 30. Commit restrito às saídas desta rodada, deixando as alterações anteriores da home, menu e layout fora do índice.

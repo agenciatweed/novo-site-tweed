@@ -467,5 +467,12 @@
     "height": 896,
     "source": "conteudos/a392ec62-9a33-4bae-832c-1fc667c016a6/imagens/daf4ee2bd6ba4503923101e4c94ca8f8955f9d0bafcaaa8068902ec982a83f7e.png",
     "sha256": "daf4ee2bd6ba4503923101e4c94ca8f8955f9d0bafcaaa8068902ec982a83f7e"
+  },
+  "reaproveitamento-video-adaptacao-criativa": {
+    "path": "/assets/artigos-editoriais/6143e2f47c036cf2cde41f7333424b81eb8e822e57abae345fa55b442b7539f7.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-diaria-2026-10-20/imagens/6143e2f47c036cf2cde41f7333424b81eb8e822e57abae345fa55b442b7539f7.png",
+    "sha256": "6143e2f47c036cf2cde41f7333424b81eb8e822e57abae345fa55b442b7539f7"
   }
 }

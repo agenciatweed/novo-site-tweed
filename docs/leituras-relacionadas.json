@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "catalogSha256": "6831e020568170e817e8f5af89e83ae90074076d1b688ac5a30817975d3d44b6",
-  "reviewedAt": "2026-10-19",
+  "catalogSha256": "ee4003cb34710376454b9a975665d7afb60a2055872a7e7119c9509d005ab03f",
+  "reviewedAt": "2026-10-21",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
       "targets": [
@@ -182,10 +182,10 @@
     "se-o-seu-cliente-nao-consegue-explicar-sua-marca-talvez-ela-ainda-nao-exista-de-verdade": {
       "targets": [
         "seu-logotipo-e-bonito-mas-sua-marca-e-clara",
-        "marcas-memoraveis-nao-gritam-elas-fazem-sentido"
+        "legibilidade-digital-marca-pessoas-ia"
       ],
-      "reason": "Desenvolve clareza da identidade e posicionamento compreensível.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Clareza visual permanece pertinente e legibilidade digital amplia as perguntas sobre o que a empresa faz para os pontos de consulta de pessoas e sistemas de IA.",
+      "modifiedAt": "2026-10-21"
     },
     "a-cultura-interna-e-o-branding-que-o-cliente-ainda-vai-sentir": {
       "targets": [
@@ -286,10 +286,10 @@
     "seu-logotipo-e-bonito-mas-sua-marca-e-clara": {
       "targets": [
         "se-o-seu-cliente-nao-consegue-explicar-sua-marca-talvez-ela-ainda-nao-exista-de-verdade",
-        "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar"
+        "identidade-visual-2027-textura-cor-autoria"
       ],
-      "reason": "Mantém a expressão clara da marca pelo cliente e acrescenta uma aplicação comercial concreta da proposta de valor.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Preserva clareza da proposta e acrescenta a análise de particularidade visual com origem e critérios, além da beleza do logotipo.",
+      "modifiedAt": "2026-10-21"
     },
     "a-biblioteca-estrategica-da-tweed-os-livros-que-moldam-nossa-abordagem-de-branding-e-marketing": {
       "targets": [
@@ -349,11 +349,11 @@
     },
     "como-marcas-locais-constroem-comunidades-mais-fortes-do-que-muitas-multinacionais": {
       "targets": [
-        "alem-do-anuncio-como-o-boca-a-boca-mantem-sua-marca-viva-quando-a-propaganda-termina",
-        "branding-o-superpoder-escondido-para-pequenas-empresas"
+        "microcomunidades-relevancia-alem-das-impressoes",
+        "alem-do-anuncio-como-o-boca-a-boca-mantem-sua-marca-viva-quando-a-propaganda-termina"
       ],
-      "reason": "Conecta comunidade local a recomendação e vínculos de marca em pequenos negócios.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Microcomunidades aprofunda a relevância da proximidade em públicos específicos; boca a boca preserva a continuidade da recomendação local.",
+      "modifiedAt": "2026-10-21"
     },
     "voce-nao-decide-seu-cerebro-decide-por-voce-e-depois-inventa-uma-desculpa": {
       "targets": [
@@ -470,10 +470,10 @@
     "uma-boa-restricao-pode-melhorar-uma-ideia": {
       "targets": [
         "menos-e-mais-o-poder-de-campanhas-pequenas-com-grandes-ideias",
-        "grandes-ideias-pequenas-verbas-marcas-que-marcam"
+        "reaproveitamento-video-adaptacao-criativa"
       ],
-      "reason": "Dois aprofundamentos sobre concentrar recursos e construir campanhas a partir de uma ideia clara.",
-      "modifiedAt": "2026-10-18"
+      "reason": "Preserva o foco em campanhas concentradas e oferece uma aplicação concreta de planejamento criativo com recursos de produção limitados.",
+      "modifiedAt": "2026-10-21"
     },
     "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido": {
       "targets": [
@@ -509,11 +509,11 @@
     },
     "marca-recomendada-por-ia-confianca": {
       "targets": [
-        "divida-de-marca",
+        "legibilidade-digital-marca-pessoas-ia",
         "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar"
       ],
-      "reason": "Aprofunda sinais de confiança, risco percebido e evidências para avaliar uma oferta.",
-      "modifiedAt": "2026-10-19"
+      "reason": "Legibilidade aprofunda as informações públicas necessárias para verificar uma recomendação por IA; confiança na proposta continua pertinente.",
+      "modifiedAt": "2026-10-21"
     },
     "microcomunidades-relevancia-alem-das-impressoes": {
       "targets": [
@@ -538,6 +538,14 @@
       ],
       "reason": "Aprofunda autoria visual com decisões de personalidade e clareza estratégica além do acabamento.",
       "modifiedAt": "2026-10-19"
+    },
+    "reaproveitamento-video-adaptacao-criativa": {
+      "targets": [
+        "sua-marca-precisa-de-consistencia-nao-de-perfeicao",
+        "uma-boa-restricao-pode-melhorar-uma-ideia"
+      ],
+      "reason": "A consistência explica o que preservar entre adaptações; a restrição criativa aprofunda o planejamento de materiais úteis com recursos limitados.",
+      "modifiedAt": "2026-10-21"
     }
   }
 }

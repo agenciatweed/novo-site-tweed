@@ -480,5 +480,46 @@
         "a": "Escolha um material, defina a informação que precisa ganhar presença e avalie se a alternativa melhora compreensão, reconhecimento e uso."
       }
     ]
+  },
+  {
+    "id": "editorial-pauta-diaria-2026-10-20",
+    "editorial_id": "pauta-diaria-2026-10-20",
+    "slug": "reaproveitamento-video-adaptacao-criativa",
+    "title": "Reaproveitar um vídeo não é publicar a mesma peça em todo lugar",
+    "original_url": "https://www.agenciatweed.com.br/reaproveitamento-video-adaptacao-criativa/",
+    "author": "Felipe Rijo",
+    "published": "2026-10-21T12:00:00-03:00",
+    "original_modified": "2026-10-21T12:00:00-03:00",
+    "categories": [
+      "Branding na Marra"
+    ],
+    "description": "O reaproveitamento de vídeo exige adaptar abertura, ritmo e contexto. Saiba planejar materiais de origem úteis sem multiplicar peças por obrigação.",
+    "content": "<p>Sua empresa tem uma boa demonstração em vídeo. O material explica o serviço, mostra um detalhe importante e poderia continuar útil por bastante tempo. Quando surge outro canal, porém, a dúvida parece ter apenas duas respostas: produzir tudo de novo ou publicar exatamente o mesmo arquivo.</p>\n<p>O reaproveitamento de vídeo permite uma terceira escolha: preservar a ideia e os materiais de origem, adaptando o que a pessoa precisa ver, ouvir e compreender em cada situação. Economizar produção pode começar por esse planejamento.</p>\n<h2>O arquivo existente é um ponto de partida</h2>\n<p>Em uma <a href=\"https://blog.google/products/ads-commerce/creating-assets-youtube-ads/\">publicação de 1º de outubro de 2026</a>, o Google recomenda considerar peças existentes de redes sociais como base para anúncios no YouTube, respeitando as especificações, e testar alterações gradualmente. É uma orientação da plataforma, não uma garantia de desempenho.</p>\n<p>A discussão útil para uma pequena empresa vai além da possibilidade de reaproveitar arquivos. O material continua explicando a oferta quando muda de contexto? A abertura funciona para alguém que nunca ouviu falar da empresa? O próximo passo faz sentido naquele momento?</p>\n<p>Uma peça pode atender às dimensões exigidas e continuar inadequada à comunicação. Cortar a imagem resolve o enquadramento; não decide o argumento.</p>\n<h2>Preserve a ideia, reveja a forma de apresentá-la</h2>\n<p>Imagine uma empresa de manutenção que grava uma demonstração de inspeção. É um exemplo hipotético. O vídeo completo inclui uma apresentação da equipe, a explicação do problema, detalhes do procedimento e uma orientação sobre como solicitar avaliação.</p>\n<p>Para quem já acompanha a empresa, a apresentação pode ajudar a reconhecer as pessoas. Para um público que ainda não conhece o serviço, talvez seja necessário começar pelo problema observado. Uma versão curta poderia mostrar um detalhe da inspeção e esclarecer o que ele permite verificar, sem sugerir um diagnóstico que a imagem não sustenta.</p>\n<p>O trabalho não exige inventar uma ideia independente para cada canal. Exige escolher o trecho, a ordem e o nível de explicação que preservam a mensagem. Uma demonstração técnica pode precisar de contexto; um depoimento autorizado não deve ser recortado de modo a mudar seu sentido.</p>\n<h2>Planeje a captação para ter escolhas depois</h2>\n<p>Antes de gravar, defina a mensagem principal e os detalhes necessários para compreendê-la. Registre a ação completa, algumas aproximações relevantes e uma explicação que possa ser entendida sem depender de uma longa apresentação anterior.</p>\n<p>Observe também o espaço disponível para reenquadrar, a qualidade do áudio e a legibilidade do que aparece. Não é preciso transformar toda captação em uma produção enorme. É preciso saber quais materiais farão falta na edição.</p>\n<p>Uma pequena conversa entre direção e produção pode evitar que a única imagem importante fique cortada numa adaptação. Pode esclarecer também quais informações devem ser faladas, quais podem aparecer visualmente e o que merece uma demonstração própria.</p>\n<h2>Adapte sem descaracterizar a marca</h2>\n<p>A duração, o ritmo e a chamada podem variar. O compromisso da empresa com a informação precisa permanecer. Uma abertura mais direta não autoriza exagerar um problema; uma versão mais curta não deve esconder uma condição relevante.</p>\n<p>A identidade ajuda a reconhecer os materiais, mas não precisa ocupar toda a tela. Priorize a compreensão do produto ou serviço. Confira se letras, legendas e elementos importantes continuam visíveis na versão que será usada.</p>\n<p>Esse cuidado também evita confundir adaptação com fabricação de volume. Se duas versões fazem o mesmo trabalho e não existe uma razão para mantê-las, produzir mais uma pode apenas aumentar o esforço de revisão.</p>\n<h2>Teste uma decisão por vez</h2>\n<p>Registre o que pretende aprender com a mudança. Você quer avaliar uma abertura que explica primeiro o problema? Uma demonstração mais direta? Um próximo passo mais claro?</p>\n<p>Observe os resultados considerando contexto e tempo de compra. Mudar simultaneamente público, oferta, argumento e formato dificulta entender o que aconteceu. Uma versão nova pode merecer continuidade, revisão ou descarte.</p>\n<p>Na Tweed, aproveitar melhor uma produção envolve direção criativa e conhecimento da oferta. O objetivo é ter materiais que continuem úteis, com adaptações justificadas. Antes de pedir mais peças, vale perguntar quais decisões fariam o que já existe comunicar melhor.</p><h2>Fontes e notas</h2><p>Google Ads &amp; Commerce, 01/10/2026: https://blog.google/products/ads-commerce/creating-assets-youtube-ads/</p>",
+    "image": {
+      "path": "/assets/artigos-editoriais/6143e2f47c036cf2cde41f7333424b81eb8e822e57abae345fa55b442b7539f7.png",
+      "width": 1344,
+      "height": 896,
+      "source": "conteudos/pauta-diaria-2026-10-20/imagens/6143e2f47c036cf2cde41f7333424b81eb8e822e57abae345fa55b442b7539f7.png",
+      "sha256": "6143e2f47c036cf2cde41f7333424b81eb8e822e57abae345fa55b442b7539f7"
+    },
+    "image_alt": "Videomaker grava um técnico trabalhando enquanto uma colega confere o enquadramento no computador.",
+    "keyword": "reaproveitamento de vídeo",
+    "citations": [
+      "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/"
+    ],
+    "faq": [
+      {
+        "q": "Reaproveitar vídeo é publicar o mesmo arquivo em todos os canais?",
+        "a": "Não. É preservar a ideia e os materiais de origem, ajustando sua apresentação para o contexto de cada uso."
+      },
+      {
+        "q": "O que planejar antes de gravar um vídeo para diferentes usos?",
+        "a": "Defina a mensagem principal, registre detalhes relevantes e considere áudio, legibilidade e espaço para reenquadramento."
+      },
+      {
+        "q": "Como testar adaptações de vídeo com mais clareza?",
+        "a": "Defina o que deseja aprender e mude uma decisão por vez, considerando também o contexto e o tempo de compra ao observar os resultados."
+      }
+    ]
   }
 ]

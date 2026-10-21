@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 4774,
-    "sha256": "3fdd20c7b727c3bb4f0fd342ebb22a043703609a2abf2eec7be27a1f2150b99a"
+    "bytes": 4819,
+    "sha256": "efc2653d868f30188974bbe856cac553e0f743a59faa86bd7b7231e2f30b2e78"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -63,6 +63,11 @@
     "path": "assets/artigos-editoriais/466cf4a03b605ece7f8be90d8fd7c105e1313134f7055c586e89366224b6c5ae.png",
     "bytes": 2256052,
     "sha256": "466cf4a03b605ece7f8be90d8fd7c105e1313134f7055c586e89366224b6c5ae"
+  },
+  {
+    "path": "assets/artigos-editoriais/6143e2f47c036cf2cde41f7333424b81eb8e822e57abae345fa55b442b7539f7.png",
+    "bytes": 1671845,
+    "sha256": "6143e2f47c036cf2cde41f7333424b81eb8e822e57abae345fa55b442b7539f7"
   },
   {
     "path": "assets/artigos-editoriais/8f46d32ab62b15cbeb3e3f55c167b8f9b0af2a4cfb2107488c1ab01c246ca17a.png",
@@ -791,8 +796,8 @@
   },
   {
     "path": "blog-branding-na-marra/index.html",
-    "bytes": 17921,
-    "sha256": "4c9348c160c4770bf82eb1733ffb19177c12a2db8cf773381b6acb944f291dee"
+    "bytes": 18560,
+    "sha256": "c8efbb58265ba02f6e179b9c15b8885596430c83a7cc9e179d837c18927df8aa"
   },
   {
     "path": "blog-marcas-com-alma/index.html",
@@ -821,8 +826,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 23343,
-    "sha256": "355e4edb6fbc19c3cf215fc4b15a5db7998ed6ff05d97af394a0bd6463314744"
+    "bytes": 23501,
+    "sha256": "62f0fc1140c944370623997783035368d470699f32b0b4d8d9c247f21195d133"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -866,8 +871,8 @@
   },
   {
     "path": "como-marcas-locais-constroem-comunidades-mais-fortes-do-que-muitas-multinacionais/index.html",
-    "bytes": 16203,
-    "sha256": "555a5b780dfbb0066436befd51a337161f8827a4d09e20f51caace2883fd4e8a"
+    "bytes": 16356,
+    "sha256": "3dc73c607b90e010df0c97e7cc8be8801bde890954b84b1a5fdfffb6e7faccff"
   },
   {
     "path": "como-parecer-grande-sem-ser-grande-os-segredos-do-branding-enxuto/index.html",
@@ -891,8 +896,8 @@
   },
   {
     "path": "divida-de-marca/index.html",
-    "bytes": 24102,
-    "sha256": "d185044215757cfb7a00d03169813f0534013826e5b0d9c2a9fd114f5b8848c9"
+    "bytes": 24245,
+    "sha256": "3973e8f7871af537a17f4f0e6d4df18bd9519cf7afddd5040b6cf22e474544ab"
   },
   {
     "path": "do-oceano-vermelho-ao-azul-estrategias-de-nicho-para-pmes-fugirem-da-concorrencia/index.html",
@@ -941,8 +946,8 @@
   },
   {
     "path": "marca-recomendada-por-ia-confianca/index.html",
-    "bytes": 20069,
-    "sha256": "c37233cde1fe66a89e2c1997e5cc4273c7cb5583abcabdd376247ffeaf190834"
+    "bytes": 20137,
+    "sha256": "355e03d9170031d9cbf3628cffdc61b4213a872fb19cbead51d0678696f0e4b6"
   },
   {
     "path": "marcas-memoraveis-nao-gritam-elas-fazem-sentido/index.html",
@@ -1085,14 +1090,19 @@
     "sha256": "0d6419bb365729e493785d3f7205aeffc0b17937c71eb0b604e184ed9bc7d05d"
   },
   {
+    "path": "reaproveitamento-video-adaptacao-criativa/index.html",
+    "bytes": 20726,
+    "sha256": "389c61f3385e6d673d2b1ca60441a9fc98d38106b37fd22f6b93458da99bbb5f"
+  },
+  {
     "path": "robots.txt",
     "bytes": 144,
     "sha256": "d341c0a6579eba56c4012b5f3e6f24d77504c8786058d68a253236a5d5088c59"
   },
   {
     "path": "se-o-seu-cliente-nao-consegue-explicar-sua-marca-talvez-ela-ainda-nao-exista-de-verdade/index.html",
-    "bytes": 16068,
-    "sha256": "6f572555aecf32c209ef551fe3bf77fc95269e876c45ba49a10327a3a5ab112c"
+    "bytes": 16210,
+    "sha256": "85f91f0670d03ff717e4e506b63fc32dcace7313586d363a9c9f74e985b1c1a1"
   },
   {
     "path": "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar/index.html",
@@ -1101,13 +1111,13 @@
   },
   {
     "path": "seu-logotipo-e-bonito-mas-sua-marca-e-clara/index.html",
-    "bytes": 15725,
-    "sha256": "44899132f9b4bcf4fcbedc90fca22441c63aa1517fff7bf50126f9c7478873cb"
+    "bytes": 15873,
+    "sha256": "6f1a9c0e23bbb4652948791c56ef162ac96b8ffc483a01438ef1d601dd4ea4a0"
   },
   {
     "path": "sitemap.xml",
-    "bytes": 11465,
-    "sha256": "7ae28e5f2597e90205717ed46d5a535067bc96dcfd8898de79329a032e13309b"
+    "bytes": 11610,
+    "sha256": "49551df9e21460be5314ddeae3ba470323b95c666d67fefd6a23bf848b41de5f"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",
@@ -1121,8 +1131,8 @@
   },
   {
     "path": "uma-boa-restricao-pode-melhorar-uma-ideia/index.html",
-    "bytes": 20236,
-    "sha256": "6f943c10e8ad301622c20a2167fab03e330987f1b28001dfacf32d49b67f1a5f"
+    "bytes": 20380,
+    "sha256": "4f0261f3a58b72941c4203e24dc69bb944ce7ca725dd80b905b01fbfdf7a96df"
   },
   {
     "path": "voce-nao-decide-seu-cerebro-decide-por-voce-e-depois-inventa-uma-desculpa/index.html",

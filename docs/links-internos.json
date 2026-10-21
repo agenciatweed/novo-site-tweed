@@ -168,6 +168,54 @@
       "context": "Outra empresa poderia encontrar sua particularidade na linguagem, na maneira de apresentar projetos ou numa combinação recorrente de formas. O recurso precisa nascer do contexto da marca. Aplicar uma textura comprada sobre tudo pode produzir apenas uma nova uniformidade.",
       "reason": "Aprofunda autoria visual com decisões de personalidade e clareza estratégica além do acabamento.",
       "modifiedAt": "2026-10-19"
+    },
+    {
+      "from": "reaproveitamento-video-adaptacao-criativa",
+      "to": "menos-e-mais-o-poder-de-campanhas-pequenas-com-grandes-ideias",
+      "anchor": "fabricação de volume",
+      "context": "Esse cuidado também evita confundir adaptação com fabricação de volume.",
+      "reason": "Relaciona a adaptação criativa à escolha de materiais relevantes em vez de multiplicar peças.",
+      "modifiedAt": "2026-10-21"
+    },
+    {
+      "from": "divida-de-marca",
+      "to": "marca-recomendada-por-ia-confianca",
+      "anchor": "sinais fracos de confiança",
+      "context": "Dívida de Marca são sinais fracos de confiança.",
+      "reason": "Relaciona os sinais frágeis de confiança à verificação humana de uma recomendação por IA.",
+      "modifiedAt": "2026-10-21"
+    },
+    {
+      "from": "como-marcas-locais-constroem-comunidades-mais-fortes-do-que-muitas-multinacionais",
+      "to": "microcomunidades-relevancia-alem-das-impressoes",
+      "anchor": "conversar diretamente com o público",
+      "context": "O branding da proximidade é um superpoder das PMEs. Elas têm liberdade para adaptar, testar, conversar diretamente com o público. Podem se posicionar de forma autêutica, sem precisar da aprovação de dezenas de níveis hierárquicos.",
+      "reason": "Aprofunda a relevância da conversa próxima em públicos específicos.",
+      "modifiedAt": "2026-10-21"
+    },
+    {
+      "from": "se-o-seu-cliente-nao-consegue-explicar-sua-marca-talvez-ela-ainda-nao-exista-de-verdade",
+      "to": "legibilidade-digital-marca-pessoas-ia",
+      "anchor": "marca clara",
+      "context": "Uma marca clara é aquela que se explica sozinha. Que tem mensagem tão bem alinhada entre o que é dito e o que é feito, que o cliente vira um porta-voz natural. Quando isso acontece, o branding não fica restrito ao marketing. Ele ecoa nas conversas, nas recomendações, no boca a boca.",
+      "reason": "Amplia a clareza da marca para a compreensão por pessoas e mecanismos de IA.",
+      "modifiedAt": "2026-10-21"
+    },
+    {
+      "from": "seu-logotipo-e-bonito-mas-sua-marca-e-clara",
+      "to": "identidade-visual-2027-textura-cor-autoria",
+      "anchor": "identidade visual bonita",
+      "context": "Todo mundo quer uma identidade visual de impacto. Cores bem escolhidas, tipografia moderna, um logotipo que arranque elogios. Mas aqui vai uma pergunta desconfortável: de que adianta ter uma identidade visual bonita se ninguém entende o que sua marca representa?",
+      "reason": "Aprofunda a diferença entre acabamento visual e expressão com particularidade e significado.",
+      "modifiedAt": "2026-10-21"
+    },
+    {
+      "from": "uma-boa-restricao-pode-melhorar-uma-ideia",
+      "to": "reaproveitamento-video-adaptacao-criativa",
+      "anchor": "selecionar imagens e revisar a execução",
+      "context": "Concentrar o escopo pode preservar tempo para entender a oferta, escrever com clareza, selecionar imagens e revisar a execução. Reduzir quantidade não garante uma ideia melhor, mas permite discutir qualidade com base nos recursos disponíveis.",
+      "reason": "Mostra uma aplicação concreta de planejamento e adaptação dos materiais de produção.",
+      "modifiedAt": "2026-10-21"
     }
   ]
 }
