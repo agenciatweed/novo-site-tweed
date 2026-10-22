@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "ee4003cb34710376454b9a975665d7afb60a2055872a7e7119c9509d005ab03f",
+  "catalogSha256": "ed284adb6d63487938b0e81a3e1aba5df4bb99ee8d415f33e37c3ae7cc715c84",
   "reviewedAt": "2026-10-21",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -546,6 +546,14 @@
       ],
       "reason": "A consistência explica o que preservar entre adaptações; a restrição criativa aprofunda o planejamento de materiais úteis com recursos limitados.",
       "modifiedAt": "2026-10-21"
+    },
+    "qualidade-dados-campanha-conversoes": {
+      "targets": [
+        "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade",
+        "metricas-sem-vaidade"
+      ],
+      "reason": "A integração entre marketing e vendas aprofunda os critérios de qualificação e retorno comercial; métricas sem vaidade amplia a interpretação dos resultados de negócio.",
+      "modifiedAt": "2026-10-22"
     }
   }
 }

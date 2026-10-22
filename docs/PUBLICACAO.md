@@ -142,3 +142,8 @@ Publicados marca-recomendada-por-ia-confianca, microcomunidades-relevancia-alem-
 Publicado reaproveitamento-video-adaptacao-criativa após aprovação humana, dry-run e confirmação FTP/HTTP dos seis arquivos. Capa 1344 × 896, um link contextual, dois relacionados e FAQ apenas estruturado. Arquivado em Artigos. Backups por job e8cbd758-645e-440d-a407-7f0dd7a368b9. Planos históricos no painel: 2026-10-21-video.json.
 
 Manutenção da execução 20: reavaliados 68 pares; cinco alterados e 63 preservados. Inseridos cinco links de entrada para os cinco posts recentes, sem reescrita, respeitando quatro links por corpo. Publicados seis artigos antigos e sitemap em cinco planos sequenciais, com dry-run, backups e confirmação FTP/HTTP. Planos no painel: 2026-10-21-ciclo20-1.json a -5.json e relacionados 2026-10-21-ciclo20.json. Validadores: 68 artigos e 76 URLs; novo artigo desktop/mobile e home preservada conferidos. Contador concluído; próxima manutenção na execução 30. Commit restrito às saídas desta rodada, deixando as alterações anteriores da home, menu e layout fora do índice.
+
+
+## Rodada 23 — dados de campanha — 22/10/2026
+
+Publicado qualidade-dados-campanha-conversoes após aprovação humana, dry-run e confirmação FTP/HTTP dos seis arquivos. Capa 1344 × 896, um link contextual, duas recomendações e FAQ apenas estruturado. Arquivado em Artigos após confirmação. Planos new-only preservam integralmente relacionados e HTML antigos. Índices, sitemap e rota estreita atualizados. Backups por job 10919fe7-5d72-40f2-a038-3f89df4f7a91; planos no painel 2026-10-22-dados.json. Validados 69 artigos e 77 URLs; desktop/mobile, menu Blog, capa e home preservada conferidos. Sem manutenção ampla nesta rodada.

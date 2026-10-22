@@ -474,5 +474,12 @@
     "height": 896,
     "source": "conteudos/pauta-diaria-2026-10-20/imagens/6143e2f47c036cf2cde41f7333424b81eb8e822e57abae345fa55b442b7539f7.png",
     "sha256": "6143e2f47c036cf2cde41f7333424b81eb8e822e57abae345fa55b442b7539f7"
+  },
+  "qualidade-dados-campanha-conversoes": {
+    "path": "/assets/artigos-editoriais/b8da51e1610000212718598ac63c3127bb42002b70e2c714b191de3b658270e6.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-diaria-2026-10-19/imagens/b8da51e1610000212718598ac63c3127bb42002b70e2c714b191de3b658270e6.png",
+    "sha256": "b8da51e1610000212718598ac63c3127bb42002b70e2c714b191de3b658270e6"
   }
 }

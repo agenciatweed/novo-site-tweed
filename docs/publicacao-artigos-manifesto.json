@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 4819,
-    "sha256": "efc2653d868f30188974bbe856cac553e0f743a59faa86bd7b7231e2f30b2e78"
+    "bytes": 4858,
+    "sha256": "04dff881852b5227eb1ca27aeb5f013b8068b06b0f4a2ea2043d3564479019c5"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -83,6 +83,11 @@
     "path": "assets/artigos-editoriais/9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3.png",
     "bytes": 1483743,
     "sha256": "9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3"
+  },
+  {
+    "path": "assets/artigos-editoriais/b8da51e1610000212718598ac63c3127bb42002b70e2c714b191de3b658270e6.png",
+    "bytes": 1602071,
+    "sha256": "b8da51e1610000212718598ac63c3127bb42002b70e2c714b191de3b658270e6"
   },
   {
     "path": "assets/artigos-editoriais/cd4bd419ca02a7f3c0728c92d637e56dfab93f9c63929934ea5caa7bf4108793.png",
@@ -821,13 +826,13 @@
   },
   {
     "path": "blog-pequeno-mas-estrategico/index.html",
-    "bytes": 17952,
-    "sha256": "ff93b78ec12c4c5d584769beda07e6431b24f7647630f8dd8ccf8c4d7d097ea6"
+    "bytes": 18592,
+    "sha256": "e4b4e07ca566ca45fae51f4bdce73cfc888a6d1a90937a9e7108175b47065184"
   },
   {
     "path": "blog/index.html",
-    "bytes": 23501,
-    "sha256": "62f0fc1140c944370623997783035368d470699f32b0b4d8d9c247f21195d133"
+    "bytes": 23398,
+    "sha256": "4160cffaf0b5ce21b077b22824cba52e8b2ebcdcb46554ec6b9e46e25219ff7a"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1085,6 +1090,11 @@
     "sha256": "e9ea77e262a27a1f09b72a5c9969802525b194e27906002f3c64409a7dd62a76"
   },
   {
+    "path": "qualidade-dados-campanha-conversoes/index.html",
+    "bytes": 21375,
+    "sha256": "aef31c302f7899e76e0a36152d4178e8bd697f788608b433916dda958e9d6061"
+  },
+  {
     "path": "quando-tudo-parece-igual-os-arquetipos-ajudam-sua-marca-a-ser-lembrada/index.html",
     "bytes": 16188,
     "sha256": "0d6419bb365729e493785d3f7205aeffc0b17937c71eb0b604e184ed9bc7d05d"
@@ -1116,8 +1126,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 11610,
-    "sha256": "49551df9e21460be5314ddeae3ba470323b95c666d67fefd6a23bf848b41de5f"
+    "bytes": 11749,
+    "sha256": "bdcf181fb0e881610e5ece21febce78b1e0351f5e31aa3cb9e9749d2a6f0e0af"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",
