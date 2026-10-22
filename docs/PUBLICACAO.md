@@ -147,3 +147,8 @@ Manutenção da execução 20: reavaliados 68 pares; cinco alterados e 63 preser
 ## Rodada 23 — dados de campanha — 22/10/2026
 
 Publicado qualidade-dados-campanha-conversoes após aprovação humana, dry-run e confirmação FTP/HTTP dos seis arquivos. Capa 1344 × 896, um link contextual, duas recomendações e FAQ apenas estruturado. Arquivado em Artigos após confirmação. Planos new-only preservam integralmente relacionados e HTML antigos. Índices, sitemap e rota estreita atualizados. Backups por job 10919fe7-5d72-40f2-a038-3f89df4f7a91; planos no painel 2026-10-22-dados.json. Validados 69 artigos e 77 URLs; desktop/mobile, menu Blog, capa e home preservada conferidos. Sem manutenção ampla nesta rodada.
+
+
+## Rodada 25 — IA e contexto de marca — 22/10/2026
+
+Publicado ia-materiais-marca-alem-das-cores após aprovação humana, dry-run e confirmação FTP/HTTP dos seis arquivos. Capa 1344 × 896, um link contextual, duas recomendações e FAQ apenas estruturado. Arquivado em Artigos após confirmação. Planos new-only mantêm intactos os HTML e relacionados antigos; atualizados somente novo artigo, capa, índices, sitemap e rota estreita. Backups por job 2150c50d-8ae2-4f8b-a650-0ce0d8eab477; planos no painel 2026-10-22-ia.json. Validadores: 70 artigos e 78 URLs. Desktop/mobile, menu Blog, capa e home preservada conferidos. Próxima manutenção ampla continua na execução 30.

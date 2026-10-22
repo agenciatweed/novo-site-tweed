@@ -224,6 +224,14 @@
       "context": "Comece por uma oferta e defina, com marketing e vendas, o que caracteriza um contato adequado.",
       "reason": "Aprofunda o alinhamento entre as equipes na definição dos contatos qualificados.",
       "modifiedAt": "2026-10-22"
+    },
+    {
+      "from": "ia-materiais-marca-alem-das-cores",
+      "to": "personalidade-de-marca-aparece-nas-escolhas-pequenas",
+      "anchor": "próxima e confiante",
+      "context": "Dizer que a marca é próxima e confiante não resolve sozinho uma decisão de texto.",
+      "reason": "Aprofunda a tradução dos atributos de marca em critérios concretos de linguagem e comportamento.",
+      "modifiedAt": "2026-10-22"
     }
   ]
 }

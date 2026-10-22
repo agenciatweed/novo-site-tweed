@@ -481,5 +481,12 @@
     "height": 896,
     "source": "conteudos/pauta-diaria-2026-10-19/imagens/b8da51e1610000212718598ac63c3127bb42002b70e2c714b191de3b658270e6.png",
     "sha256": "b8da51e1610000212718598ac63c3127bb42002b70e2c714b191de3b658270e6"
+  },
+  "ia-materiais-marca-alem-das-cores": {
+    "path": "/assets/artigos-editoriais/48c6e5f107eff3bc5d719f1071cde5b47ad305139ce2e061d23e20db3104c7b9.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-diaria-2026-10-21/imagens/48c6e5f107eff3bc5d719f1071cde5b47ad305139ce2e061d23e20db3104c7b9.png",
+    "sha256": "48c6e5f107eff3bc5d719f1071cde5b47ad305139ce2e061d23e20db3104c7b9"
   }
 }

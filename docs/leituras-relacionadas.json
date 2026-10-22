@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "ed284adb6d63487938b0e81a3e1aba5df4bb99ee8d415f33e37c3ae7cc715c84",
+  "catalogSha256": "c90668ff22a4c2db7e1cf1d1155ffa1867c55c5f91e02367986d991aeaf962d0",
   "reviewedAt": "2026-10-21",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -553,6 +553,14 @@
         "metricas-sem-vaidade"
       ],
       "reason": "A integração entre marketing e vendas aprofunda os critérios de qualificação e retorno comercial; métricas sem vaidade amplia a interpretação dos resultados de negócio.",
+      "modifiedAt": "2026-10-22"
+    },
+    "ia-materiais-marca-alem-das-cores": {
+      "targets": [
+        "como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos",
+        "personalidade-de-marca-aparece-nas-escolhas-pequenas"
+      ],
+      "reason": "O uso de IA com linguagem própria complementa a orientação de materiais; personalidade nas escolhas pequenas aprofunda os critérios que tornam atributos de marca aplicáveis.",
       "modifiedAt": "2026-10-22"
     }
   }

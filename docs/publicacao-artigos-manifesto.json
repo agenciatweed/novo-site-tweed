@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 4858,
-    "sha256": "04dff881852b5227eb1ca27aeb5f013b8068b06b0f4a2ea2043d3564479019c5"
+    "bytes": 4897,
+    "sha256": "77ccdb4a447d2092b54861559f5033f3d0d64d6779333177643bcc8993e949f0"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -63,6 +63,11 @@
     "path": "assets/artigos-editoriais/466cf4a03b605ece7f8be90d8fd7c105e1313134f7055c586e89366224b6c5ae.png",
     "bytes": 2256052,
     "sha256": "466cf4a03b605ece7f8be90d8fd7c105e1313134f7055c586e89366224b6c5ae"
+  },
+  {
+    "path": "assets/artigos-editoriais/48c6e5f107eff3bc5d719f1071cde5b47ad305139ce2e061d23e20db3104c7b9.png",
+    "bytes": 1650565,
+    "sha256": "48c6e5f107eff3bc5d719f1071cde5b47ad305139ce2e061d23e20db3104c7b9"
   },
   {
     "path": "assets/artigos-editoriais/6143e2f47c036cf2cde41f7333424b81eb8e822e57abae345fa55b442b7539f7.png",
@@ -821,8 +826,8 @@
   },
   {
     "path": "blog-marcas-que-ficam/index.html",
-    "bytes": 15182,
-    "sha256": "526b4eecad2283b7472def5cc2ba4b5fc6dcad4ec61c84f37537e6899ac417d2"
+    "bytes": 15817,
+    "sha256": "81f85e49293aa0879bfdc021408d4bcbb2a0e0ffd1adbd3fdb87cd699237a6b4"
   },
   {
     "path": "blog-pequeno-mas-estrategico/index.html",
@@ -831,8 +836,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 23398,
-    "sha256": "4160cffaf0b5ce21b077b22824cba52e8b2ebcdcb46554ec6b9e46e25219ff7a"
+    "bytes": 23472,
+    "sha256": "847dfe314530ff2c913fbae6b1ad05f4f8a223b95ab061250a3e05c437d66c9e"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -923,6 +928,11 @@
     "path": "grandes-ideias-pequenas-verbas-marcas-que-marcam/index.html",
     "bytes": 15275,
     "sha256": "e38ea11c4f25fe80b1d1850403f764d3565b96de518d9e993d462a7eaf9affa9"
+  },
+  {
+    "path": "ia-materiais-marca-alem-das-cores/index.html",
+    "bytes": 22668,
+    "sha256": "9f74fadbb87cf4008629215dedcd0524cdd7db735e830c63bbe7f6aa77fabb88"
   },
   {
     "path": "identidade-visual-2027-textura-cor-autoria/index.html",
@@ -1126,8 +1136,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 11749,
-    "sha256": "bdcf181fb0e881610e5ece21febce78b1e0351f5e31aa3cb9e9749d2a6f0e0af"
+    "bytes": 11886,
+    "sha256": "9bb37bc7f9b79717ca3a783e253ece3c87ca0ab8d2d4c535f0b9e87e6836be3a"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",
