@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 from PIL import Image
 import markdown
 from internal_links import merge_plan, patch_document
+from editorial_sources import render_sources
 from related_articles import validate_related,patch_related
 BASE='https://www.agenciatweed.com.br'
 HOST='ftp.web-ded-128487a.kinghost.net'
@@ -51,7 +52,8 @@ def render_body(item):
     urls=list(dict.fromkeys(re.findall(r'https://[^\s<>\]\)]+',item.get('sources',''))))
     if item.get('sources','').strip():
         section=soup.new_tag('h2');section.string='Fontes e notas';soup.append(section)
-        p=soup.new_tag('p');p.string=item['sources'];soup.append(p)
+        fragment=BeautifulSoup(render_sources(item['sources']),'html.parser')
+        for node in list(fragment.contents):soup.append(node)
     return str(soup),urls
 
 def main():
