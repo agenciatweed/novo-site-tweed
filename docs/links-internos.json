@@ -232,6 +232,14 @@
       "context": "Dizer que a marca é próxima e confiante não resolve sozinho uma decisão de texto.",
       "reason": "Aprofunda a tradução dos atributos de marca em critérios concretos de linguagem e comportamento.",
       "modifiedAt": "2026-10-22"
+    },
+    {
+      "from": "parceria-marca-alem-dos-logotipos",
+      "to": "branding-nao-acontece-so-no-marketing-ele-vive-na-operacao",
+      "anchor": "posicionamento, criação e operação",
+      "context": "Na Tweed, uma parceria precisa conversar com posicionamento, criação e operação.",
+      "reason": "Aprofunda a coerência operacional necessária para sustentar uma promessa compartilhada entre marcas.",
+      "modifiedAt": "2026-10-23"
     }
   ]
 }

@@ -488,5 +488,12 @@
     "height": 896,
     "source": "conteudos/pauta-diaria-2026-10-21/imagens/48c6e5f107eff3bc5d719f1071cde5b47ad305139ce2e061d23e20db3104c7b9.png",
     "sha256": "48c6e5f107eff3bc5d719f1071cde5b47ad305139ce2e061d23e20db3104c7b9"
+  },
+  "parceria-marca-alem-dos-logotipos": {
+    "path": "/assets/artigos-editoriais/f19ec057bdd41cd427367b2cf0551c8b7f723bfd900f59d6e3c30058b7835397.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-diaria-2026-10-22/imagens/f19ec057bdd41cd427367b2cf0551c8b7f723bfd900f59d6e3c30058b7835397.png",
+    "sha256": "f19ec057bdd41cd427367b2cf0551c8b7f723bfd900f59d6e3c30058b7835397"
   }
 }

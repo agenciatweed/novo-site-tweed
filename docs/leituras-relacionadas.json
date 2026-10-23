@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "c90668ff22a4c2db7e1cf1d1155ffa1867c55c5f91e02367986d991aeaf962d0",
+  "catalogSha256": "6b6a097de444f0b3b78cd5a9bec27ac95aad59f57906774318bf7ecc6e495736",
   "reviewedAt": "2026-10-21",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -562,6 +562,14 @@
       ],
       "reason": "O uso de IA com linguagem própria complementa a orientação de materiais; personalidade nas escolhas pequenas aprofunda os critérios que tornam atributos de marca aplicáveis.",
       "modifiedAt": "2026-10-22"
+    },
+    "parceria-marca-alem-dos-logotipos": {
+      "targets": [
+        "microcomunidades-relevancia-alem-das-impressoes",
+        "branding-nao-acontece-so-no-marketing-ele-vive-na-operacao"
+      ],
+      "reason": "Microcomunidades aprofunda a relevância do público além da audiência somada; a marca na operação explica a necessidade de cumprir a promessa conjunta no atendimento e na execução.",
+      "modifiedAt": "2026-10-23"
     }
   }
 }

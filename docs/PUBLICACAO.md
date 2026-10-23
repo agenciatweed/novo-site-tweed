@@ -152,3 +152,8 @@ Publicado qualidade-dados-campanha-conversoes após aprovação humana, dry-run 
 ## Rodada 25 — IA e contexto de marca — 22/10/2026
 
 Publicado ia-materiais-marca-alem-das-cores após aprovação humana, dry-run e confirmação FTP/HTTP dos seis arquivos. Capa 1344 × 896, um link contextual, duas recomendações e FAQ apenas estruturado. Arquivado em Artigos após confirmação. Planos new-only mantêm intactos os HTML e relacionados antigos; atualizados somente novo artigo, capa, índices, sitemap e rota estreita. Backups por job 2150c50d-8ae2-4f8b-a650-0ce0d8eab477; planos no painel 2026-10-22-ia.json. Validadores: 70 artigos e 78 URLs. Desktop/mobile, menu Blog, capa e home preservada conferidos. Próxima manutenção ampla continua na execução 30.
+
+
+## Rodada 29 — parcerias de marca — 23/10/2026
+
+Publicado parceria-marca-alem-dos-logotipos após aprovação humana, dry-run e confirmação FTP/HTTP dos seis arquivos. Capa 1344 × 896, um link contextual, dois relacionados e FAQ apenas estruturado. Arquivado em Artigos após confirmação. Planos new-only preservam HTML e recomendações antigas. Atualizados somente capa, novo artigo, blog, série, sitemap e regra estreita de URL. Backups por job 49196560-de07-4e53-9ff0-72088d295b77; planos no painel 2026-10-23-parcerias.json. Validação: 71 artigos e 79 URLs. Desktop/mobile, menu Blog, capa e home preservada conferidos. Manutenção ampla permanece prevista na execução 30.
