@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 4935,
-    "sha256": "d18fe762e2569e967992bda3b2e06542ee6acc3df6b469018ce7a92e1b3f2641"
+    "bytes": 4972,
+    "sha256": "ae45382841a0038a81a2e469523888f8406e3ff86a93bf22d390f8bb60b63b25"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -88,6 +88,11 @@
     "path": "assets/artigos-editoriais/9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3.png",
     "bytes": 1483743,
     "sha256": "9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3"
+  },
+  {
+    "path": "assets/artigos-editoriais/b1e401ba5c34625bb17d919882d62a2a5d87c9de72dcaa6ecfb92c8c7aa523b6.png",
+    "bytes": 1771230,
+    "sha256": "b1e401ba5c34625bb17d919882d62a2a5d87c9de72dcaa6ecfb92c8c7aa523b6"
   },
   {
     "path": "assets/artigos-editoriais/b8da51e1610000212718598ac63c3127bb42002b70e2c714b191de3b658270e6.png",
@@ -836,13 +841,13 @@
   },
   {
     "path": "blog-pequeno-mas-estrategico/index.html",
-    "bytes": 18592,
-    "sha256": "e4b4e07ca566ca45fae51f4bdce73cfc888a6d1a90937a9e7108175b47065184"
+    "bytes": 19142,
+    "sha256": "54a4b797cb31d29b5ab3e500efd5e22b34d83d4acfd8617d7b18f40771230016"
   },
   {
     "path": "blog/index.html",
-    "bytes": 23519,
-    "sha256": "e8fc900e1cae8c62223e0b4a1c0b9fd4f7f371bd02e6333f27d2343ab7288efa"
+    "bytes": 23509,
+    "sha256": "bdcfb45c2fc10d45f455bb20e268ef0d4b4d2b33810ae4f3ad08d7d38cedc9c6"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -881,8 +886,8 @@
   },
   {
     "path": "como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos/index.html",
-    "bytes": 16584,
-    "sha256": "a4f3d4abe145865cfb80b0097de6221b38f84158d390514277fa98f55ef4b44a"
+    "bytes": 16676,
+    "sha256": "89635d46bbfba7a31e14a834c2a99bb1eeee1116f3defd095a3ed4eb9ecc5dd1"
   },
   {
     "path": "como-marcas-locais-constroem-comunidades-mais-fortes-do-que-muitas-multinacionais/index.html",
@@ -945,6 +950,11 @@
     "sha256": "f819516d408dcdf46c2f899c1ef69a82c1c1510da3481ad91af2c727add5c841"
   },
   {
+    "path": "jornada-compra-antes-da-campanha/index.html",
+    "bytes": 22897,
+    "sha256": "c72392e7dd16096bae38df3cedd4c45290bc5b0defea0b54572aa259f10f0e95"
+  },
+  {
     "path": "legibilidade-digital-marca-pessoas-ia/index.html",
     "bytes": 20588,
     "sha256": "7b4c58bb006be7f8433a14dce74e918e05f6b666530ff95a4a15e1dfcb5f6f7c"
@@ -986,8 +996,8 @@
   },
   {
     "path": "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade/index.html",
-    "bytes": 27897,
-    "sha256": "882cd397de6b379873e80b23aa66e8f4122cf6e6f39329a26965ba6e591a3926"
+    "bytes": 27946,
+    "sha256": "feb02089fc37bca6542b774722b4a3061b06433e4697dfe4dae2e8dd64271b25"
   },
   {
     "path": "menos-e-mais-o-poder-de-campanhas-pequenas-com-grandes-ideias/index.html",
@@ -996,13 +1006,13 @@
   },
   {
     "path": "metricas-sem-vaidade/index.html",
-    "bytes": 29635,
-    "sha256": "d4225c5d1f9b1319b3d7176df89cf1175f96e6237ca3700634fd02c7988ab985"
+    "bytes": 29768,
+    "sha256": "e23b24f9bddee819c39893b14fb80d90995a7a777bffb0a5f2488672a09823c1"
   },
   {
     "path": "microcomunidades-relevancia-alem-das-impressoes/index.html",
-    "bytes": 20323,
-    "sha256": "aa6501531453cea31d61945e89c06677868529b2544122a66f1710cbcc703fb6"
+    "bytes": 20495,
+    "sha256": "b61a55d42e35ec1e2952f998a1a8682994966582adf05b32c8d18114e26f2236"
   },
   {
     "path": "multiplas-faces-da-marca-combinando-arquetipos-para-uma-identidade-rica/index.html",
@@ -1146,8 +1156,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 12023,
-    "sha256": "dadf523013f9bd835e34470afcbc66955a701370f741e81255dfb48d4ad8ab2b"
+    "bytes": 12159,
+    "sha256": "a58f49d402f35a1b065a219cf4e079985c53efbb7cb735ee24daa73b93116bd5"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",

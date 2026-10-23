@@ -157,3 +157,10 @@ Publicado ia-materiais-marca-alem-das-cores após aprovação humana, dry-run e 
 ## Rodada 29 — parcerias de marca — 23/10/2026
 
 Publicado parceria-marca-alem-dos-logotipos após aprovação humana, dry-run e confirmação FTP/HTTP dos seis arquivos. Capa 1344 × 896, um link contextual, dois relacionados e FAQ apenas estruturado. Arquivado em Artigos após confirmação. Planos new-only preservam HTML e recomendações antigas. Atualizados somente capa, novo artigo, blog, série, sitemap e regra estreita de URL. Backups por job 49196560-de07-4e53-9ff0-72088d295b77; planos no painel 2026-10-23-parcerias.json. Validação: 71 artigos e 79 URLs. Desktop/mobile, menu Blog, capa e home preservada conferidos. Manutenção ampla permanece prevista na execução 30.
+
+
+## Execução manual 30 — manutenção e jornada de compra — 23/10/2026
+
+Revisado o texto jornada-compra-antes-da-campanha somente em metadados, preservando corpo, prompt e ALT. Felipe aprovou Pronto durante a execução; o job 8fe73062-c9b9-470a-a531-a536fb9f262b foi publicado após dry-run e confirmação FTP/HTTP dos seis arquivos e arquivado em Artigos. Capa 1344 × 896, um link contextual, dois relacionados e FAQ exclusivamente estruturado. Planos no painel: 2026-10-23-jornada.json. Desktop/mobile, menu Blog, índices e home preservada conferidos; 72 artigos e 80 URLs validados.
+
+Manutenção da execução 30, antes da publicação: reavaliados 71 pares, quatro atualizados e 67 preservados. Inseridos três links naturais de entrada para os artigos sobre dados de campanha, IA e parcerias, sem reescrever textos. Quatro HTML antigos e sitemap enviados por três planos sequenciais com dry-run e confirmação FTP/HTTP. Planos 2026-10-23-ciclo30-1.json a -3.json e relacionados 2026-10-23-ciclo30.json; backups links-<hash> em TweedEditorial/backups/publicacoes/. Contador concluído, próxima revisão na execução 40.

@@ -240,6 +240,38 @@
       "context": "Na Tweed, uma parceria precisa conversar com posicionamento, criação e operação.",
       "reason": "Aprofunda a coerência operacional necessária para sustentar uma promessa compartilhada entre marcas.",
       "modifiedAt": "2026-10-23"
+    },
+    {
+      "from": "metricas-sem-vaidade",
+      "to": "qualidade-dados-campanha-conversoes",
+      "anchor": "etapas intermediárias",
+      "context": "CPA (Custo por Ação) ou CPL (Custo por Lead)Útil para etapas intermediárias, desde que você ligue ao que vem depois. Lead barato que não vira cliente é só… lead barato.",
+      "reason": "Aprofunda a distinção entre registro inicial, oportunidade qualificada e resultado comercial.",
+      "modifiedAt": "2026-10-23"
+    },
+    {
+      "from": "como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos",
+      "to": "ia-materiais-marca-alem-das-cores",
+      "anchor": "curadoria humana",
+      "context": "O caminho está no equilíbrio. Usar a IA para otimizar processos, mas manter a curadoria humana para garantir que a comunicação continue sendo autêntica. Deixar que a máquina sugira, mas que o humano refine. Permitir que a tecnologia acelere, sem perder a sensibilidade.",
+      "reason": "Detalha os critérios de briefing e revisão para materiais de marca gerados por IA.",
+      "modifiedAt": "2026-10-23"
+    },
+    {
+      "from": "microcomunidades-relevancia-alem-das-impressoes",
+      "to": "parceria-marca-alem-dos-logotipos",
+      "anchor": "olhe além do número de seguidores",
+      "context": "Antes de contratar essa parceria, olhe além do número de seguidores. Observe o tema das conversas, o tipo de dúvida recebida e a maneira como o criador se relaciona com seu público. Esclareça a natureza comercial da participação e combine critérios que preservem a honestidade do conteúdo.",
+      "reason": "Aprofunda a escolha de parceiros pela contribuição e responsabilidades, além da audiência.",
+      "modifiedAt": "2026-10-23"
+    },
+    {
+      "from": "jornada-compra-antes-da-campanha",
+      "to": "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+      "anchor": "resposta contraditória",
+      "context": "A pessoa que consulta uma página não deveria receber uma resposta contraditória ao conversar com a equipe.",
+      "reason": "Aprofunda a coerência entre informação pública e atendimento na experiência de decisão.",
+      "modifiedAt": "2026-10-23"
     }
   ]
 }

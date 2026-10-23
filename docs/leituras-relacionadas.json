@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "catalogSha256": "6b6a097de444f0b3b78cd5a9bec27ac95aad59f57906774318bf7ecc6e495736",
-  "reviewedAt": "2026-10-21",
+  "catalogSha256": "47b75f680d26a8d5add0f70597d24b3afec2c5b4b93e54ab84b9fd763eae990a",
+  "reviewedAt": "2026-10-23",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
       "targets": [
         "o-custo-invisivel-de-coordenar-o-proprio-marketing",
-        "metricas-sem-vaidade"
+        "qualidade-dados-campanha-conversoes"
       ],
-      "reason": "Conecta a integração comercial à responsabilidade de coordenar o marketing e às métricas de resultado.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Coordenação integrada permanece relevante; dados de campanha aprofunda diretamente critérios de qualificação e retorno do comercial.",
+      "modifiedAt": "2026-10-23"
     },
     "efeito-isca": {
       "targets": [
@@ -118,10 +118,10 @@
     "metricas-sem-vaidade": {
       "targets": [
         "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade",
-        "orcamento-de-marketing-2026-para-pmes"
+        "qualidade-dados-campanha-conversoes"
       ],
-      "reason": "Liga métricas a vendas e à alocação do orçamento de marketing.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Preserva integração comercial e aprofunda a definição e qualidade dos sinais de conversão antes de interpretar métricas.",
+      "modifiedAt": "2026-10-23"
     },
     "orcamento-de-marketing-2026-para-pmes": {
       "targets": [
@@ -165,11 +165,11 @@
     },
     "como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos": {
       "targets": [
-        "framing-a-arte-invisivel-que-decide-o-sucesso-da-sua-comunicacao",
+        "ia-materiais-marca-alem-das-cores",
         "o-atendimento-esta-desmentindo-o-seu-posicionamento"
       ],
-      "reason": "Preserva a construção da mensagem e acrescenta critérios de contexto e responsabilidade para não reduzir atendimento humano a frases prontas.",
-      "modifiedAt": "2026-10-17"
+      "reason": "O novo artigo detalha briefing e critérios humanos para a IA representar a marca; atendimento preserva a aplicação na experiência.",
+      "modifiedAt": "2026-10-23"
     },
     "qual-e-o-arquetipo-da-sua-concorrencia-e-por-que-voce-deveria-saber-disso": {
       "targets": [
@@ -518,10 +518,10 @@
     "microcomunidades-relevancia-alem-das-impressoes": {
       "targets": [
         "como-marcas-locais-constroem-comunidades-mais-fortes-do-que-muitas-multinacionais",
-        "ninguem-compra-sozinho"
+        "parceria-marca-alem-dos-logotipos"
       ],
-      "reason": "Relaciona a participação em contextos específicos à comunidade local e à influência social nas escolhas.",
-      "modifiedAt": "2026-10-19"
+      "reason": "Preserva pertencimento local e aprofunda a escolha e organização de parcerias com criadores ou negócios além da quantidade de seguidores.",
+      "modifiedAt": "2026-10-23"
     },
     "legibilidade-digital-marca-pessoas-ia": {
       "targets": [
@@ -569,6 +569,14 @@
         "branding-nao-acontece-so-no-marketing-ele-vive-na-operacao"
       ],
       "reason": "Microcomunidades aprofunda a relevância do público além da audiência somada; a marca na operação explica a necessidade de cumprir a promessa conjunta no atendimento e na execução.",
+      "modifiedAt": "2026-10-23"
+    },
+    "jornada-compra-antes-da-campanha": {
+      "targets": [
+        "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding",
+        "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido"
+      ],
+      "reason": "UX aprofunda o acesso à informação durante a avaliação; clareza da oferta antes da mídia complementa a preparação da comunicação e das condições de contratação.",
       "modifiedAt": "2026-10-23"
     }
   }

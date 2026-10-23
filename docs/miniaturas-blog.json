@@ -495,5 +495,12 @@
     "height": 896,
     "source": "conteudos/pauta-diaria-2026-10-22/imagens/f19ec057bdd41cd427367b2cf0551c8b7f723bfd900f59d6e3c30058b7835397.png",
     "sha256": "f19ec057bdd41cd427367b2cf0551c8b7f723bfd900f59d6e3c30058b7835397"
+  },
+  "jornada-compra-antes-da-campanha": {
+    "path": "/assets/artigos-editoriais/b1e401ba5c34625bb17d919882d62a2a5d87c9de72dcaa6ecfb92c8c7aa523b6.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-diaria-2026-10-23/imagens/b1e401ba5c34625bb17d919882d62a2a5d87c9de72dcaa6ecfb92c8c7aa523b6.png",
+    "sha256": "b1e401ba5c34625bb17d919882d62a2a5d87c9de72dcaa6ecfb92c8c7aa523b6"
   }
 }
