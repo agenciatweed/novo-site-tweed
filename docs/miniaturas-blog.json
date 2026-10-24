@@ -502,5 +502,12 @@
     "height": 896,
     "source": "conteudos/pauta-diaria-2026-10-23/imagens/b1e401ba5c34625bb17d919882d62a2a5d87c9de72dcaa6ecfb92c8c7aa523b6.png",
     "sha256": "b1e401ba5c34625bb17d919882d62a2a5d87c9de72dcaa6ecfb92c8c7aa523b6"
+  },
+  "atribuicao-vendas-efeito-campanha": {
+    "path": "/assets/artigos-editoriais/b5c307e4cd5cd1e01f333c06123325bf3bb56987ce0313c024f01cfce55c1689.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-reposicao-2026-10-23-833102549c76/imagens/b5c307e4cd5cd1e01f333c06123325bf3bb56987ce0313c024f01cfce55c1689.png",
+    "sha256": "b5c307e4cd5cd1e01f333c06123325bf3bb56987ce0313c024f01cfce55c1689"
   }
 }

@@ -272,6 +272,14 @@
       "context": "A pessoa que consulta uma página não deveria receber uma resposta contraditória ao conversar com a equipe.",
       "reason": "Aprofunda a coerência entre informação pública e atendimento na experiência de decisão.",
       "modifiedAt": "2026-10-23"
+    },
+    {
+      "from": "atribuicao-vendas-efeito-campanha",
+      "to": "qualidade-dados-campanha-conversoes",
+      "anchor": "registros de pedidos ou contratos",
+      "context": "A equipe precisa explicar se os relatórios descrevem universos comparáveis, se há possibilidade de sobreposição e como isso conversa com os registros de pedidos ou contratos da empresa.",
+      "reason": "Aprofunda a definição dos eventos e a consistência dos registros que sustentam a medição.",
+      "modifiedAt": "2026-10-24"
     }
   ]
 }

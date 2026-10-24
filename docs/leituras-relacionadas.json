@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "45efd011a6d35a75819b622742985e0c32c3823872f30c371a035009f7e8f2b6",
+  "catalogSha256": "fa03af250e047ed3d5bce2a037e9b57f145be133ce7d16d1b1afda041906634e",
   "reviewedAt": "2026-10-23",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -578,6 +578,14 @@
       ],
       "reason": "UX aprofunda o acesso à informação durante a avaliação; clareza da oferta antes da mídia complementa a preparação da comunicação e das condições de contratação.",
       "modifiedAt": "2026-10-23"
+    },
+    "atribuicao-vendas-efeito-campanha": {
+      "targets": [
+        "qualidade-dados-campanha-conversoes",
+        "metricas-sem-vaidade"
+      ],
+      "reason": "Qualidade dos dados aprofunda o que a conversão registra e sua relação com o comercial; métricas sem vaidade amplia a leitura de resultados relevantes ao negócio.",
+      "modifiedAt": "2026-10-24"
     }
   }
 }

@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 4972,
-    "sha256": "ae45382841a0038a81a2e469523888f8406e3ff86a93bf22d390f8bb60b63b25"
+    "bytes": 5009,
+    "sha256": "37653daa914a9859212f5686d65be1fb73640b779edda90a54189bb5b4f23fb5"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -93,6 +93,11 @@
     "path": "assets/artigos-editoriais/b1e401ba5c34625bb17d919882d62a2a5d87c9de72dcaa6ecfb92c8c7aa523b6.png",
     "bytes": 1771230,
     "sha256": "b1e401ba5c34625bb17d919882d62a2a5d87c9de72dcaa6ecfb92c8c7aa523b6"
+  },
+  {
+    "path": "assets/artigos-editoriais/b5c307e4cd5cd1e01f333c06123325bf3bb56987ce0313c024f01cfce55c1689.png",
+    "bytes": 1682307,
+    "sha256": "b5c307e4cd5cd1e01f333c06123325bf3bb56987ce0313c024f01cfce55c1689"
   },
   {
     "path": "assets/artigos-editoriais/b8da51e1610000212718598ac63c3127bb42002b70e2c714b191de3b658270e6.png",
@@ -815,6 +820,11 @@
     "sha256": "2e11e607500abd00ef3f0cf6b111f45f91cef248c53beb12b0b7f4b7e8431189"
   },
   {
+    "path": "atribuicao-vendas-efeito-campanha/index.html",
+    "bytes": 23512,
+    "sha256": "e1a5fcd7bf416235e2ab01ae55bbfe3fa62c66c8a4e8328fc563c01580d15249"
+  },
+  {
     "path": "blog-branding-na-marra/index.html",
     "bytes": 18560,
     "sha256": "c8efbb58265ba02f6e179b9c15b8885596430c83a7cc9e179d837c18927df8aa"
@@ -841,13 +851,13 @@
   },
   {
     "path": "blog-pequeno-mas-estrategico/index.html",
-    "bytes": 19142,
-    "sha256": "54a4b797cb31d29b5ab3e500efd5e22b34d83d4acfd8617d7b18f40771230016"
+    "bytes": 19665,
+    "sha256": "a98d6f4b19eb92385445702d6f3d820c772d5f4469d86e3164306268c5e28461"
   },
   {
     "path": "blog/index.html",
-    "bytes": 23509,
-    "sha256": "bdcfb45c2fc10d45f455bb20e268ef0d4b4d2b33810ae4f3ad08d7d38cedc9c6"
+    "bytes": 23484,
+    "sha256": "17a7e0ef2bcff6d406a5d7910e7c106912861ae9fb05b23718b104dc252c3e64"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1156,8 +1166,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 12159,
-    "sha256": "a58f49d402f35a1b065a219cf4e079985c53efbb7cb735ee24daa73b93116bd5"
+    "bytes": 12296,
+    "sha256": "38ea2eb07de088b4aa832f500a6e4cd1830b85a9a5b253f7e11bcb5df5a080a3"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",

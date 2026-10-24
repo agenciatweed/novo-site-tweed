@@ -169,3 +169,8 @@ Manutenção da execução 30, antes da publicação: reavaliados 71 pares, quat
 ## Fontes clicáveis — 23/10/2026
 
 Por solicitação do proprietário, os 11 artigos com Fontes e notas passaram a exibir o nome da referência como link clicável. Notas explicativas mantidas em parágrafos separados. Publicados exclusivamente esses 11 HTML, com pré-verificação, backups individuais em TweedEditorial/backups/publicacoes/fontes-clicaveis-20261023/ e confirmação FTP/HTTP. Corpo aprovado, JSON-LD, relacionados, home e sitemap preservados. Atualizados render_body e tools/editorial_sources.py para fontes futuras, com suporte ao formato legado Nome: URL e Markdown [Nome](URL), escapando HTML arbitrário. Registro editorial e hash do catálogo atualizados, sem mudar escolhas de relacionados. Quatro testes da formatação e validadores de 72 artigos/80 URLs aprovados; rótulo e destino NRF conferidos em desktop/mobile.
+
+
+## Execução manual 34 — atribuição de vendas — 24/10/2026
+
+Publicado atribuicao-vendas-efeito-campanha após aprovação humana, dry-run e confirmação FTP/HTTP dos seis arquivos. Capa 1344 × 896, um link contextual, duas recomendações e FAQ somente estruturado. Fontes Walmart Connect e Google Ads Help exibidas como nomes clicáveis, com notas separadas. Arquivado em Artigos após confirmação. Planos new-only preservam HTML e recomendações antigas. Atualizados apenas artigo, capa, índices, sitemap e rota estreita. Backups por job 1fc722de-3307-484c-a839-4fb3a5d2acda; planos no painel 2026-10-24-atribuicao.json. Validadores: 73 artigos e 81 URLs. Desktop/mobile, capa, menu Blog, fontes e home preservada conferidos.
