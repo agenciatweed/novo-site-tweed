@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "fa03af250e047ed3d5bce2a037e9b57f145be133ce7d16d1b1afda041906634e",
+  "catalogSha256": "ffd20b054659a4d17605b49c904dd85a8e33591225dd653cbfeb418098d2ddf9",
   "reviewedAt": "2026-10-23",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -585,6 +585,14 @@
         "metricas-sem-vaidade"
       ],
       "reason": "Qualidade dos dados aprofunda o que a conversão registra e sua relação com o comercial; métricas sem vaidade amplia a leitura de resultados relevantes ao negócio.",
+      "modifiedAt": "2026-10-24"
+    },
+    "interpretar-referencias-visuais-cliente": {
+      "targets": [
+        "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+        "personalidade-de-marca-aparece-nas-escolhas-pequenas"
+      ],
+      "reason": "Os dois textos aprofundam a passagem da promessa de marca para a conversa real: escuta e contexto no atendimento, seguidos de escolhas concretas que expressam cuidado e personalidade.",
       "modifiedAt": "2026-10-24"
     }
   }

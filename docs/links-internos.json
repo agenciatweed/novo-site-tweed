@@ -280,6 +280,14 @@
       "context": "A equipe precisa explicar se os relatórios descrevem universos comparáveis, se há possibilidade de sobreposição e como isso conversa com os registros de pedidos ou contratos da empresa.",
       "reason": "Aprofunda a definição dos eventos e a consistência dos registros que sustentam a medição.",
       "modifiedAt": "2026-10-24"
+    },
+    {
+      "from": "interpretar-referencias-visuais-cliente",
+      "to": "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+      "anchor": "percepção de ser compreendido",
+      "context": "A percepção de ser compreendido se constrói também nesses pequenos cuidados: retomar o que foi dito, explicar uma escolha e permitir que a pessoa ajuste o entendimento.",
+      "reason": "Aprofunda como escuta, contexto e encaminhamento tornam a promessa de proximidade concreta no atendimento.",
+      "modifiedAt": "2026-10-24"
     }
   ]
 }

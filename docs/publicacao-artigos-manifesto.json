@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 5009,
-    "sha256": "37653daa914a9859212f5686d65be1fb73640b779edda90a54189bb5b4f23fb5"
+    "bytes": 5052,
+    "sha256": "a74308bc2cd9db7db52ad40d9ffe7d2eaf447e4342d9bcb856348721a2814024"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -88,6 +88,11 @@
     "path": "assets/artigos-editoriais/9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3.png",
     "bytes": 1483743,
     "sha256": "9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3"
+  },
+  {
+    "path": "assets/artigos-editoriais/b0d7f8ad643cdd848b0f866c696d645e1bb8c03188b0d54d7fec8169d84ddbf6.png",
+    "bytes": 1603980,
+    "sha256": "b0d7f8ad643cdd848b0f866c696d645e1bb8c03188b0d54d7fec8169d84ddbf6"
   },
   {
     "path": "assets/artigos-editoriais/b1e401ba5c34625bb17d919882d62a2a5d87c9de72dcaa6ecfb92c8c7aa523b6.png",
@@ -831,8 +836,8 @@
   },
   {
     "path": "blog-marcas-com-alma/index.html",
-    "bytes": 16452,
-    "sha256": "b483d2c545b95099d13a6055b21c41f747b2ee1170d848aea1b6c73b532b12b4"
+    "bytes": 17169,
+    "sha256": "6c8759b6686a1932038c30f4abc03ed5fb3f451430606fa1cd0f4a5d9baeb209"
   },
   {
     "path": "blog-marcas-em-acao/index.html",
@@ -856,8 +861,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 23484,
-    "sha256": "17a7e0ef2bcff6d406a5d7910e7c106912861ae9fb05b23718b104dc252c3e64"
+    "bytes": 23597,
+    "sha256": "3133f26938e8f9e6293830ae2c200add943eae5180c06b843728e3e3c72dd416"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -958,6 +963,11 @@
     "path": "identidade-visual-2027-textura-cor-autoria/index.html",
     "bytes": 20421,
     "sha256": "1b02205205f58f5b8d35937884b843f5924623192eff610e07be444bbf1d77af"
+  },
+  {
+    "path": "interpretar-referencias-visuais-cliente/index.html",
+    "bytes": 23235,
+    "sha256": "e2b664e5175bc9117b1638734025b29ea8c78e3f160f7d50846830f92cb19909"
   },
   {
     "path": "jornada-compra-antes-da-campanha/index.html",
@@ -1166,8 +1176,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 12296,
-    "sha256": "38ea2eb07de088b4aa832f500a6e4cd1830b85a9a5b253f7e11bcb5df5a080a3"
+    "bytes": 12439,
+    "sha256": "c2cae23b6b5c84e1dbc2d83776c754deb8b2fc2d0e8d29a29b2db57f558ce576"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",

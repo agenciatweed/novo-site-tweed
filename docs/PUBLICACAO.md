@@ -174,3 +174,8 @@ Por solicitação do proprietário, os 11 artigos com Fontes e notas passaram a 
 ## Execução manual 34 — atribuição de vendas — 24/10/2026
 
 Publicado atribuicao-vendas-efeito-campanha após aprovação humana, dry-run e confirmação FTP/HTTP dos seis arquivos. Capa 1344 × 896, um link contextual, duas recomendações e FAQ somente estruturado. Fontes Walmart Connect e Google Ads Help exibidas como nomes clicáveis, com notas separadas. Arquivado em Artigos após confirmação. Planos new-only preservam HTML e recomendações antigas. Atualizados apenas artigo, capa, índices, sitemap e rota estreita. Backups por job 1fc722de-3307-484c-a839-4fb3a5d2acda; planos no painel 2026-10-24-atribuicao.json. Validadores: 73 artigos e 81 URLs. Desktop/mobile, capa, menu Blog, fontes e home preservada conferidos.
+
+
+## Rodada 37 — referências visuais — 24/10/2026
+
+Publicado interpretar-referencias-visuais-cliente após aprovação humana, dry-run e confirmação FTP/HTTP dos seis arquivos. Capa 1344 × 896, um link contextual para atendimento e duas recomendações relacionadas à escuta e às escolhas de marca. FAQ somente estruturado; fonte Pinterest exibida como nome clicável. Arquivado em Artigos após confirmação. Planos new-only preservam HTML e recomendações antigas; atualizados apenas artigo, capa, blog, série, sitemap e rota estreita. Backups por job 56714b7d-d871-4e27-a1ef-d70b8dcb032c; planos no painel 2026-10-24-referencias.json. Validadores: 74 artigos e 82 URLs. Desktop/mobile, anel da capa, menu Blog, fontes e home preservada conferidos. Manutenção ampla permanece prevista para a execução 40.
