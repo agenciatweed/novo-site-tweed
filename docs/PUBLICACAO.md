@@ -179,3 +179,8 @@ Publicado atribuicao-vendas-efeito-campanha após aprovação humana, dry-run e 
 ## Rodada 37 — referências visuais — 24/10/2026
 
 Publicado interpretar-referencias-visuais-cliente após aprovação humana, dry-run e confirmação FTP/HTTP dos seis arquivos. Capa 1344 × 896, um link contextual para atendimento e duas recomendações relacionadas à escuta e às escolhas de marca. FAQ somente estruturado; fonte Pinterest exibida como nome clicável. Arquivado em Artigos após confirmação. Planos new-only preservam HTML e recomendações antigas; atualizados apenas artigo, capa, blog, série, sitemap e rota estreita. Backups por job 56714b7d-d871-4e27-a1ef-d70b8dcb032c; planos no painel 2026-10-24-referencias.json. Validadores: 74 artigos e 82 URLs. Desktop/mobile, anel da capa, menu Blog, fontes e home preservada conferidos. Manutenção ampla permanece prevista para a execução 40.
+
+
+## Rodada 39 — aprovação de campanhas — 25/10/2026
+
+Publicado aprovacao-campanha-feedback-decisoes após aprovação humana, dry-run e confirmação FTP/HTTP dos seis arquivos. Capa 1344 × 896, um link contextual sobre critérios criativos, dois relacionados e FAQ somente estruturado. Fonte Adobe/NVIDIA exibida como nome clicável. Arquivado em Artigos após confirmação. Planos new-only preservam HTML e recomendações antigas; atualizados somente artigo, capa, blog, série, sitemap e rota estreita. Backups por job d8e5dd6b-a7ea-4b6b-b06b-3026fe948694; planos no painel 2026-10-25-aprovacao.json. Validadores: 75 artigos e 83 URLs. Desktop/mobile, anel da capa, menu Blog, fontes e home preservada conferidos. Manutenção ampla segue prevista para a execução 40.

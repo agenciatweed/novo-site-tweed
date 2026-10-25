@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 5052,
-    "sha256": "a74308bc2cd9db7db52ad40d9ffe7d2eaf447e4342d9bcb856348721a2814024"
+    "bytes": 5092,
+    "sha256": "549d1613e1f0a5ad2fb22233d11982526ba2709a4d528918ad36db5ce006ba9b"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -38,6 +38,11 @@
     "path": "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido/index.html",
     "bytes": 20585,
     "sha256": "5fd93996a9f8098303df601fcc650290f4e3e065ff46c3bc2d965e4b687c17ec"
+  },
+  {
+    "path": "aprovacao-campanha-feedback-decisoes/index.html",
+    "bytes": 23468,
+    "sha256": "bf0bf7c357661761bc4b6fc5142b4a8f204f2bcc38b2ba25050591fc8229b799"
   },
   {
     "path": "arquetipos-de-marca-para-pequenas-empresas/index.html",
@@ -128,6 +133,11 @@
     "path": "assets/artigos-editoriais/e9006ef3463dc16b77f44976b53baaed5e2aa7e30ebd3860a31ccde68ad15b40.png",
     "bytes": 1334677,
     "sha256": "e9006ef3463dc16b77f44976b53baaed5e2aa7e30ebd3860a31ccde68ad15b40"
+  },
+  {
+    "path": "assets/artigos-editoriais/f126c80fbcc70e5642b3021f25057f51cd7b80d0f82ed7e817da705ab9eb9549.png",
+    "bytes": 1571593,
+    "sha256": "f126c80fbcc70e5642b3021f25057f51cd7b80d0f82ed7e817da705ab9eb9549"
   },
   {
     "path": "assets/artigos-editoriais/f19ec057bdd41cd427367b2cf0551c8b7f723bfd900f59d6e3c30058b7835397.png",
@@ -841,8 +851,8 @@
   },
   {
     "path": "blog-marcas-em-acao/index.html",
-    "bytes": 16535,
-    "sha256": "94358a5049f7bd4469152853900816fa8740a37f8ab1bf0e8b6298c05d65546b"
+    "bytes": 17212,
+    "sha256": "50eda64e1192520619a1acc6294753b119c33c3632742e3bec98237bec75e93b"
   },
   {
     "path": "blog-marcas-em-movimento/index.html",
@@ -861,8 +871,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 23597,
-    "sha256": "3133f26938e8f9e6293830ae2c200add943eae5180c06b843728e3e3c72dd416"
+    "bytes": 23632,
+    "sha256": "096ff65f316e451f84d850f33efb2b71756f215cf5aceacb624becfd2e66b6fa"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1176,8 +1186,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 12439,
-    "sha256": "c2cae23b6b5c84e1dbc2d83776c754deb8b2fc2d0e8d29a29b2db57f558ce576"
+    "bytes": 12579,
+    "sha256": "47d5584e1b55034c0c15e2bc9472fe57cb606993ee877082793bbdc99881a308"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",

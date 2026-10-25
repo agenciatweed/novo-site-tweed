@@ -288,6 +288,14 @@
       "context": "A percepção de ser compreendido se constrói também nesses pequenos cuidados: retomar o que foi dito, explicar uma escolha e permitir que a pessoa ajuste o entendimento.",
       "reason": "Aprofunda como escuta, contexto e encaminhamento tornam a promessa de proximidade concreta no atendimento.",
       "modifiedAt": "2026-10-24"
+    },
+    {
+      "from": "aprovacao-campanha-feedback-decisoes",
+      "to": "uma-boa-restricao-pode-melhorar-uma-ideia",
+      "anchor": "Critérios de aprovação",
+      "context": "Critérios de aprovação ajudam a manter a conversa ligada ao objetivo.",
+      "reason": "Aprofunda como explicitar limites e critérios que permitem avaliar caminhos criativos.",
+      "modifiedAt": "2026-10-25"
     }
   ]
 }

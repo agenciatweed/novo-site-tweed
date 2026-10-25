@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "ffd20b054659a4d17605b49c904dd85a8e33591225dd653cbfeb418098d2ddf9",
+  "catalogSha256": "3f93d912a299349dcd9f25fecada41d0442dd47109b10c0a9f9b08c1776940d4",
   "reviewedAt": "2026-10-23",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -594,6 +594,14 @@
       ],
       "reason": "Os dois textos aprofundam a passagem da promessa de marca para a conversa real: escuta e contexto no atendimento, seguidos de escolhas concretas que expressam cuidado e personalidade.",
       "modifiedAt": "2026-10-24"
+    },
+    "aprovacao-campanha-feedback-decisoes": {
+      "targets": [
+        "ia-materiais-marca-alem-das-cores",
+        "uma-boa-restricao-pode-melhorar-uma-ideia"
+      ],
+      "reason": "Aprofundam as informações e critérios necessários para revisar a produção acelerada por IA e para escolher soluções criativas dentro de limites claros.",
+      "modifiedAt": "2026-10-25"
     }
   }
 }
