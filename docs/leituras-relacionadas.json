@@ -1,7 +1,7 @@
 {
   "version": 1,
   "catalogSha256": "3f93d912a299349dcd9f25fecada41d0442dd47109b10c0a9f9b08c1776940d4",
-  "reviewedAt": "2026-10-23",
+  "reviewedAt": "2026-10-25",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
       "targets": [
@@ -117,11 +117,11 @@
     },
     "metricas-sem-vaidade": {
       "targets": [
-        "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade",
+        "atribuicao-vendas-efeito-campanha",
         "qualidade-dados-campanha-conversoes"
       ],
-      "reason": "Preserva integração comercial e aprofunda a definição e qualidade dos sinais de conversão antes de interpretar métricas.",
-      "modifiedAt": "2026-10-23"
+      "reason": "Aprofunda diretamente a leitura de receita atribuída e a definição dos registros usados nas métricas.",
+      "modifiedAt": "2026-10-25"
     },
     "orcamento-de-marketing-2026-para-pmes": {
       "targets": [
@@ -446,10 +446,10 @@
     "o-custo-invisivel-de-coordenar-o-proprio-marketing": {
       "targets": [
         "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade",
-        "marketing-estrategico-para-pequenas-empresas"
+        "aprovacao-campanha-feedback-decisoes"
       ],
-      "reason": "Aprofunda a integração com vendas e a direção estratégica do marketing da PME.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Mantém integração marketing-vendas e troca a abordagem estratégica geral por aplicação direta à coordenação das decisões e aprovações.",
+      "modifiedAt": "2026-10-25"
     },
     "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar": {
       "targets": [
@@ -462,10 +462,10 @@
     "o-atendimento-esta-desmentindo-o-seu-posicionamento": {
       "targets": [
         "branding-nao-acontece-so-no-marketing-ele-vive-na-operacao",
-        "comentarios-parte-do-produto-experiencia-de-marca"
+        "interpretar-referencias-visuais-cliente"
       ],
-      "reason": "Mantém as condições operacionais e acrescenta aplicação direta em dúvidas e respostas públicas.",
-      "modifiedAt": "2026-10-19"
+      "reason": "Preserva operação e posicionamento; o novo artigo oferece aplicação direta da escuta e compreensão da demanda no atendimento consultivo.",
+      "modifiedAt": "2026-10-25"
     },
     "uma-boa-restricao-pode-melhorar-uma-ideia": {
       "targets": [
@@ -478,10 +478,10 @@
     "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido": {
       "targets": [
         "plano-de-midia-2027-alem-de-uma-plataforma",
-        "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding"
+        "jornada-compra-antes-da-campanha"
       ],
-      "reason": "Conecta coerência da oferta à distribuição entre ambientes e à experiência na página de destino.",
-      "modifiedAt": "2026-10-19"
+      "reason": "Mantém planejamento dos canais e aprofunda quando o comprador busca as explicações e condições que tornam a oferta compreensível.",
+      "modifiedAt": "2026-10-25"
     },
     "personalidade-de-marca-aparece-nas-escolhas-pequenas": {
       "targets": [
@@ -494,10 +494,10 @@
     "plano-de-midia-2027-alem-de-uma-plataforma": {
       "targets": [
         "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido",
-        "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade"
+        "jornada-compra-antes-da-campanha"
       ],
-      "reason": "Liga a distribuição de canais à coerência da oferta e à integração entre marketing e vendas.",
-      "modifiedAt": "2026-10-18"
+      "reason": "Mantém a coerência da oferta e aprofunda calendário, dúvidas e ciclo de compra que orientam as funções dos canais.",
+      "modifiedAt": "2026-10-25"
     },
     "comentarios-parte-do-produto-experiencia-de-marca": {
       "targets": [
@@ -549,19 +549,19 @@
     },
     "qualidade-dados-campanha-conversoes": {
       "targets": [
-        "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade",
+        "atribuicao-vendas-efeito-campanha",
         "metricas-sem-vaidade"
       ],
-      "reason": "A integração entre marketing e vendas aprofunda os critérios de qualificação e retorno comercial; métricas sem vaidade amplia a interpretação dos resultados de negócio.",
-      "modifiedAt": "2026-10-22"
+      "reason": "Complementa a definição dos eventos com a distinção entre atribuição e efeito incremental; preserva o panorama de métricas.",
+      "modifiedAt": "2026-10-25"
     },
     "ia-materiais-marca-alem-das-cores": {
       "targets": [
         "como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos",
-        "personalidade-de-marca-aparece-nas-escolhas-pequenas"
+        "aprovacao-campanha-feedback-decisoes"
       ],
-      "reason": "O uso de IA com linguagem própria complementa a orientação de materiais; personalidade nas escolhas pequenas aprofunda os critérios que tornam atributos de marca aplicáveis.",
-      "modifiedAt": "2026-10-22"
+      "reason": "Preserva a discussão sobre IA com voz humana e aprofunda os responsáveis, critérios e retornos da aprovação descritos no texto.",
+      "modifiedAt": "2026-10-25"
     },
     "parceria-marca-alem-dos-logotipos": {
       "targets": [

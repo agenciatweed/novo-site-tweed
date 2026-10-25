@@ -184,3 +184,8 @@ Publicado interpretar-referencias-visuais-cliente após aprovação humana, dry-
 ## Rodada 39 — aprovação de campanhas — 25/10/2026
 
 Publicado aprovacao-campanha-feedback-decisoes após aprovação humana, dry-run e confirmação FTP/HTTP dos seis arquivos. Capa 1344 × 896, um link contextual sobre critérios criativos, dois relacionados e FAQ somente estruturado. Fonte Adobe/NVIDIA exibida como nome clicável. Arquivado em Artigos após confirmação. Planos new-only preservam HTML e recomendações antigas; atualizados somente artigo, capa, blog, série, sitemap e rota estreita. Backups por job d8e5dd6b-a7ea-4b6b-b06b-3026fe948694; planos no painel 2026-10-25-aprovacao.json. Validadores: 75 artigos e 83 URLs. Desktop/mobile, anel da capa, menu Blog, fontes e home preservada conferidos. Manutenção ampla segue prevista para a execução 40.
+
+
+## Manutenção da execução 40 — 25/10/2026
+
+Reavaliados os dois relacionados dos 75 artigos contra as quatro publicações desde a manutenção anterior. Sete pares atualizados e 68 preservados. Inseridos quatro links naturais de entrada para jornada de compra, atribuição de vendas, interpretação de referências e aprovação de campanhas, respeitando quatro links por corpo e recomendações separadas. Publicados sete HTML e sitemap em quatro planos sequenciais com dry-run, backups e confirmação FTP/HTTP. Planos no painel 2026-10-25-ciclo40-1.json a -4.json e relacionados 2026-10-25-ciclo40.json. Textos dos sete artigos, home e demais páginas preservados; 75 artigos e 83 URLs validados. Contador concluído; próxima revisão na execução 50.

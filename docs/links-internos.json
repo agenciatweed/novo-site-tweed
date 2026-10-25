@@ -296,6 +296,38 @@
       "context": "Critérios de aprovação ajudam a manter a conversa ligada ao objetivo.",
       "reason": "Aprofunda como explicitar limites e critérios que permitem avaliar caminhos criativos.",
       "modifiedAt": "2026-10-25"
+    },
+    {
+      "from": "plano-de-midia-2027-alem-de-uma-plataforma",
+      "to": "jornada-compra-antes-da-campanha",
+      "anchor": "ciclo de compra",
+      "context": "Defina um período e critérios de observação compatíveis com o ciclo de compra. Não compare apenas o custo de exibição de ambientes que cumprem funções diferentes. Observe a adequação das oportunidades, os caminhos de contato e os limites dos dados disponíveis.",
+      "reason": "Aprofunda o momento em que o cliente começa a avaliar alternativas e como isso orienta o calendário da campanha.",
+      "modifiedAt": "2026-10-25"
+    },
+    {
+      "from": "metricas-sem-vaidade",
+      "to": "atribuicao-vendas-efeito-campanha",
+      "anchor": "receita atribuída",
+      "context": "ROAS: retorno sobre gasto em anúncios (receita atribuída / gasto em ads)",
+      "reason": "Esclarece a diferença entre crédito atribuído e efeito incremental no cálculo apresentado.",
+      "modifiedAt": "2026-10-25"
+    },
+    {
+      "from": "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+      "to": "interpretar-referencias-visuais-cliente",
+      "anchor": "compreender a demanda",
+      "context": "O mesmo raciocínio vale para outras escolhas. Agilidade precisa de prioridades e prazos possíveis. Atendimento consultivo exige acesso a contexto e tempo para compreender a demanda. Uma experiência premium precisa deixar claro em que consiste o cuidado adicional.",
+      "reason": "Aplica a escuta consultiva à interpretação das referências apresentadas pelo cliente.",
+      "modifiedAt": "2026-10-25"
+    },
+    {
+      "from": "ia-materiais-marca-alem-das-cores",
+      "to": "aprovacao-campanha-feedback-decisoes",
+      "anchor": "aprovação",
+      "context": "Quando o material exigir correção, registre o motivo e atualize a referência. Se a mesma ambiguidade reaparece, vale revisar o briefing antes de pedir novas versões. Produzir mais alternativas sem esclarecer o critério apenas transfere o problema para a aprovação.",
+      "reason": "Aprofunda a consolidação de retornos e a definição de critérios e responsáveis na aprovação.",
+      "modifiedAt": "2026-10-25"
     }
   ]
 }
