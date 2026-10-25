@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 5092,
-    "sha256": "549d1613e1f0a5ad2fb22233d11982526ba2709a4d528918ad36db5ce006ba9b"
+    "bytes": 5223,
+    "sha256": "ebb58e6e43e9a82098710b7e74fd2a0110b1cde440f61d04cc11f287b88e09c5"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -60,6 +60,11 @@
     "sha256": "2136e7215b18dc9c5bff7cc2d9a8a1a625a05d3d617de6d692dad8ed9c97f216"
   },
   {
+    "path": "assets/artigos-editoriais/2b9455b274d98889f4611588d12d705bacea7ead56aef9d83273ae1c326c9841.png",
+    "bytes": 1762003,
+    "sha256": "2b9455b274d98889f4611588d12d705bacea7ead56aef9d83273ae1c326c9841"
+  },
+  {
     "path": "assets/artigos-editoriais/381f03b2f8762f26ed8c497cfec885c94f56566d61d452c2801c48d8978e2059.png",
     "bytes": 1222661,
     "sha256": "381f03b2f8762f26ed8c497cfec885c94f56566d61d452c2801c48d8978e2059"
@@ -93,6 +98,11 @@
     "path": "assets/artigos-editoriais/9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3.png",
     "bytes": 1483743,
     "sha256": "9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3"
+  },
+  {
+    "path": "assets/artigos-editoriais/ae9f3bd17cf015ecd2daf788c993b50e6b0171e45c63620286f7238a99e0afb9.png",
+    "bytes": 1684174,
+    "sha256": "ae9f3bd17cf015ecd2daf788c993b50e6b0171e45c63620286f7238a99e0afb9"
   },
   {
     "path": "assets/artigos-editoriais/b0d7f8ad643cdd848b0f866c696d645e1bb8c03188b0d54d7fec8169d84ddbf6.png",
@@ -133,6 +143,11 @@
     "path": "assets/artigos-editoriais/e9006ef3463dc16b77f44976b53baaed5e2aa7e30ebd3860a31ccde68ad15b40.png",
     "bytes": 1334677,
     "sha256": "e9006ef3463dc16b77f44976b53baaed5e2aa7e30ebd3860a31ccde68ad15b40"
+  },
+  {
+    "path": "assets/artigos-editoriais/eac4f37a0d1d3e302ec884321d8bb704182d9163fe148a9dbb6614f103c7afa9.png",
+    "bytes": 1836302,
+    "sha256": "eac4f37a0d1d3e302ec884321d8bb704182d9163fe148a9dbb6614f103c7afa9"
   },
   {
     "path": "assets/artigos-editoriais/f126c80fbcc70e5642b3021f25057f51cd7b80d0f82ed7e817da705ab9eb9549.png",
@@ -851,8 +866,8 @@
   },
   {
     "path": "blog-marcas-em-acao/index.html",
-    "bytes": 17212,
-    "sha256": "50eda64e1192520619a1acc6294753b119c33c3632742e3bec98237bec75e93b"
+    "bytes": 17776,
+    "sha256": "14d08e4b2f0afda8d5ff64c5e2e8f2a576c4db503157dc9f1e1ca3da811db30d"
   },
   {
     "path": "blog-marcas-em-movimento/index.html",
@@ -866,13 +881,13 @@
   },
   {
     "path": "blog-pequeno-mas-estrategico/index.html",
-    "bytes": 19665,
-    "sha256": "a98d6f4b19eb92385445702d6f3d820c772d5f4469d86e3164306268c5e28461"
+    "bytes": 20835,
+    "sha256": "d9917c01d62b8919f8f61697f0e36af0512535d450ea69b1035f9e275a6cf477"
   },
   {
     "path": "blog/index.html",
-    "bytes": 23632,
-    "sha256": "096ff65f316e451f84d850f33efb2b71756f215cf5aceacb624becfd2e66b6fa"
+    "bytes": 23746,
+    "sha256": "3ae0b5ba1eb259c119d9e11788e8afa063ddc3cc58c1ea36b41bcc497586fe67"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -975,6 +990,11 @@
     "sha256": "1b02205205f58f5b8d35937884b843f5924623192eff610e07be444bbf1d77af"
   },
   {
+    "path": "informacoes-empresa-atualizadas-canais/index.html",
+    "bytes": 23793,
+    "sha256": "f722b2e9d1d9c6d0a151b5cead558d584f72541b3c84aaee9bc695c39ce9e7ab"
+  },
+  {
     "path": "interpretar-referencias-visuais-cliente/index.html",
     "bytes": 23235,
     "sha256": "e2b664e5175bc9117b1638734025b29ea8c78e3f160f7d50846830f92cb19909"
@@ -1033,6 +1053,11 @@
     "path": "menos-e-mais-o-poder-de-campanhas-pequenas-com-grandes-ideias/index.html",
     "bytes": 16130,
     "sha256": "b91624831a8e40fffd5a2ec288e985a3563cc7e3ccdd0be938d981d68652faa0"
+  },
+  {
+    "path": "mensagem-contexto-momento-cliente/index.html",
+    "bytes": 23059,
+    "sha256": "1dcac3556f3e938f4b98f9fed5956462f4997cce57e31b5e393f5a4aa753a511"
   },
   {
     "path": "metricas-sem-vaidade/index.html",
@@ -1130,6 +1155,11 @@
     "sha256": "708f3a14a424324d6aec7f80267bdb3327489e65c218d8611873b972b77f8d17"
   },
   {
+    "path": "personalizacao-atendimento-corrigir-preferencias/index.html",
+    "bytes": 23671,
+    "sha256": "768073886bfb09b43076248e926f754955292af0a10a4a28a7180aff861312e7"
+  },
+  {
     "path": "plano-de-midia-2027-alem-de-uma-plataforma/index.html",
     "bytes": 20965,
     "sha256": "0b43296ac8f7843ccfbaa7041f4913df46539c6e73807348b51003060b5fa1c9"
@@ -1186,8 +1216,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 12579,
-    "sha256": "80bd92577690d0691ea61223700fcf8b7823ce4f19d244ceb6787fe3635c1dac"
+    "bytes": 13010,
+    "sha256": "1bde75e6a22087fa052ac9b13b4ba7be0f13c5d15778e1d2a7887bbe25cb906b"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",

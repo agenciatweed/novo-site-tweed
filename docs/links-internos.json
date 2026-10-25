@@ -328,6 +328,30 @@
       "context": "Quando o material exigir correção, registre o motivo e atualize a referência. Se a mesma ambiguidade reaparece, vale revisar o briefing antes de pedir novas versões. Produzir mais alternativas sem esclarecer o critério apenas transfere o problema para a aprovação.",
       "reason": "Aprofunda a consolidação de retornos e a definição de critérios e responsáveis na aprovação.",
       "modifiedAt": "2026-10-25"
+    },
+    {
+      "from": "mensagem-contexto-momento-cliente",
+      "to": "reaproveitamento-video-adaptacao-criativa",
+      "anchor": "não precisa ser apresentada sempre da mesma forma",
+      "context": "Essa ideia pode atravessar diferentes pontos de contato, mas não precisa ser apresentada sempre da mesma forma.",
+      "reason": "Aprofunda como preservar a ideia enquanto se adapta uma entrega às condições de cada canal.",
+      "modifiedAt": "2026-10-25"
+    },
+    {
+      "from": "informacoes-empresa-atualizadas-canais",
+      "to": "legibilidade-digital-marca-pessoas-ia",
+      "anchor": "aquilo que as pessoas encontram",
+      "context": "Manter as informações da empresa atualizadas exige acompanhar o caminho entre a decisão interna e aquilo que as pessoas encontram antes de entrar em contato.",
+      "reason": "Aprofunda a clareza e consistência das informações públicas utilizadas por pessoas e mecanismos de busca.",
+      "modifiedAt": "2026-10-25"
+    },
+    {
+      "from": "personalizacao-atendimento-corrigir-preferencias",
+      "to": "interpretar-referencias-visuais-cliente",
+      "anchor": "significado que não foi confirmado",
+      "context": "O problema não é manter um registro da compra. É atribuir a ele um significado que não foi confirmado e não oferecer uma maneira simples de rever esse entendimento.",
+      "reason": "Aprofunda a escuta e a confirmação das expectativas que não podem ser deduzidas apenas de sinais isolados.",
+      "modifiedAt": "2026-10-25"
     }
   ]
 }

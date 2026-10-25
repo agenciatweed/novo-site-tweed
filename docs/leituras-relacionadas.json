@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "3f93d912a299349dcd9f25fecada41d0442dd47109b10c0a9f9b08c1776940d4",
+  "catalogSha256": "aa1fefe32d6d43e81ff4be07ce4fb258de9ce72ee8ead179ee5352089485c6b4",
   "reviewedAt": "2026-10-25",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -601,6 +601,30 @@
         "uma-boa-restricao-pode-melhorar-uma-ideia"
       ],
       "reason": "Aprofundam as informações e critérios necessários para revisar a produção acelerada por IA e para escolher soluções criativas dentro de limites claros.",
+      "modifiedAt": "2026-10-25"
+    },
+    "mensagem-contexto-momento-cliente": {
+      "targets": [
+        "reaproveitamento-video-adaptacao-criativa",
+        "jornada-compra-antes-da-campanha"
+      ],
+      "reason": "Complementam a adequação da entrega aos canais e o entendimento das perguntas que aparecem ao longo da avaliação do cliente.",
+      "modifiedAt": "2026-10-25"
+    },
+    "informacoes-empresa-atualizadas-canais": {
+      "targets": [
+        "legibilidade-digital-marca-pessoas-ia",
+        "o-atendimento-esta-desmentindo-o-seu-posicionamento"
+      ],
+      "reason": "Aprofundam a organização de informações públicas coerentes e as condições internas para orientar corretamente o cliente no atendimento.",
+      "modifiedAt": "2026-10-25"
+    },
+    "personalizacao-atendimento-corrigir-preferencias": {
+      "targets": [
+        "interpretar-referencias-visuais-cliente",
+        "o-atendimento-esta-desmentindo-o-seu-posicionamento"
+      ],
+      "reason": "Complementam o cuidado de confirmar expectativas e dar à equipe contexto e autonomia para responder de modo pertinente.",
       "modifiedAt": "2026-10-25"
     }
   }

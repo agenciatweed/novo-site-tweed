@@ -189,3 +189,8 @@ Publicado aprovacao-campanha-feedback-decisoes após aprovação humana, dry-run
 ## Manutenção da execução 40 — 25/10/2026
 
 Reavaliados os dois relacionados dos 75 artigos contra as quatro publicações desde a manutenção anterior. Sete pares atualizados e 68 preservados. Inseridos quatro links naturais de entrada para jornada de compra, atribuição de vendas, interpretação de referências e aprovação de campanhas, respeitando quatro links por corpo e recomendações separadas. Publicados sete HTML e sitemap em quatro planos sequenciais com dry-run, backups e confirmação FTP/HTTP. Planos no painel 2026-10-25-ciclo40-1.json a -4.json e relacionados 2026-10-25-ciclo40.json. Textos dos sete artigos, home e demais páginas preservados; 75 artigos e 83 URLs validados. Contador concluído; próxima revisão na execução 50.
+
+
+## Rodada 42 — três publicações — 25/10/2026
+
+Publicados mensagem-contexto-momento-cliente, informacoes-empresa-atualizadas-canais e personalizacao-atendimento-corrigir-preferencias após aprovações humanas, dry-runs sequenciais e confirmação FTP/HTTP. Cada artigo tem capa 1344 × 896, um link contextual, duas recomendações e FAQ somente estruturado; fontes exibidas como nomes clicáveis. Todos arquivados em Artigos após confirmação. Planos new-only preservam HTML e recomendações antigas e acompanham o catálogo atualizado a cada envio. Atualizados somente artigos, capas, blog, séries, sitemap e rotas estreitas. Backups por jobs afe20a6c-fb51-4dc3-8fc5-6d11a51e6fcd, a99c92ab-2799-4739-b55d-04b90c217373 e eeea1e0c-4f55-4eba-963d-9b4217e7cc09; planos 2026-10-25-contexto.json, -informacoes.json e -preferencias.json. Validados 78 artigos e 86 URLs, desktop/mobile dos três posts e home preservada. Manutenção ampla permanece na execução 50.

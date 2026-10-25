@@ -523,5 +523,26 @@
     "height": 896,
     "source": "conteudos/pauta-reposicao-2026-10-23-154444d91d6e/imagens/f126c80fbcc70e5642b3021f25057f51cd7b80d0f82ed7e817da705ab9eb9549.png",
     "sha256": "f126c80fbcc70e5642b3021f25057f51cd7b80d0f82ed7e817da705ab9eb9549"
+  },
+  "mensagem-contexto-momento-cliente": {
+    "path": "/assets/artigos-editoriais/2b9455b274d98889f4611588d12d705bacea7ead56aef9d83273ae1c326c9841.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-reposicao-2026-10-24-e7a5b6e2cce5/imagens/2b9455b274d98889f4611588d12d705bacea7ead56aef9d83273ae1c326c9841.png",
+    "sha256": "2b9455b274d98889f4611588d12d705bacea7ead56aef9d83273ae1c326c9841"
+  },
+  "informacoes-empresa-atualizadas-canais": {
+    "path": "/assets/artigos-editoriais/ae9f3bd17cf015ecd2daf788c993b50e6b0171e45c63620286f7238a99e0afb9.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-reposicao-2026-10-24-4a0fdbb1c406/imagens/ae9f3bd17cf015ecd2daf788c993b50e6b0171e45c63620286f7238a99e0afb9.png",
+    "sha256": "ae9f3bd17cf015ecd2daf788c993b50e6b0171e45c63620286f7238a99e0afb9"
+  },
+  "personalizacao-atendimento-corrigir-preferencias": {
+    "path": "/assets/artigos-editoriais/eac4f37a0d1d3e302ec884321d8bb704182d9163fe148a9dbb6614f103c7afa9.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-diaria-2026-10-25/imagens/eac4f37a0d1d3e302ec884321d8bb704182d9163fe148a9dbb6614f103c7afa9.png",
+    "sha256": "eac4f37a0d1d3e302ec884321d8bb704182d9163fe148a9dbb6614f103c7afa9"
   }
 }
