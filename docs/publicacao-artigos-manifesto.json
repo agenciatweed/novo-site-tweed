@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 5223,
-    "sha256": "ebb58e6e43e9a82098710b7e74fd2a0110b1cde440f61d04cc11f287b88e09c5"
+    "bytes": 5273,
+    "sha256": "9e9fb20186ef857a2d81e861fbc2c9506cd383951a676542083b5f3645b9df8e"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -138,6 +138,11 @@
     "path": "assets/artigos-editoriais/daf4ee2bd6ba4503923101e4c94ca8f8955f9d0bafcaaa8068902ec982a83f7e.png",
     "bytes": 2129295,
     "sha256": "daf4ee2bd6ba4503923101e4c94ca8f8955f9d0bafcaaa8068902ec982a83f7e"
+  },
+  {
+    "path": "assets/artigos-editoriais/e1fccdd2982c38b81659019780c4f3a3db7b9207503a0c06a09760bce927b20e.png",
+    "bytes": 1561063,
+    "sha256": "e1fccdd2982c38b81659019780c4f3a3db7b9207503a0c06a09760bce927b20e"
   },
   {
     "path": "assets/artigos-editoriais/e9006ef3463dc16b77f44976b53baaed5e2aa7e30ebd3860a31ccde68ad15b40.png",
@@ -876,8 +881,8 @@
   },
   {
     "path": "blog-marcas-que-ficam/index.html",
-    "bytes": 15817,
-    "sha256": "81f85e49293aa0879bfdc021408d4bcbb2a0e0ffd1adbd3fdb87cd699237a6b4"
+    "bytes": 16389,
+    "sha256": "751cd8b9aed6d78285955832799fd1340123ceb1fe310a6e1c52e7be1c04300a"
   },
   {
     "path": "blog-pequeno-mas-estrategico/index.html",
@@ -886,8 +891,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 23746,
-    "sha256": "3ae0b5ba1eb259c119d9e11788e8afa063ddc3cc58c1ea36b41bcc497586fe67"
+    "bytes": 23708,
+    "sha256": "5ff9ad5f0b2f928d9c3fd8cb60677e4a52ec3c8420e3bc21a9db164371bdc38d"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1216,8 +1221,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 13010,
-    "sha256": "1bde75e6a22087fa052ac9b13b4ba7be0f13c5d15778e1d2a7887bbe25cb906b"
+    "bytes": 13159,
+    "sha256": "5960b2372dc6ced30b90cbb54fa1c59ae017b3d18070ff2bf9fd7154d394327c"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",
@@ -1233,6 +1238,11 @@
     "path": "uma-boa-restricao-pode-melhorar-uma-ideia/index.html",
     "bytes": 20380,
     "sha256": "4f0261f3a58b72941c4203e24dc69bb944ce7ca725dd80b905b01fbfdf7a96df"
+  },
+  {
+    "path": "valor-servico-beneficios-compreender-utilizar/index.html",
+    "bytes": 23695,
+    "sha256": "5f05ed4626c20417bf89ce6a5c0ff746239bc92a2ca8a214a66e17b10c6848d5"
   },
   {
     "path": "voce-nao-decide-seu-cerebro-decide-por-voce-e-depois-inventa-uma-desculpa/index.html",

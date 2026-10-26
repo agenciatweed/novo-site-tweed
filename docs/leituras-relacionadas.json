@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "aa1fefe32d6d43e81ff4be07ce4fb258de9ce72ee8ead179ee5352089485c6b4",
+  "catalogSha256": "7748d42f2fef792f082321636743400e5830368411dc1e53a5a2ea8fc7db9cd5",
   "reviewedAt": "2026-10-25",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -626,6 +626,14 @@
       ],
       "reason": "Complementam o cuidado de confirmar expectativas e dar à equipe contexto e autonomia para responder de modo pertinente.",
       "modifiedAt": "2026-10-25"
+    },
+    "valor-servico-beneficios-compreender-utilizar": {
+      "targets": [
+        "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+        "informacoes-empresa-atualizadas-canais"
+      ],
+      "reason": "Aprofundam as condições de atendimento e a consistência das informações necessárias para o cliente entender e utilizar o serviço.",
+      "modifiedAt": "2026-10-26"
     }
   }
 }

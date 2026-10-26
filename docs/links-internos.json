@@ -352,6 +352,14 @@
       "context": "O problema não é manter um registro da compra. É atribuir a ele um significado que não foi confirmado e não oferecer uma maneira simples de rever esse entendimento.",
       "reason": "Aprofunda a escuta e a confirmação das expectativas que não podem ser deduzidas apenas de sinais isolados.",
       "modifiedAt": "2026-10-25"
+    },
+    {
+      "from": "valor-servico-beneficios-compreender-utilizar",
+      "to": "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+      "anchor": "um encaminhamento vago",
+      "context": "Um benefício pode estar bem descrito e continuar difícil de utilizar porque o processo termina em um encaminhamento vago. “Fale com o suporte” ajuda pouco se existem vários contatos e ninguém identifica qual deles responde por aquela situação.",
+      "reason": "Aprofunda a definição de responsáveis e próximos passos que tornam a promessa de cuidado utilizável no atendimento.",
+      "modifiedAt": "2026-10-26"
     }
   ]
 }

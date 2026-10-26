@@ -194,3 +194,8 @@ Reavaliados os dois relacionados dos 75 artigos contra as quatro publicações d
 ## Rodada 42 — três publicações — 25/10/2026
 
 Publicados mensagem-contexto-momento-cliente, informacoes-empresa-atualizadas-canais e personalizacao-atendimento-corrigir-preferencias após aprovações humanas, dry-runs sequenciais e confirmação FTP/HTTP. Cada artigo tem capa 1344 × 896, um link contextual, duas recomendações e FAQ somente estruturado; fontes exibidas como nomes clicáveis. Todos arquivados em Artigos após confirmação. Planos new-only preservam HTML e recomendações antigas e acompanham o catálogo atualizado a cada envio. Atualizados somente artigos, capas, blog, séries, sitemap e rotas estreitas. Backups por jobs afe20a6c-fb51-4dc3-8fc5-6d11a51e6fcd, a99c92ab-2799-4739-b55d-04b90c217373 e eeea1e0c-4f55-4eba-963d-9b4217e7cc09; planos 2026-10-25-contexto.json, -informacoes.json e -preferencias.json. Validados 78 artigos e 86 URLs, desktop/mobile dos três posts e home preservada. Manutenção ampla permanece na execução 50.
+
+
+## Rodada 45 — valor do serviço — 26/10/2026
+
+Publicado valor-servico-beneficios-compreender-utilizar após aprovação humana recebida durante a rodada, dry-run e confirmação FTP/HTTP. Capa aprovada de 1344 × 896 preservada; um link contextual, dois relacionados, fonte clicável e FAQ somente estruturado. Atualizados artigo, capa, blog, série, sitemap e rota estreita; home e artigos antigos preservados. Arquivado em Artigos após confirmação. Backups por job b6a6d1c4-ce85-45ab-9b99-178410ddfe00; planos no painel 2026-10-26-valor.json. Validados 79 artigos, 87 URLs e desktop/mobile. Próxima manutenção ampla na execução 50.
