@@ -360,6 +360,22 @@
       "context": "Um benefício pode estar bem descrito e continuar difícil de utilizar porque o processo termina em um encaminhamento vago. “Fale com o suporte” ajuda pouco se existem vários contatos e ninguém identifica qual deles responde por aquela situação.",
       "reason": "Aprofunda a definição de responsáveis e próximos passos que tornam a promessa de cuidado utilizável no atendimento.",
       "modifiedAt": "2026-10-26"
+    },
+    {
+      "from": "proposta-comercial-comparavel-criterios",
+      "to": "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar",
+      "anchor": "somente o nome do pacote e o total",
+      "context": "Se o documento destaca somente o nome do pacote e o total, a comparação fica incompleta. O cliente pode interpretar “suporte” de uma maneira que nenhum fornecedor pretendia oferecer.",
+      "reason": "Aprofunda as dúvidas sobre valor e adequação que podem ficar escondidas quando a comparação se limita ao preço.",
+      "modifiedAt": "2026-10-26"
+    },
+    {
+      "from": "experiencia-sensorial-marca-sentido",
+      "to": "branding-como-experiencia-do-cliente",
+      "anchor": "condição concreta de uso",
+      "context": "Na próxima mudança do ponto físico, descreva primeiro o que o cliente precisa conseguir fazer ali. Depois avalie quais elementos ajudam, quais interferem e quais apenas repetem uma preferência interna. Uma experiência com sentido começa quando a intenção da marca se torna uma condição concreta de uso.",
+      "reason": "Aprofunda a passagem da intenção de marca para a experiência concreta vivida pelo cliente.",
+      "modifiedAt": "2026-10-26"
     }
   ]
 }

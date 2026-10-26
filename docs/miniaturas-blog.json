@@ -551,5 +551,19 @@
     "height": 896,
     "source": "conteudos/pauta-reposicao-2026-10-25-e4fc2b5a0bb7/imagens/e1fccdd2982c38b81659019780c4f3a3db7b9207503a0c06a09760bce927b20e.png",
     "sha256": "e1fccdd2982c38b81659019780c4f3a3db7b9207503a0c06a09760bce927b20e"
+  },
+  "proposta-comercial-comparavel-criterios": {
+    "path": "/assets/artigos-editoriais/d8286089c1606928250ee47b93526adb1a9d2040d37529ec33978714414a695f.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-reposicao-2026-10-25-66eb8135136e/imagens/d8286089c1606928250ee47b93526adb1a9d2040d37529ec33978714414a695f.png",
+    "sha256": "d8286089c1606928250ee47b93526adb1a9d2040d37529ec33978714414a695f"
+  },
+  "experiencia-sensorial-marca-sentido": {
+    "path": "/assets/artigos-editoriais/222e996763efe861bda6c4078abac3def6f678f182b2ece4e94bb26f0dccf220.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-diaria-2026-10-26/imagens/222e996763efe861bda6c4078abac3def6f678f182b2ece4e94bb26f0dccf220.png",
+    "sha256": "222e996763efe861bda6c4078abac3def6f678f182b2ece4e94bb26f0dccf220"
   }
 }

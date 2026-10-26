@@ -199,3 +199,8 @@ Publicados mensagem-contexto-momento-cliente, informacoes-empresa-atualizadas-ca
 ## Rodada 45 — valor do serviço — 26/10/2026
 
 Publicado valor-servico-beneficios-compreender-utilizar após aprovação humana recebida durante a rodada, dry-run e confirmação FTP/HTTP. Capa aprovada de 1344 × 896 preservada; um link contextual, dois relacionados, fonte clicável e FAQ somente estruturado. Atualizados artigo, capa, blog, série, sitemap e rota estreita; home e artigos antigos preservados. Arquivado em Artigos após confirmação. Backups por job b6a6d1c4-ce85-45ab-9b99-178410ddfe00; planos no painel 2026-10-26-valor.json. Validados 79 artigos, 87 URLs e desktop/mobile. Próxima manutenção ampla na execução 50.
+
+
+## Rodada 46 — propostas e experiência sensorial — 26/10/2026
+
+Publicados proposta-comercial-comparavel-criterios e experiencia-sensorial-marca-sentido após aprovação humana, dry-runs sequenciais e confirmação FTP/HTTP. Capas aprovadas de 1344 × 896 preservadas. Cada artigo tem um link contextual, dois relacionados e FAQ somente estruturado; fontes clicáveis. Arquivados em Artigos após confirmação. Planos new-only preservam HTML e recomendações antigas. Atualizados apenas artigos, capas, blog, séries, sitemap e rotas estreitas. Backups por jobs d7eb574a-ca14-45c0-a3a3-c277c0e0ca23 e ea599a2f-b2e7-4a85-83a0-24baae6e0294; planos no painel 2026-10-26-propostas.json e -sensorial.json. Validados 81 artigos, 89 URLs, desktop/mobile e home preservada. Próxima manutenção ampla na execução 50.

@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 5273,
-    "sha256": "9e9fb20186ef857a2d81e861fbc2c9506cd383951a676542083b5f3645b9df8e"
+    "bytes": 5355,
+    "sha256": "04fd9f84c37ef0e410cb1decb0526b2f5ddec2156620432505d988cfe31ff9bd"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -58,6 +58,11 @@
     "path": "assets/artigos-editoriais/2136e7215b18dc9c5bff7cc2d9a8a1a625a05d3d617de6d692dad8ed9c97f216.png",
     "bytes": 1385311,
     "sha256": "2136e7215b18dc9c5bff7cc2d9a8a1a625a05d3d617de6d692dad8ed9c97f216"
+  },
+  {
+    "path": "assets/artigos-editoriais/222e996763efe861bda6c4078abac3def6f678f182b2ece4e94bb26f0dccf220.png",
+    "bytes": 1609253,
+    "sha256": "222e996763efe861bda6c4078abac3def6f678f182b2ece4e94bb26f0dccf220"
   },
   {
     "path": "assets/artigos-editoriais/2b9455b274d98889f4611588d12d705bacea7ead56aef9d83273ae1c326c9841.png",
@@ -128,6 +133,11 @@
     "path": "assets/artigos-editoriais/cd4bd419ca02a7f3c0728c92d637e56dfab93f9c63929934ea5caa7bf4108793.png",
     "bytes": 1210185,
     "sha256": "cd4bd419ca02a7f3c0728c92d637e56dfab93f9c63929934ea5caa7bf4108793"
+  },
+  {
+    "path": "assets/artigos-editoriais/d8286089c1606928250ee47b93526adb1a9d2040d37529ec33978714414a695f.png",
+    "bytes": 1539871,
+    "sha256": "d8286089c1606928250ee47b93526adb1a9d2040d37529ec33978714414a695f"
   },
   {
     "path": "assets/artigos-editoriais/d9bcdfabc1c53a1e2ea3befc4e076fab1c1d73bbbe17bdf771b3f77c1004b6a4.png",
@@ -866,8 +876,8 @@
   },
   {
     "path": "blog-marcas-com-alma/index.html",
-    "bytes": 17169,
-    "sha256": "6c8759b6686a1932038c30f4abc03ed5fb3f451430606fa1cd0f4a5d9baeb209"
+    "bytes": 17734,
+    "sha256": "5bdac4b770084c0469ad96fdc4fe85a2a34f4db87c24c1aaaff4c543297656d9"
   },
   {
     "path": "blog-marcas-em-acao/index.html",
@@ -886,13 +896,13 @@
   },
   {
     "path": "blog-pequeno-mas-estrategico/index.html",
-    "bytes": 20835,
-    "sha256": "d9917c01d62b8919f8f61697f0e36af0512535d450ea69b1035f9e275a6cf477"
+    "bytes": 21400,
+    "sha256": "c98bac3d8db68aa7413907f0dc790954050aa19c0ea890dde9ecdb75d000ca1c"
   },
   {
     "path": "blog/index.html",
-    "bytes": 23708,
-    "sha256": "5ff9ad5f0b2f928d9c3fd8cb60677e4a52ec3c8420e3bc21a9db164371bdc38d"
+    "bytes": 23733,
+    "sha256": "403626b623254bff8afc3934cd6abee18384f55d0f91507ced6e0a2752ac2170"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -973,6 +983,11 @@
     "path": "efeito-isca/index.html",
     "bytes": 21037,
     "sha256": "f8e89020b4be073566cf7290fe638dfe4a69a764a2854cbf7070929952eeb305"
+  },
+  {
+    "path": "experiencia-sensorial-marca-sentido/index.html",
+    "bytes": 23562,
+    "sha256": "ff507acaa86322e7c843dbab9f6eb52e3bc1d7c877fe3e64884bb643780aa8a1"
   },
   {
     "path": "framing-a-arte-invisivel-que-decide-o-sucesso-da-sua-comunicacao/index.html",
@@ -1180,6 +1195,11 @@
     "sha256": "b4dec60f9215aa28c62b0f2d650e24d1a8343fc134e18aecc9765d3ead104896"
   },
   {
+    "path": "proposta-comercial-comparavel-criterios/index.html",
+    "bytes": 23532,
+    "sha256": "d3d8af883252eade3c2c17c6a8b58152919308226ce538d47e9dd1eafc1c6c1c"
+  },
+  {
     "path": "qual-e-o-arquetipo-da-sua-concorrencia-e-por-que-voce-deveria-saber-disso/index.html",
     "bytes": 16931,
     "sha256": "e9ea77e262a27a1f09b72a5c9969802525b194e27906002f3c64409a7dd62a76"
@@ -1221,8 +1241,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 13159,
-    "sha256": "5960b2372dc6ced30b90cbb54fa1c59ae017b3d18070ff2bf9fd7154d394327c"
+    "bytes": 13441,
+    "sha256": "01d631909642feedcc33cb73474f4c316db41cd48b7fecd6193ec4603dbceedb"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",

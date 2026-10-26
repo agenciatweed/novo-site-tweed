@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "7748d42f2fef792f082321636743400e5830368411dc1e53a5a2ea8fc7db9cd5",
+  "catalogSha256": "a7864d592cffb014625e78d455168112a18c859895dc20538b1b95b9f7cacbd1",
   "reviewedAt": "2026-10-25",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -633,6 +633,22 @@
         "informacoes-empresa-atualizadas-canais"
       ],
       "reason": "Aprofundam as condições de atendimento e a consistência das informações necessárias para o cliente entender e utilizar o serviço.",
+      "modifiedAt": "2026-10-26"
+    },
+    "proposta-comercial-comparavel-criterios": {
+      "targets": [
+        "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar",
+        "valor-servico-beneficios-compreender-utilizar"
+      ],
+      "reason": "Aprofundam a percepção de valor na negociação e a explicação prática de escopo e benefícios para que o cliente compreenda o serviço.",
+      "modifiedAt": "2026-10-26"
+    },
+    "experiencia-sensorial-marca-sentido": {
+      "targets": [
+        "branding-como-experiencia-do-cliente",
+        "mensagem-contexto-momento-cliente"
+      ],
+      "reason": "Complementam a coerência entre promessa e experiência e o cuidado com as condições reais de atenção e uso no ponto de contato.",
       "modifiedAt": "2026-10-26"
     }
   }
