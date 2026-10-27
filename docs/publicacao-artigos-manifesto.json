@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 5403,
-    "sha256": "b7ece6271c902242384a284f28e9ff2c2c8d7df757d102e4372817296ace0f73"
+    "bytes": 5442,
+    "sha256": "875b198910d393d049e9690abd04c63aa8764ca95e32dba43bbab4a8f1cd07ef"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -36,8 +36,8 @@
   },
   {
     "path": "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido/index.html",
-    "bytes": 20599,
-    "sha256": "25570ed428d284b84a20aa9a7c8a214facc8e0316b4925136a18b86f9a4ed777"
+    "bytes": 20691,
+    "sha256": "a4a71ca89d62fd5072eeff077744391109d909a1cc30e7132343f9c98e0aa1f0"
   },
   {
     "path": "aprovacao-campanha-feedback-decisoes/index.html",
@@ -88,6 +88,11 @@
     "path": "assets/artigos-editoriais/6143e2f47c036cf2cde41f7333424b81eb8e822e57abae345fa55b442b7539f7.png",
     "bytes": 1671845,
     "sha256": "6143e2f47c036cf2cde41f7333424b81eb8e822e57abae345fa55b442b7539f7"
+  },
+  {
+    "path": "assets/artigos-editoriais/877f125f5267a268d702d1194663210f9971391275d8e71a94ebca7edf8e9785.png",
+    "bytes": 1771572,
+    "sha256": "877f125f5267a268d702d1194663210f9971391275d8e71a94ebca7edf8e9785"
   },
   {
     "path": "assets/artigos-editoriais/8f46d32ab62b15cbeb3e3f55c167b8f9b0af2a4cfb2107488c1ab01c246ca17a.png",
@@ -891,8 +896,8 @@
   },
   {
     "path": "blog-marcas-em-movimento/index.html",
-    "bytes": 15741,
-    "sha256": "32c0309cdd831820ad2f9de690e9020a7506943ddadb89f86b45207cd363b3be"
+    "bytes": 16276,
+    "sha256": "e6ff084940335ae131b6691f386e8dc08e93b2582df7802ad61cf687c6fe9cab"
   },
   {
     "path": "blog-marcas-que-ficam/index.html",
@@ -906,13 +911,13 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 23771,
-    "sha256": "4e66011823d9f09f3105692b51c6e9d7562b7936c711717b7fc668f33c6767ee"
+    "bytes": 23732,
+    "sha256": "7102bfc5ebc95398c0fc9445d8330b252d0d9fdb3665ee6a22a99a140b01af41"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
-    "bytes": 15935,
-    "sha256": "f568aba876c33dac3a4e23e768d2f2608265b1cb0b9fba1658f1d54d2d4a1d71"
+    "bytes": 16084,
+    "sha256": "c26c1147a5b48b3c80157ba32905e23194e2c29d2a1a1632689b7d4a84fa3f96"
   },
   {
     "path": "branding-na-pratica-para-pmes/index.html",
@@ -946,8 +951,8 @@
   },
   {
     "path": "como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos/index.html",
-    "bytes": 16676,
-    "sha256": "89635d46bbfba7a31e14a834c2a99bb1eeee1116f3defd095a3ed4eb9ecc5dd1"
+    "bytes": 16788,
+    "sha256": "0be8f47bc8662e9a4da4bcdceb0252e898d2182d346dc3801f55a78f8fe5310c"
   },
   {
     "path": "como-marcas-locais-constroem-comunidades-mais-fortes-do-que-muitas-multinacionais/index.html",
@@ -1036,8 +1041,8 @@
   },
   {
     "path": "legibilidade-digital-marca-pessoas-ia/index.html",
-    "bytes": 20687,
-    "sha256": "8dd3778bd42452d0ab3a1815a2785d84d24215dcddab8c47d85f1994b448d351"
+    "bytes": 20729,
+    "sha256": "e55d6be63c44ce774a4b24ecd76b37dd897e0017286c86fa0cbc35a379ac30e1"
   },
   {
     "path": "marca-nao-e-um-logotipo-por-que-pmes-precisam-contar-boas-historias/index.html",
@@ -1136,8 +1141,8 @@
   },
   {
     "path": "o-melhor-cliente-e-aquele-que-voce-ja-tem/index.html",
-    "bytes": 18395,
-    "sha256": "13e0df7ea63f2705b78a8273287032ff9cb114625233c22679a9c7de9b52fe2f"
+    "bytes": 18532,
+    "sha256": "276a5e4554ff6e7cd0852ba4f125c4172bc686706d544ee549aeb683c83769d8"
   },
   {
     "path": "o-paradoxo-da-escolha/index.html",
@@ -1151,8 +1156,8 @@
   },
   {
     "path": "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding/index.html",
-    "bytes": 26610,
-    "sha256": "47b0924a823063649615de941e7f55bca0013dcd9b482e8c2d3b870bc35bc229"
+    "bytes": 26734,
+    "sha256": "0a61cffa339a266fddba493046580610fa0538fbffb4c32eabea15df441a4cd7"
   },
   {
     "path": "o-que-pequenas-empresas-podem-aprender-com-os-erros-das-grandes/index.html",
@@ -1226,8 +1231,13 @@
   },
   {
     "path": "reaproveitamento-video-adaptacao-criativa/index.html",
-    "bytes": 20765,
-    "sha256": "e23bf1ab41d49d2dd8102442bbdfe5c19645014eb0b29c2bfe0143d999bbc09b"
+    "bytes": 20845,
+    "sha256": "072e7d476ea1d77f18e4a8fe680726411d44c73ba21d2ac5349436e647376067"
+  },
+  {
+    "path": "redesign-site-transicao-usabilidade/index.html",
+    "bytes": 23573,
+    "sha256": "5ea8347f8b6b79e25ad6df0de39cd70299c93a34bf0dbc6d3d6497a301435391"
   },
   {
     "path": "robots.txt",
@@ -1241,8 +1251,8 @@
   },
   {
     "path": "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar/index.html",
-    "bytes": 20278,
-    "sha256": "4ed0ceff9e3d8082b6d9b4820a291368c471c00eef459d92729c44f839a1cb50"
+    "bytes": 20398,
+    "sha256": "54fcb9f7052bbebae199c5940c33369debe620ee7228e90538e271b92f7c3c9f"
   },
   {
     "path": "seu-logotipo-e-bonito-mas-sua-marca-e-clara/index.html",
@@ -1251,8 +1261,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 13588,
-    "sha256": "3b3b4ebd9c09c5372a8f24759a06fc727019b88934903061012c94df0bddb4ce"
+    "bytes": 13727,
+    "sha256": "4825c47f19d529fdd503f3d2aca746638bd538a74b071c69809ce4d6230a8f69"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",

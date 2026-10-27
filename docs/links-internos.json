@@ -384,6 +384,78 @@
       "reason": "A comparação de propostas aprofunda os critérios para avaliar a adequação antes da compra.",
       "from": "demonstracao-produto-ajudar-cliente-decidir",
       "modifiedAt": "2026-10-27"
+    },
+    {
+      "from": "redesign-site-transicao-usabilidade",
+      "to": "informacoes-empresa-atualizadas-canais",
+      "anchor": "Atualizar a interface",
+      "context": "Também confira os materiais que levam ao site. Uma orientação enviada por mensagem pode descrever um caminho que deixou de existir. Atualizar a interface sem rever esses encaminhamentos mantém referências incompatíveis em circulação.",
+      "reason": "Aprofunda a atualização dos materiais e canais que ainda orientam o cliente por caminhos antigos.",
+      "modifiedAt": "2026-10-27"
+    },
+    {
+      "from": "reaproveitamento-video-adaptacao-criativa",
+      "to": "mensagem-contexto-momento-cliente",
+      "anchor": "quando muda de contexto",
+      "context": "A discussão útil para uma pequena empresa vai além da possibilidade de reaproveitar arquivos. O material continua explicando a oferta quando muda de contexto? A abertura funciona para alguém que nunca ouviu falar da empresa? O próximo passo faz sentido naquele momento?",
+      "reason": "Aprofunda a escolha da mensagem conforme a situação de quem encontra a peça.",
+      "modifiedAt": "2026-10-27"
+    },
+    {
+      "from": "legibilidade-digital-marca-pessoas-ia",
+      "to": "informacoes-empresa-atualizadas-canais",
+      "anchor": "Manter os dados corretos",
+      "context": "Informações consistentes também importam. Se o horário, a descrição do serviço ou o endereço divergem entre os canais, existe uma dúvida prática a resolver. Manter os dados corretos beneficia diretamente quem está tentando contratar, independentemente de qualquer sistema de IA.",
+      "reason": "Detalha a manutenção de informações coerentes nos canais públicos.",
+      "modifiedAt": "2026-10-27"
+    },
+    {
+      "from": "como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos",
+      "to": "personalizacao-atendimento-corrigir-preferencias",
+      "anchor": "e-mails personalizados",
+      "context": "A inteligência artificial chegou ao marketing para ficar. De e-mails personalizados a análise de dados, passando por conteúdo gerado automaticamente e assistentes virtuais, nunca foi tão fácil (e tentador) automatizar interações com clientes. Mas no embalo dessa eficiência, mora um risco silencioso: soar como uma máquina.",
+      "reason": "Aprofunda a possibilidade de corrigir preferências nas interações personalizadas.",
+      "modifiedAt": "2026-10-27"
+    },
+    {
+      "from": "o-melhor-cliente-e-aquele-que-voce-ja-tem",
+      "to": "valor-servico-beneficios-compreender-utilizar",
+      "anchor": "Benefícios exclusivos",
+      "context": "Clubes de fidelidade: Crie uma sensação de pertencimento. Benefícios exclusivos, acesso antecipado, surpresas.",
+      "reason": "Detalha como tornar benefícios compreensíveis e acessíveis ao cliente.",
+      "modifiedAt": "2026-10-27"
+    },
+    {
+      "from": "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar",
+      "to": "proposta-comercial-comparavel-criterios",
+      "anchor": "compara as propostas",
+      "context": "A primeira pergunta útil é simples: “Quando você compara as propostas, quais diferenças considera relevantes?”. A resposta ajuda a perceber se existe uma limitação de verba, uma comparação de escopos ou uma dificuldade para reconhecer valor.",
+      "reason": "Aprofunda critérios concretos de comparação e escopo na negociação.",
+      "modifiedAt": "2026-10-27"
+    },
+    {
+      "from": "branding-como-experiencia-do-cliente",
+      "to": "experiencia-sensorial-marca-sentido",
+      "anchor": "Um ponto de venda",
+      "context": "Quando você entende que branding é percepção, começa a tratar cada ponto de contato como algo estratégico. Um ponto de venda, um stories, uma embalagem, uma resposta no WhatsApp. Tudo comunica. E tudo deixa rastro.",
+      "reason": "Explora escolhas sensoriais coerentes com a experiência naquele ponto de contato.",
+      "modifiedAt": "2026-10-27"
+    },
+    {
+      "from": "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido",
+      "to": "demonstracao-produto-ajudar-cliente-decidir",
+      "anchor": "Uma demonstração deve representar o uso possível",
+      "context": "Também vale observar as evidências. Uma afirmação sobre suporte precisa corresponder ao atendimento disponível. Um caso apresentado precisa ser real, autorizado e pertinente. Uma demonstração deve representar o uso possível, sem esconder dependências importantes.",
+      "reason": "Detalha como mostrar condições e limites na demonstração antes da compra.",
+      "modifiedAt": "2026-10-27"
+    },
+    {
+      "from": "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding",
+      "to": "redesign-site-transicao-usabilidade",
+      "anchor": "Uma navegação boa",
+      "context": "Uma navegação boa não é só “bonita”. Ela transmite organização, intenção e respeito pelo tempo do cliente.",
+      "reason": "Aprofunda como preservar referências úteis ao renovar a navegação.",
+      "modifiedAt": "2026-10-27"
     }
   ]
 }

@@ -209,3 +209,8 @@ Publicados proposta-comercial-comparavel-criterios e experiencia-sensorial-marca
 ## Rodada 49 — demonstração de produto — 27/10/2026
 
 Publicado demonstracao-produto-ajudar-cliente-decidir após aprovação humana, dry-run e confirmação FTP/HTTP dos seis arquivos. Capa aprovada preservada, um link contextual, dois relacionados e FAQ somente estruturado; fonte clicável. Arquivado em Artigos após confirmação. Planos new-only preservam artigos e recomendações antigos. Validados 82 artigos e 90 URLs; desktop/mobile e home preservada conferidos. Backups por job f684ee53-fa29-45b9-a279-640badccd5e0; planos no painel 2026-10-27-demonstracao.json. Próxima manutenção ampla na execução 50.
+
+
+## Rodada 50 — redesign e manutenção periódica — 27/10/2026
+
+Publicado redesign-site-transicao-usabilidade após aprovação humana, dry-run e confirmação FTP/HTTP. Capa aprovada preservada, um link contextual, dois relacionados e FAQ somente estruturado. Arquivado em Artigos após confirmação. Avaliados os relacionados dos 83 artigos: oito pares atualizados e 75 preservados. Oito links naturais de entrada conectam artigos antigos às oito publicações desde o ciclo 40, respeitando quatro links por corpo e recomendações separadas. Oito planos sequenciais com dry-run, backups e verificação FTP/HTTP. Textos dos oito artigos preservados; home preservada. Validados 83 artigos e 91 URLs; novo post conferido em desktop/mobile. Planos no painel 2026-10-27-redesign.json, 2026-10-27-ciclo50-1.json a -8.json e relacionados 2026-10-27-ciclo50.json. Próxima manutenção na execução 60.

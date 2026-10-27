@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "catalogSha256": "7ff576a5c0e90794903febc3d09e440a56bd4deb530d83512ed59124c220d831",
-  "reviewedAt": "2026-10-25",
+  "catalogSha256": "5a2f0f943967a4a158590d9041755dd6625c04817b4e5fb15660614d59eeb5ad",
+  "reviewedAt": "2026-10-27",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
       "targets": [
@@ -70,10 +70,10 @@
     "o-melhor-cliente-e-aquele-que-voce-ja-tem": {
       "targets": [
         "alem-do-anuncio-como-o-boca-a-boca-mantem-sua-marca-viva-quando-a-propaganda-termina",
-        "da-satisfacao-ao-encantamento"
+        "valor-servico-beneficios-compreender-utilizar"
       ],
-      "reason": "Aprofunda indicação e experiências que fazem o cliente permanecer.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Detalha como tornar benefícios compreensíveis e acessíveis ao cliente. Preservada a outra leitura complementar.",
+      "modifiedAt": "2026-10-27"
     },
     "multiplas-faces-da-marca-combinando-arquetipos-para-uma-identidade-rica": {
       "targets": [
@@ -94,10 +94,10 @@
     "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding": {
       "targets": [
         "divida-de-marca",
-        "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido"
+        "redesign-site-transicao-usabilidade"
       ],
-      "reason": "Preserva a percepção de confiança e aprofunda o alinhamento de promessa, página e conversa comercial.",
-      "modifiedAt": "2026-10-19"
+      "reason": "Aprofunda como preservar referências úteis ao renovar a navegação. Preservada a outra leitura complementar.",
+      "modifiedAt": "2026-10-27"
     },
     "marca-nas-maos-do-cliente-como-o-conteudo-gerado-pelo-usuario-impulsiona-seu-branding": {
       "targets": [
@@ -166,10 +166,10 @@
     "como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos": {
       "targets": [
         "ia-materiais-marca-alem-das-cores",
-        "o-atendimento-esta-desmentindo-o-seu-posicionamento"
+        "personalizacao-atendimento-corrigir-preferencias"
       ],
-      "reason": "O novo artigo detalha briefing e critérios humanos para a IA representar a marca; atendimento preserva a aplicação na experiência.",
-      "modifiedAt": "2026-10-23"
+      "reason": "Aprofunda a possibilidade de corrigir preferências nas interações personalizadas. Preservada a outra leitura complementar.",
+      "modifiedAt": "2026-10-27"
     },
     "qual-e-o-arquetipo-da-sua-concorrencia-e-por-que-voce-deveria-saber-disso": {
       "targets": [
@@ -414,10 +414,10 @@
     "branding-como-experiencia-do-cliente": {
       "targets": [
         "da-embalagem-ao-pos-venda",
-        "a-marca-que-voce-posta-e-a-mesma-que-voce-entrega"
+        "experiencia-sensorial-marca-sentido"
       ],
-      "reason": "Mostra a experiência na entrega e a coerência entre comunicação e atendimento.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Explora escolhas sensoriais coerentes com a experiência naquele ponto de contato. Preservada a outra leitura complementar.",
+      "modifiedAt": "2026-10-27"
     },
     "branding-para-pequenos-negocios": {
       "targets": [
@@ -454,10 +454,10 @@
     "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar": {
       "targets": [
         "divida-de-marca",
-        "posicionamento-de-marca-para-pequenas-empresas"
+        "proposta-comercial-comparavel-criterios"
       ],
-      "reason": "Complementa a defesa da proposta com o diagnóstico de sinais de desconfiança e a definição de uma posição distinta no mercado.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Aprofunda critérios concretos de comparação e escopo na negociação. Preservada a outra leitura complementar.",
+      "modifiedAt": "2026-10-27"
     },
     "o-atendimento-esta-desmentindo-o-seu-posicionamento": {
       "targets": [
@@ -477,11 +477,11 @@
     },
     "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido": {
       "targets": [
-        "plano-de-midia-2027-alem-de-uma-plataforma",
-        "jornada-compra-antes-da-campanha"
+        "jornada-compra-antes-da-campanha",
+        "demonstracao-produto-ajudar-cliente-decidir"
       ],
-      "reason": "Mantém planejamento dos canais e aprofunda quando o comprador busca as explicações e condições que tornam a oferta compreensível.",
-      "modifiedAt": "2026-10-25"
+      "reason": "Detalha como mostrar condições e limites na demonstração antes da compra. Preservada a outra leitura complementar.",
+      "modifiedAt": "2026-10-27"
     },
     "personalidade-de-marca-aparece-nas-escolhas-pequenas": {
       "targets": [
@@ -526,10 +526,10 @@
     "legibilidade-digital-marca-pessoas-ia": {
       "targets": [
         "marca-recomendada-por-ia-confianca",
-        "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding"
+        "informacoes-empresa-atualizadas-canais"
       ],
-      "reason": "Conecta a compreensão digital da oferta à confiança depois da recomendação e à experiência concreta no site.",
-      "modifiedAt": "2026-10-19"
+      "reason": "Detalha a manutenção de informações coerentes nos canais públicos. Preservada a outra leitura complementar.",
+      "modifiedAt": "2026-10-27"
     },
     "identidade-visual-2027-textura-cor-autoria": {
       "targets": [
@@ -542,10 +542,10 @@
     "reaproveitamento-video-adaptacao-criativa": {
       "targets": [
         "sua-marca-precisa-de-consistencia-nao-de-perfeicao",
-        "uma-boa-restricao-pode-melhorar-uma-ideia"
+        "mensagem-contexto-momento-cliente"
       ],
-      "reason": "A consistência explica o que preservar entre adaptações; a restrição criativa aprofunda o planejamento de materiais úteis com recursos limitados.",
-      "modifiedAt": "2026-10-21"
+      "reason": "Aprofunda a escolha da mensagem conforme a situação de quem encontra a peça. Preservada a outra leitura complementar.",
+      "modifiedAt": "2026-10-27"
     },
     "qualidade-dados-campanha-conversoes": {
       "targets": [
@@ -657,6 +657,14 @@
         "valor-servico-beneficios-compreender-utilizar"
       ],
       "reason": "Complementam a demonstração com critérios de comparação antes da compra e compreensão das condições e utilidade do serviço contratado.",
+      "modifiedAt": "2026-10-27"
+    },
+    "redesign-site-transicao-usabilidade": {
+      "targets": [
+        "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding",
+        "informacoes-empresa-atualizadas-canais"
+      ],
+      "reason": "Relacionam a transição do redesign à experiência de marca no site e à atualização das orientações em outros canais.",
       "modifiedAt": "2026-10-27"
     }
   }
