@@ -376,6 +376,14 @@
       "context": "Na próxima mudança do ponto físico, descreva primeiro o que o cliente precisa conseguir fazer ali. Depois avalie quais elementos ajudam, quais interferem e quais apenas repetem uma preferência interna. Uma experiência com sentido começa quando a intenção da marca se torna uma condição concreta de uso.",
       "reason": "Aprofunda a passagem da intenção de marca para a experiência concreta vivida pelo cliente.",
       "modifiedAt": "2026-10-26"
+    },
+    {
+      "to": "proposta-comercial-comparavel-criterios",
+      "anchor": "avaliar a adequação",
+      "context": "Uma demonstração pode tentar apresentar tantas funções que termina sem esclarecer a principal. Antes de gravar ou receber um interessado, identifique o que ele precisa observar para avaliar a adequação.",
+      "reason": "A comparação de propostas aprofunda os critérios para avaliar a adequação antes da compra.",
+      "from": "demonstracao-produto-ajudar-cliente-decidir",
+      "modifiedAt": "2026-10-27"
     }
   ]
 }

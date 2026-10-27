@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "a7864d592cffb014625e78d455168112a18c859895dc20538b1b95b9f7cacbd1",
+  "catalogSha256": "7ff576a5c0e90794903febc3d09e440a56bd4deb530d83512ed59124c220d831",
   "reviewedAt": "2026-10-25",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -650,6 +650,14 @@
       ],
       "reason": "Complementam a coerência entre promessa e experiência e o cuidado com as condições reais de atenção e uso no ponto de contato.",
       "modifiedAt": "2026-10-26"
+    },
+    "demonstracao-produto-ajudar-cliente-decidir": {
+      "targets": [
+        "proposta-comercial-comparavel-criterios",
+        "valor-servico-beneficios-compreender-utilizar"
+      ],
+      "reason": "Complementam a demonstração com critérios de comparação antes da compra e compreensão das condições e utilidade do serviço contratado.",
+      "modifiedAt": "2026-10-27"
     }
   }
 }

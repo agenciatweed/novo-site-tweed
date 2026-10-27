@@ -204,3 +204,8 @@ Publicado valor-servico-beneficios-compreender-utilizar após aprovação humana
 ## Rodada 46 — propostas e experiência sensorial — 26/10/2026
 
 Publicados proposta-comercial-comparavel-criterios e experiencia-sensorial-marca-sentido após aprovação humana, dry-runs sequenciais e confirmação FTP/HTTP. Capas aprovadas de 1344 × 896 preservadas. Cada artigo tem um link contextual, dois relacionados e FAQ somente estruturado; fontes clicáveis. Arquivados em Artigos após confirmação. Planos new-only preservam HTML e recomendações antigas. Atualizados apenas artigos, capas, blog, séries, sitemap e rotas estreitas. Backups por jobs d7eb574a-ca14-45c0-a3a3-c277c0e0ca23 e ea599a2f-b2e7-4a85-83a0-24baae6e0294; planos no painel 2026-10-26-propostas.json e -sensorial.json. Validados 81 artigos, 89 URLs, desktop/mobile e home preservada. Próxima manutenção ampla na execução 50.
+
+
+## Rodada 49 — demonstração de produto — 27/10/2026
+
+Publicado demonstracao-produto-ajudar-cliente-decidir após aprovação humana, dry-run e confirmação FTP/HTTP dos seis arquivos. Capa aprovada preservada, um link contextual, dois relacionados e FAQ somente estruturado; fonte clicável. Arquivado em Artigos após confirmação. Planos new-only preservam artigos e recomendações antigos. Validados 82 artigos e 90 URLs; desktop/mobile e home preservada conferidos. Backups por job f684ee53-fa29-45b9-a279-640badccd5e0; planos no painel 2026-10-27-demonstracao.json. Próxima manutenção ampla na execução 50.

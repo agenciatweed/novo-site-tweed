@@ -565,5 +565,12 @@
     "height": 896,
     "source": "conteudos/pauta-diaria-2026-10-26/imagens/222e996763efe861bda6c4078abac3def6f678f182b2ece4e94bb26f0dccf220.png",
     "sha256": "222e996763efe861bda6c4078abac3def6f678f182b2ece4e94bb26f0dccf220"
+  },
+  "demonstracao-produto-ajudar-cliente-decidir": {
+    "path": "/assets/artigos-editoriais/c9918a7556d6caf3bcd561c24cdbb33e21c161acd32ee228366bd1223212dffb.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-reposicao-2026-10-26-49b4ac75c232/imagens/c9918a7556d6caf3bcd561c24cdbb33e21c161acd32ee228366bd1223212dffb.png",
+    "sha256": "c9918a7556d6caf3bcd561c24cdbb33e21c161acd32ee228366bd1223212dffb"
   }
 }
