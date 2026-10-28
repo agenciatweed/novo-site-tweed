@@ -214,3 +214,8 @@ Publicado demonstracao-produto-ajudar-cliente-decidir após aprovação humana, 
 ## Rodada 50 — redesign e manutenção periódica — 27/10/2026
 
 Publicado redesign-site-transicao-usabilidade após aprovação humana, dry-run e confirmação FTP/HTTP. Capa aprovada preservada, um link contextual, dois relacionados e FAQ somente estruturado. Arquivado em Artigos após confirmação. Avaliados os relacionados dos 83 artigos: oito pares atualizados e 75 preservados. Oito links naturais de entrada conectam artigos antigos às oito publicações desde o ciclo 40, respeitando quatro links por corpo e recomendações separadas. Oito planos sequenciais com dry-run, backups e verificação FTP/HTTP. Textos dos oito artigos preservados; home preservada. Validados 83 artigos e 91 URLs; novo post conferido em desktop/mobile. Planos no painel 2026-10-27-redesign.json, 2026-10-27-ciclo50-1.json a -8.json e relacionados 2026-10-27-ciclo50.json. Próxima manutenção na execução 60.
+
+
+## Rodada 54 — trocas e imagens de campanha — 28/10/2026
+
+Publicados atendimento-troca-clareza-encaminhamento e imagem-campanha-prova-entrega após aprovação humana, dry-runs sequenciais e confirmação FTP/HTTP. Capas aprovadas preservadas; cada artigo tem um link contextual, dois relacionados e FAQ somente estruturado, com fontes clicáveis. Arquivados em Artigos após confirmação. Planos new-only preservam artigos e recomendações antigas, com catálogo atualizado entre as publicações. Validados 85 artigos e 93 URLs; desktop/mobile e home preservada conferidos. Backups por jobs cb13e3f6-9ebf-42ca-943c-ce18e4eb56de e 2a5b3447-3948-4824-9fc5-67688782acf0; planos 2026-10-28-troca.json e -imagem.json no painel. Próxima manutenção na execução 60.

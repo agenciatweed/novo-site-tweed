@@ -456,6 +456,22 @@
       "context": "Uma navegação boa não é só “bonita”. Ela transmite organização, intenção e respeito pelo tempo do cliente.",
       "reason": "Aprofunda como preservar referências úteis ao renovar a navegação.",
       "modifiedAt": "2026-10-27"
+    },
+    {
+      "from": "atendimento-troca-clareza-encaminhamento",
+      "to": "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+      "anchor": "definir responsabilidades",
+      "context": "Uma ferramenta compartilhada pode ajudar, mas não substitui definir responsabilidades. Um registro acessível a várias pessoas ainda pode ficar sem acompanhamento quando todas presumem que outra pessoa dará retorno.",
+      "reason": "Aprofunda responsabilidades operacionais que sustentam o cuidado prometido no atendimento.",
+      "modifiedAt": "2026-10-28"
+    },
+    {
+      "from": "imagem-campanha-prova-entrega",
+      "to": "ia-materiais-marca-alem-das-cores",
+      "anchor": "alinhada à identidade",
+      "context": "Na aprovação, vá além de perguntar se a imagem está bonita ou alinhada à identidade. Pergunte o que alguém de fora poderia concluir ao ver o conjunto, sem ouvir a explicação da equipe.",
+      "reason": "Aprofunda os critérios de marca que complementam a verificação da natureza da imagem.",
+      "modifiedAt": "2026-10-28"
     }
   ]
 }

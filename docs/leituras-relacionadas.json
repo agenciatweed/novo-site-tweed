@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "5a2f0f943967a4a158590d9041755dd6625c04817b4e5fb15660614d59eeb5ad",
+  "catalogSha256": "ae26991cf76df46d279b703d43171358e5ec14092b3e191ce164923d8e221f20",
   "reviewedAt": "2026-10-27",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -666,6 +666,22 @@
       ],
       "reason": "Relacionam a transição do redesign à experiência de marca no site e à atualização das orientações em outros canais.",
       "modifiedAt": "2026-10-27"
+    },
+    "atendimento-troca-clareza-encaminhamento": {
+      "targets": [
+        "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+        "informacoes-empresa-atualizadas-canais"
+      ],
+      "reason": "Complementam a continuidade da solicitação com responsabilidade no atendimento e coerência das orientações públicas.",
+      "modifiedAt": "2026-10-28"
+    },
+    "imagem-campanha-prova-entrega": {
+      "targets": [
+        "ia-materiais-marca-alem-das-cores",
+        "a-marca-que-voce-posta-e-a-mesma-que-voce-entrega"
+      ],
+      "reason": "Relacionam os critérios de criação por IA à coerência entre comunicação pública e entrega real.",
+      "modifiedAt": "2026-10-28"
     }
   }
 }

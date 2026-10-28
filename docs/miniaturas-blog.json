@@ -579,5 +579,19 @@
     "height": 896,
     "source": "conteudos/pauta-reposicao-2026-10-26-ea5e7f48022d/imagens/877f125f5267a268d702d1194663210f9971391275d8e71a94ebca7edf8e9785.png",
     "sha256": "877f125f5267a268d702d1194663210f9971391275d8e71a94ebca7edf8e9785"
+  },
+  "atendimento-troca-clareza-encaminhamento": {
+    "path": "/assets/artigos-editoriais/8c500e1ec5144437a7c6b768140b7d2853288e113aff38f240589738a6039918.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-reposicao-2026-10-26-55d903da4bfa/imagens/8c500e1ec5144437a7c6b768140b7d2853288e113aff38f240589738a6039918.png",
+    "sha256": "8c500e1ec5144437a7c6b768140b7d2853288e113aff38f240589738a6039918"
+  },
+  "imagem-campanha-prova-entrega": {
+    "path": "/assets/artigos-editoriais/1bd653fa8052b8b1c36564321826e3f01eb8cf98a0f7ca6edeeeb8055c263027.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-diaria-2026-10-27/imagens/1bd653fa8052b8b1c36564321826e3f01eb8cf98a0f7ca6edeeeb8055c263027.png",
+    "sha256": "1bd653fa8052b8b1c36564321826e3f01eb8cf98a0f7ca6edeeeb8055c263027"
   }
 }

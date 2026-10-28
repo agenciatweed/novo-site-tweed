@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 5442,
-    "sha256": "875b198910d393d049e9690abd04c63aa8764ca95e32dba43bbab4a8f1cd07ef"
+    "bytes": 5519,
+    "sha256": "4b622bb176d37a091be7f0e68de35030043790a97b1502c5c315f0c5edb8bb9f"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -55,6 +55,11 @@
     "sha256": "0aed6dd48d0273afc49035151d3d0b9d116c5f07e804b93b743434c0fa1b081f"
   },
   {
+    "path": "assets/artigos-editoriais/1bd653fa8052b8b1c36564321826e3f01eb8cf98a0f7ca6edeeeb8055c263027.png",
+    "bytes": 1526737,
+    "sha256": "1bd653fa8052b8b1c36564321826e3f01eb8cf98a0f7ca6edeeeb8055c263027"
+  },
+  {
     "path": "assets/artigos-editoriais/2136e7215b18dc9c5bff7cc2d9a8a1a625a05d3d617de6d692dad8ed9c97f216.png",
     "bytes": 1385311,
     "sha256": "2136e7215b18dc9c5bff7cc2d9a8a1a625a05d3d617de6d692dad8ed9c97f216"
@@ -93,6 +98,11 @@
     "path": "assets/artigos-editoriais/877f125f5267a268d702d1194663210f9971391275d8e71a94ebca7edf8e9785.png",
     "bytes": 1771572,
     "sha256": "877f125f5267a268d702d1194663210f9971391275d8e71a94ebca7edf8e9785"
+  },
+  {
+    "path": "assets/artigos-editoriais/8c500e1ec5144437a7c6b768140b7d2853288e113aff38f240589738a6039918.png",
+    "bytes": 1632529,
+    "sha256": "8c500e1ec5144437a7c6b768140b7d2853288e113aff38f240589738a6039918"
   },
   {
     "path": "assets/artigos-editoriais/8f46d32ab62b15cbeb3e3f55c167b8f9b0af2a4cfb2107488c1ab01c246ca17a.png",
@@ -875,6 +885,11 @@
     "sha256": "2e11e607500abd00ef3f0cf6b111f45f91cef248c53beb12b0b7f4b7e8431189"
   },
   {
+    "path": "atendimento-troca-clareza-encaminhamento/index.html",
+    "bytes": 23866,
+    "sha256": "08b23dccb1c0f129bcf8da0207d5fe40ed1975d415b289b3a00896478f5e06d9"
+  },
+  {
     "path": "atribuicao-vendas-efeito-campanha/index.html",
     "bytes": 23512,
     "sha256": "e1a5fcd7bf416235e2ab01ae55bbfe3fa62c66c8a4e8328fc563c01580d15249"
@@ -891,8 +906,8 @@
   },
   {
     "path": "blog-marcas-em-acao/index.html",
-    "bytes": 18357,
-    "sha256": "a37008f236bb78650038512824fb01f7ae54cba871b181f12257baf904b890ca"
+    "bytes": 18917,
+    "sha256": "b7de142f0dbd7b3d3c29364425f135bbc774ecb9883e8e3b25b7b81c8cd9e377"
   },
   {
     "path": "blog-marcas-em-movimento/index.html",
@@ -901,8 +916,8 @@
   },
   {
     "path": "blog-marcas-que-ficam/index.html",
-    "bytes": 16389,
-    "sha256": "751cd8b9aed6d78285955832799fd1340123ceb1fe310a6e1c52e7be1c04300a"
+    "bytes": 16913,
+    "sha256": "22d6d7c276d642515cdab8e03bbe11375acd6d41ed580dcf93a08c5484ea3a78"
   },
   {
     "path": "blog-pequeno-mas-estrategico/index.html",
@@ -911,8 +926,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 23732,
-    "sha256": "7102bfc5ebc95398c0fc9445d8330b252d0d9fdb3665ee6a22a99a140b01af41"
+    "bytes": 23754,
+    "sha256": "c2f58d05b3d96176923ed40a75dd997476f5ca1adeacf8fb371d1098144c0817"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1023,6 +1038,11 @@
     "path": "identidade-visual-2027-textura-cor-autoria/index.html",
     "bytes": 20421,
     "sha256": "1b02205205f58f5b8d35937884b843f5924623192eff610e07be444bbf1d77af"
+  },
+  {
+    "path": "imagem-campanha-prova-entrega/index.html",
+    "bytes": 23630,
+    "sha256": "ca62f299b21c382469d4ba3560a9bf4c4eb27c52fe22e4ef6da1c08202d900b0"
   },
   {
     "path": "informacoes-empresa-atualizadas-canais/index.html",
@@ -1261,8 +1281,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 13727,
-    "sha256": "4825c47f19d529fdd503f3d2aca746638bd538a74b071c69809ce4d6230a8f69"
+    "bytes": 14004,
+    "sha256": "cf86b61ba64c301c40d693222761bc8a4bdaa6cdb598fed1c931c39ebecb88ac"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",
