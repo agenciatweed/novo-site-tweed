@@ -472,6 +472,14 @@
       "context": "Na aprovação, vá além de perguntar se a imagem está bonita ou alinhada à identidade. Pergunte o que alguém de fora poderia concluir ao ver o conjunto, sem ouvir a explicação da equipe.",
       "reason": "Aprofunda os critérios de marca que complementam a verificação da natureza da imagem.",
       "modifiedAt": "2026-10-28"
+    },
+    {
+      "from": "humor-marca-cliente-alvo-piada",
+      "to": "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+      "anchor": "um problema que deveria corrigir",
+      "context": "Uma marca pode brincar com os próprios processos, com expectativas do setor ou com pequenos desencontros cotidianos. Isso não autoriza usar a autocrítica para normalizar um problema que deveria corrigir.",
+      "reason": "Relaciona a brincadeira sobre falhas à responsabilidade operacional de sustentar o cuidado prometido.",
+      "modifiedAt": "2026-10-28"
     }
   ]
 }

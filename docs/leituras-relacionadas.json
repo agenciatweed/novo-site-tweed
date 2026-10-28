@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "ae26991cf76df46d279b703d43171358e5ec14092b3e191ce164923d8e221f20",
+  "catalogSha256": "b15164ebdb14d1115ece024f86d6baa52d973f19142fa212a59bbef54a7ac411",
   "reviewedAt": "2026-10-27",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -681,6 +681,14 @@
         "a-marca-que-voce-posta-e-a-mesma-que-voce-entrega"
       ],
       "reason": "Relacionam os critérios de criação por IA à coerência entre comunicação pública e entrega real.",
+      "modifiedAt": "2026-10-28"
+    },
+    "humor-marca-cliente-alvo-piada": {
+      "targets": [
+        "personalidade-de-marca-aparece-nas-escolhas-pequenas",
+        "o-atendimento-esta-desmentindo-o-seu-posicionamento"
+      ],
+      "reason": "Aprofundam a expressão cotidiana da personalidade e a coerência entre postura pública e atendimento.",
       "modifiedAt": "2026-10-28"
     }
   }

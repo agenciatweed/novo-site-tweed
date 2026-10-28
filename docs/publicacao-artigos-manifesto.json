@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 5519,
-    "sha256": "4b622bb176d37a091be7f0e68de35030043790a97b1502c5c315f0c5edb8bb9f"
+    "bytes": 5554,
+    "sha256": "6b1fcd16fcf4c01d8ad29da68a3d6678d67f6a8341bbb463175334146664b3fa"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -118,6 +118,11 @@
     "path": "assets/artigos-editoriais/9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3.png",
     "bytes": 1483743,
     "sha256": "9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3"
+  },
+  {
+    "path": "assets/artigos-editoriais/a6dd2bf7169dcac49d3ff6bcf81b321ed7225a9c7ad58d8edd84068f4edd6361.png",
+    "bytes": 1547672,
+    "sha256": "a6dd2bf7169dcac49d3ff6bcf81b321ed7225a9c7ad58d8edd84068f4edd6361"
   },
   {
     "path": "assets/artigos-editoriais/ae9f3bd17cf015ecd2daf788c993b50e6b0171e45c63620286f7238a99e0afb9.png",
@@ -901,8 +906,8 @@
   },
   {
     "path": "blog-marcas-com-alma/index.html",
-    "bytes": 17734,
-    "sha256": "5bdac4b770084c0469ad96fdc4fe85a2a34f4db87c24c1aaaff4c543297656d9"
+    "bytes": 18277,
+    "sha256": "27ead10c6732d4fb6071d7b0e36a8fa541f74f5edf469f767c0981f336ac60ab"
   },
   {
     "path": "blog-marcas-em-acao/index.html",
@@ -926,8 +931,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 23754,
-    "sha256": "c2f58d05b3d96176923ed40a75dd997476f5ca1adeacf8fb371d1098144c0817"
+    "bytes": 23712,
+    "sha256": "02dcd5d77a3f3138f5a94a7af9e79e178f7237026263e17995eee8970ff4b694"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1028,6 +1033,11 @@
     "path": "grandes-ideias-pequenas-verbas-marcas-que-marcam/index.html",
     "bytes": 15275,
     "sha256": "e38ea11c4f25fe80b1d1850403f764d3565b96de518d9e993d462a7eaf9affa9"
+  },
+  {
+    "path": "humor-marca-cliente-alvo-piada/index.html",
+    "bytes": 23551,
+    "sha256": "18b49fb6c8043c3678a6df8634bc279e50baf9e75a8d11e5a5abc8f49e7f684e"
   },
   {
     "path": "ia-materiais-marca-alem-das-cores/index.html",
@@ -1281,8 +1291,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 14004,
-    "sha256": "cf86b61ba64c301c40d693222761bc8a4bdaa6cdb598fed1c931c39ebecb88ac"
+    "bytes": 14138,
+    "sha256": "664236c2bd9299f28120b98772ca4e493fdf44ec08b86227f294221d823c2ec2"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",
