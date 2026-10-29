@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 5554,
-    "sha256": "6b1fcd16fcf4c01d8ad29da68a3d6678d67f6a8341bbb463175334146664b3fa"
+    "bytes": 5635,
+    "sha256": "045beb14e5323f41ca24a6b71d6e0a1d83d2f2625a022b6564d704d8717ac824"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -23,6 +23,11 @@
     "path": "a-marca-que-voce-posta-e-a-mesma-que-voce-entrega/index.html",
     "bytes": 15319,
     "sha256": "51024cf92bc90a839ad53e710ff2c07e3d0e684e77f0df332f5a77c8b86a65f2"
+  },
+  {
+    "path": "adocao-ia-equipe-conhecimento-compartilhado/index.html",
+    "bytes": 23864,
+    "sha256": "6d7f200466f13b38ca686b12fd1474c5046b489f828e4a82ae358037211b41d2"
   },
   {
     "path": "alem-do-anuncio-como-o-boca-a-boca-mantem-sua-marca-viva-quando-a-propaganda-termina/index.html",
@@ -100,6 +105,11 @@
     "sha256": "877f125f5267a268d702d1194663210f9971391275d8e71a94ebca7edf8e9785"
   },
   {
+    "path": "assets/artigos-editoriais/8c390be80b3895acf3633e3f483b5ed6130238138bd245d3cdd1cd6cba762f5e.png",
+    "bytes": 2369276,
+    "sha256": "8c390be80b3895acf3633e3f483b5ed6130238138bd245d3cdd1cd6cba762f5e"
+  },
+  {
     "path": "assets/artigos-editoriais/8c500e1ec5144437a7c6b768140b7d2853288e113aff38f240589738a6039918.png",
     "bytes": 1632529,
     "sha256": "8c500e1ec5144437a7c6b768140b7d2853288e113aff38f240589738a6039918"
@@ -148,6 +158,11 @@
     "path": "assets/artigos-editoriais/b8da51e1610000212718598ac63c3127bb42002b70e2c714b191de3b658270e6.png",
     "bytes": 1602071,
     "sha256": "b8da51e1610000212718598ac63c3127bb42002b70e2c714b191de3b658270e6"
+  },
+  {
+    "path": "assets/artigos-editoriais/c2f643adb98badc1bc46832e193564b3132a26b8e1d752a3d81665fd8ee52e1d.jpg",
+    "bytes": 105223,
+    "sha256": "c2f643adb98badc1bc46832e193564b3132a26b8e1d752a3d81665fd8ee52e1d"
   },
   {
     "path": "assets/artigos-editoriais/c9918a7556d6caf3bcd561c24cdbb33e21c161acd32ee228366bd1223212dffb.png",
@@ -921,18 +936,18 @@
   },
   {
     "path": "blog-marcas-que-ficam/index.html",
-    "bytes": 16913,
-    "sha256": "22d6d7c276d642515cdab8e03bbe11375acd6d41ed580dcf93a08c5484ea3a78"
+    "bytes": 17464,
+    "sha256": "3bf0d97a8d30a1fbd5389f961f21e458fe9ad76c6a3b0cced43719c5a99c90d7"
   },
   {
     "path": "blog-pequeno-mas-estrategico/index.html",
-    "bytes": 21400,
-    "sha256": "c98bac3d8db68aa7413907f0dc790954050aa19c0ea890dde9ecdb75d000ca1c"
+    "bytes": 21988,
+    "sha256": "b31d14adb15db5faccadc9004d64e6156f80ab6577559efd91c230f23b415f73"
   },
   {
     "path": "blog/index.html",
-    "bytes": 23712,
-    "sha256": "02dcd5d77a3f3138f5a94a7af9e79e178f7237026263e17995eee8970ff4b694"
+    "bytes": 23771,
+    "sha256": "66e82f985130ce065b2357fca25f5b1273ca122f9e8044f39e8c6e7d81fd2112"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1155,6 +1170,11 @@
     "sha256": "b9092b154a6f46474edd6694d82ff0d0a6d90c120afcd8a700fe4fb2e68624ed"
   },
   {
+    "path": "nome-produto-clareza-proposta/index.html",
+    "bytes": 24019,
+    "sha256": "1bddddf9f93b6cb4ff63d7329b22d21d73d389fac297d9a2c4d641c7b66c2239"
+  },
+  {
     "path": "o-arcabouco-invisivel-da-tweed-os-livros-que-moldam-nossas-estrategias/index.html",
     "bytes": 23605,
     "sha256": "8db76727c259252a565206fc8477410bad44e322e48e3c70bd41a55a725f4613"
@@ -1291,8 +1311,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 14138,
-    "sha256": "664236c2bd9299f28120b98772ca4e493fdf44ec08b86227f294221d823c2ec2"
+    "bytes": 14418,
+    "sha256": "2e221b59d5cb052050a1e628f35a6856485096112cc0ff51e3c608524753b54b"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",

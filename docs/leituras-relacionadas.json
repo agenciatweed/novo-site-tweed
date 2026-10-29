@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "b15164ebdb14d1115ece024f86d6baa52d973f19142fa212a59bbef54a7ac411",
+  "catalogSha256": "36ac800a15af0f0ca8819ac95effc5cd5a28a9a7bf9443c52352b276be853176",
   "reviewedAt": "2026-10-27",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -690,6 +690,22 @@
       ],
       "reason": "Aprofundam a expressão cotidiana da personalidade e a coerência entre postura pública e atendimento.",
       "modifiedAt": "2026-10-28"
+    },
+    "adocao-ia-equipe-conhecimento-compartilhado": {
+      "targets": [
+        "ia-materiais-marca-alem-das-cores",
+        "o-custo-invisivel-de-coordenar-o-proprio-marketing"
+      ],
+      "reason": "Aprofundam referências para revisar materiais e a organização do trabalho para reduzir dependências de coordenação.",
+      "modifiedAt": "2026-10-29"
+    },
+    "nome-produto-clareza-proposta": {
+      "targets": [
+        "proposta-comercial-comparavel-criterios",
+        "seu-logotipo-e-bonito-mas-sua-marca-e-clara"
+      ],
+      "reason": "Complementam clareza verbal com critérios de comparação e identidade institucional compreensível.",
+      "modifiedAt": "2026-10-29"
     }
   }
 }

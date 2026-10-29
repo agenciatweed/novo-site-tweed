@@ -600,5 +600,19 @@
     "height": 896,
     "source": "conteudos/pauta-reposicao-2026-10-27-721f33d03844/imagens/a6dd2bf7169dcac49d3ff6bcf81b321ed7225a9c7ad58d8edd84068f4edd6361.png",
     "sha256": "a6dd2bf7169dcac49d3ff6bcf81b321ed7225a9c7ad58d8edd84068f4edd6361"
+  },
+  "adocao-ia-equipe-conhecimento-compartilhado": {
+    "path": "/assets/artigos-editoriais/8c390be80b3895acf3633e3f483b5ed6130238138bd245d3cdd1cd6cba762f5e.png",
+    "width": 1536,
+    "height": 1024,
+    "source": "conteudos/pauta-reposicao-2026-10-27-a254b26257e2/imagens/8c390be80b3895acf3633e3f483b5ed6130238138bd245d3cdd1cd6cba762f5e.png",
+    "sha256": "8c390be80b3895acf3633e3f483b5ed6130238138bd245d3cdd1cd6cba762f5e"
+  },
+  "nome-produto-clareza-proposta": {
+    "path": "/assets/artigos-editoriais/c2f643adb98badc1bc46832e193564b3132a26b8e1d752a3d81665fd8ee52e1d.jpg",
+    "width": 816,
+    "height": 544,
+    "source": "conteudos/pauta-reposicao-2026-10-28-d6abd0c36534/imagens/c2f643adb98badc1bc46832e193564b3132a26b8e1d752a3d81665fd8ee52e1d.jpg",
+    "sha256": "c2f643adb98badc1bc46832e193564b3132a26b8e1d752a3d81665fd8ee52e1d"
   }
 }

@@ -224,3 +224,8 @@ Publicados atendimento-troca-clareza-encaminhamento e imagem-campanha-prova-entr
 ## Rodada 55 — humor de marca — 28/10/2026
 
 Publicado humor-marca-cliente-alvo-piada após aprovação humana, dry-run e confirmação FTP/HTTP dos seis arquivos. Capa aprovada preservada, um link contextual, dois relacionados e FAQ somente estruturado, com fonte clicável. Arquivado em Artigos após confirmação. Planos new-only preservam artigos e recomendações antigas. Validados 86 artigos e 94 URLs; desktop/mobile e home preservada conferidos. Backups por job 99ff3297-ab1b-446f-8ae8-eab88eb24565; planos no painel 2026-10-28-humor.json. Manutenção ampla segue prevista para a execução 60.
+
+
+## Rodada manual 59 — capacitação em IA e nome de produto — 29/10/2026
+
+Publicados adocao-ia-equipe-conhecimento-compartilhado e nome-produto-clareza-proposta após aprovação humana, dry-runs sequenciais e confirmação FTP/HTTP. Capas aprovadas preservadas: PNG 1536 × 1024 e JPEG 816 × 544. Cada artigo tem um link contextual, dois relacionados e FAQ somente estruturado, com fontes clicáveis. Arquivados em Artigos após confirmação. Planos new-only preservam artigos e recomendações antigas. Validados 88 artigos e 96 URLs; desktop/mobile e home preservada conferidos. Backups por jobs da910c9d-706d-4076-9c52-c79dc2d43463 e 9a56409f-7a49-4e88-8d8f-0b7570683f30; planos no painel 2026-10-29-capacitacao.json e -nome.json. Embalagem e tendências mantidos para a data aprovada de 30/10. Manutenção ampla segue prevista para a execução 60.
