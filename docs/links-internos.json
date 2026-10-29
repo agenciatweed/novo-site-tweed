@@ -496,6 +496,46 @@
       "context": "Não é necessário criar uma família de nomes com lógica perfeita apenas para agradar à equipe. A organização deve ajudar o público a reconhecer diferenças relevantes. Um sistema elegante que exige tradução permanente ainda merece revisão.",
       "reason": "Aprofunda a distinção entre alternativas por critérios concretos na apresentação comercial.",
       "modifiedAt": "2026-10-29"
+    },
+    {
+      "from": "da-embalagem-ao-pos-venda",
+      "to": "atendimento-troca-clareza-encaminhamento",
+      "anchor": "Problemas acontecem",
+      "context": "Problemas acontecem. Produtos atrasam. Itens chegam com defeito. É nesse momento que se descobre se o branding era real ou só discurso.",
+      "reason": "Detalha como orientar o cliente quando a compra exige troca ou encaminhamento.",
+      "modifiedAt": "2026-10-29"
+    },
+    {
+      "from": "a-marca-que-voce-posta-e-a-mesma-que-voce-entrega",
+      "to": "imagem-campanha-prova-entrega",
+      "anchor": "o que você mostra",
+      "context": "O branding só funciona quando o que você mostra é sustentado pelo que você é. A experiência precisa reforçar a comunicação, não contradizê-la.",
+      "reason": "Distingue representação visual de evidência sobre o que a empresa entrega.",
+      "modifiedAt": "2026-10-29"
+    },
+    {
+      "from": "personalidade-de-marca-aparece-nas-escolhas-pequenas",
+      "to": "humor-marca-cliente-alvo-piada",
+      "anchor": "quando o humor deve ceder lugar",
+      "context": "Inclua limites. Se a marca é confiante, explique como evita promessas que não consegue sustentar. Se é próxima, discuta como respeita a privacidade e o espaço do cliente. Se é irreverente, estabeleça quando o humor deve ceder lugar a uma orientação sóbria.",
+      "reason": "Aprofunda limites do humor sem transformar a dificuldade do cliente em alvo.",
+      "modifiedAt": "2026-10-29"
+    },
+    {
+      "from": "ia-materiais-marca-alem-das-cores",
+      "to": "adocao-ia-equipe-conhecimento-compartilhado",
+      "anchor": "Defina quem confere a oferta",
+      "context": "Defina quem confere a oferta, quem revisa a linguagem e quem decide o acabamento visual. Em uma equipe pequena, uma pessoa pode acumular funções, mas os critérios ainda precisam ser distintos.",
+      "reason": "Aprofunda aprendizagem compartilhada e critérios de uso da IA além da referência visual.",
+      "modifiedAt": "2026-10-29"
+    },
+    {
+      "from": "seu-logotipo-e-bonito-mas-sua-marca-e-clara",
+      "to": "nome-produto-clareza-proposta",
+      "anchor": "mensagem tão bem definida",
+      "context": "Por outro lado, já vimos marcas com visuais simples, mas com uma mensagem tão bem definida que conquistam seguidores, clientes e defensores. Quando a essência é forte, o visual se torna intencional. A comunicação ganha foco. E a percepção de valor sobe.",
+      "reason": "Aplica clareza de proposta ao nome e descritor do produto.",
+      "modifiedAt": "2026-10-29"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "catalogSha256": "36ac800a15af0f0ca8819ac95effc5cd5a28a9a7bf9443c52352b276be853176",
-  "reviewedAt": "2026-10-27",
+  "reviewedAt": "2026-10-29",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
       "targets": [
@@ -46,10 +46,10 @@
     "da-embalagem-ao-pos-venda": {
       "targets": [
         "branding-como-experiencia-do-cliente",
-        "da-satisfacao-ao-encantamento"
+        "atendimento-troca-clareza-encaminhamento"
       ],
-      "reason": "Explora a experiência que confirma a promessa e cria encantamento após a entrega.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Detalha como orientar o cliente quando a compra exige troca ou encaminhamento. Mantida a leitura complementar anterior mais pertinente.",
+      "modifiedAt": "2026-10-29"
     },
     "nao-venda-ajude": {
       "targets": [
@@ -286,10 +286,10 @@
     "seu-logotipo-e-bonito-mas-sua-marca-e-clara": {
       "targets": [
         "se-o-seu-cliente-nao-consegue-explicar-sua-marca-talvez-ela-ainda-nao-exista-de-verdade",
-        "identidade-visual-2027-textura-cor-autoria"
+        "nome-produto-clareza-proposta"
       ],
-      "reason": "Preserva clareza da proposta e acrescenta a análise de particularidade visual com origem e critérios, além da beleza do logotipo.",
-      "modifiedAt": "2026-10-21"
+      "reason": "Aplica clareza de proposta ao nome e descritor do produto. Mantida a leitura complementar anterior mais pertinente.",
+      "modifiedAt": "2026-10-29"
     },
     "a-biblioteca-estrategica-da-tweed-os-livros-que-moldam-nossa-abordagem-de-branding-e-marketing": {
       "targets": [
@@ -366,10 +366,10 @@
     "a-marca-que-voce-posta-e-a-mesma-que-voce-entrega": {
       "targets": [
         "branding-como-experiencia-do-cliente",
-        "o-atendimento-esta-desmentindo-o-seu-posicionamento"
+        "imagem-campanha-prova-entrega"
       ],
-      "reason": "O novo artigo oferece um caminho operacional para as incoerências de atendimento descritas no checklist; permanece a perspectiva geral da experiência.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Distingue representação visual de evidência sobre o que a empresa entrega. Mantida a leitura complementar anterior mais pertinente.",
+      "modifiedAt": "2026-10-29"
     },
     "o-que-sua-marca-comunica-quando-voce-nao-esta-por-perto": {
       "targets": [
@@ -486,10 +486,10 @@
     "personalidade-de-marca-aparece-nas-escolhas-pequenas": {
       "targets": [
         "multiplas-faces-da-marca-combinando-arquetipos-para-uma-identidade-rica",
-        "branding-na-pratica-para-pmes"
+        "humor-marca-cliente-alvo-piada"
       ],
-      "reason": "Relaciona a interpretação de arquétipos à expressão cotidiana da personalidade e à passagem do manual à prática.",
-      "modifiedAt": "2026-10-18"
+      "reason": "Aprofunda limites do humor sem transformar a dificuldade do cliente em alvo. Mantida a leitura complementar anterior mais pertinente.",
+      "modifiedAt": "2026-10-29"
     },
     "plano-de-midia-2027-alem-de-uma-plataforma": {
       "targets": [
@@ -558,10 +558,10 @@
     "ia-materiais-marca-alem-das-cores": {
       "targets": [
         "como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos",
-        "aprovacao-campanha-feedback-decisoes"
+        "adocao-ia-equipe-conhecimento-compartilhado"
       ],
-      "reason": "Preserva a discussão sobre IA com voz humana e aprofunda os responsáveis, critérios e retornos da aprovação descritos no texto.",
-      "modifiedAt": "2026-10-25"
+      "reason": "Aprofunda aprendizagem compartilhada e critérios de uso da IA além da referência visual. Mantida a leitura complementar anterior mais pertinente.",
+      "modifiedAt": "2026-10-29"
     },
     "parceria-marca-alem-dos-logotipos": {
       "targets": [
