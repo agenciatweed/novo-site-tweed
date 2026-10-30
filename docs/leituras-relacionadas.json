@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "36ac800a15af0f0ca8819ac95effc5cd5a28a9a7bf9443c52352b276be853176",
+  "catalogSha256": "07a9a34ef062ff3b6815ea8a1750e528bfef389d2b929115eddcf8c699b90250",
   "reviewedAt": "2026-10-29",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -706,6 +706,14 @@
       ],
       "reason": "Complementam clareza verbal com critérios de comparação e identidade institucional compreensível.",
       "modifiedAt": "2026-10-29"
+    },
+    "design-embalagem-gesto-uso": {
+      "targets": [
+        "da-embalagem-ao-pos-venda",
+        "demonstracao-produto-ajudar-cliente-decidir"
+      ],
+      "reason": "Conecta o gesto de abertura à experiência de entrega e à apresentação compreensível do uso e seus limites.",
+      "modifiedAt": "2026-10-30"
     }
   }
 }

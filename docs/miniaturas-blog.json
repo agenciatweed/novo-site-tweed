@@ -614,5 +614,12 @@
     "height": 544,
     "source": "conteudos/pauta-reposicao-2026-10-28-d6abd0c36534/imagens/c2f643adb98badc1bc46832e193564b3132a26b8e1d752a3d81665fd8ee52e1d.jpg",
     "sha256": "c2f643adb98badc1bc46832e193564b3132a26b8e1d752a3d81665fd8ee52e1d"
+  },
+  "design-embalagem-gesto-uso": {
+    "path": "/assets/artigos-editoriais/e85a2d9d5460e72e1a3b5abd210ae26b6d246ae62d658714c36e2ee88a0daadf.png",
+    "width": 1536,
+    "height": 1024,
+    "source": "conteudos/pauta-diaria-2026-10-28/imagens/e85a2d9d5460e72e1a3b5abd210ae26b6d246ae62d658714c36e2ee88a0daadf.png",
+    "sha256": "e85a2d9d5460e72e1a3b5abd210ae26b6d246ae62d658714c36e2ee88a0daadf"
   }
 }

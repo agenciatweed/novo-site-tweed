@@ -234,3 +234,8 @@ Publicados adocao-ia-equipe-conhecimento-compartilhado e nome-produto-clareza-pr
 ## Manutenção editorial ciclo 60 — 29/10/2026
 
 Reavaliados os dois relacionados dos 88 artigos: cinco pares atualizados e 83 preservados. Inseridos cinco links naturais de artigos anteriores para os cinco publicados desde o ciclo 50: troca e encaminhamento, imagem e prova, humor, capacitação em IA e nome de produto. Textos e capas preservados; máximo de quatro links por corpo. Planos 2026-10-29-ciclo60-1 a -5 e relacionados ciclo60 no painel. Dry-runs e envios sequenciais confirmados por FTP/HTTP, com backups privados e hashes. Home e materiais de clientes preservados.
+
+
+## Publicação de embalagem — rodada 63 — 30/10/2026
+
+Publicado design-embalagem-gesto-uso na data aprovada, após dry-run e confirmação FTP/HTTP. Capa aprovada PNG 1536 × 1024 preservada, um link contextual e dois relacionados. Planos new-only 2026-10-30-embalagem preservam artigos e recomendações antigas. FAQ somente estruturado e fontes clicáveis. Home e materiais de clientes preservados. Registro privado pelo job 4011b0d2-2ffd-489c-9d91-f17e0a743ca7.
