@@ -239,3 +239,8 @@ Reavaliados os dois relacionados dos 88 artigos: cinco pares atualizados e 83 pr
 ## Publicação de embalagem — rodada 63 — 30/10/2026
 
 Publicado design-embalagem-gesto-uso na data aprovada, após dry-run e confirmação FTP/HTTP. Capa aprovada PNG 1536 × 1024 preservada, um link contextual e dois relacionados. Planos new-only 2026-10-30-embalagem preservam artigos e recomendações antigas. FAQ somente estruturado e fontes clicáveis. Home e materiais de clientes preservados. Registro privado pelo job 4011b0d2-2ffd-489c-9d91-f17e0a743ca7.
+
+
+## Publicação editorial — 31/10/2026 (rodada 69)
+
+Publicado comunicar-melhoria-ambiental-escopo-evidencia/, aprovado para 31/10/2026. Plano new-only com um link natural e duas leituras relacionadas; recomendações anteriores preservadas. Dry-run, FTP passivo com pré-verificação, backup e renomeação temporária, e confirmação HTTP concluídos pelo publicador. QA desktop/mobile passou: capa, canonical, fontes clicáveis, índices e home preservada. Item arquivado após confirmação.

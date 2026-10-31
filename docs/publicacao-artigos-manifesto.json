@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 5665,
-    "sha256": "71b05bdb439d95bd23e32f043b88671a5a31d162ae4baafd57b1c53e227cff07"
+    "bytes": 5715,
+    "sha256": "78cda9a084101242fd933c81cf94da70b46f7f915a78bf94b081210d6a3d28e2"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -93,6 +93,11 @@
     "path": "assets/artigos-editoriais/48c6e5f107eff3bc5d719f1071cde5b47ad305139ce2e061d23e20db3104c7b9.png",
     "bytes": 1650565,
     "sha256": "48c6e5f107eff3bc5d719f1071cde5b47ad305139ce2e061d23e20db3104c7b9"
+  },
+  {
+    "path": "assets/artigos-editoriais/5b2c8363f249a2e63f2c0ba3ec02ff8f2685a2b0176f005ba421d5924749b4a2.jpg",
+    "bytes": 177663,
+    "sha256": "5b2c8363f249a2e63f2c0ba3ec02ff8f2685a2b0176f005ba421d5924749b4a2"
   },
   {
     "path": "assets/artigos-editoriais/6143e2f47c036cf2cde41f7333424b81eb8e822e57abae345fa55b442b7539f7.png",
@@ -941,8 +946,8 @@
   },
   {
     "path": "blog-marcas-que-ficam/index.html",
-    "bytes": 17464,
-    "sha256": "3bf0d97a8d30a1fbd5389f961f21e458fe9ad76c6a3b0cced43719c5a99c90d7"
+    "bytes": 17952,
+    "sha256": "c8786561c8d517cc449fcd7936401b5fd30c598a61aa32a3aa51e67c0c75bf09"
   },
   {
     "path": "blog-pequeno-mas-estrategico/index.html",
@@ -951,8 +956,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 23768,
-    "sha256": "521455004851d21099fe5851f1e665489f4b72688a75750d8b6761c8147aee1c"
+    "bytes": 23823,
+    "sha256": "0cd8a6b21cc5dccf3d1d8dce90662f5750e35990ef3387f725d1c22ac7c27124"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1003,6 +1008,11 @@
     "path": "como-parecer-grande-sem-ser-grande-os-segredos-do-branding-enxuto/index.html",
     "bytes": 15590,
     "sha256": "270597bb861c7bee886378e3666042caa87afd9ce3d50211a6ca304a88e70e5a"
+  },
+  {
+    "path": "comunicar-melhoria-ambiental-escopo-evidencia/index.html",
+    "bytes": 24366,
+    "sha256": "3db3314c0ba205dba972f08a06217f004f6ffe5e27927b9cd35d9c8e6dc8d03c"
   },
   {
     "path": "crescer-sem-perder-a-alma/index.html",
@@ -1321,8 +1331,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 14548,
-    "sha256": "181abf4b508317d66d5b775ca5680d393ada165253f7248ce36e39b073ebced5"
+    "bytes": 14697,
+    "sha256": "f3a37d82d8d39aef1e1c5d19811aae2192892c39776682cd15c1116acc66cd33"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",

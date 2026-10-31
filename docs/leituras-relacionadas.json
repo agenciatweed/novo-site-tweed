@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "07a9a34ef062ff3b6815ea8a1750e528bfef389d2b929115eddcf8c699b90250",
+  "catalogSha256": "f421c40ad354d1b8bdd9059b6a83c029315e49912b57e0035b2806a165c17aef",
   "reviewedAt": "2026-10-29",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -714,6 +714,14 @@
       ],
       "reason": "Conecta o gesto de abertura à experiência de entrega e à apresentação compreensível do uso e seus limites.",
       "modifiedAt": "2026-10-30"
+    },
+    "comunicar-melhoria-ambiental-escopo-evidencia": {
+      "targets": [
+        "imagem-campanha-prova-entrega",
+        "informacoes-empresa-atualizadas-canais"
+      ],
+      "reason": "Relaciona evidência e representação visual à atualização consistente de informações quando produtos e condições mudam.",
+      "modifiedAt": "2026-10-31"
     }
   }
 }

@@ -544,6 +544,14 @@
       "context": "Uma aba pequena demais pode ser interpretada como um problema pontual. Se a pessoa não consegue identificá-la ou segurá-la, a dificuldade participa da experiência inteira de abertura.",
       "reason": "Amplia a experiência de abertura para a coerência de marca na entrega e no pós-venda.",
       "modifiedAt": "2026-10-30"
+    },
+    {
+      "from": "comunicar-melhoria-ambiental-escopo-evidencia",
+      "to": "imagem-campanha-prova-entrega",
+      "anchor": "A solução visual",
+      "context": "No exemplo, mostrar o componente alterado e explicar sua função pode ser uma escolha mais informativa que cobrir toda a apresentação com uma linguagem ambiental genérica. A solução visual deve ajudar a compreender, não ampliar silenciosamente a afirmação.",
+      "reason": "Aprofunda a distinção entre representação visual e evidência da entrega, pertinente à apresentação de melhorias ambientais.",
+      "modifiedAt": "2026-10-31"
     }
   ]
 }
