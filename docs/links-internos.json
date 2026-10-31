@@ -552,6 +552,22 @@
       "context": "No exemplo, mostrar o componente alterado e explicar sua função pode ser uma escolha mais informativa que cobrir toda a apresentação com uma linguagem ambiental genérica. A solução visual deve ajudar a compreender, não ampliar silenciosamente a afirmação.",
       "reason": "Aprofunda a distinção entre representação visual e evidência da entrega, pertinente à apresentação de melhorias ambientais.",
       "modifiedAt": "2026-10-31"
+    },
+    {
+      "from": "da-embalagem-ao-pos-venda",
+      "to": "design-embalagem-gesto-uso",
+      "anchor": "abre a caixa",
+      "context": "A promessa de uma marca não se cumpre na propaganda. Ela se confirma quando o cliente abre a caixa.",
+      "reason": "Aprofunda o gesto de abertura e uso da embalagem, além da aparência.",
+      "modifiedAt": "2026-10-31"
+    },
+    {
+      "from": "design-embalagem-gesto-uso",
+      "to": "comunicar-melhoria-ambiental-escopo-evidencia",
+      "anchor": "Afirmações ambientais",
+      "context": "Não transforme essa intenção em alegação que o projeto não sustenta. Afirmações ambientais, de proteção ou de facilidade precisam de base adequada. Acrescentar um símbolo ou uma frase não substitui verificar o que a embalagem faz.",
+      "reason": "Detalha como delimitar e sustentar afirmações ambientais sobre componentes e embalagens.",
+      "modifiedAt": "2026-10-31"
     }
   ]
 }

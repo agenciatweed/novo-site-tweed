@@ -1,7 +1,7 @@
 {
   "version": 1,
   "catalogSha256": "f421c40ad354d1b8bdd9059b6a83c029315e49912b57e0035b2806a165c17aef",
-  "reviewedAt": "2026-10-29",
+  "reviewedAt": "2026-10-31",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
       "targets": [
@@ -45,11 +45,11 @@
     },
     "da-embalagem-ao-pos-venda": {
       "targets": [
-        "branding-como-experiencia-do-cliente",
+        "design-embalagem-gesto-uso",
         "atendimento-troca-clareza-encaminhamento"
       ],
-      "reason": "Detalha como orientar o cliente quando a compra exige troca ou encaminhamento. Mantida a leitura complementar anterior mais pertinente.",
-      "modifiedAt": "2026-10-29"
+      "reason": "Aprofunda o gesto de abertura e uso da embalagem, além da aparência. Preservada a outra leitura complementar.",
+      "modifiedAt": "2026-10-31"
     },
     "nao-venda-ajude": {
       "targets": [
@@ -710,10 +710,10 @@
     "design-embalagem-gesto-uso": {
       "targets": [
         "da-embalagem-ao-pos-venda",
-        "demonstracao-produto-ajudar-cliente-decidir"
+        "comunicar-melhoria-ambiental-escopo-evidencia"
       ],
-      "reason": "Conecta o gesto de abertura à experiência de entrega e à apresentação compreensível do uso e seus limites.",
-      "modifiedAt": "2026-10-30"
+      "reason": "Detalha como delimitar e sustentar afirmações ambientais sobre componentes e embalagens. Preservada a outra leitura complementar.",
+      "modifiedAt": "2026-10-31"
     },
     "comunicar-melhoria-ambiental-escopo-evidencia": {
       "targets": [

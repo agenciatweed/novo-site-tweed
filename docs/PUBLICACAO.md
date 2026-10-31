@@ -244,3 +244,8 @@ Publicado design-embalagem-gesto-uso na data aprovada, após dry-run e confirma�
 ## Publicação editorial — 31/10/2026 (rodada 69)
 
 Publicado comunicar-melhoria-ambiental-escopo-evidencia/, aprovado para 31/10/2026. Plano new-only com um link natural e duas leituras relacionadas; recomendações anteriores preservadas. Dry-run, FTP passivo com pré-verificação, backup e renomeação temporária, e confirmação HTTP concluídos pelo publicador. QA desktop/mobile passou: capa, canonical, fontes clicáveis, índices e home preservada. Item arquivado após confirmação.
+
+
+## Manutenção editorial ciclo 70 — 31/10/2026
+
+Reavaliados os dois relacionados dos 90 artigos: dois pares atualizados e 88 preservados. Inseridos dois links naturais para os recentes sobre gesto de uso da embalagem e evidências de melhoria ambiental. Textos e capas preservados, máximo quatro links no corpo. Planos 2026-10-31-ciclo70-1 e -2 e relacionados ciclo70 no painel. Dry-runs e envios sequenciais confirmados por FTP/HTTP com hashes e backups. Home e materiais de clientes preservados.
