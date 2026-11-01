@@ -628,5 +628,12 @@
     "height": 544,
     "source": "conteudos/pauta-reposicao-2026-10-28-b6546ae763a3/imagens/5b2c8363f249a2e63f2c0ba3ec02ff8f2685a2b0176f005ba421d5924749b4a2.jpg",
     "sha256": "5b2c8363f249a2e63f2c0ba3ec02ff8f2685a2b0176f005ba421d5924749b4a2"
+  },
+  "serie-conteudo-continuidade-episodios": {
+    "path": "/assets/artigos-editoriais/435725d8c317baf55039931b0c0008df8957e145a5841139b3d66865a62a4f8b.jpg",
+    "width": 1080,
+    "height": 720,
+    "source": "conteudos/pauta-diaria-2026-10-29/imagens/435725d8c317baf55039931b0c0008df8957e145a5841139b3d66865a62a4f8b.jpg",
+    "sha256": "435725d8c317baf55039931b0c0008df8957e145a5841139b3d66865a62a4f8b"
   }
 }

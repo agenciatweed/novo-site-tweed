@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "f421c40ad354d1b8bdd9059b6a83c029315e49912b57e0035b2806a165c17aef",
+  "catalogSha256": "d83ba585411e119497b0d342b7ba4d8d785b4388c1507bf235755205de86a33e",
   "reviewedAt": "2026-10-31",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -722,6 +722,14 @@
       ],
       "reason": "Relaciona evidência e representação visual à atualização consistente de informações quando produtos e condições mudam.",
       "modifiedAt": "2026-10-31"
+    },
+    "serie-conteudo-continuidade-episodios": {
+      "targets": [
+        "reaproveitamento-video-adaptacao-criativa",
+        "mensagem-contexto-momento-cliente"
+      ],
+      "reason": "Complementa a continuidade entre episódios com critérios de adaptação de vídeo e de contexto em que o público encontra cada peça.",
+      "modifiedAt": "2026-11-01"
     }
   }
 }

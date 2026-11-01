@@ -568,6 +568,14 @@
       "context": "Não transforme essa intenção em alegação que o projeto não sustenta. Afirmações ambientais, de proteção ou de facilidade precisam de base adequada. Acrescentar um símbolo ou uma frase não substitui verificar o que a embalagem faz.",
       "reason": "Detalha como delimitar e sustentar afirmações ambientais sobre componentes e embalagens.",
       "modifiedAt": "2026-10-31"
+    },
+    {
+      "from": "serie-conteudo-continuidade-episodios",
+      "to": "reaproveitamento-video-adaptacao-criativa",
+      "anchor": "adaptar o mesmo vídeo entre canais",
+      "context": "Esse trabalho é diferente de adaptar o mesmo vídeo entre canais. Aqui, a questão é permitir acompanhar conteúdos distintos que foram pensados para se relacionar.",
+      "reason": "Distingue arquitetura de uma série da adaptação criativa de um material entre plataformas.",
+      "modifiedAt": "2026-11-01"
     }
   ]
 }

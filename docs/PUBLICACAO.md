@@ -249,3 +249,8 @@ Publicado comunicar-melhoria-ambiental-escopo-evidencia/, aprovado para 31/10/20
 ## Manutenção editorial ciclo 70 — 31/10/2026
 
 Reavaliados os dois relacionados dos 90 artigos: dois pares atualizados e 88 preservados. Inseridos dois links naturais para os recentes sobre gesto de uso da embalagem e evidências de melhoria ambiental. Textos e capas preservados, máximo quatro links no corpo. Planos 2026-10-31-ciclo70-1 e -2 e relacionados ciclo70 no painel. Dry-runs e envios sequenciais confirmados por FTP/HTTP com hashes e backups. Home e materiais de clientes preservados.
+
+
+## Publicação editorial — 01/11/2026 (rodada 73)
+
+Publicado serie-conteudo-continuidade-episodios/, aprovado para 01/11/2026. Plano new-only com um link para adaptação de vídeo e dois relacionados pertinentes; entradas antigas preservadas. Dry-run e envio FTP passivo com hashes, backups e renomeação temporária confirmados pelo publicador. Confirmação HTTP e QA desktop/mobile passaram: capa, anel, canonical, fontes clicáveis, índices e home preservada. Arquivado após confirmação.
