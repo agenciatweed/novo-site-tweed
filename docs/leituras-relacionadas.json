@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "d83ba585411e119497b0d342b7ba4d8d785b4388c1507bf235755205de86a33e",
+  "catalogSha256": "7b28384d92c836ef56be6e1c551775ab584657c6310d6c80c7e34743f93c7ba0",
   "reviewedAt": "2026-10-31",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -730,6 +730,14 @@
       ],
       "reason": "Complementa a continuidade entre episódios com critérios de adaptação de vídeo e de contexto em que o público encontra cada peça.",
       "modifiedAt": "2026-11-01"
+    },
+    "pesquisa-consumidor-aplicabilidade-clientes": {
+      "targets": [
+        "qualidade-dados-campanha-conversoes",
+        "atribuicao-vendas-efeito-campanha"
+      ],
+      "reason": "Complementa o alcance de pesquisas externas com definição dos dados internos e distinção entre registro de resultado e efeito causal.",
+      "modifiedAt": "2026-11-02"
     }
   }
 }

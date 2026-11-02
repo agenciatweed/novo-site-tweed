@@ -254,3 +254,8 @@ Reavaliados os dois relacionados dos 90 artigos: dois pares atualizados e 88 pre
 ## Publicação editorial — 01/11/2026 (rodada 73)
 
 Publicado serie-conteudo-continuidade-episodios/, aprovado para 01/11/2026. Plano new-only com um link para adaptação de vídeo e dois relacionados pertinentes; entradas antigas preservadas. Dry-run e envio FTP passivo com hashes, backups e renomeação temporária confirmados pelo publicador. Confirmação HTTP e QA desktop/mobile passaram: capa, anel, canonical, fontes clicáveis, índices e home preservada. Arquivado após confirmação.
+
+
+## Publicação editorial — 02/11/2026 (rodada 77)
+
+Publicado pesquisa-consumidor-aplicabilidade-clientes/, aprovado para 02/11/2026. Plano new-only com um link natural e dois relacionados pertinentes, preservadas as entradas antigas. Dry-run e envio FTP passivo com hashes, backups e renomeação temporária concluídos. Confirmação FTP/HTTP e QA desktop/mobile passaram: capa, anel, canonical, fontes, índices e home preservada. Item arquivado após confirmação.

@@ -635,5 +635,12 @@
     "height": 720,
     "source": "conteudos/pauta-diaria-2026-10-29/imagens/435725d8c317baf55039931b0c0008df8957e145a5841139b3d66865a62a4f8b.jpg",
     "sha256": "435725d8c317baf55039931b0c0008df8957e145a5841139b3d66865a62a4f8b"
+  },
+  "pesquisa-consumidor-aplicabilidade-clientes": {
+    "path": "/assets/artigos-editoriais/4436afd164a5e80ab75b39bf235153289783263c87a2ab75a5535a6af432157a.png",
+    "width": 1536,
+    "height": 1024,
+    "source": "conteudos/pauta-reposicao-2026-10-28-5d882def914b/imagens/4436afd164a5e80ab75b39bf235153289783263c87a2ab75a5535a6af432157a.png",
+    "sha256": "4436afd164a5e80ab75b39bf235153289783263c87a2ab75a5535a6af432157a"
   }
 }

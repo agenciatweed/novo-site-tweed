@@ -576,6 +576,14 @@
       "context": "Esse trabalho é diferente de adaptar o mesmo vídeo entre canais. Aqui, a questão é permitir acompanhar conteúdos distintos que foram pensados para se relacionar.",
       "reason": "Distingue arquitetura de uma série da adaptação criativa de um material entre plataformas.",
       "modifiedAt": "2026-11-01"
+    },
+    {
+      "from": "pesquisa-consumidor-aplicabilidade-clientes",
+      "to": "atribuicao-vendas-efeito-campanha",
+      "anchor": "prova automática",
+      "context": "Se decidir mudar uma mensagem, registre a alteração e o motivo. Acompanhe o que as pessoas compreendem e as dúvidas que aparecem, sem tratar uma melhora posterior como prova automática de toda a hipótese.",
+      "reason": "Aprofunda por que um resultado posterior não demonstra sozinho efeito causal de uma mudança.",
+      "modifiedAt": "2026-11-02"
     }
   ]
 }
