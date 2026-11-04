@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "7b28384d92c836ef56be6e1c551775ab584657c6310d6c80c7e34743f93c7ba0",
+  "catalogSha256": "7d26140f96bda772dd539caddf6a6135d0445f518d17d4122279aa2778ebb5ad",
   "reviewedAt": "2026-10-31",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -738,6 +738,22 @@
       ],
       "reason": "Complementa o alcance de pesquisas externas com definição dos dados internos e distinção entre registro de resultado e efeito causal.",
       "modifiedAt": "2026-11-02"
+    },
+    "marca-tendencias-criterio-participacao": {
+      "targets": [
+        "mensagem-contexto-momento-cliente",
+        "humor-marca-cliente-alvo-piada"
+      ],
+      "reason": "Aprofundam a leitura do contexto e os cuidados ao usar humor em conversas públicas.",
+      "modifiedAt": "2026-11-04"
+    },
+    "acompanhamento-apos-feira-proximo-passo": {
+      "targets": [
+        "mensagem-contexto-momento-cliente",
+        "jornada-compra-antes-da-campanha"
+      ],
+      "reason": "Aprofundam o contexto de contato e as diferentes etapas da decisão de compra.",
+      "modifiedAt": "2026-11-04"
     }
   }
 }

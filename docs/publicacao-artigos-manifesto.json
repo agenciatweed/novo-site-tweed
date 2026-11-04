@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 5803,
-    "sha256": "9de1477194f60da8bdd95e32ef5690187a5c39db259ba601a5b3ec7e4338cebc"
+    "bytes": 5889,
+    "sha256": "c3c0d57f187e45ca3c45236a80752300eb8d434e3824baa8ae0d29c4d94a9243"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -23,6 +23,11 @@
     "path": "a-marca-que-voce-posta-e-a-mesma-que-voce-entrega/index.html",
     "bytes": 15443,
     "sha256": "654232c8445c9b6296d1cd0e19ec206c01c9fbd0afaab2a2de846b3b81611562"
+  },
+  {
+    "path": "acompanhamento-apos-feira-proximo-passo/index.html",
+    "bytes": 22944,
+    "sha256": "46a64a1e18c36e828c87c59e3124dacc0530d4cfd859135fab27e9e4477107a5"
   },
   {
     "path": "adocao-ia-equipe-conhecimento-compartilhado/index.html",
@@ -115,6 +120,11 @@
     "sha256": "6143e2f47c036cf2cde41f7333424b81eb8e822e57abae345fa55b442b7539f7"
   },
   {
+    "path": "assets/artigos-editoriais/678684b81437d3be4efce00051656a330dc2b618666c8ae870be1f0f9701fe70.png",
+    "bytes": 1420746,
+    "sha256": "678684b81437d3be4efce00051656a330dc2b618666c8ae870be1f0f9701fe70"
+  },
+  {
     "path": "assets/artigos-editoriais/877f125f5267a268d702d1194663210f9971391275d8e71a94ebca7edf8e9785.png",
     "bytes": 1771572,
     "sha256": "877f125f5267a268d702d1194663210f9971391275d8e71a94ebca7edf8e9785"
@@ -143,6 +153,11 @@
     "path": "assets/artigos-editoriais/9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3.png",
     "bytes": 1483743,
     "sha256": "9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3"
+  },
+  {
+    "path": "assets/artigos-editoriais/a683c2b239cab9af8d9ae7819279628f208f2a4d712ea16c472cf7c76166036a.png",
+    "bytes": 2269405,
+    "sha256": "a683c2b239cab9af8d9ae7819279628f208f2a4d712ea16c472cf7c76166036a"
   },
   {
     "path": "assets/artigos-editoriais/a6dd2bf7169dcac49d3ff6bcf81b321ed7225a9c7ad58d8edd84068f4edd6361.png",
@@ -946,13 +961,13 @@
   },
   {
     "path": "blog-marcas-em-acao/index.html",
-    "bytes": 19479,
-    "sha256": "f05d3c16aa5315963869c35d1eeb00d719ca8551e8d413f17df319e4ea43bf7e"
+    "bytes": 20019,
+    "sha256": "32d3d847680476b9a8d5879eb06eb5cd5f7e7a2cbb654fe9816a873c0b658557"
   },
   {
     "path": "blog-marcas-em-movimento/index.html",
-    "bytes": 16276,
-    "sha256": "e6ff084940335ae131b6691f386e8dc08e93b2582df7802ad61cf687c6fe9cab"
+    "bytes": 16871,
+    "sha256": "ed1aef5ccbf495189b8e3656ace8469ec0bbd2235bd2d4a9c57425511df8e8b8"
   },
   {
     "path": "blog-marcas-que-ficam/index.html",
@@ -966,8 +981,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 23818,
-    "sha256": "8eac9c34e4011ab2a9808c6266c244f62fc7d06bb5e0dbdca323272433d4ba18"
+    "bytes": 23789,
+    "sha256": "fe67c384860b28d64783603bf1c266b20ebe2f6ab435865c2d4e6fdcf6583fd9"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1138,6 +1153,11 @@
     "path": "marca-recomendada-por-ia-confianca/index.html",
     "bytes": 20176,
     "sha256": "70fb5980ea676b48f0ebf3942ca0ad4861852b592dd31341fbf802d468ff135e"
+  },
+  {
+    "path": "marca-tendencias-criterio-participacao/index.html",
+    "bytes": 23689,
+    "sha256": "fe48ed6c9a21508c4b418b7021aae9f4b440534e64b9b003275e06a151a6eb26"
   },
   {
     "path": "marcas-memoraveis-nao-gritam-elas-fazem-sentido/index.html",
@@ -1351,8 +1371,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 14985,
-    "sha256": "14730789682c32ef48d3146b98ab309cf3a1a37f54a69a0f94af95d4ae2a23fc"
+    "bytes": 15270,
+    "sha256": "05c5d3019e6aeade3792fa8fb56062362b2f0b7cf45430e5166689cc60ff22e6"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",

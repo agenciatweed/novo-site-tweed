@@ -584,6 +584,22 @@
       "context": "Se decidir mudar uma mensagem, registre a alteração e o motivo. Acompanhe o que as pessoas compreendem e as dúvidas que aparecem, sem tratar uma melhora posterior como prova automática de toda a hipótese.",
       "reason": "Aprofunda por que um resultado posterior não demonstra sozinho efeito causal de uma mudança.",
       "modifiedAt": "2026-11-02"
+    },
+    {
+      "from": "marca-tendencias-criterio-participacao",
+      "to": "mensagem-contexto-momento-cliente",
+      "anchor": "enquanto o contexto ainda faz sentido",
+      "context": "Participar de tendências pode fazer sentido quando existe uma relação compreensível com o público e algo pertinente a acrescentar. O fato de uma conversa estar em alta não responde essas duas questões. Também não garante que a empresa consiga produzir uma peça adequada enquanto o contexto ainda faz sentido.",
+      "reason": "Aprofunda a adequação da mensagem ao momento em que ela chega ao público.",
+      "modifiedAt": "2026-11-04"
+    },
+    {
+      "from": "acompanhamento-apos-feira-proximo-passo",
+      "to": "mensagem-contexto-momento-cliente",
+      "anchor": "a mesma resposta, no mesmo momento",
+      "context": "Os três encontros podem merecer continuidade. Não pedem necessariamente a mesma resposta, no mesmo momento. Uma mensagem que ignora essas diferenças obriga o destinatário a refazer o contexto que já explicou pessoalmente.",
+      "reason": "Explica como adequar o contato à situação em que o cliente recebe a mensagem.",
+      "modifiedAt": "2026-11-04"
     }
   ]
 }

@@ -259,3 +259,8 @@ Publicado serie-conteudo-continuidade-episodios/, aprovado para 01/11/2026. Plan
 ## Publicação editorial — 02/11/2026 (rodada 77)
 
 Publicado pesquisa-consumidor-aplicabilidade-clientes/, aprovado para 02/11/2026. Plano new-only com um link natural e dois relacionados pertinentes, preservadas as entradas antigas. Dry-run e envio FTP passivo com hashes, backups e renomeação temporária concluídos. Confirmação FTP/HTTP e QA desktop/mobile passaram: capa, anel, canonical, fontes, índices e home preservada. Item arquivado após confirmação.
+
+
+## Publicações editoriais — 04/11/2026
+
+Publicados os artigos sobre critérios para participar de tendências e acompanhamento pós-feira, com planos new-only, dois relacionados por artigo, simulação e confirmação FTP/HTTP antes do arquivamento.

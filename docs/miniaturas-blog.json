@@ -642,5 +642,19 @@
     "height": 1024,
     "source": "conteudos/pauta-reposicao-2026-10-28-5d882def914b/imagens/4436afd164a5e80ab75b39bf235153289783263c87a2ab75a5535a6af432157a.png",
     "sha256": "4436afd164a5e80ab75b39bf235153289783263c87a2ab75a5535a6af432157a"
+  },
+  "marca-tendencias-criterio-participacao": {
+    "path": "/assets/artigos-editoriais/a683c2b239cab9af8d9ae7819279628f208f2a4d712ea16c472cf7c76166036a.png",
+    "width": 1536,
+    "height": 1024,
+    "source": "conteudos/pauta-reposicao-2026-10-28-5213addb8c7f/imagens/a683c2b239cab9af8d9ae7819279628f208f2a4d712ea16c472cf7c76166036a.png",
+    "sha256": "a683c2b239cab9af8d9ae7819279628f208f2a4d712ea16c472cf7c76166036a"
+  },
+  "acompanhamento-apos-feira-proximo-passo": {
+    "path": "/assets/artigos-editoriais/678684b81437d3be4efce00051656a330dc2b618666c8ae870be1f0f9701fe70.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-reposicao-2026-10-29-6a074ff5ad21/imagens/678684b81437d3be4efce00051656a330dc2b618666c8ae870be1f0f9701fe70.png",
+    "sha256": "678684b81437d3be4efce00051656a330dc2b618666c8ae870be1f0f9701fe70"
   }
 }
