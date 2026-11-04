@@ -600,6 +600,30 @@
       "context": "Os três encontros podem merecer continuidade. Não pedem necessariamente a mesma resposta, no mesmo momento. Uma mensagem que ignora essas diferenças obriga o destinatário a refazer o contexto que já explicou pessoalmente.",
       "reason": "Explica como adequar o contato à situação em que o cliente recebe a mensagem.",
       "modifiedAt": "2026-11-04"
+    },
+    {
+      "from": "o-que-voce-ve-e-tudo-o-que-existe",
+      "to": "pesquisa-consumidor-aplicabilidade-clientes",
+      "anchor": "decisões precipitadas baseadas em pequenas amostras",
+      "context": "Marcas que compreendem isso operam com mais humildade diante da complexidade. E, paradoxalmente, tornam-se mais assertivas. Elas evitam decisões precipitadas baseadas em pequenas amostras, campanhas moldadas apenas por feedbacks anedóticos, ou análises centradas demais no que está no campo de visão e de menos no que acontece nos bastidores da escolha.",
+      "reason": "Aprofunda como interpretar o recorte e os limites de uma amostra antes de decidir.",
+      "modifiedAt": "2026-11-04"
+    },
+    {
+      "from": "humor-marca-cliente-alvo-piada",
+      "to": "marca-tendencias-criterio-participacao",
+      "anchor": "Nem toda tendência precisa virar conteúdo da marca",
+      "context": "Decida se vale mudar o personagem, deslocar a graça para a situação, acrescentar contexto ou abandonar aquela ideia. Nem toda tendência precisa virar conteúdo da marca. Nem toda peça precisa ensinar alguma coisa, mas ela precisa ser compatível com a relação que a empresa deseja sustentar.",
+      "reason": "Aprofunda os critérios para decidir se uma tendência merece participação.",
+      "modifiedAt": "2026-11-04"
+    },
+    {
+      "from": "jornada-compra-antes-da-campanha",
+      "to": "acompanhamento-apos-feira-proximo-passo",
+      "anchor": "Combine o próximo passo com a pessoa",
+      "context": "Da mesma forma, um interesse inicial não autoriza uma sequência insistente de abordagens. Combine o próximo passo com a pessoa e respeite o contexto da conversa. A utilidade da informação depende também da maneira como ela chega.",
+      "reason": "Aplica a continuidade combinada à conversa comercial iniciada em uma feira.",
+      "modifiedAt": "2026-11-04"
     }
   ]
 }

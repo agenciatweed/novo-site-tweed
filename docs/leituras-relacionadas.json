@@ -1,7 +1,7 @@
 {
   "version": 1,
   "catalogSha256": "7d26140f96bda772dd539caddf6a6135d0445f518d17d4122279aa2778ebb5ad",
-  "reviewedAt": "2026-10-31",
+  "reviewedAt": "2026-11-04",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
       "targets": [
@@ -214,10 +214,10 @@
     "o-que-voce-ve-e-tudo-o-que-existe": {
       "targets": [
         "voce-nao-decide-seu-cerebro-decide-por-voce-e-depois-inventa-uma-desculpa",
-        "metricas-sem-vaidade"
+        "pesquisa-consumidor-aplicabilidade-clientes"
       ],
-      "reason": "Relaciona decisões intuitivas a diagnósticos apoiados em métricas.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Aprofunda como interpretar o recorte e os limites de uma amostra antes de decidir. Mantida a outra recomendação pertinente.",
+      "modifiedAt": "2026-11-04"
     },
     "marca-nao-se-faz-no-canva-se-faz-no-cotidiano": {
       "targets": [
@@ -541,11 +541,11 @@
     },
     "reaproveitamento-video-adaptacao-criativa": {
       "targets": [
-        "sua-marca-precisa-de-consistencia-nao-de-perfeicao",
+        "serie-conteudo-continuidade-episodios",
         "mensagem-contexto-momento-cliente"
       ],
-      "reason": "Aprofunda a escolha da mensagem conforme a situação de quem encontra a peça. Preservada a outra leitura complementar.",
-      "modifiedAt": "2026-10-27"
+      "reason": "Aprofunda a distinção entre adaptar um vídeo existente e criar episódios novos que se complementam. Mantida a outra recomendação pertinente.",
+      "modifiedAt": "2026-11-04"
     },
     "qualidade-dados-campanha-conversoes": {
       "targets": [
@@ -573,11 +573,11 @@
     },
     "jornada-compra-antes-da-campanha": {
       "targets": [
-        "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding",
+        "acompanhamento-apos-feira-proximo-passo",
         "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido"
       ],
-      "reason": "UX aprofunda o acesso à informação durante a avaliação; clareza da oferta antes da mídia complementa a preparação da comunicação e das condições de contratação.",
-      "modifiedAt": "2026-10-23"
+      "reason": "Aplica a continuidade combinada à conversa comercial iniciada em uma feira. Mantida a outra recomendação pertinente.",
+      "modifiedAt": "2026-11-04"
     },
     "atribuicao-vendas-efeito-campanha": {
       "targets": [
@@ -686,10 +686,10 @@
     "humor-marca-cliente-alvo-piada": {
       "targets": [
         "personalidade-de-marca-aparece-nas-escolhas-pequenas",
-        "o-atendimento-esta-desmentindo-o-seu-posicionamento"
+        "marca-tendencias-criterio-participacao"
       ],
-      "reason": "Aprofundam a expressão cotidiana da personalidade e a coerência entre postura pública e atendimento.",
-      "modifiedAt": "2026-10-28"
+      "reason": "Aprofunda os critérios para decidir se uma tendência merece participação. Mantida a outra recomendação pertinente.",
+      "modifiedAt": "2026-11-04"
     },
     "adocao-ia-equipe-conhecimento-compartilhado": {
       "targets": [
