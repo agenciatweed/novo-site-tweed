@@ -269,3 +269,6 @@ Publicados os artigos sobre critérios para participar de tendências e acompanh
 ## Manutenção editorial ciclo 80 — 04/11/2026
 
 Reavaliados os pares de 94 artigos. Quatro pares atualizados e 90 preservados. Três links naturais para pesquisa de consumidores, tendências e acompanhamento pós-feira. Continuidade de séries incluída como recomendação separada, sem forçar âncora. Envios confirmados por FTP/HTTP.
+
+### 05/11/2026 — autoria na criação de produtos
+Publicação autorizada de reconhecer-contribuicoes-criacao-produto, com um link natural e duas leituras relacionadas. Dry-run, envio FTP, arquivos remotos e HTTPS confirmados. Verificação desktop/mobile aprovada; home preservada.

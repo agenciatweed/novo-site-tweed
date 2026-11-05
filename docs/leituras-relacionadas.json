@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "7d26140f96bda772dd539caddf6a6135d0445f518d17d4122279aa2778ebb5ad",
+  "catalogSha256": "58ee1dd293447fa8698a1708305b9308768bc1b726b8c1d07d8f019679c67772",
   "reviewedAt": "2026-11-04",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -754,6 +754,14 @@
       ],
       "reason": "Aprofundam o contexto de contato e as diferentes etapas da decisão de compra.",
       "modifiedAt": "2026-11-04"
+    },
+    "reconhecer-contribuicoes-criacao-produto": {
+      "targets": [
+        "parceria-marca-alem-dos-logotipos",
+        "imagem-campanha-prova-entrega"
+      ],
+      "reason": "Complementam a definição de contribuições de parceiros e o cuidado com o que imagens e relatos permitem afirmar.",
+      "modifiedAt": "2026-11-05"
     }
   }
 }

@@ -624,6 +624,14 @@
       "context": "Da mesma forma, um interesse inicial não autoriza uma sequência insistente de abordagens. Combine o próximo passo com a pessoa e respeite o contexto da conversa. A utilidade da informação depende também da maneira como ela chega.",
       "reason": "Aplica a continuidade combinada à conversa comercial iniciada em uma feira.",
       "modifiedAt": "2026-11-04"
+    },
+    {
+      "from": "reconhecer-contribuicoes-criacao-produto",
+      "to": "informacoes-empresa-atualizadas-canais",
+      "anchor": "descrição compatível dos papéis",
+      "context": "Confira os pontos de contato relevantes: página, catálogo, apresentação e materiais de lançamento. Eles não precisam repetir exatamente o mesmo texto, mas devem sustentar uma descrição compatível dos papéis.",
+      "reason": "Aprofunda a coerência e atualização das informações nos diferentes canais.",
+      "modifiedAt": "2026-11-05"
     }
   ]
 }
