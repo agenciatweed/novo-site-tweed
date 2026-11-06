@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "58ee1dd293447fa8698a1708305b9308768bc1b726b8c1d07d8f019679c67772",
+  "catalogSha256": "6f583b34530a2fa922793d679aebf14ceb813dc4c8d8d2caee7b000a41bc99ec",
   "reviewedAt": "2026-11-04",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -762,6 +762,14 @@
       ],
       "reason": "Complementam a definição de contribuições de parceiros e o cuidado com o que imagens e relatos permitem afirmar.",
       "modifiedAt": "2026-11-05"
+    },
+    "marca-causa-explicar-produto-novos-publicos": {
+      "targets": [
+        "demonstracao-produto-ajudar-cliente-decidir",
+        "comunicar-melhoria-ambiental-escopo-evidencia"
+      ],
+      "reason": "A demonstração aprofunda a explicação da utilidade; a melhoria ambiental delimita os compromissos apresentados ao público.",
+      "modifiedAt": "2026-11-06"
     }
   }
 }

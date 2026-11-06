@@ -272,3 +272,6 @@ Reavaliados os pares de 94 artigos. Quatro pares atualizados e 90 preservados. T
 
 ### 05/11/2026 — autoria na criação de produtos
 Publicação autorizada de reconhecer-contribuicoes-criacao-produto, com um link natural e duas leituras relacionadas. Dry-run, envio FTP, arquivos remotos e HTTPS confirmados. Verificação desktop/mobile aprovada; home preservada.
+
+### 06/11/2026 — produto e causa para novos públicos
+Publicação autorizada de marca-causa-explicar-produto-novos-publicos, com um link natural e duas leituras relacionadas. Dry-run, envio FTP, hashes remotos e HTTPS confirmados. Conferência desktop/mobile aprovada; home e acervo anterior preservados.

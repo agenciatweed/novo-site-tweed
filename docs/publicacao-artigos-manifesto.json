@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 5933,
-    "sha256": "6ac535236babc15af87cf35a43aabb0ebce075c35d385283dc4d61064b877367"
+    "bytes": 5982,
+    "sha256": "a1888d153260bf85705bf24e2ce8018ea2fd52c3e511207ef087f99ceafc979e"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -193,6 +193,11 @@
     "path": "assets/artigos-editoriais/c2f643adb98badc1bc46832e193564b3132a26b8e1d752a3d81665fd8ee52e1d.jpg",
     "bytes": 105223,
     "sha256": "c2f643adb98badc1bc46832e193564b3132a26b8e1d752a3d81665fd8ee52e1d"
+  },
+  {
+    "path": "assets/artigos-editoriais/c679887877335fd24a7bdda111789e6434afdac334e2da89b0bcbab39e41d257.png",
+    "bytes": 2198274,
+    "sha256": "c679887877335fd24a7bdda111789e6434afdac334e2da89b0bcbab39e41d257"
   },
   {
     "path": "assets/artigos-editoriais/c9918a7556d6caf3bcd561c24cdbb33e21c161acd32ee228366bd1223212dffb.png",
@@ -971,8 +976,8 @@
   },
   {
     "path": "blog-marcas-em-movimento/index.html",
-    "bytes": 16871,
-    "sha256": "ed1aef5ccbf495189b8e3656ace8469ec0bbd2235bd2d4a9c57425511df8e8b8"
+    "bytes": 17420,
+    "sha256": "e5a72bfa9c26718dd4434c7a3715c608e37c6fdbf2d0d97db77b191fa4dbcabc"
   },
   {
     "path": "blog-marcas-que-ficam/index.html",
@@ -986,8 +991,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 23783,
-    "sha256": "530a6929eebde6763384d92dfbc180ac19985ba3cf530afe092b1332dc6dc278"
+    "bytes": 23837,
+    "sha256": "9ce98d382d18bb0f7b78ff58eb80ec5f69a75a2cef0da3f73666be274b6638d6"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1138,6 +1143,11 @@
     "path": "legibilidade-digital-marca-pessoas-ia/index.html",
     "bytes": 20729,
     "sha256": "e55d6be63c44ce774a4b24ecd76b37dd897e0017286c86fa0cbc35a379ac30e1"
+  },
+  {
+    "path": "marca-causa-explicar-produto-novos-publicos/index.html",
+    "bytes": 23354,
+    "sha256": "3b1b65b8e07c3ff1e18115650d3480304ddcd8fa9e0c3b7291426674b740a172"
   },
   {
     "path": "marca-nao-e-um-logotipo-por-que-pmes-precisam-contar-boas-historias/index.html",
@@ -1381,8 +1391,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 15414,
-    "sha256": "5bbb4c9cfcf5edf6ff820ed76f5297a93a3147399b41f73570655f59c498b74f"
+    "bytes": 15561,
+    "sha256": "d61e5d0e1ae1b09b8bc2754b0104d38b18ebb8bbba3ab913d5ce866bd4710b60"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",
