@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "6d800ec91f74459645abdd5836b6cfbb7ffb476c5dfd511c903c0accee15a86f",
+  "catalogSha256": "c3f285664d8ffaed4c0a09d8aa8e5eddb2f5c66cbf23621c395b73228e8e1f9d",
   "reviewedAt": "2026-11-04",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -777,6 +777,134 @@
         "imagem-campanha-prova-entrega"
       ],
       "reason": "Aprofundam o alinhamento de responsabilidades com a organização parceira e a escolha de imagens proporcionais à evidência.",
+      "modifiedAt": "2026-11-07"
+    },
+    "devolutiva-pesquisa-retorno-participantes": {
+      "targets": [
+        "atendimento-troca-clareza-encaminhamento",
+        "comentarios-parte-do-produto-experiencia-de-marca"
+      ],
+      "reason": "Distingue retorno agregado e encaminhamento de situações individuais.",
+      "modifiedAt": "2026-11-07"
+    },
+    "solucao-tecnica-aplicacao-limites": {
+      "targets": [
+        "demonstracao-produto-ajudar-cliente-decidir",
+        "nome-produto-clareza-proposta"
+      ],
+      "reason": "Aprofunda explicação de uso e clareza da oferta técnica.",
+      "modifiedAt": "2026-11-07"
+    },
+    "aplicar-aprendizado-marketing-rotina": {
+      "targets": [
+        "uma-boa-restricao-pode-melhorar-uma-ideia",
+        "adocao-ia-equipe-conhecimento-compartilhado"
+      ],
+      "reason": "Relaciona aplicação delimitada à capacidade e transferência de aprendizado.",
+      "modifiedAt": "2026-11-07"
+    },
+    "pausa-atendimento-pedidos-retomada": {
+      "targets": [
+        "informacoes-empresa-atualizadas-canais",
+        "atendimento-troca-clareza-encaminhamento"
+      ],
+      "reason": "Aprofunda coerência dos canais e encaminhamento do atendimento.",
+      "modifiedAt": "2026-11-07"
+    },
+    "janela-promocao-prazo-compra-entrega": {
+      "targets": [
+        "jornada-compra-antes-da-campanha",
+        "atendimento-troca-clareza-encaminhamento"
+      ],
+      "reason": "Relaciona o tempo da decisão à expectativa de entrega e atendimento.",
+      "modifiedAt": "2026-11-07"
+    },
+    "oferta-outro-idioma-continuidade-atendimento": {
+      "targets": [
+        "jornada-compra-antes-da-campanha",
+        "mensagem-contexto-momento-cliente"
+      ],
+      "reason": "Aprofunda continuidade da jornada e adequação da mensagem ao contexto.",
+      "modifiedAt": "2026-11-07"
+    },
+    "comunicar-resultados-expectativas": {
+      "targets": [
+        "atribuicao-vendas-efeito-campanha",
+        "pesquisa-consumidor-aplicabilidade-clientes"
+      ],
+      "reason": "Aprofundam limites de interpretação de resultados e evidências.",
+      "modifiedAt": "2026-11-07"
+    },
+    "origem-regional-produto-comunicacao": {
+      "targets": [
+        "reconhecer-contribuicoes-criacao-produto",
+        "comunicar-melhoria-ambiental-escopo-evidencia"
+      ],
+      "reason": "Relaciona origem às contribuições reais e delimitação de afirmações.",
+      "modifiedAt": "2026-11-07"
+    },
+    "participacao-retratados-historia-marca": {
+      "targets": [
+        "reconhecer-contribuicoes-criacao-produto",
+        "imagem-campanha-prova-entrega"
+      ],
+      "reason": "Aprofundam reconhecimento dos participantes e representação proporcional aos fatos.",
+      "modifiedAt": "2026-11-07"
+    },
+    "contexto-veiculacao-anuncios-marca": {
+      "targets": [
+        "plano-de-midia-2027-alem-de-uma-plataforma",
+        "marca-tendencias-criterio-participacao"
+      ],
+      "reason": "Relaciona escolhas de veiculação ao planejamento de mídia e critérios de participação da marca.",
+      "modifiedAt": "2026-11-07"
+    },
+    "site-fornecedores-b2b-identificar-oferta": {
+      "targets": [
+        "nome-produto-clareza-proposta",
+        "proposta-comercial-comparavel-criterios"
+      ],
+      "reason": "Aprofunda identificação da oferta e comparabilidade comercial.",
+      "modifiedAt": "2026-11-07"
+    },
+    "resumo-reuniao-decisoes-pendencias": {
+      "targets": [
+        "aprovacao-campanha-feedback-decisoes",
+        "ia-materiais-marca-alem-das-cores"
+      ],
+      "reason": "Relaciona confirmação de decisões e referências que orientam execução.",
+      "modifiedAt": "2026-11-07"
+    },
+    "acesso-reuniao-online-convidado": {
+      "targets": [
+        "redesign-site-transicao-usabilidade",
+        "jornada-compra-antes-da-campanha"
+      ],
+      "reason": "Relaciona teste do percurso digital às condições reais do interlocutor.",
+      "modifiedAt": "2026-11-07"
+    },
+    "testar-experiencia-alem-equipe-interna": {
+      "targets": [
+        "redesign-site-transicao-usabilidade",
+        "pesquisa-consumidor-aplicabilidade-clientes"
+      ],
+      "reason": "Aprofunda avaliação da experiência e limites de generalização.",
+      "modifiedAt": "2026-11-07"
+    },
+    "apresentacao-comercial-manutencao-proxima-versao": {
+      "targets": [
+        "informacoes-empresa-atualizadas-canais",
+        "ia-materiais-marca-alem-das-cores"
+      ],
+      "reason": "Relaciona manutenção das informações e referências de marca entre versões.",
+      "modifiedAt": "2026-11-07"
+    },
+    "comunidade-marca-cuidado-moderacao": {
+      "targets": [
+        "comentarios-parte-do-produto-experiencia-de-marca",
+        "microcomunidades-relevancia-alem-das-impressoes"
+      ],
+      "reason": "Aprofunda cuidado nas interações e pertinência de comunidades menores.",
       "modifiedAt": "2026-11-07"
     }
   }

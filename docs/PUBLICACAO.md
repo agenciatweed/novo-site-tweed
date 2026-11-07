@@ -278,3 +278,24 @@ Publicação autorizada de marca-causa-explicar-produto-novos-publicos, com um l
 
 ### 07/11/2026 — mecanismo de apoio social associado à venda
 Publicação autorizada de acao-apoio-social-venda-mecanismo, com um link natural e duas leituras relacionadas. Dry-run, envio FTP, hashes remotos e HTTPS confirmados. Conferência desktop/mobile aprovada; home e artigos anteriores preservados.
+
+
+### 07/11/2026 — publicação em massa autorizada
+Felipe solicitou antecipar para hoje os 16 artigos então em Pronto. Todos passaram individualmente por dry-run, backup, conferência de hashes e confirmação FTP/HTTP antes do arquivamento. Cada artigo recebeu duas leituras relacionadas; links no corpo apenas quando naturais, no máximo um por novo artigo neste lote. Entradas anteriores copiadas sem alteração. Conferência final desktop/mobile aprovada, home preservada.
+
+- /devolutiva-pesquisa-retorno-participantes/
+- /solucao-tecnica-aplicacao-limites/
+- /aplicar-aprendizado-marketing-rotina/
+- /pausa-atendimento-pedidos-retomada/
+- /janela-promocao-prazo-compra-entrega/
+- /oferta-outro-idioma-continuidade-atendimento/
+- /comunicar-resultados-expectativas/
+- /origem-regional-produto-comunicacao/
+- /participacao-retratados-historia-marca/
+- /contexto-veiculacao-anuncios-marca/
+- /site-fornecedores-b2b-identificar-oferta/
+- /resumo-reuniao-decisoes-pendencias/
+- /acesso-reuniao-online-convidado/
+- /testar-experiencia-alem-equipe-interna/
+- /apresentacao-comercial-manutencao-proxima-versao/
+- /comunidade-marca-cuidado-moderacao/

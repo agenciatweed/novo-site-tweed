@@ -648,6 +648,94 @@
       "context": "Também confira a imagem escolhida. Uma fotografia pode sugerir um alcance que a descrição não sustenta. A apresentação precisa ser coerente com a ação, sem usar histórias ou imagens de pessoas como recurso emocional sem condições adequadas de divulgação.",
       "reason": "Aprofunda os limites entre imagem ilustrativa e evidência da entrega.",
       "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "devolutiva-pesquisa-retorno-participantes",
+      "to": "atendimento-troca-clareza-encaminhamento",
+      "anchor": "Uma avaliação agregada e uma demanda de atendimento têm funções diferentes",
+      "context": "Uma avaliação agregada e uma demanda de atendimento têm funções diferentes. Uma pessoa pode relatar uma situação que exige conversa direta, mesmo quando o conjunto das respostas é favorável.",
+      "reason": "Distingue retorno agregado e encaminhamento de situações individuais.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "solucao-tecnica-aplicacao-limites",
+      "to": "demonstracao-produto-ajudar-cliente-decidir",
+      "anchor": "a situação de uso para a qual a solução foi concebida",
+      "context": "A apresentação pode começar descrevendo a situação de uso para a qual a solução foi concebida. Que acompanhamento ela permite? Que informação ajuda a reunir? Que dificuldade permanece fora de seu alcance? As respostas devem vir de quem conhece o produto e suas condições reais.",
+      "reason": "Aprofunda explicação de uso e clareza da oferta técnica.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "aplicar-aprendizado-marketing-rotina",
+      "to": "uma-boa-restricao-pode-melhorar-uma-ideia",
+      "anchor": "capacidade de executar, conferir e corrigir",
+      "context": "Mudar todos os canais ao mesmo tempo dificultaria compreender o que foi feito e manter a coerência das versões. A dimensão da aplicação deve considerar a capacidade de executar, conferir e corrigir, sem transformar uma formação em projeto permanente de troca de ferramentas.",
+      "reason": "Relaciona aplicação delimitada à capacidade e transferência de aprendizado.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "pausa-atendimento-pedidos-retomada",
+      "to": "informacoes-empresa-atualizadas-canais",
+      "anchor": "a página de contato, uma resposta automática e o canal comercial",
+      "context": "Isso pode incluir a página de contato, uma resposta automática e o canal comercial. Não é necessário copiar um texto longo em toda parte. Cada ponto precisa apresentar a condição relevante e um caminho compreensível para continuar.",
+      "reason": "Aprofunda coerência dos canais e encaminhamento do atendimento.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "oferta-outro-idioma-continuidade-atendimento",
+      "to": "jornada-compra-antes-da-campanha",
+      "anchor": "passagem de uma etapa para outra",
+      "context": "Essa revisão pode revelar que o problema não está na tradução da página. Está na passagem de uma etapa para outra. Se o visitante precisa recomeçar a busca para descobrir como ser atendido, o trabalho de comunicação ficou incompleto.",
+      "reason": "Aprofunda continuidade da jornada e adequação da mensagem ao contexto.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "contexto-veiculacao-anuncios-marca",
+      "to": "plano-de-midia-2027-alem-de-uma-plataforma",
+      "anchor": "parceiro de mídia",
+      "context": "Imagine uma pequena empresa de serviços que prepara uma campanha com seu parceiro de mídia. É um exemplo hipotético. Na aprovação, alguém pede que a marca apareça apenas em ambientes adequados. Todos concordam, mas ninguém explica o que essa expressão significa para aquela comunicação.",
+      "reason": "Relaciona escolhas de veiculação ao planejamento de mídia e critérios de participação da marca.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "site-fornecedores-b2b-identificar-oferta",
+      "to": "nome-produto-clareza-proposta",
+      "anchor": "Nomeie as categorias reais de produtos ou serviços",
+      "context": "Revise a descrição a partir dessa tarefa. Nomeie as categorias reais de produtos ou serviços e explique o que está incluído. Quando uma expressão técnica for necessária, acrescente contexto para que a pessoa responsável pelo encaminhamento reconheça o assunto.",
+      "reason": "Aprofunda identificação da oferta e comparabilidade comercial.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "resumo-reuniao-decisoes-pendencias",
+      "to": "aprovacao-campanha-feedback-decisoes",
+      "anchor": "os pontos que precisam de confirmação antes do início da produção",
+      "context": "Na PME hipotética, a equipe pode destacar os pontos que precisam de confirmação antes do início da produção. Uma dúvida sobre a data ou o alcance da peça deve chegar a quem tem condições de esclarecê-la.",
+      "reason": "Relaciona confirmação de decisões e referências que orientam execução.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "acesso-reuniao-online-convidado",
+      "to": "redesign-site-transicao-usabilidade",
+      "anchor": "Confira o percurso nas condições pertinentes à conversa",
+      "context": "Confira o percurso nas condições pertinentes à conversa. O link abre a reunião ou uma página intermediária? É necessário identificar uma conta? Há uma opção de entrada pelo navegador? A orientação enviada corresponde ao que a pessoa realmente encontrará?",
+      "reason": "Relaciona teste do percurso digital às condições reais do interlocutor.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "testar-experiencia-alem-equipe-interna",
+      "to": "redesign-site-transicao-usabilidade",
+      "anchor": "investigar a experiência oferecida",
+      "context": "Evite resumir tudo como falta de atenção ou dificuldade do participante. A tarefa da avaliação é investigar a experiência oferecida, não julgar a pessoa que encontrou um obstáculo.",
+      "reason": "Aprofunda avaliação da experiência e limites de generalização.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "comunidade-marca-cuidado-moderacao",
+      "to": "comentarios-parte-do-produto-experiencia-de-marca",
+      "anchor": "Uma crítica não é automaticamente uma quebra de regra",
+      "context": "Uma crítica não é automaticamente uma quebra de regra. Uma pergunta repetida pode revelar uma informação difícil de encontrar. Uma mensagem com dados pessoais exige um cuidado diferente de uma discussão geral sobre o produto.",
+      "reason": "Aprofunda cuidado nas interações e pertinência de comunidades menores.",
+      "modifiedAt": "2026-11-07"
     }
   ]
 }

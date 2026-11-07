@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 6020,
-    "sha256": "397bce836a3ad3d47816b7f8af8422242433ca77606826020777a667af4ec66c"
+    "bytes": 6677,
+    "sha256": "adbc73e3ff8c03e011abb348e47d8c688c07bf7bf45095f7976e6e1ec1d07863"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -30,6 +30,11 @@
     "sha256": "411a40d1392439d5532d63774db04862175e19d6736c9b97e0c8b6ed1fb4f6d6"
   },
   {
+    "path": "acesso-reuniao-online-convidado/index.html",
+    "bytes": 23243,
+    "sha256": "d3031452b68301178741e29d9d27cc57293c9377b911b1079d02df8a3cc0c3f8"
+  },
+  {
     "path": "acompanhamento-apos-feira-proximo-passo/index.html",
     "bytes": 22944,
     "sha256": "46a64a1e18c36e828c87c59e3124dacc0530d4cfd859135fab27e9e4477107a5"
@@ -55,6 +60,16 @@
     "sha256": "a4a71ca89d62fd5072eeff077744391109d909a1cc30e7132343f9c98e0aa1f0"
   },
   {
+    "path": "aplicar-aprendizado-marketing-rotina/index.html",
+    "bytes": 24287,
+    "sha256": "84ac5b4b0cd3d06cfc0d6abc364927696fdd91a12831250b526b63f93b4f5652"
+  },
+  {
+    "path": "apresentacao-comercial-manutencao-proxima-versao/index.html",
+    "bytes": 23661,
+    "sha256": "71747901e4475e8bf2a0a5daa36540cffeafff33242277a7014a6036488496f3"
+  },
+  {
     "path": "aprovacao-campanha-feedback-decisoes/index.html",
     "bytes": 23468,
     "sha256": "bf0bf7c357661761bc4b6fc5142b4a8f204f2bcc38b2ba25050591fc8229b799"
@@ -75,6 +90,11 @@
     "sha256": "0aed6dd48d0273afc49035151d3d0b9d116c5f07e804b93b743434c0fa1b081f"
   },
   {
+    "path": "assets/artigos-editoriais/166a05102b6701087dea3ca849b47eafb178982bc9aa5135caf08e3edf2570bb.png",
+    "bytes": 1708766,
+    "sha256": "166a05102b6701087dea3ca849b47eafb178982bc9aa5135caf08e3edf2570bb"
+  },
+  {
     "path": "assets/artigos-editoriais/1bd653fa8052b8b1c36564321826e3f01eb8cf98a0f7ca6edeeeb8055c263027.png",
     "bytes": 1526737,
     "sha256": "1bd653fa8052b8b1c36564321826e3f01eb8cf98a0f7ca6edeeeb8055c263027"
@@ -88,6 +108,11 @@
     "path": "assets/artigos-editoriais/222e996763efe861bda6c4078abac3def6f678f182b2ece4e94bb26f0dccf220.png",
     "bytes": 1609253,
     "sha256": "222e996763efe861bda6c4078abac3def6f678f182b2ece4e94bb26f0dccf220"
+  },
+  {
+    "path": "assets/artigos-editoriais/29e1a288378f0d849790ae7d49d61f3c8fade226070dfc0ab538c26f3d867e4a.png",
+    "bytes": 1682153,
+    "sha256": "29e1a288378f0d849790ae7d49d61f3c8fade226070dfc0ab538c26f3d867e4a"
   },
   {
     "path": "assets/artigos-editoriais/2b9455b274d98889f4611588d12d705bacea7ead56aef9d83273ae1c326c9841.png",
@@ -120,9 +145,34 @@
     "sha256": "48c6e5f107eff3bc5d719f1071cde5b47ad305139ce2e061d23e20db3104c7b9"
   },
   {
+    "path": "assets/artigos-editoriais/493424a14725fccc70ccbc4126b3777dafd1e2ac6246e5c01fd9ecfd507bfb10.png",
+    "bytes": 1492769,
+    "sha256": "493424a14725fccc70ccbc4126b3777dafd1e2ac6246e5c01fd9ecfd507bfb10"
+  },
+  {
+    "path": "assets/artigos-editoriais/4c72a1b37db074c89d30e4a408cc394e7f54415e333630cc5ffc2ed2d61b4503.png",
+    "bytes": 1880604,
+    "sha256": "4c72a1b37db074c89d30e4a408cc394e7f54415e333630cc5ffc2ed2d61b4503"
+  },
+  {
+    "path": "assets/artigos-editoriais/4fd796124ba0632c6a915848ddc672adf30a089de0d5a0ca80bd1ce37e99767a.png",
+    "bytes": 1463787,
+    "sha256": "4fd796124ba0632c6a915848ddc672adf30a089de0d5a0ca80bd1ce37e99767a"
+  },
+  {
+    "path": "assets/artigos-editoriais/541b30638e92cd1c99398b49d8d8631f255d4da223d39172d7852184ef0a45f2.png",
+    "bytes": 3044919,
+    "sha256": "541b30638e92cd1c99398b49d8d8631f255d4da223d39172d7852184ef0a45f2"
+  },
+  {
     "path": "assets/artigos-editoriais/5b2c8363f249a2e63f2c0ba3ec02ff8f2685a2b0176f005ba421d5924749b4a2.jpg",
     "bytes": 177663,
     "sha256": "5b2c8363f249a2e63f2c0ba3ec02ff8f2685a2b0176f005ba421d5924749b4a2"
+  },
+  {
+    "path": "assets/artigos-editoriais/604cfc8ed3d888e39f959f7f3554879d2033b9800de5fb098a09317bc898c69d.png",
+    "bytes": 1446019,
+    "sha256": "604cfc8ed3d888e39f959f7f3554879d2033b9800de5fb098a09317bc898c69d"
   },
   {
     "path": "assets/artigos-editoriais/6143e2f47c036cf2cde41f7333424b81eb8e822e57abae345fa55b442b7539f7.png",
@@ -133,6 +183,26 @@
     "path": "assets/artigos-editoriais/678684b81437d3be4efce00051656a330dc2b618666c8ae870be1f0f9701fe70.png",
     "bytes": 1420746,
     "sha256": "678684b81437d3be4efce00051656a330dc2b618666c8ae870be1f0f9701fe70"
+  },
+  {
+    "path": "assets/artigos-editoriais/6b1b82917c034b736251ddcc4cc66e4fe8b78980a1769961808d10a0114acc31.png",
+    "bytes": 1921348,
+    "sha256": "6b1b82917c034b736251ddcc4cc66e4fe8b78980a1769961808d10a0114acc31"
+  },
+  {
+    "path": "assets/artigos-editoriais/71eb2091987dab2048ac49096bf80bb619f7d34c47e783c99d789ac87e4ce8a6.png",
+    "bytes": 1834709,
+    "sha256": "71eb2091987dab2048ac49096bf80bb619f7d34c47e783c99d789ac87e4ce8a6"
+  },
+  {
+    "path": "assets/artigos-editoriais/7899c96f95d6f9afe8f9a394272a5a5929b237aab1736be988ff00a86a0b133d.png",
+    "bytes": 1637501,
+    "sha256": "7899c96f95d6f9afe8f9a394272a5a5929b237aab1736be988ff00a86a0b133d"
+  },
+  {
+    "path": "assets/artigos-editoriais/85d63bf699718c16b692c378648ade462983fb8dc9ec1c581f84172f8fe7c54f.png",
+    "bytes": 2529793,
+    "sha256": "85d63bf699718c16b692c378648ade462983fb8dc9ec1c581f84172f8fe7c54f"
   },
   {
     "path": "assets/artigos-editoriais/877f125f5267a268d702d1194663210f9971391275d8e71a94ebca7edf8e9785.png",
@@ -160,9 +230,19 @@
     "sha256": "9414b7842f54932c3c627daad66daaf617f977ba3bb3c0260b13e6828e945f09"
   },
   {
+    "path": "assets/artigos-editoriais/9c2ca19b96eb78aab063a2d231b75ae3cbe8a44655c35f50a4d42a706ff6b097.png",
+    "bytes": 3065509,
+    "sha256": "9c2ca19b96eb78aab063a2d231b75ae3cbe8a44655c35f50a4d42a706ff6b097"
+  },
+  {
     "path": "assets/artigos-editoriais/9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3.png",
     "bytes": 1483743,
     "sha256": "9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3"
+  },
+  {
+    "path": "assets/artigos-editoriais/a0ebb91dda229a3dd2eb4658a30f8024e89b1862f751ec2f3d662ccacc4f5600.png",
+    "bytes": 1678276,
+    "sha256": "a0ebb91dda229a3dd2eb4658a30f8024e89b1862f751ec2f3d662ccacc4f5600"
   },
   {
     "path": "assets/artigos-editoriais/a683c2b239cab9af8d9ae7819279628f208f2a4d712ea16c472cf7c76166036a.png",
@@ -178,6 +258,11 @@
     "path": "assets/artigos-editoriais/ae9f3bd17cf015ecd2daf788c993b50e6b0171e45c63620286f7238a99e0afb9.png",
     "bytes": 1684174,
     "sha256": "ae9f3bd17cf015ecd2daf788c993b50e6b0171e45c63620286f7238a99e0afb9"
+  },
+  {
+    "path": "assets/artigos-editoriais/b00d9a42b9229123059d8f59cc73840ed4ab7c52fbdffa7a29e6ba7a26ad0736.png",
+    "bytes": 2078173,
+    "sha256": "b00d9a42b9229123059d8f59cc73840ed4ab7c52fbdffa7a29e6ba7a26ad0736"
   },
   {
     "path": "assets/artigos-editoriais/b0d7f8ad643cdd848b0f866c696d645e1bb8c03188b0d54d7fec8169d84ddbf6.png",
@@ -268,6 +353,16 @@
     "path": "assets/artigos-editoriais/f19ec057bdd41cd427367b2cf0551c8b7f723bfd900f59d6e3c30058b7835397.png",
     "bytes": 1800690,
     "sha256": "f19ec057bdd41cd427367b2cf0551c8b7f723bfd900f59d6e3c30058b7835397"
+  },
+  {
+    "path": "assets/artigos-editoriais/fcf4a30673fd1b3731d8b9456544bc4d7d7c1a1509905a79e075bb2aa792670c.png",
+    "bytes": 1497998,
+    "sha256": "fcf4a30673fd1b3731d8b9456544bc4d7d7c1a1509905a79e075bb2aa792670c"
+  },
+  {
+    "path": "assets/artigos-editoriais/fe5bfdf652e01c9bfd63c40bd96741d7ea1aabe1372577f47073503aec66d87d.png",
+    "bytes": 1637948,
+    "sha256": "fe5bfdf652e01c9bfd63c40bd96741d7ea1aabe1372577f47073503aec66d87d"
   },
   {
     "path": "assets/artigos-editoriais/ff0d217924f02f63fff51f01eec304b9f81c8fb2e0b64835f976ab958bbfaced.png",
@@ -976,33 +1071,33 @@
   },
   {
     "path": "blog-marcas-com-alma/index.html",
-    "bytes": 19395,
-    "sha256": "0f4a2e725117b6fe382e839307e3f0cf2c85bade784941abd9ad1301f49364eb"
+    "bytes": 19970,
+    "sha256": "bfa35794628bac619b7af410d9052c746984e83626b73a4a74b8fdc5654fca59"
   },
   {
     "path": "blog-marcas-em-acao/index.html",
-    "bytes": 20511,
-    "sha256": "63ddeede48065bcff1ac7b027d736c3cd8d6e455f51ae8c8df6a7defff74fc81"
+    "bytes": 23425,
+    "sha256": "3e9ea4a8c823f94224112a1fb3407fb0946afbddbb9f121eb42e23293ede97fc"
   },
   {
     "path": "blog-marcas-em-movimento/index.html",
-    "bytes": 17420,
-    "sha256": "e5a72bfa9c26718dd4434c7a3715c608e37c6fdbf2d0d97db77b191fa4dbcabc"
+    "bytes": 18566,
+    "sha256": "0c55b0b3b20374d1289cea1a72f29da6ea91808ae93b117e4731f2a15b77f2d3"
   },
   {
     "path": "blog-marcas-que-ficam/index.html",
-    "bytes": 17952,
-    "sha256": "c8786561c8d517cc449fcd7936401b5fd30c598a61aa32a3aa51e67c0c75bf09"
+    "bytes": 18613,
+    "sha256": "cf7dfd30990ae2f7fef4effa975205cebbde1330ec7dc14c11558ac9feec83d1"
   },
   {
     "path": "blog-pequeno-mas-estrategico/index.html",
-    "bytes": 21988,
-    "sha256": "b31d14adb15db5faccadc9004d64e6156f80ab6577559efd91c230f23b415f73"
+    "bytes": 25934,
+    "sha256": "282cd828bca8bc9d67cb871004cf252fa530c0916066e6fa2db2a1cfa56ef65b"
   },
   {
     "path": "blog/index.html",
-    "bytes": 23825,
-    "sha256": "508c9c4ee386fb8a2d792e3a0366e07e781f9155077bc774bc252b442d756fe6"
+    "bytes": 23838,
+    "sha256": "31bef0a3dcefa554299c9a99beca74879e8fed8e0157d524e0712a20a8b588e6"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1060,6 +1155,21 @@
     "sha256": "3db3314c0ba205dba972f08a06217f004f6ffe5e27927b9cd35d9c8e6dc8d03c"
   },
   {
+    "path": "comunicar-resultados-expectativas/index.html",
+    "bytes": 23425,
+    "sha256": "3a30996c6a0b37bb6daaa118fe729b1f3394c4b39693e16f4e70ead906722390"
+  },
+  {
+    "path": "comunidade-marca-cuidado-moderacao/index.html",
+    "bytes": 23393,
+    "sha256": "e637d1b70d4d775d1eca87cfb1f34bf183d66a2bcc9cafb1cd0be37e7949e33f"
+  },
+  {
+    "path": "contexto-veiculacao-anuncios-marca/index.html",
+    "bytes": 24430,
+    "sha256": "12bfa8429ae3cf1fd65907c60d00964a7c65b65bfb6338425b696c1d98429cdf"
+  },
+  {
     "path": "crescer-sem-perder-a-alma/index.html",
     "bytes": 16585,
     "sha256": "008535b166585258b5a217c65f516df9227ea75614831972875f1123f30a3f0f"
@@ -1083,6 +1193,11 @@
     "path": "design-embalagem-gesto-uso/index.html",
     "bytes": 23245,
     "sha256": "e0304fb427b149a7de1cfb005bdd62a6f05224f87c1814fa8c7ee3a473708743"
+  },
+  {
+    "path": "devolutiva-pesquisa-retorno-participantes/index.html",
+    "bytes": 24175,
+    "sha256": "125056e9529d50dd5b00ea21112b64624025acf8e0c901eb30bfb8f4a77f0306"
   },
   {
     "path": "divida-de-marca/index.html",
@@ -1143,6 +1258,11 @@
     "path": "interpretar-referencias-visuais-cliente/index.html",
     "bytes": 23235,
     "sha256": "e2b664e5175bc9117b1638734025b29ea8c78e3f160f7d50846830f92cb19909"
+  },
+  {
+    "path": "janela-promocao-prazo-compra-entrega/index.html",
+    "bytes": 21709,
+    "sha256": "38fbc09a3a961ac41618d4f70a3440c28058e4602a0e08ec42220d88fde3cafb"
   },
   {
     "path": "jornada-compra-antes-da-campanha/index.html",
@@ -1300,14 +1420,34 @@
     "sha256": "b61b46f8e031616f8cee7d4e47bfedd2b9f6c489ea4f54af5e1298326f415efc"
   },
   {
+    "path": "oferta-outro-idioma-continuidade-atendimento/index.html",
+    "bytes": 21778,
+    "sha256": "2744c7280d9c1c79b5a22aefb3eef0f7b2560af697a3361c14e994fb3ac7ee97"
+  },
+  {
     "path": "orcamento-de-marketing-2026-para-pmes/index.html",
     "bytes": 19594,
     "sha256": "48e2de52c16611d0f94f2fc26890ee43bd35a2d350284fa5b12fdeb0825133de"
   },
   {
+    "path": "origem-regional-produto-comunicacao/index.html",
+    "bytes": 24220,
+    "sha256": "8aa5e50c79192157d8d5d1b33669a978f4fd368a7650953892df13b7742969be"
+  },
+  {
     "path": "parceria-marca-alem-dos-logotipos/index.html",
     "bytes": 23297,
     "sha256": "7e43d7365bae2a3ca76b4e34898e207322d975cf1690d77f2b54dfaf67579220"
+  },
+  {
+    "path": "participacao-retratados-historia-marca/index.html",
+    "bytes": 23997,
+    "sha256": "c3fec4225ad28810af3e6e29667d1d7c0a609ea0fa0c9e45e1d46983ca233aad"
+  },
+  {
+    "path": "pausa-atendimento-pedidos-retomada/index.html",
+    "bytes": 23807,
+    "sha256": "c0a2268711b74db980b06b8d60e6cbf0aae5de73873ae505521381440a85c621"
   },
   {
     "path": "personalidade-de-marca-aparece-nas-escolhas-pequenas/index.html",
@@ -1375,6 +1515,11 @@
     "sha256": "5ea8347f8b6b79e25ad6df0de39cd70299c93a34bf0dbc6d3d6497a301435391"
   },
   {
+    "path": "resumo-reuniao-decisoes-pendencias/index.html",
+    "bytes": 24434,
+    "sha256": "d5e02f4dfdc3655516dae4a10d53a709dfdd16bed171ce3fa66d657516441fce"
+  },
+  {
     "path": "robots.txt",
     "bytes": 144,
     "sha256": "d341c0a6579eba56c4012b5f3e6f24d77504c8786058d68a253236a5d5088c59"
@@ -1400,9 +1545,19 @@
     "sha256": "62d856caa48fb901799ec586e0003a082af4cf006df50f59ffd523b5abc0ee1f"
   },
   {
+    "path": "site-fornecedores-b2b-identificar-oferta/index.html",
+    "bytes": 24660,
+    "sha256": "3c88f29f07b138e401c543951a6fe85bcbc577694869bfab16384b9e2407e85e"
+  },
+  {
     "path": "sitemap.xml",
-    "bytes": 15698,
-    "sha256": "023c99bfcf3d5737b1a6681379a5167e162bf500224b486d84755279b9e52fbc"
+    "bytes": 17951,
+    "sha256": "66cd3637103e69d1f2af051d605553b2a8155a3c3621474ddaa247625e2f753e"
+  },
+  {
+    "path": "solucao-tecnica-aplicacao-limites/index.html",
+    "bytes": 24116,
+    "sha256": "8bf634b0994e4ae8fecdc9323a9c4826b17f01cd34b47cc8e94e8bf9a2cce02a"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",
@@ -1413,6 +1568,11 @@
     "path": "sua-marca-precisa-de-consistencia-nao-de-perfeicao/index.html",
     "bytes": 15090,
     "sha256": "fa1c3179faceac4f4e23b472a7d4b96dea8874578924beecbf203636b3c65a9a"
+  },
+  {
+    "path": "testar-experiencia-alem-equipe-interna/index.html",
+    "bytes": 24417,
+    "sha256": "eb6ea2c44ddb7a9d732ef970f80add8cfb7852b8219e8d91c0cb31e8ab268267"
   },
   {
     "path": "uma-boa-restricao-pode-melhorar-uma-ideia/index.html",
