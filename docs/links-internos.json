@@ -640,6 +640,14 @@
       "context": "Na marca hipotética, uma seção pode explicar quais compromissos orientam as escolhas e a que parte da produção eles se aplicam. A descrição do produto pode indicar materiais e encaminhar a uma explicação mais completa, sem fazer o visitante procurar uma informação básica em vários lugares.",
       "reason": "Aprofunda a delimitação de compromissos e afirmações ambientais sem ampliar seu alcance.",
       "modifiedAt": "2026-11-06"
+    },
+    {
+      "from": "acao-apoio-social-venda-mecanismo",
+      "to": "imagem-campanha-prova-entrega",
+      "anchor": "Uma fotografia pode sugerir um alcance que a descrição não sustenta",
+      "context": "Também confira a imagem escolhida. Uma fotografia pode sugerir um alcance que a descrição não sustenta. A apresentação precisa ser coerente com a ação, sem usar histórias ou imagens de pessoas como recurso emocional sem condições adequadas de divulgação.",
+      "reason": "Aprofunda os limites entre imagem ilustrativa e evidência da entrega.",
+      "modifiedAt": "2026-11-07"
     }
   ]
 }

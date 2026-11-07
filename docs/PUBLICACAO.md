@@ -275,3 +275,6 @@ Publicação autorizada de reconhecer-contribuicoes-criacao-produto, com um link
 
 ### 06/11/2026 — produto e causa para novos públicos
 Publicação autorizada de marca-causa-explicar-produto-novos-publicos, com um link natural e duas leituras relacionadas. Dry-run, envio FTP, hashes remotos e HTTPS confirmados. Conferência desktop/mobile aprovada; home e acervo anterior preservados.
+
+### 07/11/2026 — mecanismo de apoio social associado à venda
+Publicação autorizada de acao-apoio-social-venda-mecanismo, com um link natural e duas leituras relacionadas. Dry-run, envio FTP, hashes remotos e HTTPS confirmados. Conferência desktop/mobile aprovada; home e artigos anteriores preservados.

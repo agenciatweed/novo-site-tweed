@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "6f583b34530a2fa922793d679aebf14ceb813dc4c8d8d2caee7b000a41bc99ec",
+  "catalogSha256": "6d800ec91f74459645abdd5836b6cfbb7ffb476c5dfd511c903c0accee15a86f",
   "reviewedAt": "2026-11-04",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -770,6 +770,14 @@
       ],
       "reason": "A demonstração aprofunda a explicação da utilidade; a melhoria ambiental delimita os compromissos apresentados ao público.",
       "modifiedAt": "2026-11-06"
+    },
+    "acao-apoio-social-venda-mecanismo": {
+      "targets": [
+        "parceria-marca-alem-dos-logotipos",
+        "imagem-campanha-prova-entrega"
+      ],
+      "reason": "Aprofundam o alinhamento de responsabilidades com a organização parceira e a escolha de imagens proporcionais à evidência.",
+      "modifiedAt": "2026-11-07"
     }
   }
 }
