@@ -304,3 +304,8 @@ Felipe solicitou antecipar para hoje os 16 artigos então em Pronto. Todos passa
 ## Manutenção editorial ciclo 90 - 07/11/2026
 
 Reavaliados os dois relacionados de todos os 113 artigos: 15 pares atualizados e 98 preservados. Inseridos 16 links naturais de artigos anteriores para recentes, respeitando quatro links por corpo. Para quatro temas sem âncora literal adequada, não se alterou o texto para fabricar vínculos; dois receberam recomendações finais pertinentes. Publicadas somente 19 páginas de artigos e o sitemap, com pré-verificação de hashes, backups, upload temporário, renomeação e confirmação FTP/HTTP. Home, capas, texto, tracking, cabeçalhos e rodapés públicos preservados.
+
+
+## Publicação editorial - 08/11/2026
+
+Publicado o artigo aprovado “Seu personagem de marca continua sendo o mesmo em cada peça?”, na data programada, em /personagem-marca-continuidade-pecas/. Um link natural no corpo e duas recomendações finais, preservando as entradas anteriores. Dry-run aprovado, FTP/HTTP confirmados e conferência desktop/mobile. Mantidos home, cabeçalhos e rodapés públicos dos índices e configuração de 404. Somente a lista de rotas canônicas recebeu o novo slug.

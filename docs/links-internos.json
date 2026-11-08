@@ -864,6 +864,14 @@
       "context": "“Aprender IA” é um objetivo amplo demais para orientar a rotina. Comece por uma tarefa delimitada, com entrada, resultado esperado e responsabilidade de conferência.",
       "reason": "Desenvolve como aplicar aprendizado a uma tarefa real e conferir o resultado.",
       "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "personagem-marca-continuidade-pecas",
+      "to": "personalidade-de-marca-aparece-nas-escolhas-pequenas",
+      "anchor": "o comportamento passa a contar outra história",
+      "context": "Uma figura pode preservar as cores e mudar completamente de papel. O mascote que oferece uma orientação cuidadosa pode reaparecer ridicularizando uma dúvida ou prometendo resolver tudo sozinho. A aparência continua familiar; o comportamento passa a contar outra história.",
+      "reason": "Aprofunda a personalidade expressa no comportamento e nas escolhas da marca.",
+      "modifiedAt": "2026-11-08"
     }
   ]
 }

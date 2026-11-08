@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "c3f285664d8ffaed4c0a09d8aa8e5eddb2f5c66cbf23621c395b73228e8e1f9d",
+  "catalogSha256": "78ce259e3fda8dcdc014c914dd3d4731c67247951e04ef57e2b791596b444e05",
   "reviewedAt": "2026-11-04",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -906,6 +906,14 @@
       ],
       "reason": "Aprofunda cuidado nas interações e pertinência de comunidades menores.",
       "modifiedAt": "2026-11-07"
+    },
+    "personagem-marca-continuidade-pecas": {
+      "targets": [
+        "personalidade-de-marca-aparece-nas-escolhas-pequenas",
+        "ia-materiais-marca-alem-das-cores"
+      ],
+      "reason": "Conecta coerência de comportamento do personagem a critérios de personalidade e à revisão de referências de marca usadas com IA.",
+      "modifiedAt": "2026-11-08"
     }
   }
 }

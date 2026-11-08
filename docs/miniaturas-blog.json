@@ -789,5 +789,12 @@
     "height": 896,
     "source": "conteudos/pauta-diaria-2026-10-30/imagens/7899c96f95d6f9afe8f9a394272a5a5929b237aab1736be988ff00a86a0b133d.png",
     "sha256": "7899c96f95d6f9afe8f9a394272a5a5929b237aab1736be988ff00a86a0b133d"
+  },
+  "personagem-marca-continuidade-pecas": {
+    "path": "/assets/artigos-editoriais/32147ef23ec2cf352fd009cd9275e66b170e69de0f854eaae6df866c3ffd830a.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-diaria-2026-11-06/imagens/32147ef23ec2cf352fd009cd9275e66b170e69de0f854eaae6df866c3ffd830a.png",
+    "sha256": "32147ef23ec2cf352fd009cd9275e66b170e69de0f854eaae6df866c3ffd830a"
   }
 }
