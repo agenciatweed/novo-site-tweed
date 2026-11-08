@@ -36,13 +36,13 @@
   },
   {
     "path": "acompanhamento-apos-feira-proximo-passo/index.html",
-    "bytes": 22944,
-    "sha256": "46a64a1e18c36e828c87c59e3124dacc0530d4cfd859135fab27e9e4477107a5"
+    "sha256": "4e886a8dac917a1936c489853d44e94ccf1adf36cad8de7fb4b66066523ef209",
+    "bytes": 24677
   },
   {
     "path": "adocao-ia-equipe-conhecimento-compartilhado/index.html",
-    "bytes": 23864,
-    "sha256": "6d7f200466f13b38ca686b12fd1474c5046b489f828e4a82ae358037211b41d2"
+    "sha256": "e4af35249a7394851bb2e5b2c0200ca806af01b9f3239b5735e4abce5b47a390",
+    "bytes": 25659
   },
   {
     "path": "alem-do-anuncio-como-o-boca-a-boca-mantem-sua-marca-viva-quando-a-propaganda-termina/index.html",
@@ -71,8 +71,8 @@
   },
   {
     "path": "aprovacao-campanha-feedback-decisoes/index.html",
-    "bytes": 23468,
-    "sha256": "bf0bf7c357661761bc4b6fc5142b4a8f204f2bcc38b2ba25050591fc8229b799"
+    "sha256": "6b69e26dfc1652a57b66de9e62553c0af3ca07980c4e104d97276d4729bfaa96",
+    "bytes": 25245
   },
   {
     "path": "arquetipos-de-marca-para-pequenas-empresas/index.html",
@@ -1131,8 +1131,8 @@
   },
   {
     "path": "comentarios-parte-do-produto-experiencia-de-marca/index.html",
-    "bytes": 20371,
-    "sha256": "a3c365be353f8211691e9ae54b821d6206bbbf89b64dddc460a17de017341f4e"
+    "sha256": "8872545d99f51efccd43b25550b69d87cadf9679fb6b0802cb1da319776e878e",
+    "bytes": 22068
   },
   {
     "path": "como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos/index.html",
@@ -1141,8 +1141,8 @@
   },
   {
     "path": "como-marcas-locais-constroem-comunidades-mais-fortes-do-que-muitas-multinacionais/index.html",
-    "bytes": 16356,
-    "sha256": "3dc73c607b90e010df0c97e7cc8be8801bde890954b84b1a5fdfffb6e7faccff"
+    "sha256": "31cc3cc8affbef65b0af1f6c34f586715b43b43baae8516aac9b7aa737c10547",
+    "bytes": 18007
   },
   {
     "path": "como-parecer-grande-sem-ser-grande-os-segredos-do-branding-enxuto/index.html",
@@ -1186,8 +1186,8 @@
   },
   {
     "path": "demonstracao-produto-ajudar-cliente-decidir/index.html",
-    "bytes": 23631,
-    "sha256": "36e57fca7f24ae9c6159d3dfb98cc852e753c8f7923f8a7ca87af9aab4eb995f"
+    "sha256": "72084593a74ef02d41c1f9061fc213732f80eecce5669766bbd903aec5ea5cbc",
+    "bytes": 25406
   },
   {
     "path": "design-embalagem-gesto-uso/index.html",
@@ -1236,13 +1236,13 @@
   },
   {
     "path": "ia-materiais-marca-alem-das-cores/index.html",
-    "bytes": 22880,
-    "sha256": "08c7631efaa5829fb7d29c7cb08699a556b0173d2b2eae521ddd1ad9afc884ee"
+    "sha256": "ed090d146e10d6c5d78cf834a3ce775aa39790adebd73d90c3e540d63e9e4315",
+    "bytes": 24654
   },
   {
     "path": "identidade-visual-2027-textura-cor-autoria/index.html",
-    "bytes": 20421,
-    "sha256": "1b02205205f58f5b8d35937884b843f5924623192eff610e07be444bbf1d77af"
+    "sha256": "0b520646dfc7dbd8e9e992d8323cdbeb5f7077a96666a65ef48d9b21836a6445",
+    "bytes": 22210
   },
   {
     "path": "imagem-campanha-prova-entrega/index.html",
@@ -1251,8 +1251,8 @@
   },
   {
     "path": "informacoes-empresa-atualizadas-canais/index.html",
-    "bytes": 23793,
-    "sha256": "f722b2e9d1d9c6d0a151b5cead558d584f72541b3c84aaee9bc695c39ce9e7ab"
+    "sha256": "539bf54476b39b9669d52a3e0317a5ef3341d9102e605273a6998451cfef8be9",
+    "bytes": 25573
   },
   {
     "path": "interpretar-referencias-visuais-cliente/index.html",
@@ -1271,8 +1271,8 @@
   },
   {
     "path": "legibilidade-digital-marca-pessoas-ia/index.html",
-    "bytes": 20729,
-    "sha256": "e55d6be63c44ce774a4b24ecd76b37dd897e0017286c86fa0cbc35a379ac30e1"
+    "sha256": "3842c979bc4ca689d9dea96ab2faa8e55ab21002abde47b4048658a1e4e33ffe",
+    "bytes": 22527
   },
   {
     "path": "marca-causa-explicar-produto-novos-publicos/index.html",
@@ -1281,8 +1281,8 @@
   },
   {
     "path": "marca-nao-e-um-logotipo-por-que-pmes-precisam-contar-boas-historias/index.html",
-    "bytes": 16647,
-    "sha256": "e78bd2fb906ad39b0fe2c509bd78bda02d0fbdeac065a400860ee44d4fe779fe"
+    "sha256": "c8745e231143a98e02fb2d1344c81a47cbd5b16b83f49e05c6757f7b1d99cd0f",
+    "bytes": 18508
   },
   {
     "path": "marca-nao-se-faz-no-canva-se-faz-no-cotidiano/index.html",
@@ -1341,8 +1341,8 @@
   },
   {
     "path": "microcomunidades-relevancia-alem-das-impressoes/index.html",
-    "bytes": 20534,
-    "sha256": "d0066748ea1e628a19c208d3d86cf2e74ddb7e46af4b9f00380104856e8e8001"
+    "sha256": "26f635bbea9ef9de5e9929fa7b61126ba6805fcf16738eff9b60177155cc2029",
+    "bytes": 22326
   },
   {
     "path": "multiplas-faces-da-marca-combinando-arquetipos-para-uma-identidade-rica/index.html",
@@ -1356,8 +1356,8 @@
   },
   {
     "path": "narrativas-miticas/index.html",
-    "bytes": 16817,
-    "sha256": "633243c912348eb8c6db10902ea6bbd38b6a6752d9e27b6544a6e9a15b10f13f"
+    "sha256": "2c17a64229c1278de2b72829ea47d08d162ecfb831b42e41574786858696d219",
+    "bytes": 18671
   },
   {
     "path": "ninguem-compra-sozinho/index.html",
@@ -1401,8 +1401,8 @@
   },
   {
     "path": "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding/index.html",
-    "bytes": 26734,
-    "sha256": "0a61cffa339a266fddba493046580610fa0538fbffb4c32eabea15df441a4cd7"
+    "sha256": "c72645bb752a0110423e9f4bc8229f6fa5a2c9bab9eb762b9e676937898919b8",
+    "bytes": 28289
   },
   {
     "path": "o-que-pequenas-empresas-podem-aprender-com-os-erros-das-grandes/index.html",
@@ -1436,8 +1436,8 @@
   },
   {
     "path": "parceria-marca-alem-dos-logotipos/index.html",
-    "bytes": 23297,
-    "sha256": "7e43d7365bae2a3ca76b4e34898e207322d975cf1690d77f2b54dfaf67579220"
+    "sha256": "2536a9cc8bf74608bc3bcefeeb1cb25c1a41e9bc42066fd390f10ab63f36147e",
+    "bytes": 25054
   },
   {
     "path": "participacao-retratados-historia-marca/index.html",
@@ -1461,18 +1461,18 @@
   },
   {
     "path": "pesquisa-consumidor-aplicabilidade-clientes/index.html",
-    "bytes": 23704,
-    "sha256": "a1038bdcd53e06a46542bb5ab80d6ceb89ed8c80eaff0493e1c8468fefe00f84"
+    "sha256": "deea9573a040448cd20c7788bce8656d3f9f6bc0903b0026643a6a9ae0e34d80",
+    "bytes": 25434
   },
   {
     "path": "plano-de-midia-2027-alem-de-uma-plataforma/index.html",
-    "bytes": 20965,
-    "sha256": "0b43296ac8f7843ccfbaa7041f4913df46539c6e73807348b51003060b5fa1c9"
+    "sha256": "ce58ae30c05ff01fad04033eafb682e423c5fbcf3361f66f85123c238273984b",
+    "bytes": 22735
   },
   {
     "path": "por-que-a-escassez-vende-mas-nem-sempre/index.html",
-    "bytes": 18333,
-    "sha256": "03911d95cf8444abd516b36965936992c467db411270859248dfa2e901e3d5ef"
+    "sha256": "40e470583f02ffbb84dd63193262f6bd46bb0fa04edf385d0bba7f0bb2104da1",
+    "bytes": 20116
   },
   {
     "path": "posicionamento-de-marca-para-pequenas-empresas/index.html",
@@ -1491,8 +1491,8 @@
   },
   {
     "path": "qualidade-dados-campanha-conversoes/index.html",
-    "bytes": 21306,
-    "sha256": "76f9363bbb0f048387d378026ad4b43267f1d2a18580663cf1f422fd1ec75cff"
+    "sha256": "56476d4af42a434e69a02182f4d41366f5a8a05f3556085b2475ff674046a8c9",
+    "bytes": 23093
   },
   {
     "path": "quando-tudo-parece-igual-os-arquetipos-ajudam-sua-marca-a-ser-lembrada/index.html",
@@ -1551,8 +1551,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 17951,
-    "sha256": "66cd3637103e69d1f2af051d605553b2a8155a3c3621474ddaa247625e2f753e"
+    "sha256": "dfeb6cc895ad9a2550eb5f063dc53bfd4f25a530d3566b206ef36a1307ce9a79",
+    "bytes": 17951
   },
   {
     "path": "solucao-tecnica-aplicacao-limites/index.html",

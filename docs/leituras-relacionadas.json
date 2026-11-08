@@ -93,11 +93,11 @@
     },
     "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding": {
       "targets": [
-        "divida-de-marca",
+        "testar-experiencia-alem-equipe-interna",
         "redesign-site-transicao-usabilidade"
       ],
-      "reason": "Aprofunda como preservar referências úteis ao renovar a navegação. Preservada a outra leitura complementar.",
-      "modifiedAt": "2026-10-27"
+      "reason": "Prioriza teste da experiência e preserva a recomendação de redesign.",
+      "modifiedAt": "2026-11-07"
     },
     "marca-nas-maos-do-cliente-como-o-conteudo-gerado-pelo-usuario-impulsiona-seu-branding": {
       "targets": [
@@ -245,11 +245,11 @@
     },
     "por-que-a-escassez-vende-mas-nem-sempre": {
       "targets": [
-        "ancoragem-o-truque-psicologico-que-molda-quanto-o-cliente-acha-que-vale-seu-produto",
+        "janela-promocao-prazo-compra-entrega",
         "marketing-nao-e-persuasao-e-arquitetura-de-escolha"
       ],
-      "reason": "Complementa escassez com percepção de valor e contexto de decisão.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Aprofunda prazos promocionais e preserva arquitetura de escolha.",
+      "modifiedAt": "2026-11-07"
     },
     "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar": {
       "targets": [
@@ -318,10 +318,10 @@
     "marca-nao-e-um-logotipo-por-que-pmes-precisam-contar-boas-historias": {
       "targets": [
         "narrativas-miticas",
-        "marcas-memoraveis-nao-gritam-elas-fazem-sentido"
+        "participacao-retratados-historia-marca"
       ],
-      "reason": "Desenvolve narrativas de marca e clareza de significado.",
-      "modifiedAt": "2026-10-17"
+      "reason": "Preserva a narrativa e inclui participação das pessoas retratadas.",
+      "modifiedAt": "2026-11-07"
     },
     "ninguem-compra-sozinho": {
       "targets": [
@@ -350,10 +350,10 @@
     "como-marcas-locais-constroem-comunidades-mais-fortes-do-que-muitas-multinacionais": {
       "targets": [
         "microcomunidades-relevancia-alem-das-impressoes",
-        "alem-do-anuncio-como-o-boca-a-boca-mantem-sua-marca-viva-quando-a-propaganda-termina"
+        "comunidade-marca-cuidado-moderacao"
       ],
-      "reason": "Microcomunidades aprofunda a relevância da proximidade em públicos específicos; boca a boca preserva a continuidade da recomendação local.",
-      "modifiedAt": "2026-10-21"
+      "reason": "Preserva microcomunidades e acrescenta manutenção e moderação.",
+      "modifiedAt": "2026-11-07"
     },
     "voce-nao-decide-seu-cerebro-decide-por-voce-e-depois-inventa-uma-desculpa": {
       "targets": [
@@ -493,19 +493,19 @@
     },
     "plano-de-midia-2027-alem-de-uma-plataforma": {
       "targets": [
-        "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido",
+        "contexto-veiculacao-anuncios-marca",
         "jornada-compra-antes-da-campanha"
       ],
-      "reason": "Mantém a coerência da oferta e aprofunda calendário, dúvidas e ciclo de compra que orientam as funções dos canais.",
-      "modifiedAt": "2026-10-25"
+      "reason": "Prioriza contexto de veiculação e preserva jornada entre canais.",
+      "modifiedAt": "2026-11-07"
     },
     "comentarios-parte-do-produto-experiencia-de-marca": {
       "targets": [
         "o-atendimento-esta-desmentindo-o-seu-posicionamento",
-        "marca-nas-maos-do-cliente-como-o-conteudo-gerado-pelo-usuario-impulsiona-seu-branding"
+        "comunidade-marca-cuidado-moderacao"
       ],
-      "reason": "Aprofunda a resposta como experiência de marca e a participação pública de clientes como evidência.",
-      "modifiedAt": "2026-10-18"
+      "reason": "Preserva atendimento e aprofunda a moderação dos comentários.",
+      "modifiedAt": "2026-11-07"
     },
     "marca-recomendada-por-ia-confianca": {
       "targets": [
@@ -534,10 +534,10 @@
     "identidade-visual-2027-textura-cor-autoria": {
       "targets": [
         "personalidade-de-marca-aparece-nas-escolhas-pequenas",
-        "seu-logotipo-e-bonito-mas-sua-marca-e-clara"
+        "origem-regional-produto-comunicacao"
       ],
-      "reason": "Aprofunda autoria visual com decisões de personalidade e clareza estratégica além do acabamento.",
-      "modifiedAt": "2026-10-19"
+      "reason": "Preserva personalidade e detalha o uso responsável de referências territoriais.",
+      "modifiedAt": "2026-11-07"
     },
     "reaproveitamento-video-adaptacao-criativa": {
       "targets": [
@@ -557,19 +557,19 @@
     },
     "ia-materiais-marca-alem-das-cores": {
       "targets": [
-        "como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos",
+        "apresentacao-comercial-manutencao-proxima-versao",
         "adocao-ia-equipe-conhecimento-compartilhado"
       ],
-      "reason": "Aprofunda aprendizagem compartilhada e critérios de uso da IA além da referência visual. Mantida a leitura complementar anterior mais pertinente.",
-      "modifiedAt": "2026-10-29"
+      "reason": "Acrescenta manutenção de materiais e preserva adoção de IA pela equipe.",
+      "modifiedAt": "2026-11-07"
     },
     "parceria-marca-alem-dos-logotipos": {
       "targets": [
         "microcomunidades-relevancia-alem-das-impressoes",
-        "branding-nao-acontece-so-no-marketing-ele-vive-na-operacao"
+        "reconhecer-contribuicoes-criacao-produto"
       ],
-      "reason": "Microcomunidades aprofunda a relevância do público além da audiência somada; a marca na operação explica a necessidade de cumprir a promessa conjunta no atendimento e na execução.",
-      "modifiedAt": "2026-10-23"
+      "reason": "Preserva pertinência do público e aprofunda reconhecimento das contribuições.",
+      "modifiedAt": "2026-11-07"
     },
     "jornada-compra-antes-da-campanha": {
       "targets": [
@@ -597,11 +597,11 @@
     },
     "aprovacao-campanha-feedback-decisoes": {
       "targets": [
-        "ia-materiais-marca-alem-das-cores",
+        "resumo-reuniao-decisoes-pendencias",
         "uma-boa-restricao-pode-melhorar-uma-ideia"
       ],
-      "reason": "Aprofundam as informações e critérios necessários para revisar a produção acelerada por IA e para escolher soluções criativas dentro de limites claros.",
-      "modifiedAt": "2026-10-25"
+      "reason": "Prioriza o registro das decisões e preserva restrições criativas úteis.",
+      "modifiedAt": "2026-11-07"
     },
     "mensagem-contexto-momento-cliente": {
       "targets": [
@@ -613,11 +613,11 @@
     },
     "informacoes-empresa-atualizadas-canais": {
       "targets": [
-        "legibilidade-digital-marca-pessoas-ia",
+        "pausa-atendimento-pedidos-retomada",
         "o-atendimento-esta-desmentindo-o-seu-posicionamento"
       ],
-      "reason": "Aprofundam a organização de informações públicas coerentes e as condições internas para orientar corretamente o cliente no atendimento.",
-      "modifiedAt": "2026-10-25"
+      "reason": "Prioriza mudanças de atendimento e preserva coerência operacional.",
+      "modifiedAt": "2026-11-07"
     },
     "personalizacao-atendimento-corrigir-preferencias": {
       "targets": [
@@ -654,10 +654,10 @@
     "demonstracao-produto-ajudar-cliente-decidir": {
       "targets": [
         "proposta-comercial-comparavel-criterios",
-        "valor-servico-beneficios-compreender-utilizar"
+        "solucao-tecnica-aplicacao-limites"
       ],
-      "reason": "Complementam a demonstração com critérios de comparação antes da compra e compreensão das condições e utilidade do serviço contratado.",
-      "modifiedAt": "2026-10-27"
+      "reason": "Preserva critérios comerciais e aprofunda aplicação e limites técnicos.",
+      "modifiedAt": "2026-11-07"
     },
     "redesign-site-transicao-usabilidade": {
       "targets": [
@@ -694,10 +694,10 @@
     "adocao-ia-equipe-conhecimento-compartilhado": {
       "targets": [
         "ia-materiais-marca-alem-das-cores",
-        "o-custo-invisivel-de-coordenar-o-proprio-marketing"
+        "aplicar-aprendizado-marketing-rotina"
       ],
-      "reason": "Aprofundam referências para revisar materiais e a organização do trabalho para reduzir dependências de coordenação.",
-      "modifiedAt": "2026-10-29"
+      "reason": "Preserva critérios da marca e aprofunda transferência do aprendizado para a rotina.",
+      "modifiedAt": "2026-11-07"
     },
     "nome-produto-clareza-proposta": {
       "targets": [
@@ -733,11 +733,11 @@
     },
     "pesquisa-consumidor-aplicabilidade-clientes": {
       "targets": [
-        "qualidade-dados-campanha-conversoes",
+        "devolutiva-pesquisa-retorno-participantes",
         "atribuicao-vendas-efeito-campanha"
       ],
-      "reason": "Complementa o alcance de pesquisas externas com definição dos dados internos e distinção entre registro de resultado e efeito causal.",
-      "modifiedAt": "2026-11-02"
+      "reason": "Aprofunda a relação com participantes da pesquisa e preserva a distinção entre atribuição e efeito.",
+      "modifiedAt": "2026-11-07"
     },
     "marca-tendencias-criterio-participacao": {
       "targets": [
@@ -750,10 +750,10 @@
     "acompanhamento-apos-feira-proximo-passo": {
       "targets": [
         "mensagem-contexto-momento-cliente",
-        "jornada-compra-antes-da-campanha"
+        "acesso-reuniao-online-convidado"
       ],
-      "reason": "Aprofundam o contexto de contato e as diferentes etapas da decisão de compra.",
-      "modifiedAt": "2026-11-04"
+      "reason": "Preserva pertinência da mensagem e inclui o acesso do convidado quando o próximo passo é uma reunião online.",
+      "modifiedAt": "2026-11-07"
     },
     "reconhecer-contribuicoes-criacao-produto": {
       "targets": [

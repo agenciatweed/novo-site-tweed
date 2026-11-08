@@ -736,6 +736,134 @@
       "context": "Uma crítica não é automaticamente uma quebra de regra. Uma pergunta repetida pode revelar uma informação difícil de encontrar. Uma mensagem com dados pessoais exige um cuidado diferente de uma discussão geral sobre o produto.",
       "reason": "Aprofunda cuidado nas interações e pertinência de comunidades menores.",
       "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "narrativas-miticas",
+      "to": "marca-causa-explicar-produto-novos-publicos",
+      "anchor": "uma causa que pulsa por trás de cada embalagem",
+      "context": "Não vendemos produtos. Vendemos significados. Vendemos uma forma de ver o mundo. Vendemos uma causa que pulsa por trás de cada embalagem.",
+      "reason": "Aprofunda como comunicar a causa sem perder a compreensão do produto.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding",
+      "to": "testar-experiencia-alem-equipe-interna",
+      "anchor": "um formulário que pede CPF antes de dizer por quê",
+      "context": "E no digital, esse “tentar comprar” acontece em silêncio: um clique, um carregamento que demora, um menu escondido, um botão que parece desativado, um formulário que pede CPF antes de dizer por quê. O cliente não manda um e-mail reclamando. Ele só… vai embora. E aí você acha que o problema é tráfego, anúncio, preço. Mas às vezes é só o site dizendo, sem querer: “aqui é difícil”.",
+      "reason": "Leva o exemplo de atrito digital a uma avaliação com pessoas externas à equipe.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "por-que-a-escassez-vende-mas-nem-sempre",
+      "to": "janela-promocao-prazo-compra-entrega",
+      "anchor": "Promoção por tempo limitado",
+      "context": "“Restam apenas 3 unidades.” “Promoção por tempo limitado.” “Última chance.” Frases como essas aparecem o tempo todo em anúncios e páginas de produto. E não é por acaso: o princípio da escassez é um dos gatilhos psicológicos mais estudados e utilizados no marketing. Ele ativa um instinto profundo de urgência e desejo.",
+      "reason": "Esclarece a diferença entre prazo de compra e prazo de entrega.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "marca-nao-e-um-logotipo-por-que-pmes-precisam-contar-boas-historias",
+      "to": "participacao-retratados-historia-marca",
+      "anchor": "histórias reais",
+      "context": "Para pequenas e médias empresas, isso é uma vantagem competitiva valiosa. Ao contrário das grandes corporações, as PMEs têm a liberdade de serem pessoais, humanas e autêuticas. Elas podem contar histórias reais: de onde vieram, o que acreditam, quem está por trás da marca, quais desafios enfrentaram.",
+      "reason": "Aprofunda a participação das pessoas retratadas na narrativa.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "microcomunidades-relevancia-alem-das-impressoes",
+      "to": "comunidade-marca-cuidado-moderacao",
+      "anchor": "Participação exige entender regras",
+      "context": "Entrar em um grupo apenas para divulgar promoções pode produzir o efeito contrário ao pretendido. Participação exige entender regras e contribuir sem tratar cada pessoa como um contato a ser capturado.",
+      "reason": "Desenvolve responsabilidades e cuidado na manutenção da comunidade.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "plano-de-midia-2027-alem-de-uma-plataforma",
+      "to": "contexto-veiculacao-anuncios-marca",
+      "anchor": "o novo ambiente não faz sentido",
+      "context": "Preserve espaço para aprender. Um teste pode mostrar que o novo ambiente não faz sentido, que a mensagem precisa mudar ou que a empresa ainda não tem estrutura para sustentar a presença. Nenhuma dessas respostas exige continuar investindo apenas para justificar a escolha inicial.",
+      "reason": "Detalha a avaliação do contexto em que a publicidade aparece.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "comentarios-parte-do-produto-experiencia-de-marca",
+      "to": "comunidade-marca-cuidado-moderacao",
+      "anchor": "critérios de moderação que protejam as pessoas",
+      "context": "Combine também critérios de moderação que protejam as pessoas. Crítica legítima, spam e exposição de dados pessoais são situações diferentes. A equipe precisa saber tratá-las sem apagar todo desconforto nem deixar informações sensíveis disponíveis.",
+      "reason": "Oferece continuidade específica ao cuidado com participantes e moderação.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "legibilidade-digital-marca-pessoas-ia",
+      "to": "site-fornecedores-b2b-identificar-oferta",
+      "anchor": "para quem o serviço foi pensado",
+      "context": "Uma pessoa pergunta a um assistente de IA quais empresas podem ajudá-la a resolver um problema. Sua marca trabalha exatamente com aquilo, mas as informações públicas não deixam isso claro. O site fala em soluções, as redes destacam entregas avulsas e ninguém consegue entender para quem o serviço foi pensado.",
+      "reason": "Detalha a identificação de oferta e adequação na busca de fornecedores B2B.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "identidade-visual-2027-textura-cor-autoria",
+      "to": "origem-regional-produto-comunicacao",
+      "anchor": "falar de um território",
+      "context": "Também é preciso evitar transformar referências culturais em uma coleção de sinais decorativos. Se a marca quer falar de um território, deve conhecer as pessoas, os contextos e as relações que pretende representar. Participação e autoria precisam ser tratadas com cuidado, inclusive na contratação de quem produz as imagens.",
+      "reason": "Aprofunda a diferença entre origem regional e decoração territorial.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "qualidade-dados-campanha-conversoes",
+      "to": "comunicar-resultados-expectativas",
+      "anchor": "chamando de resultado coisas diferentes",
+      "context": "O relatório informa que a campanha gerou conversões. O comercial diz que poucos contatos tinham relação com o serviço oferecido. As duas equipes podem estar observando fatos verdadeiros, mas chamando de resultado coisas diferentes.",
+      "reason": "Ajuda a distinguir resultado observado e expectativa comunicada.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "ia-materiais-marca-alem-das-cores",
+      "to": "apresentacao-comercial-manutencao-proxima-versao",
+      "anchor": "atualize a referência",
+      "context": "Quando o material exigir correção, registre o motivo e atualize a referência. Se a mesma ambiguidade reaparece, vale revisar o briefing antes de pedir novas versões. Produzir mais alternativas sem esclarecer o critério apenas transfere o problema para a aprovação.",
+      "reason": "Aprofunda a manutenção e a responsabilidade pela próxima versão de materiais comerciais.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "parceria-marca-alem-dos-logotipos",
+      "to": "reconhecer-contribuicoes-criacao-produto",
+      "anchor": "sem apagar a contribuição de ninguém",
+      "context": "Observe se a identidade de cada marca continua reconhecível e se a combinação tem uma lógica. Não é necessário misturar tudo numa terceira aparência nem dar o mesmo espaço visual aos nomes em todos os momentos. É necessário explicar a relação sem apagar a contribuição de ninguém.",
+      "reason": "Detalha como reconhecer contribuições sem atribuir toda a criação a uma única parte.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "aprovacao-campanha-feedback-decisoes",
+      "to": "resumo-reuniao-decisoes-pendencias",
+      "anchor": "distinguir dúvida de decisão",
+      "context": "Também vale distinguir dúvida de decisão. “Será que este título funciona?” pode iniciar uma discussão. “Vamos adotar este título porque expressa melhor a oferta aprovada” encerra uma escolha. Quando uma pergunta chega à equipe como ordem, o retrabalho pode começar antes de haver entendimento.",
+      "reason": "Desenvolve o registro de decisões, pendências e responsáveis após a conversa.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "informacoes-empresa-atualizadas-canais",
+      "to": "pausa-atendimento-pedidos-retomada",
+      "anchor": "mudou o horário de atendimento",
+      "context": "A empresa mudou o horário de atendimento. A equipe sabe, a agenda foi ajustada e a informação está correta no sistema interno. Mas o cliente consulta o perfil no Google, encontra o horário antigo e chega quando a porta já está fechada. Para ele, a mudança só aparece na forma de um desencontro.",
+      "reason": "Aprofunda a comunicação de interrupção, pendências e retomada.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "demonstracao-produto-ajudar-cliente-decidir",
+      "to": "solucao-tecnica-aplicacao-limites",
+      "anchor": "em que situação, com quais limites e para qual necessidade",
+      "context": "Uma demonstração de produto ajuda a decidir quando torna o uso compreensível. Mostrar que algo funciona é um começo; também é preciso esclarecer em que situação, com quais limites e para qual necessidade.",
+      "reason": "Explica a apresentação de aplicação e limites de soluções técnicas.",
+      "modifiedAt": "2026-11-07"
+    },
+    {
+      "from": "adocao-ia-equipe-conhecimento-compartilhado",
+      "to": "aplicar-aprendizado-marketing-rotina",
+      "anchor": "Comece por uma tarefa delimitada",
+      "context": "“Aprender IA” é um objetivo amplo demais para orientar a rotina. Comece por uma tarefa delimitada, com entrada, resultado esperado e responsabilidade de conferência.",
+      "reason": "Desenvolve como aplicar aprendizado a uma tarefa real e conferir o resultado.",
+      "modifiedAt": "2026-11-07"
     }
   ]
 }

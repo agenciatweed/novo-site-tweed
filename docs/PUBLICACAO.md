@@ -299,3 +299,8 @@ Felipe solicitou antecipar para hoje os 16 artigos então em Pronto. Todos passa
 - /testar-experiencia-alem-equipe-interna/
 - /apresentacao-comercial-manutencao-proxima-versao/
 - /comunidade-marca-cuidado-moderacao/
+
+
+## Manutenção editorial ciclo 90 - 07/11/2026
+
+Reavaliados os dois relacionados de todos os 113 artigos: 15 pares atualizados e 98 preservados. Inseridos 16 links naturais de artigos anteriores para recentes, respeitando quatro links por corpo. Para quatro temas sem âncora literal adequada, não se alterou o texto para fabricar vínculos; dois receberam recomendações finais pertinentes. Publicadas somente 19 páginas de artigos e o sitemap, com pré-verificação de hashes, backups, upload temporário, renomeação e confirmação FTP/HTTP. Home, capas, texto, tracking, cabeçalhos e rodapés públicos preservados.
