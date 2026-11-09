@@ -796,5 +796,12 @@
     "height": 896,
     "source": "conteudos/pauta-diaria-2026-11-06/imagens/32147ef23ec2cf352fd009cd9275e66b170e69de0f854eaae6df866c3ffd830a.png",
     "sha256": "32147ef23ec2cf352fd009cd9275e66b170e69de0f854eaae6df866c3ffd830a"
+  },
+  "escolher-influenciador-conversa-publico": {
+    "path": "/assets/artigos-editoriais/7c2fbd14dfa40653542efa2b4c18e26e0b956e22a5f380d13a28d7f176aeca9e.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-diaria-2026-11-07/imagens/7c2fbd14dfa40653542efa2b4c18e26e0b956e22a5f380d13a28d7f176aeca9e.png",
+    "sha256": "7c2fbd14dfa40653542efa2b4c18e26e0b956e22a5f380d13a28d7f176aeca9e"
   }
 }

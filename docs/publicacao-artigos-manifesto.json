@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 6775,
-    "sha256": "aba7c0e68a3c2ea7ef24ca9c828cfa8f1beda65215bc327315366a17974d0c00"
+    "bytes": 6818,
+    "sha256": "a345ac1778da74489857a31214445955db31c9721120e22c953e4a20f23d46a3"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -203,6 +203,11 @@
     "path": "assets/artigos-editoriais/7899c96f95d6f9afe8f9a394272a5a5929b237aab1736be988ff00a86a0b133d.png",
     "bytes": 1637501,
     "sha256": "7899c96f95d6f9afe8f9a394272a5a5929b237aab1736be988ff00a86a0b133d"
+  },
+  {
+    "path": "assets/artigos-editoriais/7c2fbd14dfa40653542efa2b4c18e26e0b956e22a5f380d13a28d7f176aeca9e.png",
+    "bytes": 1550294,
+    "sha256": "7c2fbd14dfa40653542efa2b4c18e26e0b956e22a5f380d13a28d7f176aeca9e"
   },
   {
     "path": "assets/artigos-editoriais/85d63bf699718c16b692c378648ade462983fb8dc9ec1c581f84172f8fe7c54f.png",
@@ -1096,13 +1101,13 @@
   },
   {
     "path": "blog-pequeno-mas-estrategico/index.html",
-    "bytes": 25934,
-    "sha256": "282cd828bca8bc9d67cb871004cf252fa530c0916066e6fa2db2a1cfa56ef65b"
+    "bytes": 28170,
+    "sha256": "0c61931e04ddac5ccd11239e9780c28ad74eeaa9f228b995c7dcbc4fcf5138e1"
   },
   {
     "path": "blog/index.html",
-    "bytes": 25498,
-    "sha256": "b1d1b6a1d8537f49aa45bfd55f633b15acafd3106ffb8832cea7f20a309bce88"
+    "bytes": 25530,
+    "sha256": "7f80cdf9504fa8546738b52aedffe4826a77d4e4ad1276dcd4853465962dc207"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1218,6 +1223,11 @@
     "path": "efeito-isca/index.html",
     "bytes": 21037,
     "sha256": "f8e89020b4be073566cf7290fe638dfe4a69a764a2854cbf7070929952eeb305"
+  },
+  {
+    "path": "escolher-influenciador-conversa-publico/index.html",
+    "bytes": 26493,
+    "sha256": "a0e9ba437043473add78cf20b8a9c6e6dea174cec26730ef6c166414efb806c6"
   },
   {
     "path": "experiencia-sensorial-marca-sentido/index.html",
@@ -1561,8 +1571,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 18090,
-    "sha256": "962a02f28bded7b3897579c56b93ee5848ae92ef28092d608114612d3f1527f6"
+    "bytes": 18233,
+    "sha256": "cc3c516b0e8193b638adb3d585664e1bcc6993f6468d10036b3569e9803c686b"
   },
   {
     "path": "solucao-tecnica-aplicacao-limites/index.html",

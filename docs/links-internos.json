@@ -872,6 +872,22 @@
       "context": "Uma figura pode preservar as cores e mudar completamente de papel. O mascote que oferece uma orientação cuidadosa pode reaparecer ridicularizando uma dúvida ou prometendo resolver tudo sozinho. A aparência continua familiar; o comportamento passa a contar outra história.",
       "reason": "Aprofunda a personalidade expressa no comportamento e nas escolhas da marca.",
       "modifiedAt": "2026-11-08"
+    },
+    {
+      "from": "escolher-influenciador-conversa-publico",
+      "to": "microcomunidades-relevancia-alem-das-impressoes",
+      "anchor": "O número de seguidores não informa, sozinho",
+      "context": "O número de seguidores não informa, sozinho, quem acompanha um conteúdo ou em que situação essas pessoas poderiam considerar uma oferta. Procure informações pertinentes e reconheça os limites do que está disponível.",
+      "reason": "Aprofunda a distinção entre tamanho de audiência e pertinência das relações.",
+      "modifiedAt": "2026-11-09"
+    },
+    {
+      "from": "escolher-influenciador-conversa-publico",
+      "to": "jornada-compra-antes-da-campanha",
+      "anchor": "Percorra o caminho antes da publicação",
+      "context": "Percorra o caminho antes da publicação. O destino sustenta o que será apresentado? A versão disponível corresponde à peça mostrada? O atendimento sabe localizar a informação relevante? Se alguma condição mudar, quem atualiza o material?",
+      "reason": "Ajuda a preparar as informações e o atendimento que recebem o público da colaboração.",
+      "modifiedAt": "2026-11-09"
     }
   ]
 }

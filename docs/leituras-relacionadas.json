@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "78ce259e3fda8dcdc014c914dd3d4731c67247951e04ef57e2b791596b444e05",
+  "catalogSha256": "5db0350d15caddebd81d7f4df3003e2eed8cbad44518ddcf00d9c252c1a65a21",
   "reviewedAt": "2026-11-04",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -914,6 +914,14 @@
       ],
       "reason": "Conecta coerência de comportamento do personagem a critérios de personalidade e à revisão de referências de marca usadas com IA.",
       "modifiedAt": "2026-11-08"
+    },
+    "escolher-influenciador-conversa-publico": {
+      "targets": [
+        "microcomunidades-relevancia-alem-das-impressoes",
+        "parceria-marca-alem-dos-logotipos"
+      ],
+      "reason": "Aprofundam a pertinência do público e a contribuição concreta que justifica uma colaboração, além de alcance e exposição de nomes.",
+      "modifiedAt": "2026-11-09"
     }
   }
 }

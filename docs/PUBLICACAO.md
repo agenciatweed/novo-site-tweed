@@ -309,3 +309,8 @@ Reavaliados os dois relacionados de todos os 113 artigos: 15 pares atualizados e
 ## Publicação editorial - 08/11/2026
 
 Publicado o artigo aprovado “Seu personagem de marca continua sendo o mesmo em cada peça?”, na data programada, em /personagem-marca-continuidade-pecas/. Um link natural no corpo e duas recomendações finais, preservando as entradas anteriores. Dry-run aprovado, FTP/HTTP confirmados e conferência desktop/mobile. Mantidos home, cabeçalhos e rodapés públicos dos índices e configuração de 404. Somente a lista de rotas canônicas recebeu o novo slug.
+
+
+## Publicação editorial - 09/11/2026
+
+Publicado o artigo aprovado “Antes de contratar um influenciador, sua marca sabe que conversa quer abrir?”, na data programada, em /escolher-influenciador-conversa-publico/. Dois links naturais no corpo e duas recomendações finais, preservando as entradas anteriores. Dry-run aprovado, FTP/HTTP confirmados e conferência desktop/mobile. Mantidos home, cabeçalhos e rodapés públicos dos índices e configuração de 404. Somente a lista de rotas canônicas recebeu o novo slug.
