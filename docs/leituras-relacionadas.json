@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "5db0350d15caddebd81d7f4df3003e2eed8cbad44518ddcf00d9c252c1a65a21",
+  "catalogSha256": "d53852e3f41da0c9a732f760772e12ca96b04407224f302571ab8e5c91f91ca7",
   "reviewedAt": "2026-11-04",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -922,6 +922,14 @@
       ],
       "reason": "Aprofundam a pertinência do público e a contribuição concreta que justifica uma colaboração, além de alcance e exposição de nomes.",
       "modifiedAt": "2026-11-09"
+    },
+    "embalagem-diferenciar-versoes-produto": {
+      "targets": [
+        "nome-produto-clareza-proposta",
+        "design-embalagem-gesto-uso"
+      ],
+      "reason": "Aprofundam a clareza dos nomes e descritores e o desenho da embalagem no uso, complementando a diferenciação visual entre versões da mesma família.",
+      "modifiedAt": "2026-11-10"
     }
   }
 }

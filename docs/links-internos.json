@@ -888,6 +888,22 @@
       "context": "Percorra o caminho antes da publicação. O destino sustenta o que será apresentado? A versão disponível corresponde à peça mostrada? O atendimento sabe localizar a informação relevante? Se alguma condição mudar, quem atualiza o material?",
       "reason": "Ajuda a preparar as informações e o atendimento que recebem o público da colaboração.",
       "modifiedAt": "2026-11-09"
+    },
+    {
+      "from": "embalagem-diferenciar-versoes-produto",
+      "to": "nome-produto-clareza-proposta",
+      "anchor": "nomes já escolhidos",
+      "context": "Essa definição precisa vir de quem conhece o produto. A criação não deve inventar uma diferença para justificar cores ou nomes já escolhidos. Tampouco deve esconder uma distinção pertinente para manter uma frente visualmente mais limpa.",
+      "reason": "Aprofunda como nome e descritor precisam comunicar diferenças reais entre ofertas, em vez de exigir tradução interna.",
+      "modifiedAt": "2026-11-10"
+    },
+    {
+      "from": "embalagem-diferenciar-versoes-produto",
+      "to": "design-embalagem-gesto-uso",
+      "anchor": "formato da embalagem",
+      "context": "Não existe uma distribuição universal que resolva essa tarefa. O espaço disponível, o formato da embalagem e as informações pertinentes mudam conforme o produto. O importante é conseguir explicar por que cada elemento está ali e qual leitura ele ajuda a organizar.",
+      "reason": "Complementa a hierarquia visual com as decisões de estrutura e formato ligadas ao uso real da embalagem.",
+      "modifiedAt": "2026-11-10"
     }
   ]
 }

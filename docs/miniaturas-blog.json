@@ -803,5 +803,12 @@
     "height": 896,
     "source": "conteudos/pauta-diaria-2026-11-07/imagens/7c2fbd14dfa40653542efa2b4c18e26e0b956e22a5f380d13a28d7f176aeca9e.png",
     "sha256": "7c2fbd14dfa40653542efa2b4c18e26e0b956e22a5f380d13a28d7f176aeca9e"
+  },
+  "embalagem-diferenciar-versoes-produto": {
+    "path": "/assets/artigos-editoriais/73e2305978c3e58280d4e3442b736626f4877abc46acc38a232491bd22861d61.png",
+    "width": 1536,
+    "height": 1024,
+    "source": "conteudos/pauta-reposicao-2026-11-07-1ef645fa20fc/imagens/73e2305978c3e58280d4e3442b736626f4877abc46acc38a232491bd22861d61.png",
+    "sha256": "73e2305978c3e58280d4e3442b736626f4877abc46acc38a232491bd22861d61"
   }
 }
