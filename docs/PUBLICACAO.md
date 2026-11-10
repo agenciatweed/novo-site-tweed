@@ -319,3 +319,8 @@ Publicado o artigo aprovado “Antes de contratar um influenciador, sua marca sa
 ## Publicação editorial - 10/11/2026
 
 Publicado o artigo aprovado “Sua embalagem diferencia as versões do produto ou só muda de cor?”, na data programada, em /embalagem-diferenciar-versoes-produto/. Dois links naturais no corpo e duas recomendações finais, preservando as entradas anteriores. Dry-run aprovado, FTP/HTTP confirmados e conferência desktop/mobile. Mantidos home, cabeçalhos e rodapés públicos dos índices e configuração de 404. Somente a lista de rotas canônicas recebeu o novo slug.
+
+
+## Manutenção editorial ciclo 100 - 10/11/2026
+
+Reavaliados os dois relacionados dos 116 artigos: cinco pares atualizados e 111 preservados. Inseridos dois links naturais de artigos anteriores para os recentes sobre influenciadores e versões de embalagens. Para o texto sobre personagens, preservados os quatro links úteis do artigo sobre IA e acrescentada uma recomendação final, sem fabricar âncora nos textos sobre narrativa ou arquétipos. Publicadas somente cinco páginas de artigos e o sitemap, com hashes prévios, backups, upload temporário, renomeação e confirmação FTP/HTTP. Conferência das cinco páginas em desktop/mobile aprovada. Texto, capas, tracking, cabeçalhos, rodapés e home preservados. Próxima manutenção: execução 110.

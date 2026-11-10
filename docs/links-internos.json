@@ -904,6 +904,22 @@
       "context": "Não existe uma distribuição universal que resolva essa tarefa. O espaço disponível, o formato da embalagem e as informações pertinentes mudam conforme o produto. O importante é conseguir explicar por que cada elemento está ali e qual leitura ele ajuda a organizar.",
       "reason": "Complementa a hierarquia visual com as decisões de estrutura e formato ligadas ao uso real da embalagem.",
       "modifiedAt": "2026-11-10"
+    },
+    {
+      "from": "microcomunidades-relevancia-alem-das-impressoes",
+      "to": "escolher-influenciador-conversa-publico",
+      "anchor": "colaborar com um criador",
+      "context": "Uma marca pode oferecer uma explicação técnica, participar de uma conversa sobre um problema comum ou apoiar um encontro que já faz sentido para as pessoas. Pode colaborar com um criador que conheça a comunidade e tenha relação legítima com o assunto.",
+      "reason": "Aprofunda a seleção de um criador pela conversa e pertinência ao público, no trecho sobre colaboração em comunidades.",
+      "modifiedAt": "2026-11-10"
+    },
+    {
+      "from": "nome-produto-clareza-proposta",
+      "to": "embalagem-diferenciar-versoes-produto",
+      "anchor": "Apresente as opções juntas",
+      "context": "Apresente as opções juntas. A hierarquia está clara? Uma é versão da outra? São soluções para necessidades diferentes? Existe uma combinação possível ou escolher uma significa abrir mão da outra?",
+      "reason": "Oferece um aprofundamento da hierarquia de versões no portfólio por meio da organização visual das embalagens.",
+      "modifiedAt": "2026-11-10"
     }
   ]
 }

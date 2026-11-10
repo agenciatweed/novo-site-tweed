@@ -1,7 +1,7 @@
 {
   "version": 1,
   "catalogSha256": "d53852e3f41da0c9a732f760772e12ca96b04407224f302571ab8e5c91f91ca7",
-  "reviewedAt": "2026-11-04",
+  "reviewedAt": "2026-11-10",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
       "targets": [
@@ -518,10 +518,10 @@
     "microcomunidades-relevancia-alem-das-impressoes": {
       "targets": [
         "como-marcas-locais-constroem-comunidades-mais-fortes-do-que-muitas-multinacionais",
-        "parceria-marca-alem-dos-logotipos"
+        "escolher-influenciador-conversa-publico"
       ],
-      "reason": "Preserva pertencimento local e aprofunda a escolha e organização de parcerias com criadores ou negócios além da quantidade de seguidores.",
-      "modifiedAt": "2026-10-23"
+      "reason": "Liga a pertinência das comunidades à escolha de um criador pelo assunto e pelo público, preservando a leitura sobre vínculos locais.",
+      "modifiedAt": "2026-11-10"
     },
     "legibilidade-digital-marca-pessoas-ia": {
       "targets": [
@@ -558,18 +558,18 @@
     "ia-materiais-marca-alem-das-cores": {
       "targets": [
         "apresentacao-comercial-manutencao-proxima-versao",
-        "adocao-ia-equipe-conhecimento-compartilhado"
+        "personagem-marca-continuidade-pecas"
       ],
-      "reason": "Acrescenta manutenção de materiais e preserva adoção de IA pela equipe.",
-      "modifiedAt": "2026-11-07"
+      "reason": "Mantém a gestão de referências atualizadas e acrescenta a conferência concreta de continuidade de personagens produzidos com ou sem IA.",
+      "modifiedAt": "2026-11-10"
     },
     "parceria-marca-alem-dos-logotipos": {
       "targets": [
-        "microcomunidades-relevancia-alem-das-impressoes",
+        "escolher-influenciador-conversa-publico",
         "reconhecer-contribuicoes-criacao-produto"
       ],
-      "reason": "Preserva pertinência do público e aprofunda reconhecimento das contribuições.",
-      "modifiedAt": "2026-11-07"
+      "reason": "Conecta a contribuição de uma parceria à escolha de criadores pertinentes e preserva o reconhecimento de quem participa da criação.",
+      "modifiedAt": "2026-11-10"
     },
     "jornada-compra-antes-da-campanha": {
       "targets": [
@@ -702,18 +702,18 @@
     "nome-produto-clareza-proposta": {
       "targets": [
         "proposta-comercial-comparavel-criterios",
-        "seu-logotipo-e-bonito-mas-sua-marca-e-clara"
+        "embalagem-diferenciar-versoes-produto"
       ],
-      "reason": "Complementam clareza verbal com critérios de comparação e identidade institucional compreensível.",
-      "modifiedAt": "2026-10-29"
+      "reason": "Mantém a comparação de propostas e aprofunda a leitura das diferenças e da hierarquia entre versões na embalagem.",
+      "modifiedAt": "2026-11-10"
     },
     "design-embalagem-gesto-uso": {
       "targets": [
         "da-embalagem-ao-pos-venda",
-        "comunicar-melhoria-ambiental-escopo-evidencia"
+        "embalagem-diferenciar-versoes-produto"
       ],
-      "reason": "Detalha como delimitar e sustentar afirmações ambientais sobre componentes e embalagens. Preservada a outra leitura complementar.",
-      "modifiedAt": "2026-10-31"
+      "reason": "Preserva a experiência de abertura e entrega e complementa o gesto de uso com a identificação visual da versão antes da escolha.",
+      "modifiedAt": "2026-11-10"
     },
     "comunicar-melhoria-ambiental-escopo-evidencia": {
       "targets": [
