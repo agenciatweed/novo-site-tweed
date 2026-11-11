@@ -810,5 +810,12 @@
     "height": 1024,
     "source": "conteudos/pauta-reposicao-2026-11-07-1ef645fa20fc/imagens/73e2305978c3e58280d4e3442b736626f4877abc46acc38a232491bd22861d61.png",
     "sha256": "73e2305978c3e58280d4e3442b736626f4877abc46acc38a232491bd22861d61"
+  },
+  "contas-marketing-acessos-continuidade": {
+    "path": "/assets/artigos-editoriais/e6ba6634a0b8d89aa88bfa4c5e1d705909229453a38add4ade7cc2a4d96612b7.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-reposicao-2026-11-07-0519eb5a6b9c/imagens/e6ba6634a0b8d89aa88bfa4c5e1d705909229453a38add4ade7cc2a4d96612b7.png",
+    "sha256": "e6ba6634a0b8d89aa88bfa4c5e1d705909229453a38add4ade7cc2a4d96612b7"
   }
 }

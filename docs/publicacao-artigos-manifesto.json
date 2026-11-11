@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 6859,
-    "sha256": "ff502562f893357afecbc120182ce42c2c328a94902fec454da2d3660aa0c403"
+    "bytes": 6900,
+    "sha256": "f859aa25623ceb82a0dc69581eef99114f7b1adf92ac06a516fb48d20bb446a1"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -338,6 +338,11 @@
     "path": "assets/artigos-editoriais/e1fccdd2982c38b81659019780c4f3a3db7b9207503a0c06a09760bce927b20e.png",
     "bytes": 1561063,
     "sha256": "e1fccdd2982c38b81659019780c4f3a3db7b9207503a0c06a09760bce927b20e"
+  },
+  {
+    "path": "assets/artigos-editoriais/e6ba6634a0b8d89aa88bfa4c5e1d705909229453a38add4ade7cc2a4d96612b7.png",
+    "bytes": 1435202,
+    "sha256": "e6ba6634a0b8d89aa88bfa4c5e1d705909229453a38add4ade7cc2a4d96612b7"
   },
   {
     "path": "assets/artigos-editoriais/e85a2d9d5460e72e1a3b5abd210ae26b6d246ae62d658714c36e2ee88a0daadf.png",
@@ -1106,13 +1111,13 @@
   },
   {
     "path": "blog-pequeno-mas-estrategico/index.html",
-    "bytes": 28170,
-    "sha256": "0c61931e04ddac5ccd11239e9780c28ad74eeaa9f228b995c7dcbc4fcf5138e1"
+    "bytes": 28723,
+    "sha256": "f5e48ae95eb57fe271efa7f813c8b614d33f8614d0ca36f1edd73839c271eed3"
   },
   {
     "path": "blog/index.html",
-    "bytes": 25527,
-    "sha256": "4f081912827797fa59e1424eb9b99cd7df84588a08611fb3569b3233bba56a4a"
+    "bytes": 25545,
+    "sha256": "ce6e8ee6e52615a2306a748434dcc1cc32d0cd60b2ea45e19cfe0eb8508529b6"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1178,6 +1183,11 @@
     "path": "comunidade-marca-cuidado-moderacao/index.html",
     "bytes": 23393,
     "sha256": "e637d1b70d4d775d1eca87cfb1f34bf183d66a2bcc9cafb1cd0be37e7949e33f"
+  },
+  {
+    "path": "contas-marketing-acessos-continuidade/index.html",
+    "bytes": 26205,
+    "sha256": "bb8715ca436639a78df9e0d275cde0d9c8ce57bf45a0838643f5e5455c6b1e31"
   },
   {
     "path": "contexto-veiculacao-anuncios-marca/index.html",
@@ -1581,8 +1591,8 @@
   },
   {
     "path": "sitemap.xml",
-    "sha256": "1a7d6979a833b04ef1d97f8f5accea5a6cd9221ec7287b1a8863d539bd221f6a",
-    "bytes": 18374
+    "bytes": 18515,
+    "sha256": "7ac9bd26a34234a6b6efa0b5cccdbe00b4f2893f6bb6e518b43e3c25d2602a54"
   },
   {
     "path": "solucao-tecnica-aplicacao-limites/index.html",

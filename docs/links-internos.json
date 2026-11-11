@@ -920,6 +920,14 @@
       "context": "Apresente as opções juntas. A hierarquia está clara? Uma é versão da outra? São soluções para necessidades diferentes? Existe uma combinação possível ou escolher uma significa abrir mão da outra?",
       "reason": "Oferece um aprofundamento da hierarquia de versões no portfólio por meio da organização visual das embalagens.",
       "modifiedAt": "2026-11-10"
+    },
+    {
+      "from": "contas-marketing-acessos-continuidade",
+      "to": "resumo-reuniao-decisoes-pendencias",
+      "anchor": "os responsáveis confirmados e as pendências pertinentes",
+      "context": "Na PME hipotética, uma passagem de trabalho pode identificar quais ativos estão no escopo, os responsáveis confirmados e as pendências pertinentes. Cada ponto deve permitir entender o encaminhamento esperado sem exigir reconstruir todas as conversas anteriores.",
+      "reason": "Aprofunda o registro da passagem de trabalho, distinguindo responsabilidades e decisões confirmadas das pendências.",
+      "modifiedAt": "2026-11-11"
     }
   ]
 }

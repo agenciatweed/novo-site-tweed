@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "d53852e3f41da0c9a732f760772e12ca96b04407224f302571ab8e5c91f91ca7",
+  "catalogSha256": "142dfd6c9177a308acafb305d4d706a6af994789175935e572a7cff58cccd4ab",
   "reviewedAt": "2026-11-10",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -930,6 +930,14 @@
       ],
       "reason": "Aprofundam a clareza dos nomes e descritores e o desenho da embalagem no uso, complementando a diferenciação visual entre versões da mesma família.",
       "modifiedAt": "2026-11-10"
+    },
+    "contas-marketing-acessos-continuidade": {
+      "targets": [
+        "resumo-reuniao-decisoes-pendencias",
+        "apresentacao-comercial-manutencao-proxima-versao"
+      ],
+      "reason": "Complementam a passagem entre responsáveis com registros fiéis de decisões e pendências e com critérios para manter referências de trabalho atualizadas.",
+      "modifiedAt": "2026-11-11"
     }
   }
 }
