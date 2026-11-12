@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 6900,
-    "sha256": "f859aa25623ceb82a0dc69581eef99114f7b1adf92ac06a516fb48d20bb446a1"
+    "bytes": 6941,
+    "sha256": "c641dd3707c3b0a1845d3fbd9f1f4ae7bc3f8023cb78613d82d7a3cddeb5d1aa"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -203,6 +203,11 @@
     "path": "assets/artigos-editoriais/73e2305978c3e58280d4e3442b736626f4877abc46acc38a232491bd22861d61.png",
     "bytes": 2319391,
     "sha256": "73e2305978c3e58280d4e3442b736626f4877abc46acc38a232491bd22861d61"
+  },
+  {
+    "path": "assets/artigos-editoriais/7442452e2c4b1174637c88951abc0fbeb9902ede9fb0a2d6bfb56362f3c97351.jpg",
+    "bytes": 3114567,
+    "sha256": "7442452e2c4b1174637c88951abc0fbeb9902ede9fb0a2d6bfb56362f3c97351"
   },
   {
     "path": "assets/artigos-editoriais/7899c96f95d6f9afe8f9a394272a5a5929b237aab1736be988ff00a86a0b133d.png",
@@ -1096,8 +1101,8 @@
   },
   {
     "path": "blog-marcas-em-acao/index.html",
-    "bytes": 23425,
-    "sha256": "3e9ea4a8c823f94224112a1fb3407fb0946afbddbb9f121eb42e23293ede97fc"
+    "bytes": 25606,
+    "sha256": "529cca772c3c62c8cd97d769f6862eb1056e68e9a2aa2bcf77d2c5d485534833"
   },
   {
     "path": "blog-marcas-em-movimento/index.html",
@@ -1116,8 +1121,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 25545,
-    "sha256": "ce6e8ee6e52615a2306a748434dcc1cc32d0cd60b2ea45e19cfe0eb8508529b6"
+    "bytes": 25530,
+    "sha256": "c30deebffa5e881738c057b358e43ff014b4c560527f9814603ba3ab66974b75"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1143,6 +1148,11 @@
     "path": "branding-para-pequenos-negocios/index.html",
     "bytes": 15135,
     "sha256": "ad83636648fdd86a060b7bf4ea2e874f61f72e7dcb32bb0d9df88c91b05d5bb7"
+  },
+  {
+    "path": "busca-interna-loja-linguagem-cliente/index.html",
+    "bytes": 25796,
+    "sha256": "96b94714563e532a46f90fdec781b8f9f7c72328a2d578a0532b653f96f29b2a"
   },
   {
     "path": "clientes-nao-compram-produtos-compram-a-energia-da-sua-marca/index.html",
@@ -1591,8 +1601,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 18515,
-    "sha256": "7ac9bd26a34234a6b6efa0b5cccdbe00b4f2893f6bb6e518b43e3c25d2602a54"
+    "bytes": 18655,
+    "sha256": "d90dd25b79873899a1969569168d192bfd3ee4732cf057fd57b900fceef38f72"
   },
   {
     "path": "solucao-tecnica-aplicacao-limites/index.html",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "142dfd6c9177a308acafb305d4d706a6af994789175935e572a7cff58cccd4ab",
+  "catalogSha256": "1058e486b99f388e7829d998f9569aec8ff2812a579554a563b117f9a1f3c5bd",
   "reviewedAt": "2026-11-10",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -938,6 +938,14 @@
       ],
       "reason": "Complementam a passagem entre responsáveis com registros fiéis de decisões e pendências e com critérios para manter referências de trabalho atualizadas.",
       "modifiedAt": "2026-11-11"
+    },
+    "busca-interna-loja-linguagem-cliente": {
+      "targets": [
+        "nome-produto-clareza-proposta",
+        "testar-experiencia-alem-equipe-interna"
+      ],
+      "reason": "Nome de produto aprofunda as pistas de entendimento da oferta; avaliação além da equipe interna aprofunda o teste de tarefas sem ensinar previamente o vocabulário esperado.",
+      "modifiedAt": "2026-11-12"
     }
   }
 }

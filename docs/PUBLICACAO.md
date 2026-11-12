@@ -329,3 +329,8 @@ Reavaliados os dois relacionados dos 116 artigos: cinco pares atualizados e 111 
 ## Publicação editorial - 11/11/2026
 
 Publicado o artigo aprovado “As contas de marketing continuam acessíveis quando o parceiro muda?”, na data programada, em /contas-marketing-acessos-continuidade/. Um link natural no corpo e duas recomendações finais, preservando as entradas anteriores. Dry-run aprovado, FTP/HTTP confirmados e conferência desktop/mobile. Mantidos home, cabeçalhos e rodapés públicos dos índices e configuração de 404. Somente a lista de rotas canônicas recebeu o novo slug.
+
+
+## Publicação editorial - 12/11/2026
+
+Publicado o artigo aprovado “A busca da sua loja entende o jeito como o cliente pede?”, na data programada, em /busca-interna-loja-linguagem-cliente/. Um link natural no corpo e duas recomendações finais, preservando as entradas anteriores. Dry-run aprovado, FTP/HTTP confirmados e conferência desktop/mobile. Mantidos home, cabeçalhos e rodapés públicos dos índices e configuração de 404. Somente a lista de rotas canônicas recebeu o novo slug.
