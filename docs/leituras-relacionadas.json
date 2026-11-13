@@ -1,7 +1,7 @@
 {
   "version": 1,
   "catalogSha256": "1058e486b99f388e7829d998f9569aec8ff2812a579554a563b117f9a1f3c5bd",
-  "reviewedAt": "2026-11-10",
+  "reviewedAt": "2026-11-12",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
       "targets": [
@@ -701,11 +701,11 @@
     },
     "nome-produto-clareza-proposta": {
       "targets": [
-        "proposta-comercial-comparavel-criterios",
+        "busca-interna-loja-linguagem-cliente",
         "embalagem-diferenciar-versoes-produto"
       ],
-      "reason": "Mantém a comparação de propostas e aprofunda a leitura das diferenças e da hierarquia entre versões na embalagem.",
-      "modifiedAt": "2026-11-10"
+      "reason": "A busca interna aprofunda o vocabulário usado para encontrar a oferta; a embalagem permanece como complemento direto da distinção entre versões e descritores.",
+      "modifiedAt": "2026-11-12"
     },
     "design-embalagem-gesto-uso": {
       "targets": [
@@ -894,10 +894,10 @@
     "apresentacao-comercial-manutencao-proxima-versao": {
       "targets": [
         "informacoes-empresa-atualizadas-canais",
-        "ia-materiais-marca-alem-das-cores"
+        "contas-marketing-acessos-continuidade"
       ],
-      "reason": "Relaciona manutenção das informações e referências de marca entre versões.",
-      "modifiedAt": "2026-11-07"
+      "reason": "Preserva a atualização das informações públicas e acrescenta o aprofundamento direto da dependência de contas e permissões para manter a apresentação acessível nas trocas de responsáveis.",
+      "modifiedAt": "2026-11-12"
     },
     "comunidade-marca-cuidado-moderacao": {
       "targets": [
