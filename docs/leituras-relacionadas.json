@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "1058e486b99f388e7829d998f9569aec8ff2812a579554a563b117f9a1f3c5bd",
+  "catalogSha256": "7715296ddb09d9cae647d2d86b28b6b5f3d533986a247f4934262275356d5547",
   "reviewedAt": "2026-11-12",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -946,6 +946,14 @@
       ],
       "reason": "Nome de produto aprofunda as pistas de entendimento da oferta; avaliação além da equipe interna aprofunda o teste de tarefas sem ensinar previamente o vocabulário esperado.",
       "modifiedAt": "2026-11-12"
+    },
+    "comprar-presentear-orientar-escolha": {
+      "targets": [
+        "solucao-tecnica-aplicacao-limites",
+        "proposta-comercial-comparavel-criterios"
+      ],
+      "reason": "Aplicação e limites aprofunda a adequação ao contexto de uso que o presenteador talvez desconheça; propostas comparáveis desenvolve os critérios equivalentes para avaliar alternativas.",
+      "modifiedAt": "2026-11-13"
     }
   }
 }

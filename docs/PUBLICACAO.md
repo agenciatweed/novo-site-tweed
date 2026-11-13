@@ -339,3 +339,8 @@ Publicado o artigo aprovado “A busca da sua loja entende o jeito como o client
 ## Manutenção editorial ciclo 110 - 12/11/2026
 
 Reavaliados os dois relacionados dos 118 artigos: dois pares atualizados e 116 preservados. Inseridos dois links naturais de entrada para os artigos recentes sobre continuidade das contas de marketing e busca interna: a apresentação comercial aponta para contas e permissões, e o nome de produto aponta para a linguagem usada na busca. Mantidos os demais vínculos úteis e o limite de quatro links por corpo. Publicadas somente duas páginas de artigos e o sitemap, com hashes prévios, backups, upload temporário, renomeação e confirmação FTP/HTTP. Conferências desktop/mobile e validadores aprovados. Textos, capas, tracking, cabeçalhos, rodapés e home preservados. Próxima manutenção: execução 120.
+
+
+## Publicação editorial - 13/11/2026
+
+Publicado o artigo aprovado “Quem compra para presentear encontra as respostas de que precisa?”, na data programada, em /comprar-presentear-orientar-escolha/. Um link natural no corpo e duas recomendações finais, preservando as entradas anteriores. Dry-run aprovado, FTP/HTTP confirmados e conferência desktop/mobile. Mantidos home, cabeçalhos e rodapés públicos dos índices e configuração de 404. Somente a lista de rotas canônicas recebeu o novo slug.

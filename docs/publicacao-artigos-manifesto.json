@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 6941,
-    "sha256": "c641dd3707c3b0a1845d3fbd9f1f4ae7bc3f8023cb78613d82d7a3cddeb5d1aa"
+    "bytes": 6980,
+    "sha256": "ffe07f3c4e0db239c28d859a8932a629a03fa4ab0e09f0c5b46c2e1c836ecb4c"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -378,6 +378,11 @@
     "path": "assets/artigos-editoriais/f19ec057bdd41cd427367b2cf0551c8b7f723bfd900f59d6e3c30058b7835397.png",
     "bytes": 1800690,
     "sha256": "f19ec057bdd41cd427367b2cf0551c8b7f723bfd900f59d6e3c30058b7835397"
+  },
+  {
+    "path": "assets/artigos-editoriais/f238f6636587b492714cc0fe4f3fe7dbc431f395b6cf54780b03fb8bc83cd578.jpg",
+    "bytes": 3162267,
+    "sha256": "f238f6636587b492714cc0fe4f3fe7dbc431f395b6cf54780b03fb8bc83cd578"
   },
   {
     "path": "assets/artigos-editoriais/fcf4a30673fd1b3731d8b9456544bc4d7d7c1a1509905a79e075bb2aa792670c.png",
@@ -1101,8 +1106,8 @@
   },
   {
     "path": "blog-marcas-em-acao/index.html",
-    "bytes": 25606,
-    "sha256": "529cca772c3c62c8cd97d769f6862eb1056e68e9a2aa2bcf77d2c5d485534833"
+    "bytes": 26180,
+    "sha256": "8fe9f8a61c371e6eceb1f9493fe54369aa7aa58a2e5509c91a6aae24dbb2a96c"
   },
   {
     "path": "blog-marcas-em-movimento/index.html",
@@ -1121,8 +1126,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 25530,
-    "sha256": "c30deebffa5e881738c057b358e43ff014b4c560527f9814603ba3ab66974b75"
+    "bytes": 25541,
+    "sha256": "bb88f170c1f4e2285e619da4f2c63d807d31276d09a5c15d270c536c2be518a8"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1178,6 +1183,11 @@
     "path": "como-parecer-grande-sem-ser-grande-os-segredos-do-branding-enxuto/index.html",
     "bytes": 15590,
     "sha256": "270597bb861c7bee886378e3666042caa87afd9ce3d50211a6ca304a88e70e5a"
+  },
+  {
+    "path": "comprar-presentear-orientar-escolha/index.html",
+    "bytes": 25926,
+    "sha256": "a06df9e340fe6a9d13888c1046bb3d6e4ab9b5114d8d8fafcf2543ce438cd5be"
   },
   {
     "path": "comunicar-melhoria-ambiental-escopo-evidencia/index.html",
@@ -1601,8 +1611,8 @@
   },
   {
     "path": "sitemap.xml",
-    "sha256": "b9426d48d3491e9d19470650f812e6bcbaa5a68cb9b817c7a41c774dbd5585e6",
-    "bytes": 18655
+    "bytes": 18794,
+    "sha256": "b99d9954fef179037a68c24dde95b801b96266b4b9f063662451f83d3e198d3a"
   },
   {
     "path": "solucao-tecnica-aplicacao-limites/index.html",

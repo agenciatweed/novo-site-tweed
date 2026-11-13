@@ -952,6 +952,14 @@
       "context": "Depois da escolha, confira se a equipe consegue descrever a novidade de maneira consistente. O comercial precisa entender a relação com as opções anteriores. O conteúdo precisa saber quais diferenças destacar. O atendimento precisa reconhecer o pedido mesmo quando o cliente usa uma descrição aproximada.",
       "reason": "Aplica ao catálogo e à busca interna a diferença entre a denominação interna e a descrição usada pelo cliente para encontrar a oferta.",
       "modifiedAt": "2026-11-12"
+    },
+    {
+      "from": "comprar-presentear-orientar-escolha",
+      "to": "proposta-comercial-comparavel-criterios",
+      "anchor": "Use os mesmos critérios nas opções pertinentes",
+      "context": "Escolha informações que permitam comparar essas alternativas. Na loja hipotética, podem ser o conteúdo do conjunto, a finalidade e a necessidade de materiais complementares. Use os mesmos critérios nas opções pertinentes, para que a pessoa não precise reconstruir a comparação sozinha.",
+      "reason": "Aprofunda a comparação de alternativas por informações equivalentes de conteúdo, finalidade e condições de uso.",
+      "modifiedAt": "2026-11-13"
     }
   ]
 }
