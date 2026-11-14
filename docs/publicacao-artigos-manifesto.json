@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 6980,
-    "sha256": "ffe07f3c4e0db239c28d859a8932a629a03fa4ab0e09f0c5b46c2e1c836ecb4c"
+    "bytes": 7018,
+    "sha256": "f9bb64a499a1d31677af5e7959660b4124ef515e810c5fb3de3135f3c7c4d036"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -108,6 +108,11 @@
     "path": "assets/artigos-editoriais/222e996763efe861bda6c4078abac3def6f678f182b2ece4e94bb26f0dccf220.png",
     "bytes": 1609253,
     "sha256": "222e996763efe861bda6c4078abac3def6f678f182b2ece4e94bb26f0dccf220"
+  },
+  {
+    "path": "assets/artigos-editoriais/23efa0e5cd293cea7ecf2a60d1ea766750ab1e6a81393b6b4c74fbf562ebbf04.png",
+    "bytes": 2184851,
+    "sha256": "23efa0e5cd293cea7ecf2a60d1ea766750ab1e6a81393b6b4c74fbf562ebbf04"
   },
   {
     "path": "assets/artigos-editoriais/29e1a288378f0d849790ae7d49d61f3c8fade226070dfc0ab538c26f3d867e4a.png",
@@ -1106,8 +1111,8 @@
   },
   {
     "path": "blog-marcas-em-acao/index.html",
-    "bytes": 26180,
-    "sha256": "8fe9f8a61c371e6eceb1f9493fe54369aa7aa58a2e5509c91a6aae24dbb2a96c"
+    "bytes": 26714,
+    "sha256": "19a0ef7ddbaac39ecabc084ea4f6d2087acfe3deba9a229d8814699d528c9757"
   },
   {
     "path": "blog-marcas-em-movimento/index.html",
@@ -1126,8 +1131,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 25541,
-    "sha256": "bb88f170c1f4e2285e619da4f2c63d807d31276d09a5c15d270c536c2be518a8"
+    "bytes": 25504,
+    "sha256": "38c6740bbf99992b6b895dd4f8eabef836f7aedcf18b3866faf15c99c85455ec"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1545,6 +1550,11 @@
     "sha256": "d3d8af883252eade3c2c17c6a8b58152919308226ce538d47e9dd1eafc1c6c1c"
   },
   {
+    "path": "qr-code-embalagem-informacao-util/index.html",
+    "bytes": 25688,
+    "sha256": "038f9d1bf5948a52376603d1e635e829009c61ceeb5603d53c1c2ccd7a7925bb"
+  },
+  {
     "path": "qual-e-o-arquetipo-da-sua-concorrencia-e-por-que-voce-deveria-saber-disso/index.html",
     "bytes": 16931,
     "sha256": "e9ea77e262a27a1f09b72a5c9969802525b194e27906002f3c64409a7dd62a76"
@@ -1611,8 +1621,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 18794,
-    "sha256": "b99d9954fef179037a68c24dde95b801b96266b4b9f063662451f83d3e198d3a"
+    "bytes": 18931,
+    "sha256": "9307eee58d024beb3e63ab13f49c2dcd0ceb3714b9f241184749a96d0294312d"
   },
   {
     "path": "solucao-tecnica-aplicacao-limites/index.html",

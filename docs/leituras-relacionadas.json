@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "7715296ddb09d9cae647d2d86b28b6b5f3d533986a247f4934262275356d5547",
+  "catalogSha256": "b0169af54970d9556643e03e85925e150aff59ce7a9baacc72332cce6f1bd30f",
   "reviewedAt": "2026-11-12",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -954,6 +954,14 @@
       ],
       "reason": "Aplicação e limites aprofunda a adequação ao contexto de uso que o presenteador talvez desconheça; propostas comparáveis desenvolve os critérios equivalentes para avaliar alternativas.",
       "modifiedAt": "2026-11-13"
+    },
+    "qr-code-embalagem-informacao-util": {
+      "targets": [
+        "embalagem-diferenciar-versoes-produto",
+        "informacoes-empresa-atualizadas-canais"
+      ],
+      "reason": "A identificação das versões ajuda a associar o acesso impresso ao produto correto; a atualização dos canais aprofunda a responsabilidade por manter disponíveis as informações que a marca promete.",
+      "modifiedAt": "2026-11-14"
     }
   }
 }

@@ -831,5 +831,12 @@
     "height": 1696,
     "source": "conteudos/pauta-diaria-2026-11-08/imagens/f238f6636587b492714cc0fe4f3fe7dbc431f395b6cf54780b03fb8bc83cd578.jpg",
     "sha256": "f238f6636587b492714cc0fe4f3fe7dbc431f395b6cf54780b03fb8bc83cd578"
+  },
+  "qr-code-embalagem-informacao-util": {
+    "path": "/assets/artigos-editoriais/23efa0e5cd293cea7ecf2a60d1ea766750ab1e6a81393b6b4c74fbf562ebbf04.png",
+    "width": 1536,
+    "height": 1024,
+    "source": "conteudos/pauta-reposicao-2026-11-08-d6c055aec7e0/imagens/23efa0e5cd293cea7ecf2a60d1ea766750ab1e6a81393b6b4c74fbf562ebbf04.png",
+    "sha256": "23efa0e5cd293cea7ecf2a60d1ea766750ab1e6a81393b6b4c74fbf562ebbf04"
   }
 }

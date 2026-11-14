@@ -344,3 +344,8 @@ Reavaliados os dois relacionados dos 118 artigos: dois pares atualizados e 116 p
 ## Publicação editorial - 13/11/2026
 
 Publicado o artigo aprovado “Quem compra para presentear encontra as respostas de que precisa?”, na data programada, em /comprar-presentear-orientar-escolha/. Um link natural no corpo e duas recomendações finais, preservando as entradas anteriores. Dry-run aprovado, FTP/HTTP confirmados e conferência desktop/mobile. Mantidos home, cabeçalhos e rodapés públicos dos índices e configuração de 404. Somente a lista de rotas canônicas recebeu o novo slug.
+
+
+## Publicação editorial - 14/11/2026
+
+Publicado o artigo aprovado “O QR code da sua embalagem leva a uma informação que continua útil?”, na data programada, em /qr-code-embalagem-informacao-util/. Um link natural no corpo e duas recomendações finais, preservando as entradas anteriores. Dry-run aprovado, FTP/HTTP confirmados e conferência desktop/mobile. Mantidos home, cabeçalhos e rodapés públicos dos índices e configuração de 404. Somente a lista de rotas canônicas recebeu o novo slug.
