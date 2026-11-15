@@ -1096,8 +1096,8 @@
   },
   {
     "path": "atendimento-troca-clareza-encaminhamento/index.html",
-    "bytes": 25519,
-    "sha256": "ccc504aa3ee4c25526c77051dc0f637f974ecb40ddf4d3d18be632090b17d899"
+    "sha256": "764dd2e3215630d246fa16bb6dcd0a3dc46770727764a2560a49dbef35533e20",
+    "bytes": 25566
   },
   {
     "path": "atribuicao-vendas-efeito-campanha/index.html",
@@ -1631,8 +1631,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 19074,
-    "sha256": "a603d25f91e5197a74629feb4521a4d840acd70c109761d3f5572d240952c670"
+    "sha256": "d5938ef1dab9fa545d81f66af629d42e8a536f34095acb9f4b3eee0eb6175c9d",
+    "bytes": 19074
   },
   {
     "path": "solucao-tecnica-aplicacao-limites/index.html",

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "catalogSha256": "fd1a2c8fd0518717001100098e6318eaf98509f71e00d5d3f1891e0da76b85e2",
-  "reviewedAt": "2026-11-12",
+  "reviewedAt": "2026-11-15",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
       "targets": [
@@ -670,10 +670,10 @@
     "atendimento-troca-clareza-encaminhamento": {
       "targets": [
         "o-atendimento-esta-desmentindo-o-seu-posicionamento",
-        "informacoes-empresa-atualizadas-canais"
+        "mensagem-automatica-recebimento-solucao"
       ],
-      "reason": "Complementam a continuidade da solicitação com responsabilidade no atendimento e coerência das orientações públicas.",
-      "modifiedAt": "2026-10-28"
+      "modifiedAt": "2026-11-15",
+      "reason": "Mantém o posicionamento no atendimento e aprofunda a distinção entre confirmar recebimento e resolver a solicitação, tratada diretamente no texto."
     },
     "imagem-campanha-prova-entrega": {
       "targets": [
