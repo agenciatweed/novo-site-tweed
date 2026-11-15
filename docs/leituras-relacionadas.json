@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "b0169af54970d9556643e03e85925e150aff59ce7a9baacc72332cce6f1bd30f",
+  "catalogSha256": "f88c9ce781d6bb515401171c37ff322f94251b427c35e89668f5c094dbf0cc50",
   "reviewedAt": "2026-11-12",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -962,6 +962,14 @@
       ],
       "reason": "A identificação das versões ajuda a associar o acesso impresso ao produto correto; a atualização dos canais aprofunda a responsabilidade por manter disponíveis as informações que a marca promete.",
       "modifiedAt": "2026-11-14"
+    },
+    "mensagem-automatica-recebimento-solucao": {
+      "targets": [
+        "atendimento-troca-clareza-encaminhamento",
+        "informacoes-empresa-atualizadas-canais"
+      ],
+      "reason": "O percurso de atendimento aprofunda a passagem entre responsáveis sem perder o contexto; a atualização dos canais ajuda a manter corretas as informações e referências oferecidas automaticamente.",
+      "modifiedAt": "2026-11-15"
     }
   }
 }

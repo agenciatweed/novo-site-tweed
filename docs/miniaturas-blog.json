@@ -838,5 +838,12 @@
     "height": 1024,
     "source": "conteudos/pauta-reposicao-2026-11-08-d6c055aec7e0/imagens/23efa0e5cd293cea7ecf2a60d1ea766750ab1e6a81393b6b4c74fbf562ebbf04.png",
     "sha256": "23efa0e5cd293cea7ecf2a60d1ea766750ab1e6a81393b6b4c74fbf562ebbf04"
+  },
+  "mensagem-automatica-recebimento-solucao": {
+    "path": "/assets/artigos-editoriais/3e29b06f788e2f071ce392789ee340886f6bab710c1fe5655cc02e7b7197ff30.png",
+    "width": 1536,
+    "height": 1024,
+    "source": "conteudos/pauta-diaria-2026-11-09/imagens/3e29b06f788e2f071ce392789ee340886f6bab710c1fe5655cc02e7b7197ff30.png",
+    "sha256": "3e29b06f788e2f071ce392789ee340886f6bab710c1fe5655cc02e7b7197ff30"
   }
 }

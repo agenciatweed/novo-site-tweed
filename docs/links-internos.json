@@ -968,6 +968,14 @@
       "context": "A equipe precisa conferir as informações com quem conhece o produto. Nomes, imagens e referências devem permitir reconhecer a versão pertinente. Dados desconhecidos continuam sendo pontos a esclarecer, em vez de receber uma resposta genérica para completar o conteúdo.",
       "reason": "Aprofunda a identificação da versão correta do produto, necessária para associar o QR code às orientações pertinentes.",
       "modifiedAt": "2026-11-14"
+    },
+    {
+      "from": "mensagem-automatica-recebimento-solucao",
+      "to": "atendimento-troca-clareza-encaminhamento",
+      "anchor": "quem recebe cada tipo de solicitação",
+      "context": "Na PME hipotética, vale verificar quem recebe cada tipo de solicitação e como identifica o que ainda depende de resposta. Uma dúvida sobre aplicação do produto pode precisar de um responsável diferente de uma pergunta sobre disponibilidade.",
+      "reason": "Aprofunda a definição de quem recebe e acompanha solicitações, para que a continuidade anunciada na mensagem corresponda a um percurso de atendimento real.",
+      "modifiedAt": "2026-11-15"
     }
   ]
 }

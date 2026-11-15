@@ -349,3 +349,8 @@ Publicado o artigo aprovado “Quem compra para presentear encontra as respostas
 ## Publicação editorial - 14/11/2026
 
 Publicado o artigo aprovado “O QR code da sua embalagem leva a uma informação que continua útil?”, na data programada, em /qr-code-embalagem-informacao-util/. Um link natural no corpo e duas recomendações finais, preservando as entradas anteriores. Dry-run aprovado, FTP/HTTP confirmados e conferência desktop/mobile. Mantidos home, cabeçalhos e rodapés públicos dos índices e configuração de 404. Somente a lista de rotas canônicas recebeu o novo slug.
+
+
+## Publicação editorial - 15/11/2026
+
+Publicado o artigo aprovado “Sua mensagem automática confirma o recebimento ou promete que resolveu?”, na data programada, em /mensagem-automatica-recebimento-solucao/. Um link natural no corpo e duas recomendações finais, preservando as entradas anteriores. Dry-run aprovado, FTP/HTTP confirmados e conferência desktop/mobile. Mantidos home, cabeçalhos e rodapés públicos dos índices e configuração de 404. Somente a lista de rotas canônicas recebeu o novo slug.
