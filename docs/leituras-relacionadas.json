@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "fd1a2c8fd0518717001100098e6318eaf98509f71e00d5d3f1891e0da76b85e2",
+  "catalogSha256": "9159e3312ddf4f2dfc1c73cb0076f219cb976982ccda5f26760ee5289ada3463",
   "reviewedAt": "2026-11-15",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -970,6 +970,14 @@
       ],
       "reason": "O percurso de atendimento aprofunda a passagem entre responsáveis sem perder o contexto; a atualização dos canais ajuda a manter corretas as informações e referências oferecidas automaticamente.",
       "modifiedAt": "2026-11-15"
+    },
+    "evento-informar-recursos-acessibilidade": {
+      "targets": [
+        "testar-experiencia-alem-equipe-interna",
+        "informacoes-empresa-atualizadas-canais"
+      ],
+      "modifiedAt": "2026-11-15",
+      "reason": "Aprofundam a avaliação da experiência por pessoas externas e a manutenção das condições confirmadas nos canais de divulgação."
     }
   }
 }

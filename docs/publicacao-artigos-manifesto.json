@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 7061,
-    "sha256": "d15fdf78a37362885d141e87789032523ea618b0afae3ae9a33df51c52b1fc72"
+    "bytes": 7104,
+    "sha256": "13663c3ac46aeeeee53f1965c8c92f9b49c2ef80032c274d8ff11305e1b603d9"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -283,6 +283,11 @@
     "path": "assets/artigos-editoriais/a6dd2bf7169dcac49d3ff6bcf81b321ed7225a9c7ad58d8edd84068f4edd6361.png",
     "bytes": 1547672,
     "sha256": "a6dd2bf7169dcac49d3ff6bcf81b321ed7225a9c7ad58d8edd84068f4edd6361"
+  },
+  {
+    "path": "assets/artigos-editoriais/aaeb9ada4785236a30033aefac866dafe45b0e39a51d8239ceafdca16b2fbcf1.png",
+    "bytes": 1353708,
+    "sha256": "aaeb9ada4785236a30033aefac866dafe45b0e39a51d8239ceafdca16b2fbcf1"
   },
   {
     "path": "assets/artigos-editoriais/ae9f3bd17cf015ecd2daf788c993b50e6b0171e45c63620286f7238a99e0afb9.png",
@@ -1116,8 +1121,8 @@
   },
   {
     "path": "blog-marcas-em-acao/index.html",
-    "bytes": 27301,
-    "sha256": "ea886823e33feabe3fce1d155cfba2e21ffff3285f9b6fbda6701b16e63c597c"
+    "bytes": 27892,
+    "sha256": "02cad5a7ffcbebe55387910325638bdec95e03ab205fbd8bd225b6ff0fbd491b"
   },
   {
     "path": "blog-marcas-em-movimento/index.html",
@@ -1136,8 +1141,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 25542,
-    "sha256": "b1b850e416756024d998ac901207c0fd655091a2081f0e7146323b6ae4d78c16"
+    "bytes": 25579,
+    "sha256": "b92331eb942f061cd067e294a99b56e49ac4fe69b8b21dbdc577997deb6ac728"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1278,6 +1283,11 @@
     "path": "escolher-influenciador-conversa-publico/index.html",
     "bytes": 26389,
     "sha256": "838c512bd1776dcd3f80adf96e697d8e40e6fe4fb4a428ce28b1e1aa2610d015"
+  },
+  {
+    "path": "evento-informar-recursos-acessibilidade/index.html",
+    "bytes": 25973,
+    "sha256": "9b22d8b2c08d6a435273dd55d5ed573d788e695861a7954b2ca5fb59e2b72503"
   },
   {
     "path": "experiencia-sensorial-marca-sentido/index.html",
@@ -1631,8 +1641,8 @@
   },
   {
     "path": "sitemap.xml",
-    "sha256": "d5938ef1dab9fa545d81f66af629d42e8a536f34095acb9f4b3eee0eb6175c9d",
-    "bytes": 19074
+    "bytes": 19217,
+    "sha256": "94fadb6580b3fddca81697b5367e6dc5b1a116ac8765a5155e210317b7f55756"
   },
   {
     "path": "solucao-tecnica-aplicacao-limites/index.html",
