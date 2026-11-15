@@ -13,7 +13,7 @@
       "from": "o-custo-invisivel-de-coordenar-o-proprio-marketing",
       "to": "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding",
       "anchor": "uma página que não sustenta seu argumento",
-      "context": "O exemplo é hipotético, mas ajuda a distinguir qualidade de uma peça e qualidade de um sistema de comunicação. Uma campanha pode ter ótima execução e apontar para uma página que não sustenta seu argumento. Uma identidade visual pode ser consistente enquanto a proposta comercial vende um serviço que a operação já não oferece.",
+      "context": "Essa situação ajuda a distinguir qualidade de uma peça e qualidade de um sistema de comunicação. Uma campanha pode ter ótima execução e apontar para uma página que não sustenta seu argumento. Uma identidade visual pode ser consistente enquanto a proposta comercial vende um serviço que a operação já não oferece.",
       "reason": "O trecho mostra como uma campanha perde coerência na página de destino; o artigo de UX explica como o site sustenta a promessa da marca.",
       "modifiedAt": "2026-10-17"
     },
@@ -637,7 +637,7 @@
       "from": "marca-causa-explicar-produto-novos-publicos",
       "to": "comunicar-melhoria-ambiental-escopo-evidencia",
       "anchor": "a que parte da produção eles se aplicam",
-      "context": "Na marca hipotética, uma seção pode explicar quais compromissos orientam as escolhas e a que parte da produção eles se aplicam. A descrição do produto pode indicar materiais e encaminhar a uma explicação mais completa, sem fazer o visitante procurar uma informação básica em vários lugares.",
+      "context": "Na marca, uma seção pode explicar quais compromissos orientam as escolhas e a que parte da produção eles se aplicam. A descrição do produto pode indicar materiais e encaminhar a uma explicação mais completa, sem fazer o visitante procurar uma informação básica em vários lugares.",
       "reason": "Aprofunda a delimitação de compromissos e afirmações ambientais sem ampliar seu alcance.",
       "modifiedAt": "2026-11-06"
     },
@@ -693,7 +693,7 @@
       "from": "contexto-veiculacao-anuncios-marca",
       "to": "plano-de-midia-2027-alem-de-uma-plataforma",
       "anchor": "parceiro de mídia",
-      "context": "Imagine uma pequena empresa de serviços que prepara uma campanha com seu parceiro de mídia. É um exemplo hipotético. Na aprovação, alguém pede que a marca apareça apenas em ambientes adequados. Todos concordam, mas ninguém explica o que essa expressão significa para aquela comunicação.",
+      "context": "Imagine uma pequena empresa de serviços que prepara uma campanha com seu parceiro de mídia. Na aprovação, alguém pede que a marca apareça apenas em ambientes adequados. Todos concordam, mas ninguém explica o que essa expressão significa para aquela comunicação.",
       "reason": "Relaciona escolhas de veiculação ao planejamento de mídia e critérios de participação da marca.",
       "modifiedAt": "2026-11-07"
     },
@@ -709,7 +709,7 @@
       "from": "resumo-reuniao-decisoes-pendencias",
       "to": "aprovacao-campanha-feedback-decisoes",
       "anchor": "os pontos que precisam de confirmação antes do início da produção",
-      "context": "Na PME hipotética, a equipe pode destacar os pontos que precisam de confirmação antes do início da produção. Uma dúvida sobre a data ou o alcance da peça deve chegar a quem tem condições de esclarecê-la.",
+      "context": "Na PME, a equipe pode destacar os pontos que precisam de confirmação antes do início da produção. Uma dúvida sobre a data ou o alcance da peça deve chegar a quem tem condições de esclarecê-la.",
       "reason": "Relaciona confirmação de decisões e referências que orientam execução.",
       "modifiedAt": "2026-11-07"
     },
@@ -925,7 +925,7 @@
       "from": "contas-marketing-acessos-continuidade",
       "to": "resumo-reuniao-decisoes-pendencias",
       "anchor": "os responsáveis confirmados e as pendências pertinentes",
-      "context": "Na PME hipotética, uma passagem de trabalho pode identificar quais ativos estão no escopo, os responsáveis confirmados e as pendências pertinentes. Cada ponto deve permitir entender o encaminhamento esperado sem exigir reconstruir todas as conversas anteriores.",
+      "context": "Na PME, uma passagem de trabalho pode identificar quais ativos estão no escopo, os responsáveis confirmados e as pendências pertinentes. Cada ponto deve permitir entender o encaminhamento esperado sem exigir reconstruir todas as conversas anteriores.",
       "reason": "Aprofunda o registro da passagem de trabalho, distinguindo responsabilidades e decisões confirmadas das pendências.",
       "modifiedAt": "2026-11-11"
     },
@@ -957,7 +957,7 @@
       "from": "comprar-presentear-orientar-escolha",
       "to": "proposta-comercial-comparavel-criterios",
       "anchor": "Use os mesmos critérios nas opções pertinentes",
-      "context": "Escolha informações que permitam comparar essas alternativas. Na loja hipotética, podem ser o conteúdo do conjunto, a finalidade e a necessidade de materiais complementares. Use os mesmos critérios nas opções pertinentes, para que a pessoa não precise reconstruir a comparação sozinha.",
+      "context": "Escolha informações que permitam comparar essas alternativas. Na loja, podem ser o conteúdo do conjunto, a finalidade e a necessidade de materiais complementares. Use os mesmos critérios nas opções pertinentes, para que a pessoa não precise reconstruir a comparação sozinha.",
       "reason": "Aprofunda a comparação de alternativas por informações equivalentes de conteúdo, finalidade e condições de uso.",
       "modifiedAt": "2026-11-13"
     },
@@ -973,7 +973,7 @@
       "from": "mensagem-automatica-recebimento-solucao",
       "to": "atendimento-troca-clareza-encaminhamento",
       "anchor": "quem recebe cada tipo de solicitação",
-      "context": "Na PME hipotética, vale verificar quem recebe cada tipo de solicitação e como identifica o que ainda depende de resposta. Uma dúvida sobre aplicação do produto pode precisar de um responsável diferente de uma pergunta sobre disponibilidade.",
+      "context": "Na PME, vale verificar quem recebe cada tipo de solicitação e como identifica o que ainda depende de resposta. Uma dúvida sobre aplicação do produto pode precisar de um responsável diferente de uma pergunta sobre disponibilidade.",
       "reason": "Aprofunda a definição de quem recebe e acompanha solicitações, para que a continuidade anunciada na mensagem corresponda a um percurso de atendimento real.",
       "modifiedAt": "2026-11-15"
     }

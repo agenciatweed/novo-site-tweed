@@ -67,6 +67,9 @@ def main():
 
 def publish(args,editorial):
     queue=load(editorial/'editorial/fila.json');job=next(j for j in queue['jobs'] if j['id']==args.job);doc=load(editorial/'editorial/pautas.json');item=next(i for i in doc['items'] if i['id']==job['itemId']);guard(item,job)
+    # O lock do painel inclui a escolha da vaga e a confirmação da publicação.
+    window=json.loads(subprocess.check_output(['node',str(editorial/'scripts/publication-window.mjs')],cwd=editorial,encoding='utf8'))
+    assert window['job']==job['id'],'Este artigo não ocupa a vaga da rodada atual.'
     slug=item['slug'];source=editorial/item['imageFile'];image_bytes=source.read_bytes();assert sha(image_bytes)==source.stem,'Hash da capa divergente.'
     with Image.open(io.BytesIO(image_bytes)) as image:
         image.verify()
@@ -78,7 +81,7 @@ def publish(args,editorial):
     restored=load(ROOT/'docs/artigos-recuperados.json');assert slug not in {r['slug'] for r in restored},'Slug histórico já existente.'
     assert not any(r['slug']==slug and r.get('editorial_id')!=item['id'] for r in ledger),'Slug editorial já existente.'
     if not journal:assert not (ROOT/'site/parallax'/slug).exists(),'Pasta já existente: publicação cancelada.'
-    body,citations=render_body(item);img_path='/assets/artigos-editoriais/'+source.name;published=item['date']+'T12:00:00-03:00'
+    body,citations=render_body(item);img_path='/assets/artigos-editoriais/'+source.name;run_key=(journal or {}).get('runKey') or window['runKey'];published=datetime.datetime.fromisoformat(run_key.replace('Z','+00:00')).astimezone(datetime.timezone(datetime.timedelta(hours=-3))).isoformat(timespec='seconds')
     record={'id':'editorial-'+item['id'],'editorial_id':item['id'],'slug':slug,'title':item['title'],'original_url':BASE+'/'+slug+'/','author':'Felipe Rijo','published':published,'original_modified':published,'categories':[load(editorial/'editorial/editorias.json')['editorias'][item['edition']]['name']],'description':item['meta'],'content':body,'image':{'path':img_path,'width':width,'height':height,'source':item['imageFile'],'sha256':sha(image_bytes)},'image_alt':item['imageAlt'],'keyword':item['keyword'],'citations':citations,'faq':faq_metadata(item)}
     ledger=[r for r in ledger if r.get('editorial_id')!=item['id']]+[record]
     links_plan=load(args.links);assert links_plan['newSlug']==slug,'Plano de links pertence a outro artigo.'
@@ -122,7 +125,7 @@ def publish(args,editorial):
         if args.dry_run:return
         assert fingerprint(next(i for i in load(editorial/'editorial/pautas.json')['items'] if i['id']==item['id']))==job['snapshot'],'Aprovação mudou.'
         if not journal:
-            journal={'job':job['id'],'snapshot':job['snapshot'],'plan':plan,'startedAt':datetime.datetime.now(datetime.timezone.utc).isoformat()};write(journal_path,journal)
+            journal={'job':job['id'],'runKey':run_key,'snapshot':job['snapshot'],'plan':plan,'startedAt':datetime.datetime.now(datetime.timezone.utc).isoformat()};write(journal_path,journal)
         else:
             assert journal['snapshot']==job['snapshot'] and [(e['path'],e['sha256']) for e in journal['plan']]==[(e['path'],e['sha256']) for e in plan],'Plano divergente na retomada.'
             plan=journal['plan']
@@ -133,7 +136,7 @@ def publish(args,editorial):
         manifest=load(ROOT/'docs/publicacao-artigos-manifesto.json');by_path={e['path']:e for e in manifest}
         for entry in plan:by_path[entry['path']]={k:entry[k] for k in ('path','bytes','sha256')}
         write(ROOT/'docs/publicacao-artigos-manifesto.json',sorted(by_path.values(),key=lambda e:e['path']))
-        item['publication']={'state':'published','url':record['original_url'],'publishedAt':datetime.datetime.now(datetime.timezone.utc).isoformat(),'job':job['id'],'files':[e['path'] for e in plan]};item['url']=record['original_url'];item['image']=BASE+img_path
+        item['publication']={'state':'published','runKey':window['runKey'],'url':record['original_url'],'publishedAt':datetime.datetime.now(datetime.timezone.utc).isoformat(),'job':job['id'],'files':[e['path'] for e in plan]};item['url']=record['original_url'];item['image']=BASE+img_path
         write(editorial/'editorial/pautas.json',doc);write(editorial/'conteudos'/item['id']/'metadados.json',item)
         job['state']='done';job['completedAt']=datetime.datetime.now(datetime.timezone.utc).isoformat();write(editorial/'editorial/fila.json',queue)
         journal['completedAt']=job['completedAt'];write(journal_path,journal)

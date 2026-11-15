@@ -26,23 +26,23 @@
   },
   {
     "path": "acao-apoio-social-venda-mecanismo/index.html",
-    "bytes": 23318,
-    "sha256": "411a40d1392439d5532d63774db04862175e19d6736c9b97e0c8b6ed1fb4f6d6"
+    "bytes": 24946,
+    "sha256": "e1f9f587fbed83045e8476767aa3358009e95cef03958b2b8929e0578d99e983"
   },
   {
     "path": "acesso-reuniao-online-convidado/index.html",
-    "bytes": 23243,
-    "sha256": "d3031452b68301178741e29d9d27cc57293c9377b911b1079d02df8a3cc0c3f8"
+    "bytes": 24880,
+    "sha256": "55125588d13c2c7a3a9aca7190c5e269d731b2b490b1bbdcc99fcd30ebb32548"
   },
   {
     "path": "acompanhamento-apos-feira-proximo-passo/index.html",
-    "sha256": "4e886a8dac917a1936c489853d44e94ccf1adf36cad8de7fb4b66066523ef209",
-    "bytes": 24677
+    "sha256": "d72db97657d02d672b19a5b8e014af9c8a2352e6a33d586bbfc8330456ad5d57",
+    "bytes": 24574
   },
   {
     "path": "adocao-ia-equipe-conhecimento-compartilhado/index.html",
-    "sha256": "e4af35249a7394851bb2e5b2c0200ca806af01b9f3239b5735e4abce5b47a390",
-    "bytes": 25659
+    "sha256": "1d41a500b154ad22b438fdb45536c2b31bd902a642863249410345845cbbc53a",
+    "bytes": 25566
   },
   {
     "path": "alem-do-anuncio-como-o-boca-a-boca-mantem-sua-marca-viva-quando-a-propaganda-termina/index.html",
@@ -56,23 +56,23 @@
   },
   {
     "path": "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido/index.html",
-    "bytes": 20691,
-    "sha256": "a4a71ca89d62fd5072eeff077744391109d909a1cc30e7132343f9c98e0aa1f0"
+    "bytes": 22395,
+    "sha256": "99208b0826170def2b5a1b4b95fc105c2daf033217a6e32c87a96b52286ead81"
   },
   {
     "path": "aplicar-aprendizado-marketing-rotina/index.html",
-    "bytes": 24287,
-    "sha256": "84ac5b4b0cd3d06cfc0d6abc364927696fdd91a12831250b526b63f93b4f5652"
+    "bytes": 25901,
+    "sha256": "f3ec4cacbaf436cd0ac5284ff8cd8165f97d3f9002991a61fda7ba7b5cee91a9"
   },
   {
     "path": "apresentacao-comercial-manutencao-proxima-versao/index.html",
-    "sha256": "2197486ff87c58fed670f7cb82ed81fe7477a7853ed0cff2edffe27184589561",
-    "bytes": 25452
+    "sha256": "a50e3ffb52c2bf489f58ae6dc79ceeffc2f93e26e455f266ca533ea3b5b4b66b",
+    "bytes": 25352
   },
   {
     "path": "aprovacao-campanha-feedback-decisoes/index.html",
-    "sha256": "6b69e26dfc1652a57b66de9e62553c0af3ca07980c4e104d97276d4729bfaa96",
-    "bytes": 25245
+    "sha256": "f5e1ab8392157fe0fc251770f62d8050e0ab024e76c41001c58291cfb936723d",
+    "bytes": 25176
   },
   {
     "path": "arquetipos-de-marca-para-pequenas-empresas/index.html",
@@ -1096,13 +1096,13 @@
   },
   {
     "path": "atendimento-troca-clareza-encaminhamento/index.html",
-    "bytes": 23866,
-    "sha256": "08b23dccb1c0f129bcf8da0207d5fe40ed1975d415b289b3a00896478f5e06d9"
+    "bytes": 25519,
+    "sha256": "ccc504aa3ee4c25526c77051dc0f637f974ecb40ddf4d3d18be632090b17d899"
   },
   {
     "path": "atribuicao-vendas-efeito-campanha/index.html",
-    "bytes": 23512,
-    "sha256": "e1a5fcd7bf416235e2ab01ae55bbfe3fa62c66c8a4e8328fc563c01580d15249"
+    "bytes": 25149,
+    "sha256": "cdc50ecbd995ad6783cc37a88945c81792bd1bce6ac41e146d725c67320f3505"
   },
   {
     "path": "blog-branding-na-marra/index.html",
@@ -1166,8 +1166,8 @@
   },
   {
     "path": "busca-interna-loja-linguagem-cliente/index.html",
-    "bytes": 25796,
-    "sha256": "96b94714563e532a46f90fdec781b8f9f7c72328a2d578a0532b653f96f29b2a"
+    "bytes": 25693,
+    "sha256": "876acf38e1ac76d64b5d64d9d4c754cbce45fb5725cf94d387f628d317c08677"
   },
   {
     "path": "clientes-nao-compram-produtos-compram-a-energia-da-sua-marca/index.html",
@@ -1176,8 +1176,8 @@
   },
   {
     "path": "comentarios-parte-do-produto-experiencia-de-marca/index.html",
-    "sha256": "8872545d99f51efccd43b25550b69d87cadf9679fb6b0802cb1da319776e878e",
-    "bytes": 22068
+    "sha256": "ab48d3f3ea813eddabc1a5067d8de09d066b4e8f505bc49c51733917342a8cff",
+    "bytes": 22040
   },
   {
     "path": "como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos/index.html",
@@ -1196,33 +1196,33 @@
   },
   {
     "path": "comprar-presentear-orientar-escolha/index.html",
-    "bytes": 25926,
-    "sha256": "a06df9e340fe6a9d13888c1046bb3d6e4ab9b5114d8d8fafcf2543ce438cd5be"
+    "bytes": 25815,
+    "sha256": "d50ca5349cb6873d7b0514cbd5ad7d3d1f14af176657a7c805b0fa27ba414a05"
   },
   {
     "path": "comunicar-melhoria-ambiental-escopo-evidencia/index.html",
-    "bytes": 24366,
-    "sha256": "3db3314c0ba205dba972f08a06217f004f6ffe5e27927b9cd35d9c8e6dc8d03c"
+    "bytes": 25978,
+    "sha256": "e078a7f6b6f7e8efe035887c276e136bc6ee5470135df78d3bcdc64ae04dff53"
   },
   {
     "path": "comunicar-resultados-expectativas/index.html",
-    "bytes": 23425,
-    "sha256": "3a30996c6a0b37bb6daaa118fe729b1f3394c4b39693e16f4e70ead906722390"
+    "bytes": 25042,
+    "sha256": "5aa04ee7ee38523ec895c8d175998654360ef756be1e3dae0b5eb7c43f7b91f4"
   },
   {
     "path": "comunidade-marca-cuidado-moderacao/index.html",
-    "bytes": 23393,
-    "sha256": "e637d1b70d4d775d1eca87cfb1f34bf183d66a2bcc9cafb1cd0be37e7949e33f"
+    "bytes": 25026,
+    "sha256": "da58c69e76d78edfa1e566b39c91035fd5b4e1bde22e60632da6f7fb15f1a001"
   },
   {
     "path": "contas-marketing-acessos-continuidade/index.html",
-    "bytes": 26205,
-    "sha256": "bb8715ca436639a78df9e0d275cde0d9c8ce57bf45a0838643f5e5455c6b1e31"
+    "bytes": 26108,
+    "sha256": "ea87947a3d86faf4780184821549971f6b0f4fa32f880e66cd3fd4e31aaa426b"
   },
   {
     "path": "contexto-veiculacao-anuncios-marca/index.html",
-    "bytes": 24430,
-    "sha256": "12bfa8429ae3cf1fd65907c60d00964a7c65b65bfb6338425b696c1d98429cdf"
+    "bytes": 26067,
+    "sha256": "9d04d97cbfb4a62d92b8634afa1952e68fba24558f399c0379d9d0b767fd1612"
   },
   {
     "path": "crescer-sem-perder-a-alma/index.html",
@@ -1241,18 +1241,18 @@
   },
   {
     "path": "demonstracao-produto-ajudar-cliente-decidir/index.html",
-    "sha256": "72084593a74ef02d41c1f9061fc213732f80eecce5669766bbd903aec5ea5cbc",
-    "bytes": 25406
+    "sha256": "895c1a85747d7bb6e2b19d4ec7d5dd76795d0ffdd981562c17a1a6048e3799c3",
+    "bytes": 25327
   },
   {
     "path": "design-embalagem-gesto-uso/index.html",
-    "sha256": "36d7270a668d97b9c51580eac8fb89afd6dd956673968fb002b47a22cd110a53",
-    "bytes": 24956
+    "sha256": "7694ce37f115f23e9e7a95db95ee376ac09827d7fc61127be41069f5aea0b86b",
+    "bytes": 24873
   },
   {
     "path": "devolutiva-pesquisa-retorno-participantes/index.html",
-    "bytes": 24175,
-    "sha256": "125056e9529d50dd5b00ea21112b64624025acf8e0c901eb30bfb8f4a77f0306"
+    "bytes": 25816,
+    "sha256": "bb9c6ee184bf2f4cfe59c631c45cb35b72cb6a0101453c7fc1d09a79910f3ef3"
   },
   {
     "path": "divida-de-marca/index.html",
@@ -1271,18 +1271,18 @@
   },
   {
     "path": "embalagem-diferenciar-versoes-produto/index.html",
-    "bytes": 26108,
-    "sha256": "a0a961c70a9cba96401b950d36c0a4f6f88773b7fd14f0c4c218f729626df25e"
+    "bytes": 26008,
+    "sha256": "9b859454d82b3b6a1a4d25537c14d7d6f35b0f5358de016cabf4c54c07ce06a9"
   },
   {
     "path": "escolher-influenciador-conversa-publico/index.html",
-    "bytes": 26493,
-    "sha256": "a0e9ba437043473add78cf20b8a9c6e6dea174cec26730ef6c166414efb806c6"
+    "bytes": 26389,
+    "sha256": "838c512bd1776dcd3f80adf96e697d8e40e6fe4fb4a428ce28b1e1aa2610d015"
   },
   {
     "path": "experiencia-sensorial-marca-sentido/index.html",
-    "bytes": 23562,
-    "sha256": "ff507acaa86322e7c843dbab9f6eb52e3bc1d7c877fe3e64884bb643780aa8a1"
+    "bytes": 25213,
+    "sha256": "c9320f03dd70d37518803908010a33d126c795e696f5e3c6dcaf81e91fa007b2"
   },
   {
     "path": "framing-a-arte-invisivel-que-decide-o-sucesso-da-sua-comunicacao/index.html",
@@ -1296,53 +1296,53 @@
   },
   {
     "path": "humor-marca-cliente-alvo-piada/index.html",
-    "bytes": 23618,
-    "sha256": "ec361b5f685e80be467c8c973925580b8dae3041d70f715ac5d3ae7f8e2b9e67"
+    "bytes": 25268,
+    "sha256": "0635d2b81a108e0eece1b5ffa235c6cef273e97d0b13925be3aa3a0296d8972a"
   },
   {
     "path": "ia-materiais-marca-alem-das-cores/index.html",
-    "sha256": "3b348f21fc93b1b6d1c3bc7c82f829b07fc4fb1e69c38e363c333e2e3cc16fb9",
-    "bytes": 24638
+    "sha256": "418a0086b9064cee428eb49f54449c19bd50452791aad3f867178e3495e71604",
+    "bytes": 24568
   },
   {
     "path": "identidade-visual-2027-textura-cor-autoria/index.html",
-    "sha256": "0b520646dfc7dbd8e9e992d8323cdbeb5f7077a96666a65ef48d9b21836a6445",
-    "bytes": 22210
+    "sha256": "e7d9d983911c37f0d830c4af887eb56a1c50b9516a03ea4dde3a65f1ebfa5003",
+    "bytes": 22182
   },
   {
     "path": "imagem-campanha-prova-entrega/index.html",
-    "bytes": 23630,
-    "sha256": "ca62f299b21c382469d4ba3560a9bf4c4eb27c52fe22e4ef6da1c08202d900b0"
+    "bytes": 25254,
+    "sha256": "ef58ce8d53163dcf7bab52d6dc87405288809e60fb78e7b7d4ce03dc98910163"
   },
   {
     "path": "informacoes-empresa-atualizadas-canais/index.html",
-    "sha256": "539bf54476b39b9669d52a3e0317a5ef3341d9102e605273a6998451cfef8be9",
-    "bytes": 25573
+    "sha256": "0ce3b34604e549de619f647face4c52da5cd5ecd30ed8652c3a9be4a8693fb54",
+    "bytes": 25488
   },
   {
     "path": "interpretar-referencias-visuais-cliente/index.html",
-    "bytes": 23235,
-    "sha256": "e2b664e5175bc9117b1638734025b29ea8c78e3f160f7d50846830f92cb19909"
+    "bytes": 24874,
+    "sha256": "1affb8ab8b95e61def13e2792f5aa609b3f3d0848394b6f50adda9bec0bdeb95"
   },
   {
     "path": "janela-promocao-prazo-compra-entrega/index.html",
-    "bytes": 21709,
-    "sha256": "38fbc09a3a961ac41618d4f70a3440c28058e4602a0e08ec42220d88fde3cafb"
+    "bytes": 23361,
+    "sha256": "bdf793b0a47f327b8d2c8b96f03d69b8a59a0c30e4dec2a9b30ec05416d66412"
   },
   {
     "path": "jornada-compra-antes-da-campanha/index.html",
-    "bytes": 22983,
-    "sha256": "62b1cb10657e7150b3d8119ccf3ad8ac023d9effd583924e1d62312d0edbf64e"
+    "bytes": 24641,
+    "sha256": "4df7d9606b80384e493e5e0f6b543cb85780adb2e9b1f3487a5a13c5905a638a"
   },
   {
     "path": "legibilidade-digital-marca-pessoas-ia/index.html",
-    "sha256": "3842c979bc4ca689d9dea96ab2faa8e55ab21002abde47b4048658a1e4e33ffe",
-    "bytes": 22527
+    "sha256": "35ff184e77291be0d91966971b3d526a2bde730eda4488d89cb43e77e2f2e38d",
+    "bytes": 22499
   },
   {
     "path": "marca-causa-explicar-produto-novos-publicos/index.html",
-    "bytes": 23354,
-    "sha256": "3b1b65b8e07c3ff1e18115650d3480304ddcd8fa9e0c3b7291426674b740a172"
+    "bytes": 24984,
+    "sha256": "edd232aef0ab1dd03c3bf635a53c4028f599d685fc097ecef8c3c1e123dec848"
   },
   {
     "path": "marca-nao-e-um-logotipo-por-que-pmes-precisam-contar-boas-historias/index.html",
@@ -1361,13 +1361,13 @@
   },
   {
     "path": "marca-recomendada-por-ia-confianca/index.html",
-    "bytes": 20176,
-    "sha256": "70fb5980ea676b48f0ebf3942ca0ad4861852b592dd31341fbf802d468ff135e"
+    "bytes": 21872,
+    "sha256": "30e28cea737e225c2401c3a0897cb9b14d508441fa27826c4ce6848774c74189"
   },
   {
     "path": "marca-tendencias-criterio-participacao/index.html",
-    "bytes": 23689,
-    "sha256": "fe48ed6c9a21508c4b418b7021aae9f4b440534e64b9b003275e06a151a6eb26"
+    "bytes": 25300,
+    "sha256": "f442c20592cee276825cb0f9b72b121a6a3445571fde6ab843064d9fdbe67d1b"
   },
   {
     "path": "marcas-memoraveis-nao-gritam-elas-fazem-sentido/index.html",
@@ -1396,13 +1396,13 @@
   },
   {
     "path": "mensagem-automatica-recebimento-solucao/index.html",
-    "bytes": 25561,
-    "sha256": "9094deaaf378ad47af0595274f9d25fe9c8cd9a0ff3977b853fc77aefbb7ad3d"
+    "bytes": 25444,
+    "sha256": "e560075c03eb3f8d2d599108e6463600ea6e96cdea76349bb96b3fa039abe19e"
   },
   {
     "path": "mensagem-contexto-momento-cliente/index.html",
-    "bytes": 23059,
-    "sha256": "1dcac3556f3e938f4b98f9fed5956462f4997cce57e31b5e393f5a4aa753a511"
+    "bytes": 24699,
+    "sha256": "1298553d4521d74be5220527e5fc4d3efe19d3eeda6da72e4b1e7956b58e079d"
   },
   {
     "path": "metricas-sem-vaidade/index.html",
@@ -1411,8 +1411,8 @@
   },
   {
     "path": "microcomunidades-relevancia-alem-das-impressoes/index.html",
-    "sha256": "71eec82429c57a13927a1b758473187d2025206465c3b44d66378b7420806c98",
-    "bytes": 22438
+    "sha256": "142cc9f1f549517d7355687cf407645541d04c10111f6ebfa0128208e3dc0e8a",
+    "bytes": 22410
   },
   {
     "path": "multiplas-faces-da-marca-combinando-arquetipos-para-uma-identidade-rica/index.html",
@@ -1436,8 +1436,8 @@
   },
   {
     "path": "nome-produto-clareza-proposta/index.html",
-    "sha256": "446b613f3a5ada25c03dafd5ba454eadbace303c741ebff9958e8a101f1e227e",
-    "bytes": 25871
+    "sha256": "99e006316a54596577ab38a0cfbe2d6d7311f1dde140aa61dd7eba57f538295c",
+    "bytes": 25780
   },
   {
     "path": "o-arcabouco-invisivel-da-tweed-os-livros-que-moldam-nossas-estrategias/index.html",
@@ -1446,13 +1446,13 @@
   },
   {
     "path": "o-atendimento-esta-desmentindo-o-seu-posicionamento/index.html",
-    "bytes": 20617,
-    "sha256": "1a77402ac77db93932d932f91db2ff8b120dd1646b6da142184f951db512ba2d"
+    "bytes": 22313,
+    "sha256": "3f3683c65cdf5ce5a1b17188dd90ba4ae83d2e448bf45e85a7f94a0f6a147e20"
   },
   {
     "path": "o-custo-invisivel-de-coordenar-o-proprio-marketing/index.html",
-    "bytes": 20214,
-    "sha256": "5bd0571f1e38cce29794727f34166b8cc6dd7f93b28e6bb77f02fd548f22f8fe"
+    "bytes": 21930,
+    "sha256": "2facb2a2b0f2fde713f3f2a69f83e474df8b6d727b6c2cb416d13e04539531eb"
   },
   {
     "path": "o-melhor-cliente-e-aquele-que-voce-ja-tem/index.html",
@@ -1491,8 +1491,8 @@
   },
   {
     "path": "oferta-outro-idioma-continuidade-atendimento/index.html",
-    "bytes": 21778,
-    "sha256": "2744c7280d9c1c79b5a22aefb3eef0f7b2560af697a3361c14e994fb3ac7ee97"
+    "bytes": 23427,
+    "sha256": "d9f5626b598dfac857c60b5a3249dc6577819f825a96a745c64366cda6e0ec7e"
   },
   {
     "path": "orcamento-de-marketing-2026-para-pmes/index.html",
@@ -1501,48 +1501,48 @@
   },
   {
     "path": "origem-regional-produto-comunicacao/index.html",
-    "bytes": 24220,
-    "sha256": "8aa5e50c79192157d8d5d1b33669a978f4fd368a7650953892df13b7742969be"
+    "bytes": 25850,
+    "sha256": "e4991ceb86a53b3d3e32a5693739bb0420ab8b43ca4b857b19d3da83bd6c7551"
   },
   {
     "path": "parceria-marca-alem-dos-logotipos/index.html",
-    "sha256": "91cf9180b428a30b4fd78a0f07c78712178509217a20deec267db63d53b19c51",
-    "bytes": 25063
+    "sha256": "69e82414b95878780c253e61e89d69eed151a3e54560d45200907de962eba738",
+    "bytes": 24967
   },
   {
     "path": "participacao-retratados-historia-marca/index.html",
-    "bytes": 23997,
-    "sha256": "c3fec4225ad28810af3e6e29667d1d7c0a609ea0fa0c9e45e1d46983ca233aad"
+    "bytes": 25606,
+    "sha256": "f6bf3e5e09f4f980c2672e2c9cae10fa31841928d62f9af1d75afd976cd26f73"
   },
   {
     "path": "pausa-atendimento-pedidos-retomada/index.html",
-    "bytes": 23807,
-    "sha256": "c0a2268711b74db980b06b8d60e6cbf0aae5de73873ae505521381440a85c621"
+    "bytes": 25436,
+    "sha256": "cd121b494ca756ff8d8a9fc7bc686ae2b8805fd1e8cbc91c56096144f190e358"
   },
   {
     "path": "personagem-marca-continuidade-pecas/index.html",
-    "bytes": 25965,
-    "sha256": "dd08d092aa8167da8c5736df750c5ca7957b50cec645ddaec7cacf008c12aec3"
+    "bytes": 25847,
+    "sha256": "869a5af5c166e56020a897cf267032a867913e200b1f0c2c848d7aaa22a02971"
   },
   {
     "path": "personalidade-de-marca-aparece-nas-escolhas-pequenas/index.html",
-    "bytes": 20814,
-    "sha256": "904c8938839bdfeff0477a09ec680953b6e3bcd9235bdd14658d121ef8f66eb9"
+    "bytes": 22517,
+    "sha256": "87872279960e56623529deae8dd46b977c3ed371c36cf04110e7cb93ccb4cc4f"
   },
   {
     "path": "personalizacao-atendimento-corrigir-preferencias/index.html",
-    "bytes": 23671,
-    "sha256": "768073886bfb09b43076248e926f754955292af0a10a4a28a7180aff861312e7"
+    "bytes": 25321,
+    "sha256": "71c62be4f5a18f03b36d25b2483c7ed79b5128ddaaac704c4b04705e172cc0aa"
   },
   {
     "path": "pesquisa-consumidor-aplicabilidade-clientes/index.html",
-    "sha256": "deea9573a040448cd20c7788bce8656d3f9f6bc0903b0026643a6a9ae0e34d80",
-    "bytes": 25434
+    "sha256": "94a9bffd93dc14ff38a6404fcc048bb49613d635688234f84b671cde84f9c7ba",
+    "bytes": 25360
   },
   {
     "path": "plano-de-midia-2027-alem-de-uma-plataforma/index.html",
-    "sha256": "ce58ae30c05ff01fad04033eafb682e423c5fbcf3361f66f85123c238273984b",
-    "bytes": 22735
+    "sha256": "3bf5b40377f6a073cd676ce4617dbf27a57bad00fb1ed304998bc544ae63eb77",
+    "bytes": 22707
   },
   {
     "path": "por-que-a-escassez-vende-mas-nem-sempre/index.html",
@@ -1556,13 +1556,13 @@
   },
   {
     "path": "proposta-comercial-comparavel-criterios/index.html",
-    "bytes": 23532,
-    "sha256": "d3d8af883252eade3c2c17c6a8b58152919308226ce538d47e9dd1eafc1c6c1c"
+    "bytes": 25177,
+    "sha256": "9dd6fe4f3816e048eed2e147de792271e314280dcde62ecf619a056771027a58"
   },
   {
     "path": "qr-code-embalagem-informacao-util/index.html",
-    "bytes": 25688,
-    "sha256": "038f9d1bf5948a52376603d1e635e829009c61ceeb5603d53c1c2ccd7a7925bb"
+    "bytes": 25591,
+    "sha256": "7a29530d63ec7bf2cf5c8e822cd7e56bcd831609a2087146208dfaba99bcf658"
   },
   {
     "path": "qual-e-o-arquetipo-da-sua-concorrencia-e-por-que-voce-deveria-saber-disso/index.html",
@@ -1571,8 +1571,8 @@
   },
   {
     "path": "qualidade-dados-campanha-conversoes/index.html",
-    "sha256": "56476d4af42a434e69a02182f4d41366f5a8a05f3556085b2475ff674046a8c9",
-    "bytes": 23093
+    "sha256": "0d34165cc3f9baa2b81ca4f81a86d06bb03188befcc030a47474ea6f46c8993c",
+    "bytes": 23065
   },
   {
     "path": "quando-tudo-parece-igual-os-arquetipos-ajudam-sua-marca-a-ser-lembrada/index.html",
@@ -1581,23 +1581,23 @@
   },
   {
     "path": "reaproveitamento-video-adaptacao-criativa/index.html",
-    "bytes": 20839,
-    "sha256": "4462cd79ca4946ae6d0960eaef738f155ed228a9d767b55f588ea8b785e80b55"
+    "bytes": 22542,
+    "sha256": "68cd3f68ff75a64fd75bc74f23385f458463589bf3cefe4a6b8018d0872e307a"
   },
   {
     "path": "reconhecer-contribuicoes-criacao-produto/index.html",
-    "bytes": 23234,
-    "sha256": "7efc61476b306ba4752c3d2ab06d9374f67e876b0954500c8864dccfbc9b9f96"
+    "bytes": 24862,
+    "sha256": "871c5ea4261fb3d857c5e1bc4383737fdcc28eca9cce3e3120c0d2f5eea5a6aa"
   },
   {
     "path": "redesign-site-transicao-usabilidade/index.html",
-    "bytes": 23573,
-    "sha256": "5ea8347f8b6b79e25ad6df0de39cd70299c93a34bf0dbc6d3d6497a301435391"
+    "bytes": 25217,
+    "sha256": "9a6588c9ac833e182fd1b8a1cf43ba0b5d4582a0107cc143afd3c27165699212"
   },
   {
     "path": "resumo-reuniao-decisoes-pendencias/index.html",
-    "bytes": 24434,
-    "sha256": "d5e02f4dfdc3655516dae4a10d53a709dfdd16bed171ce3fa66d657516441fce"
+    "bytes": 26059,
+    "sha256": "cadc1477f57c711ed3803e20760d1f251be71b9cc9bf120634c5ec0af68ae6d9"
   },
   {
     "path": "robots.txt",
@@ -1611,13 +1611,13 @@
   },
   {
     "path": "serie-conteudo-continuidade-episodios/index.html",
-    "bytes": 23969,
-    "sha256": "f229345a19178e7f8f6d7d6b0540bfa229d5a4919e39935d2fb3d8f937bd4b81"
+    "bytes": 25582,
+    "sha256": "b37043125d144efead3e321d1dcc42b835f51981c3ec01df646aed08378588aa"
   },
   {
     "path": "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar/index.html",
-    "bytes": 20398,
-    "sha256": "54fcb9f7052bbebae199c5940c33369debe620ee7228e90538e271b92f7c3c9f"
+    "bytes": 22101,
+    "sha256": "5c194ddcb7d3d8d1e459fb5f37b4938b4fa2d236572ca05a7d90ab7bc4285165"
   },
   {
     "path": "seu-logotipo-e-bonito-mas-sua-marca-e-clara/index.html",
@@ -1626,8 +1626,8 @@
   },
   {
     "path": "site-fornecedores-b2b-identificar-oferta/index.html",
-    "bytes": 24660,
-    "sha256": "3c88f29f07b138e401c543951a6fe85bcbc577694869bfab16384b9e2407e85e"
+    "bytes": 26276,
+    "sha256": "697dd63e5eb380584953f4057461946bfa41fc73cfccf49b68040aa44219ba51"
   },
   {
     "path": "sitemap.xml",
@@ -1636,8 +1636,8 @@
   },
   {
     "path": "solucao-tecnica-aplicacao-limites/index.html",
-    "bytes": 24116,
-    "sha256": "8bf634b0994e4ae8fecdc9323a9c4826b17f01cd34b47cc8e94e8bf9a2cce02a"
+    "bytes": 25698,
+    "sha256": "59bfdbf419854a1058e7af84b57d9bf2c9d2f9d83856a536d2f191574755ba6f"
   },
   {
     "path": "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita/index.html",
@@ -1651,18 +1651,18 @@
   },
   {
     "path": "testar-experiencia-alem-equipe-interna/index.html",
-    "bytes": 24417,
-    "sha256": "eb6ea2c44ddb7a9d732ef970f80add8cfb7852b8219e8d91c0cb31e8ab268267"
+    "bytes": 26031,
+    "sha256": "cbac5efb18df6a1d1c161afb2e1003fbde0b50862f30d61fd78b1631d377df9a"
   },
   {
     "path": "uma-boa-restricao-pode-melhorar-uma-ideia/index.html",
-    "bytes": 20380,
-    "sha256": "4f0261f3a58b72941c4203e24dc69bb944ce7ca725dd80b905b01fbfdf7a96df"
+    "bytes": 22098,
+    "sha256": "f0751421897ed6c3bb269c38d2d2318bfbdaccd3c5c6ba99bd13306a5745da23"
   },
   {
     "path": "valor-servico-beneficios-compreender-utilizar/index.html",
-    "bytes": 23695,
-    "sha256": "5f05ed4626c20417bf89ce6a5c0ff746239bc92a2ca8a214a66e17b10c6848d5"
+    "bytes": 25344,
+    "sha256": "b784c0b53500bd247fb0851d392a536e6dd8d66982933376e6c801a9634d98ed"
   },
   {
     "path": "voce-nao-decide-seu-cerebro-decide-por-voce-e-depois-inventa-uma-desculpa/index.html",
