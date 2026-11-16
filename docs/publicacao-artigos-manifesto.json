@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 7104,
-    "sha256": "13663c3ac46aeeeee53f1965c8c92f9b49c2ef80032c274d8ff11305e1b603d9"
+    "bytes": 7135,
+    "sha256": "68fb2267e4fec5007fd32f425a72e66730bc988bdab089c293952147222e0860"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -363,6 +363,11 @@
     "path": "assets/artigos-editoriais/e6ba6634a0b8d89aa88bfa4c5e1d705909229453a38add4ade7cc2a4d96612b7.png",
     "bytes": 1435202,
     "sha256": "e6ba6634a0b8d89aa88bfa4c5e1d705909229453a38add4ade7cc2a4d96612b7"
+  },
+  {
+    "path": "assets/artigos-editoriais/e845fad0676b220cf5456d24b919c45cf60604e1ae4771e504ff44c1b3c4d372.jpg",
+    "bytes": 2989683,
+    "sha256": "e845fad0676b220cf5456d24b919c45cf60604e1ae4771e504ff44c1b3c4d372"
   },
   {
     "path": "assets/artigos-editoriais/e85a2d9d5460e72e1a3b5abd210ae26b6d246ae62d658714c36e2ee88a0daadf.png",
@@ -1121,8 +1126,8 @@
   },
   {
     "path": "blog-marcas-em-acao/index.html",
-    "bytes": 27892,
-    "sha256": "02cad5a7ffcbebe55387910325638bdec95e03ab205fbd8bd225b6ff0fbd491b"
+    "bytes": 28429,
+    "sha256": "be6b08809e7baf2ead37bd2117cd82b08095a93e816d9555f3f0c8e8f8e74f9b"
   },
   {
     "path": "blog-marcas-em-movimento/index.html",
@@ -1141,8 +1146,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 25579,
-    "sha256": "b92331eb942f061cd067e294a99b56e49ac4fe69b8b21dbdc577997deb6ac728"
+    "bytes": 25537,
+    "sha256": "3c1f594b6c8937ca6171cf733f31ae67ad84f7f3e163faead589ba2ae7645f1e"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1233,6 +1238,11 @@
     "path": "crescer-sem-perder-a-alma/index.html",
     "bytes": 16585,
     "sha256": "008535b166585258b5a217c65f516df9227ea75614831972875f1123f30a3f0f"
+  },
+  {
+    "path": "cupom-desconto-nao-aplicado/index.html",
+    "bytes": 25097,
+    "sha256": "27f1b2aa19001adf6ded638781e1d7115679703f68fe2e69dbd350220286c80d"
   },
   {
     "path": "da-embalagem-ao-pos-venda/index.html",
@@ -1641,8 +1651,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 19217,
-    "sha256": "94fadb6580b3fddca81697b5367e6dc5b1a116ac8765a5155e210317b7f55756"
+    "bytes": 19348,
+    "sha256": "3467f8da40ee27a7395f5d7706cbd831f3a962385a956988a5c0d3258679ad82"
   },
   {
     "path": "solucao-tecnica-aplicacao-limites/index.html",

@@ -992,6 +992,14 @@
       "context": "Quando houver uma atualização, confira quais materiais continuam circulando. Uma postagem antiga não deveria sustentar uma promessa que a produção já sabe que mudou, sem uma orientação clara para a versão atual das informações.",
       "reason": "A atualização do convite exige acompanhar as referências públicas ainda em circulação, tema desenvolvido no destino.",
       "modifiedAt": "2026-11-15"
+    },
+    {
+      "from": "cupom-desconto-nao-aplicado",
+      "to": "informacoes-empresa-atualizadas-canais",
+      "anchor": "uma referência de trabalho para a oferta em circulação",
+      "context": "Na loja, vale manter uma referência de trabalho para a oferta em circulação. Ela deve reunir o alcance confirmado, a informação que o público pode consultar e quem consegue esclarecer uma divergência. Não precisa acumular dados pessoais de compradores para cumprir essa função.",
+      "reason": "A referência comum de condições é aprofundada na manutenção das informações comerciais nos canais.",
+      "modifiedAt": "2026-11-16"
     }
   ]
 }

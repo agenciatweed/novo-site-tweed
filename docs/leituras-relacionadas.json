@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "9159e3312ddf4f2dfc1c73cb0076f219cb976982ccda5f26760ee5289ada3463",
+  "catalogSha256": "0ceb4e769fb464ad1bc25079e12d2a932839beb4972310189e96d20aed52094a",
   "reviewedAt": "2026-11-15",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -978,6 +978,14 @@
       ],
       "modifiedAt": "2026-11-15",
       "reason": "Aprofundam a avaliação da experiência por pessoas externas e a manutenção das condições confirmadas nos canais de divulgação."
+    },
+    "cupom-desconto-nao-aplicado": {
+      "targets": [
+        "janela-promocao-prazo-compra-entrega",
+        "atendimento-troca-clareza-encaminhamento"
+      ],
+      "modifiedAt": "2026-11-16",
+      "reason": "Complementam as condições de uma promoção com o calendário de compra e entrega e a clareza do encaminhamento quando o cliente precisa de ajuda."
     }
   }
 }

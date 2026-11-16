@@ -852,5 +852,12 @@
     "height": 896,
     "source": "conteudos/pauta-reposicao-2026-11-08-910340ed7b91/imagens/aaeb9ada4785236a30033aefac866dafe45b0e39a51d8239ceafdca16b2fbcf1.png",
     "sha256": "aaeb9ada4785236a30033aefac866dafe45b0e39a51d8239ceafdca16b2fbcf1"
+  },
+  "cupom-desconto-nao-aplicado": {
+    "path": "/assets/artigos-editoriais/e845fad0676b220cf5456d24b919c45cf60604e1ae4771e504ff44c1b3c4d372.jpg",
+    "width": 2528,
+    "height": 1696,
+    "source": "conteudos/pauta-reposicao-2026-11-09-2306429b5f3b/imagens/e845fad0676b220cf5456d24b919c45cf60604e1ae4771e504ff44c1b3c4d372.jpg",
+    "sha256": "e845fad0676b220cf5456d24b919c45cf60604e1ae4771e504ff44c1b3c4d372"
   }
 }
