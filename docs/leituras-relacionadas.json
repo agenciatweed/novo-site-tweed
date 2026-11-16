@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "0ceb4e769fb464ad1bc25079e12d2a932839beb4972310189e96d20aed52094a",
+  "catalogSha256": "c5f7263ec06627697f3b2553b264f24b58bd1b5c0b2967782f75eba76dc10c56",
   "reviewedAt": "2026-11-15",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -986,6 +986,14 @@
       ],
       "modifiedAt": "2026-11-16",
       "reason": "Complementam as condições de uma promoção com o calendário de compra e entrega e a clareza do encaminhamento quando o cliente precisa de ajuda."
+    },
+    "ia-descricao-oferta-incorreta": {
+      "targets": [
+        "informacoes-empresa-atualizadas-canais",
+        "marca-recomendada-por-ia-confianca"
+      ],
+      "modifiedAt": "2026-11-16",
+      "reason": "Aprofundam a manutenção de referências factuais próprias e a confiança na oferta quando o interessado chega por uma recomendação de IA."
     }
   }
 }

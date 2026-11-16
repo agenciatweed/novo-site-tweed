@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 7135,
-    "sha256": "68fb2267e4fec5007fd32f425a72e66730bc988bdab089c293952147222e0860"
+    "bytes": 7168,
+    "sha256": "127301f7567ba716ed75429d24f74fe73326f2d9748cd446a2af7ec69fedd687"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -138,6 +138,11 @@
     "path": "assets/artigos-editoriais/3e29b06f788e2f071ce392789ee340886f6bab710c1fe5655cc02e7b7197ff30.png",
     "bytes": 2141524,
     "sha256": "3e29b06f788e2f071ce392789ee340886f6bab710c1fe5655cc02e7b7197ff30"
+  },
+  {
+    "path": "assets/artigos-editoriais/409e05e51ff977a1732f832eac3e2f143739d39e1206997911c744aba89de3b9.png",
+    "bytes": 1553017,
+    "sha256": "409e05e51ff977a1732f832eac3e2f143739d39e1206997911c744aba89de3b9"
   },
   {
     "path": "assets/artigos-editoriais/435725d8c317baf55039931b0c0008df8957e145a5841139b3d66865a62a4f8b.jpg",
@@ -1141,13 +1146,13 @@
   },
   {
     "path": "blog-pequeno-mas-estrategico/index.html",
-    "bytes": 28723,
-    "sha256": "f5e48ae95eb57fe271efa7f813c8b614d33f8614d0ca36f1edd73839c271eed3"
+    "bytes": 29258,
+    "sha256": "29a44b503041814477be1ccde86309957a6c872d2a9f30c43b90fed59c5abc6d"
   },
   {
     "path": "blog/index.html",
-    "bytes": 25537,
-    "sha256": "3c1f594b6c8937ca6171cf733f31ae67ad84f7f3e163faead589ba2ae7645f1e"
+    "bytes": 25505,
+    "sha256": "f3ac3bb90999ff95416dd1b43af55c6ac30c522b87817ba803f1d85d852932a9"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1318,6 +1323,11 @@
     "path": "humor-marca-cliente-alvo-piada/index.html",
     "bytes": 25268,
     "sha256": "0635d2b81a108e0eece1b5ffa235c6cef273e97d0b13925be3aa3a0296d8972a"
+  },
+  {
+    "path": "ia-descricao-oferta-incorreta/index.html",
+    "bytes": 25525,
+    "sha256": "4bda4f14bc60f88e1dd4854b6798c9c81c4b937396cb5702d42a62e9ef70a94a"
   },
   {
     "path": "ia-materiais-marca-alem-das-cores/index.html",
@@ -1651,8 +1661,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 19348,
-    "sha256": "3467f8da40ee27a7395f5d7706cbd831f3a962385a956988a5c0d3258679ad82"
+    "bytes": 19481,
+    "sha256": "d4857bd4cb358cd4cbd9b24e0e5a1c237f39d7c8710dab0c62249d422d63d56e"
   },
   {
     "path": "solucao-tecnica-aplicacao-limites/index.html",

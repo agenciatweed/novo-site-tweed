@@ -1000,6 +1000,14 @@
       "context": "Na loja, vale manter uma referência de trabalho para a oferta em circulação. Ela deve reunir o alcance confirmado, a informação que o público pode consultar e quem consegue esclarecer uma divergência. Não precisa acumular dados pessoais de compradores para cumprir essa função.",
       "reason": "A referência comum de condições é aprofundada na manutenção das informações comerciais nos canais.",
       "modifiedAt": "2026-11-16"
+    },
+    {
+      "from": "ia-descricao-oferta-incorreta",
+      "to": "informacoes-empresa-atualizadas-canais",
+      "anchor": "materiais públicos sob controle da empresa",
+      "context": "Compare a informação confirmada com os materiais públicos sob controle da empresa. O site explica a cobertura? Uma página de serviço usa uma expressão ampla que pode gerar outra leitura? Existe um conteúdo antigo ainda disponível que afirma uma condição diferente?",
+      "reason": "A conferência das referências próprias é desenvolvida no artigo sobre informações vigentes nos diferentes canais da empresa.",
+      "modifiedAt": "2026-11-16"
     }
   ]
 }

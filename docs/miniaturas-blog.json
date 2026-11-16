@@ -859,5 +859,12 @@
     "height": 1696,
     "source": "conteudos/pauta-reposicao-2026-11-09-2306429b5f3b/imagens/e845fad0676b220cf5456d24b919c45cf60604e1ae4771e504ff44c1b3c4d372.jpg",
     "sha256": "e845fad0676b220cf5456d24b919c45cf60604e1ae4771e504ff44c1b3c4d372"
+  },
+  "ia-descricao-oferta-incorreta": {
+    "path": "/assets/artigos-editoriais/409e05e51ff977a1732f832eac3e2f143739d39e1206997911c744aba89de3b9.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-diaria-2026-11-10/imagens/409e05e51ff977a1732f832eac3e2f143739d39e1206997911c744aba89de3b9.png",
+    "sha256": "409e05e51ff977a1732f832eac3e2f143739d39e1206997911c744aba89de3b9"
   }
 }

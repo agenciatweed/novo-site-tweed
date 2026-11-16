@@ -364,3 +364,8 @@ Publicado o artigo aprovado “A divulgação do seu evento informa os recursos 
 ## Publicação editorial - 16/11/2026
 
 Publicado o artigo aprovado “Seu cupom explica por que o desconto não foi aplicado?”, na data programada, em /cupom-desconto-nao-aplicado/. Um link natural no corpo e duas recomendações finais, preservando as entradas anteriores. Dry-run aprovado, FTP/HTTP confirmados e conferência desktop/mobile. Mantidos home, cabeçalhos e rodapés públicos dos índices e configuração de 404. Somente a lista de rotas canônicas recebeu o novo slug.
+
+
+## Publicação editorial - 16/11/2026
+
+Publicado o artigo aprovado “Uma IA descreveu sua oferta errado. Como a empresa responde?”, na data programada, em /ia-descricao-oferta-incorreta/. Um link natural no corpo e duas recomendações finais, preservando as entradas anteriores. Dry-run aprovado, FTP/HTTP confirmados e conferência desktop/mobile. Mantidos home, cabeçalhos e rodapés públicos dos índices e configuração de 404. Somente a lista de rotas canônicas recebeu o novo slug.
