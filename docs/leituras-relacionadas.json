@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "catalogSha256": "c5f7263ec06627697f3b2553b264f24b58bd1b5c0b2967782f75eba76dc10c56",
-  "reviewedAt": "2026-11-15",
+  "catalogSha256": "edf0f1273712d306ffe5c81e0e7d98df623fde36f848aa04d13d76c074ad0586",
+  "reviewedAt": "2026-11-17",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
       "targets": [
@@ -614,10 +614,10 @@
     "informacoes-empresa-atualizadas-canais": {
       "targets": [
         "pausa-atendimento-pedidos-retomada",
-        "o-atendimento-esta-desmentindo-o-seu-posicionamento"
+        "ia-descricao-oferta-incorreta"
       ],
-      "reason": "Prioriza mudanças de atendimento e preserva coerência operacional.",
-      "modifiedAt": "2026-11-07"
+      "reason": "Preserva a passagem das condições operacionais aos canais e acrescenta o tratamento de descrições incorretas da oferta em uma plataforma externa de IA, mais específico que a recomendação genérica de atendimento.",
+      "modifiedAt": "2026-11-17"
     },
     "personalizacao-atendimento-corrigir-preferencias": {
       "targets": [
@@ -814,10 +814,10 @@
     "janela-promocao-prazo-compra-entrega": {
       "targets": [
         "jornada-compra-antes-da-campanha",
-        "atendimento-troca-clareza-encaminhamento"
+        "cupom-desconto-nao-aplicado"
       ],
-      "reason": "Relaciona o tempo da decisão à expectativa de entrega e atendimento.",
-      "modifiedAt": "2026-11-07"
+      "reason": "Mantém o planejamento do momento de compra e aprofunda a compreensão de condições promocionais com o artigo sobre cupom não aplicado, mais direto que o encaminhamento geral de trocas.",
+      "modifiedAt": "2026-11-17"
     },
     "oferta-outro-idioma-continuidade-atendimento": {
       "targets": [
@@ -994,6 +994,14 @@
       ],
       "modifiedAt": "2026-11-16",
       "reason": "Aprofundam a manutenção de referências factuais próprias e a confiança na oferta quando o interessado chega por uma recomendação de IA."
+    },
+    "marca-codigos-visuais-setor": {
+      "targets": [
+        "seu-logotipo-e-bonito-mas-sua-marca-e-clara",
+        "sua-marca-precisa-de-consistencia-nao-de-perfeicao"
+      ],
+      "reason": "Clareza da proposta orienta a identidade; consistência sustenta os sinais próprios nas aplicações seguintes.",
+      "modifiedAt": "2026-11-17"
     }
   }
 }

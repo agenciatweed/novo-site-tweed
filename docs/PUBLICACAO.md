@@ -369,3 +369,10 @@ Publicado o artigo aprovado “Seu cupom explica por que o desconto não foi apl
 ## Publicação editorial - 16/11/2026
 
 Publicado o artigo aprovado “Uma IA descreveu sua oferta errado. Como a empresa responde?”, na data programada, em /ia-descricao-oferta-incorreta/. Um link natural no corpo e duas recomendações finais, preservando as entradas anteriores. Dry-run aprovado, FTP/HTTP confirmados e conferência desktop/mobile. Mantidos home, cabeçalhos e rodapés públicos dos índices e configuração de 404. Somente a lista de rotas canônicas recebeu o novo slug.
+
+
+## Publicação e manutenção editorial — 17/11/2026
+
+Publicado marca-codigos-visuais-setor/ após dry-run e confirmação FTP/HTTP; artigo completo republicado no LinkedIn da Agência Tweed, com a capa original e link canônico. Manutenção do ciclo 130: 125 artigos avaliados, quatro links naturais inseridos, dois pares relacionados atualizados e 123 preservados. Conferência desktop/mobile e validadores aprovados. Home e materiais de clientes preservados.
+
+A referência da home no validador foi conciliada com os três botões institucionais anteriormente autorizados, o manifesto e o HTTPS: SHA-256 canônico a22eac833bc076dcfca19fb120882ca09a55c8749e8cd66a457ca40d9f6dcbb2, com normalização CRLF/LF. Os índices e quatro páginas da manutenção foram conciliados localmente com os bytes já publicados somente após confirmar texto integral idêntico e hash igual ao manifesto; backups e evidências ficaram privados. Nenhuma proteção de hash foi removida.

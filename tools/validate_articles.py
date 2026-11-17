@@ -76,6 +76,8 @@ for bot in ('GPTBot','ClaudeBot'):
 tree = ET.parse(SITE / 'sitemap.xml')
 urls = [n.text for n in tree.findall('.//{*}loc')]
 check(set(urls) == {BASE+'/',BASE+'/blog/'} | {BASE+'/'+r['slug']+'/' for r in records} | {BASE+'/'+s['slug']+'/' for s in sections}, 'Sitemap divergente')
-check(hashlib.sha256((SITE / 'index.html').read_bytes()).hexdigest() == '9c77eb0c302fdd182cdc2314d6f7abafc5a9da92faff3de7c1e9d38afc0a9e84', 'Home alterada fora da revisão aprovada')
+# Home aprovada com os botoes de Metodo, Servicos e Equipe; conferida por HTTPS e manifesto.
+# CRLF/LF alteram apenas a representacao local, nao o conteudo aprovado.
+check(hashlib.sha256((SITE / 'index.html').read_bytes().replace(b'\r\n', b'\n')).hexdigest() == 'a22eac833bc076dcfca19fb120882ca09a55c8749e8cd66a457ca40d9f6dcbb2', 'Home alterada fora da revisão aprovada')
 print(json.dumps({'articles':len(records), 'sitemap_urls':len(urls), 'errors':errors}, ensure_ascii=True, indent=2))
 raise SystemExit(bool(errors))

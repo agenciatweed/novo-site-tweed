@@ -866,5 +866,12 @@
     "height": 896,
     "source": "conteudos/pauta-diaria-2026-11-10/imagens/409e05e51ff977a1732f832eac3e2f143739d39e1206997911c744aba89de3b9.png",
     "sha256": "409e05e51ff977a1732f832eac3e2f143739d39e1206997911c744aba89de3b9"
+  },
+  "marca-codigos-visuais-setor": {
+    "path": "/assets/artigos-editoriais/235b40a8fb32477eb59d4ebb6ab8e064cb55c4a6f99df58e6e0362eae3cf3863.png",
+    "width": 1536,
+    "height": 1024,
+    "source": "conteudos/pauta-reposicao-2026-11-09-d43b61e8ee5b/imagens/235b40a8fb32477eb59d4ebb6ab8e064cb55c4a6f99df58e6e0362eae3cf3863.png",
+    "sha256": "235b40a8fb32477eb59d4ebb6ab8e064cb55c4a6f99df58e6e0362eae3cf3863"
   }
 }

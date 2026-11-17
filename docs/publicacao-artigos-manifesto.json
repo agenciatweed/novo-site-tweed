@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 7168,
-    "sha256": "127301f7567ba716ed75429d24f74fe73326f2d9748cd446a2af7ec69fedd687"
+    "bytes": 7169,
+    "sha256": "5f7f42b636d38d815aed343b6b8e547c072ed2c687c74b15a204a1eed6e2d102"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -108,6 +108,11 @@
     "path": "assets/artigos-editoriais/222e996763efe861bda6c4078abac3def6f678f182b2ece4e94bb26f0dccf220.png",
     "bytes": 1609253,
     "sha256": "222e996763efe861bda6c4078abac3def6f678f182b2ece4e94bb26f0dccf220"
+  },
+  {
+    "path": "assets/artigos-editoriais/235b40a8fb32477eb59d4ebb6ab8e064cb55c4a6f99df58e6e0362eae3cf3863.png",
+    "bytes": 3250637,
+    "sha256": "235b40a8fb32477eb59d4ebb6ab8e064cb55c4a6f99df58e6e0362eae3cf3863"
   },
   {
     "path": "assets/artigos-editoriais/23efa0e5cd293cea7ecf2a60d1ea766750ab1e6a81393b6b4c74fbf562ebbf04.png",
@@ -1141,8 +1146,8 @@
   },
   {
     "path": "blog-marcas-que-ficam/index.html",
-    "bytes": 20846,
-    "sha256": "b0473f1d315f4f25c246d67055dd9850501736247880c2973a66ea570fab254b"
+    "bytes": 21482,
+    "sha256": "dc072cff50d8ca239f8b690d39c7f0c79c6334e4673e4b15a7cd0d2f359780c0"
   },
   {
     "path": "blog-pequeno-mas-estrategico/index.html",
@@ -1151,8 +1156,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 25505,
-    "sha256": "f3ac3bb90999ff95416dd1b43af55c6ac30c522b87817ba803f1d85d852932a9"
+    "bytes": 25551,
+    "sha256": "41fada8a660c8f31c672a0e9901c6399c79e8ea3a521667b8b73f95b1e4f87dc"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1346,8 +1351,8 @@
   },
   {
     "path": "informacoes-empresa-atualizadas-canais/index.html",
-    "sha256": "0ce3b34604e549de619f647face4c52da5cd5ecd30ed8652c3a9be4a8693fb54",
-    "bytes": 25488
+    "bytes": 25621,
+    "sha256": "7d9d57e5c37bdbbbcb1260b4702ab0fa15bb04a29355dc8f00cd3d637f7236bc"
   },
   {
     "path": "interpretar-referencias-visuais-cliente/index.html",
@@ -1356,8 +1361,8 @@
   },
   {
     "path": "janela-promocao-prazo-compra-entrega/index.html",
-    "bytes": 23361,
-    "sha256": "bdf793b0a47f327b8d2c8b96f03d69b8a59a0c30e4dec2a9b30ec05416d66412"
+    "bytes": 23437,
+    "sha256": "96e7745d7fe75da384d43a4926aefa8af705e39d0ac510448353de46c7fed08c"
   },
   {
     "path": "jornada-compra-antes-da-campanha/index.html",
@@ -1373,6 +1378,11 @@
     "path": "marca-causa-explicar-produto-novos-publicos/index.html",
     "bytes": 24984,
     "sha256": "edd232aef0ab1dd03c3bf635a53c4028f599d685fc097ecef8c3c1e123dec848"
+  },
+  {
+    "path": "marca-codigos-visuais-setor/index.html",
+    "bytes": 25267,
+    "sha256": "c9a6c06ecae3d270e44b6bbf95e066602992567ae5689d55f83f95833a252868"
   },
   {
     "path": "marca-nao-e-um-logotipo-por-que-pmes-precisam-contar-boas-historias/index.html",
@@ -1596,8 +1606,8 @@
   },
   {
     "path": "qual-e-o-arquetipo-da-sua-concorrencia-e-por-que-voce-deveria-saber-disso/index.html",
-    "bytes": 16931,
-    "sha256": "e9ea77e262a27a1f09b72a5c9969802525b194e27906002f3c64409a7dd62a76"
+    "bytes": 18834,
+    "sha256": "4b2ce41d8ca146c984ed3b8ced742dd7413905e711bbe5d16eb27c0512c62cee"
   },
   {
     "path": "qualidade-dados-campanha-conversoes/index.html",
@@ -1661,8 +1671,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 19481,
-    "sha256": "d4857bd4cb358cd4cbd9b24e0e5a1c237f39d7c8710dab0c62249d422d63d56e"
+    "bytes": 19612,
+    "sha256": "7c65c9820609eb29927226646b77123186eb731d9c51758f80bcea6171e766df"
   },
   {
     "path": "solucao-tecnica-aplicacao-limites/index.html",
@@ -1681,8 +1691,8 @@
   },
   {
     "path": "testar-experiencia-alem-equipe-interna/index.html",
-    "bytes": 26031,
-    "sha256": "cbac5efb18df6a1d1c161afb2e1003fbde0b50862f30d61fd78b1631d377df9a"
+    "bytes": 26142,
+    "sha256": "7059f495139393c4357c379f59a242dec6bb5b11db544813293ef2b3894f9286"
   },
   {
     "path": "uma-boa-restricao-pode-melhorar-uma-ideia/index.html",

@@ -1008,6 +1008,54 @@
       "context": "Compare a informação confirmada com os materiais públicos sob controle da empresa. O site explica a cobertura? Uma página de serviço usa uma expressão ampla que pode gerar outra leitura? Existe um conteúdo antigo ainda disponível que afirma uma condição diferente?",
       "reason": "A conferência das referências próprias é desenvolvida no artigo sobre informações vigentes nos diferentes canais da empresa.",
       "modifiedAt": "2026-11-16"
+    },
+    {
+      "from": "marca-codigos-visuais-setor",
+      "to": "seu-logotipo-e-bonito-mas-sua-marca-e-clara",
+      "anchor": "identidade visual",
+      "context": "A identidade visual deve trabalhar com informações confirmadas, em vez de acrescentar uma personalidade gráfica a uma promessa indefinida.",
+      "reason": "Aprofunda a clareza da proposta que precisa orientar as escolhas de identidade.",
+      "modifiedAt": "2026-11-17"
+    },
+    {
+      "from": "marca-codigos-visuais-setor",
+      "to": "sua-marca-precisa-de-consistencia-nao-de-perfeicao",
+      "anchor": "decisões consistentes",
+      "context": "Servem para sustentar decisões consistentes e tornar a revisão menos dependente de preferências isoladas.",
+      "reason": "Relaciona a aplicação continuada dos sinais visuais à consistência da marca.",
+      "modifiedAt": "2026-11-17"
+    },
+    {
+      "from": "testar-experiencia-alem-equipe-interna",
+      "to": "evento-informar-recursos-acessibilidade",
+      "anchor": "condições e recursos",
+      "context": "Explique a finalidade da atividade, como as observações serão utilizadas e o que será registrado. Combine condições e recursos para que a pessoa consiga participar. Preserve informações pessoais e não transforme uma dificuldade observada numa exposição pública.",
+      "reason": "Oferece uma aplicação concreta do cuidado de informar e confirmar recursos de participação, sem substituir avaliação técnica de acessibilidade.",
+      "modifiedAt": "2026-11-17"
+    },
+    {
+      "from": "janela-promocao-prazo-compra-entrega",
+      "to": "cupom-desconto-nao-aplicado",
+      "anchor": "O desconto vale para quais itens?",
+      "context": "Antes de lançar, escolha as informações que ajudam a decidir sem abrir outra conversa. O desconto vale para quais itens? Há estoque no canal anunciado? Como a pessoa identifica a modalidade que consegue usar? Existe uma condição que muda o prazo?",
+      "reason": "Aprofunda a identificação das condições e dos itens elegíveis quando o desconto esperado não é aplicado.",
+      "modifiedAt": "2026-11-17"
+    },
+    {
+      "from": "informacoes-empresa-atualizadas-canais",
+      "to": "ia-descricao-oferta-incorreta",
+      "anchor": "solicitação de correção",
+      "context": "Vale distinguir o que a empresa controla diretamente do que depende de terceiros. Um material antigo em um canal externo pode exigir uma solicitação de correção. Nesse caso, registre o pedido e acompanhe a resposta, sem apresentar o ajuste como concluído antes de verificá-lo.",
+      "reason": "Desenvolve a reação a informações externas incorretas, distinguindo fontes próprias e limitações para corrigir respostas de IA.",
+      "modifiedAt": "2026-11-17"
+    },
+    {
+      "from": "qual-e-o-arquetipo-da-sua-concorrencia-e-por-que-voce-deveria-saber-disso",
+      "to": "marca-codigos-visuais-setor",
+      "anchor": "olhar para sua concorrência",
+      "context": "Então, da próxima vez que olhar para sua concorrência, não olhe apenas para o preço ou design. Observe qual é a “energia” que cada marca está emitindo. Porque talvez o espaço mais estratégico esteja onde ainda ninguém teve coragem de ocupar.",
+      "reason": "Aprofunda a comparação com concorrentes pela análise dos códigos visuais do setor, preservando a distinção entre expressão gráfica e arquétipos.",
+      "modifiedAt": "2026-11-17"
     }
   ]
 }
