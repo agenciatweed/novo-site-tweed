@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 7207,
-    "sha256": "9a788acc5c81c7389abb36279004a14ec3dfd887d13de0236eca258f232a5ffd"
+    "bytes": 7251,
+    "sha256": "2f97543c314214415063fe37aab6ada5c4940898ec521b57b185528ac3c7e78c"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -88,6 +88,11 @@
     "path": "assets/artigos-editoriais/0aed6dd48d0273afc49035151d3d0b9d116c5f07e804b93b743434c0fa1b081f.png",
     "bytes": 1109494,
     "sha256": "0aed6dd48d0273afc49035151d3d0b9d116c5f07e804b93b743434c0fa1b081f"
+  },
+  {
+    "path": "assets/artigos-editoriais/0d062a778fb727d4d301fe490ebbbb0c017e69116f80c872a91f7dfb850079ab.png",
+    "bytes": 1666712,
+    "sha256": "0d062a778fb727d4d301fe490ebbbb0c017e69116f80c872a91f7dfb850079ab"
   },
   {
     "path": "assets/artigos-editoriais/166a05102b6701087dea3ca849b47eafb178982bc9aa5135caf08e3edf2570bb.png",
@@ -1141,8 +1146,8 @@
   },
   {
     "path": "blog-marcas-em-acao/index.html",
-    "bytes": 28429,
-    "sha256": "be6b08809e7baf2ead37bd2117cd82b08095a93e816d9555f3f0c8e8f8e74f9b"
+    "bytes": 29106,
+    "sha256": "16f5fe68d7e02054e7240e3abf0b458027d59970fa13297832b34c4fcbf94143"
   },
   {
     "path": "blog-marcas-em-movimento/index.html",
@@ -1161,8 +1166,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 25530,
-    "sha256": "79c25f20e19fc473d3674f65c356302cd20c12bec3af005936ed1affdeca872a"
+    "bytes": 25492,
+    "sha256": "64119469ca05567f0aaa0c35ac13ab062e6692d19a2c479dc4e3d5c80d571f46"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1308,6 +1313,11 @@
     "path": "escolher-influenciador-conversa-publico/index.html",
     "bytes": 26389,
     "sha256": "838c512bd1776dcd3f80adf96e697d8e40e6fe4fb4a428ce28b1e1aa2610d015"
+  },
+  {
+    "path": "evento-confirmar-presenca-reservar-vaga/index.html",
+    "bytes": 25578,
+    "sha256": "ffec6892b1637a8a30297198d3907f00de1a70a69952f498abfbda068cc3632b"
   },
   {
     "path": "evento-informar-recursos-acessibilidade/index.html",
@@ -1681,8 +1691,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 19750,
-    "sha256": "5d628d5abc435da046f1a0cb39048c89e4f254bb994f48f0ba593d6198998f4a"
+    "bytes": 19893,
+    "sha256": "dea0d707ff3c23e341ea5602c9661c6c456c6549fb5f8715f6f90543a9db1f9b"
   },
   {
     "path": "solucao-tecnica-aplicacao-limites/index.html",

@@ -880,5 +880,12 @@
     "height": 896,
     "source": "conteudos/pauta-reposicao-2026-11-14-c2e5a021397a/imagens/8b257630fbd0fd6f06afa8582c13d9c396ba21a7172af13e955fd719826520f6.png",
     "sha256": "8b257630fbd0fd6f06afa8582c13d9c396ba21a7172af13e955fd719826520f6"
+  },
+  "evento-confirmar-presenca-reservar-vaga": {
+    "path": "/assets/artigos-editoriais/0d062a778fb727d4d301fe490ebbbb0c017e69116f80c872a91f7dfb850079ab.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-reposicao-2026-11-10-76f224c1dec5/imagens/0d062a778fb727d4d301fe490ebbbb0c017e69116f80c872a91f7dfb850079ab.png",
+    "sha256": "0d062a778fb727d4d301fe490ebbbb0c017e69116f80c872a91f7dfb850079ab"
   }
 }

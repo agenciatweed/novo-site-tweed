@@ -381,3 +381,8 @@ A referência da home no validador foi conciliada com os três botões instituci
 ## Publicação editorial — 18/11/2026, primeira rodada
 
 Publicado selecao-portfolio-direcao-trabalho/ com dois links naturais e dois relacionados, preservando todas as 125 recomendações anteriores. Dry-run, pré-verificação de hashes, backup, upload temporário e confirmação FTP/HTTP concluídos. Validadores: 126 artigos e 134 URLs, sem erros. A conferência visual desktop/mobile e a republicação no LinkedIn aguardam acesso ao navegador, que retornou Acesso negado nesta sessão. Nenhum envio LinkedIn foi iniciado. Home e materiais de clientes preservados.
+
+
+## Publicação editorial — 18/11/2026, terceira rodada
+
+Publicado evento-confirmar-presenca-reservar-vaga/ com um link natural e dois relacionados; as 126 recomendações anteriores foram preservadas. Dry-run, backups, upload temporário, pré-verificação de hashes e confirmação FTP/HTTP concluídos. O índice de Marcas em Ação foi conciliado localmente com FTP/HTTP e manifesto existente após comprovar diferença exclusiva de quebras de linha; snapshot aprovado e hashes de saída preservados, com evidências privadas. Validadores: 127 artigos e 135 URLs sem erros. Conferência desktop/mobile concluída. Duas redações entregues em Redação, uma revisão de metadados entregue sem alterar corpo/capa e uma pauta de reposição mantida sem submissão. LinkedIn: dois artigos novos e um antigo publicados com texto integral e capas originais, dentro da prioridade e das quotas. Home e materiais de clientes preservados.

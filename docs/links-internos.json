@@ -1072,6 +1072,14 @@
       "context": "Examine também a passagem para a conversa comercial. A seleção do site e os exemplos enviados numa proposta podem ter recortes diferentes, porque atendem a perguntas diferentes. Ainda assim, precisam descrever a mesma capacidade e preservar as informações confirmadas dos projetos.",
       "reason": "Relaciona a curadoria das referências comerciais à clareza do escopo e dos critérios de comparação do serviço.",
       "modifiedAt": "2026-11-18"
+    },
+    {
+      "from": "evento-confirmar-presenca-reservar-vaga",
+      "to": "mensagem-automatica-recebimento-solucao",
+      "anchor": "o próximo passo real",
+      "context": "Na PME, o retorno pode esclarecer o que foi registrado e o próximo passo real.",
+      "reason": "Aprofunda a distinção entre receber uma resposta e concluir uma solicitação, pertinente ao retorno depois da manifestação de presença.",
+      "modifiedAt": "2026-11-18"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "46395fe7cae2e6538dc348a361f8011ab3be2d6750b430130953b204ce335e08",
+  "catalogSha256": "e790bc09421eeb7430434a90818c12df9d847cb5c0bbd37ebd655d757f70ae96",
   "reviewedAt": "2026-11-17",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -1010,6 +1010,14 @@
       ],
       "modifiedAt": "2026-11-18",
       "reason": "Aprofundam o uso de imagens como evidência e a apresentação da capacidade e dos limites de aplicação do serviço."
+    },
+    "evento-confirmar-presenca-reservar-vaga": {
+      "targets": [
+        "mensagem-automatica-recebimento-solucao",
+        "evento-informar-recursos-acessibilidade"
+      ],
+      "reason": "A precisão dos estados de uma solicitação e as informações confirmadas de participação complementam a comunicação entre convite, resposta e vaga.",
+      "modifiedAt": "2026-11-18"
     }
   }
 }
