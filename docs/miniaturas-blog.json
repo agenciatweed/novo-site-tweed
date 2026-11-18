@@ -873,5 +873,12 @@
     "height": 1024,
     "source": "conteudos/pauta-reposicao-2026-11-09-d43b61e8ee5b/imagens/235b40a8fb32477eb59d4ebb6ab8e064cb55c4a6f99df58e6e0362eae3cf3863.png",
     "sha256": "235b40a8fb32477eb59d4ebb6ab8e064cb55c4a6f99df58e6e0362eae3cf3863"
+  },
+  "selecao-portfolio-direcao-trabalho": {
+    "path": "/assets/artigos-editoriais/8b257630fbd0fd6f06afa8582c13d9c396ba21a7172af13e955fd719826520f6.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-reposicao-2026-11-14-c2e5a021397a/imagens/8b257630fbd0fd6f06afa8582c13d9c396ba21a7172af13e955fd719826520f6.png",
+    "sha256": "8b257630fbd0fd6f06afa8582c13d9c396ba21a7172af13e955fd719826520f6"
   }
 }

@@ -1056,6 +1056,22 @@
       "context": "Então, da próxima vez que olhar para sua concorrência, não olhe apenas para o preço ou design. Observe qual é a “energia” que cada marca está emitindo. Porque talvez o espaço mais estratégico esteja onde ainda ninguém teve coragem de ocupar.",
       "reason": "Aprofunda a comparação com concorrentes pela análise dos códigos visuais do setor, preservando a distinção entre expressão gráfica e arquétipos.",
       "modifiedAt": "2026-11-17"
+    },
+    {
+      "from": "selecao-portfolio-direcao-trabalho",
+      "to": "imagem-campanha-prova-entrega",
+      "anchor": "uma fotografia final",
+      "context": "Para cada projeto pertinente, apresente o contexto que puder ser divulgado, a necessidade atendida e as decisões importantes para compreender a entrega. No escritório, uma fotografia final pode ganhar sentido quando acompanhada da limitação de espaço que orientou a reorganização.",
+      "reason": "Aprofunda a distinção entre registros de projetos executados e representações de propostas, preservando o contexto da imagem.",
+      "modifiedAt": "2026-11-18"
+    },
+    {
+      "from": "selecao-portfolio-direcao-trabalho",
+      "to": "proposta-comercial-comparavel-criterios",
+      "anchor": "exemplos enviados numa proposta",
+      "context": "Examine também a passagem para a conversa comercial. A seleção do site e os exemplos enviados numa proposta podem ter recortes diferentes, porque atendem a perguntas diferentes. Ainda assim, precisam descrever a mesma capacidade e preservar as informações confirmadas dos projetos.",
+      "reason": "Relaciona a curadoria das referências comerciais à clareza do escopo e dos critérios de comparação do serviço.",
+      "modifiedAt": "2026-11-18"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "edf0f1273712d306ffe5c81e0e7d98df623fde36f848aa04d13d76c074ad0586",
+  "catalogSha256": "46395fe7cae2e6538dc348a361f8011ab3be2d6750b430130953b204ce335e08",
   "reviewedAt": "2026-11-17",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -1002,6 +1002,14 @@
       ],
       "reason": "Clareza da proposta orienta a identidade; consistência sustenta os sinais próprios nas aplicações seguintes.",
       "modifiedAt": "2026-11-17"
+    },
+    "selecao-portfolio-direcao-trabalho": {
+      "targets": [
+        "imagem-campanha-prova-entrega",
+        "solucao-tecnica-aplicacao-limites"
+      ],
+      "modifiedAt": "2026-11-18",
+      "reason": "Aprofundam o uso de imagens como evidência e a apresentação da capacidade e dos limites de aplicação do serviço."
     }
   }
 }

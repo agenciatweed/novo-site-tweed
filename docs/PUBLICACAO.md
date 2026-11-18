@@ -376,3 +376,8 @@ Publicado o artigo aprovado “Uma IA descreveu sua oferta errado. Como a empres
 Publicado marca-codigos-visuais-setor/ após dry-run e confirmação FTP/HTTP; artigo completo republicado no LinkedIn da Agência Tweed, com a capa original e link canônico. Manutenção do ciclo 130: 125 artigos avaliados, quatro links naturais inseridos, dois pares relacionados atualizados e 123 preservados. Conferência desktop/mobile e validadores aprovados. Home e materiais de clientes preservados.
 
 A referência da home no validador foi conciliada com os três botões institucionais anteriormente autorizados, o manifesto e o HTTPS: SHA-256 canônico a22eac833bc076dcfca19fb120882ca09a55c8749e8cd66a457ca40d9f6dcbb2, com normalização CRLF/LF. Os índices e quatro páginas da manutenção foram conciliados localmente com os bytes já publicados somente após confirmar texto integral idêntico e hash igual ao manifesto; backups e evidências ficaram privados. Nenhuma proteção de hash foi removida.
+
+
+## Publicação editorial — 18/11/2026, primeira rodada
+
+Publicado selecao-portfolio-direcao-trabalho/ com dois links naturais e dois relacionados, preservando todas as 125 recomendações anteriores. Dry-run, pré-verificação de hashes, backup, upload temporário e confirmação FTP/HTTP concluídos. Validadores: 126 artigos e 134 URLs, sem erros. A conferência visual desktop/mobile e a republicação no LinkedIn aguardam acesso ao navegador, que retornou Acesso negado nesta sessão. Nenhum envio LinkedIn foi iniciado. Home e materiais de clientes preservados.
