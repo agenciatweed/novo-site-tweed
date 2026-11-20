@@ -71,8 +71,8 @@
   },
   {
     "path": "aprovacao-campanha-feedback-decisoes/index.html",
-    "sha256": "f5e1ab8392157fe0fc251770f62d8050e0ab024e76c41001c58291cfb936723d",
-    "bytes": 25176
+    "bytes": 25311,
+    "sha256": "6e2d0f0b9bf62cb44bf4b9f4615c780e8435cec4be9304d1c9809fb03caceb43"
   },
   {
     "path": "arquetipos-de-marca-para-pequenas-empresas/index.html",
@@ -1331,8 +1331,8 @@
   },
   {
     "path": "evento-informar-recursos-acessibilidade/index.html",
-    "bytes": 25973,
-    "sha256": "9b22d8b2c08d6a435273dd55d5ed573d788e695861a7954b2ca5fb59e2b72503"
+    "bytes": 26079,
+    "sha256": "60112f9f23aafaba9214e6313a9a96d019cca9a24d60dec9c1ce18d7ae920548"
   },
   {
     "path": "experiencia-sensorial-marca-sentido/index.html",
@@ -1371,8 +1371,8 @@
   },
   {
     "path": "imagem-campanha-prova-entrega/index.html",
-    "bytes": 25254,
-    "sha256": "ef58ce8d53163dcf7bab52d6dc87405288809e60fb78e7b7d4ce03dc98910163"
+    "bytes": 25380,
+    "sha256": "1401bd2c13ec37868be30235c46369ea4e832458a32ae0438d7f7ed4f0d4b67f"
   },
   {
     "path": "informacoes-empresa-atualizadas-canais/index.html",
@@ -1461,8 +1461,8 @@
   },
   {
     "path": "mensagem-automatica-recebimento-solucao/index.html",
-    "bytes": 25444,
-    "sha256": "e560075c03eb3f8d2d599108e6463600ea6e96cdea76349bb96b3fa039abe19e"
+    "bytes": 25463,
+    "sha256": "5ca5109472c37ea0140a5d71a5c452091bc543b736191fda8ff91e5ec453bff4"
   },
   {
     "path": "mensagem-contexto-momento-cliente/index.html",
@@ -1586,8 +1586,8 @@
   },
   {
     "path": "peca-aprovada-versao-veiculada/index.html",
-    "bytes": 25203,
-    "sha256": "90a3da46c38f5adc81983ffba062fb452b7ad55c307945c0a4c53b6f4abf36fc"
+    "bytes": 25239,
+    "sha256": "2e462239d06c9f350317eb70b2e365cf6623c5a124d11bf4af299848d43c58e2"
   },
   {
     "path": "personagem-marca-continuidade-pecas/index.html",
@@ -1666,8 +1666,8 @@
   },
   {
     "path": "redesign-site-transicao-usabilidade/index.html",
-    "bytes": 25217,
-    "sha256": "9a6588c9ac833e182fd1b8a1cf43ba0b5d4582a0107cc143afd3c27165699212"
+    "bytes": 25310,
+    "sha256": "ca81ed9ab5dff5604055d7cd244cede89236106f6b547a9eee583a89867fd730"
   },
   {
     "path": "resumo-reuniao-decisoes-pendencias/index.html",
@@ -1712,7 +1712,7 @@
   {
     "path": "sitemap.xml",
     "bytes": 20163,
-    "sha256": "5281434e5783aeeb88d1c7339ead9c6c7d784aa51493dd34c109a8b77e52f6a3"
+    "sha256": "70b7c33e712b9aa1f718aaf8e911b3b0627340aebbcac01481049996e2dea74d"
   },
   {
     "path": "solucao-tecnica-aplicacao-limites/index.html",

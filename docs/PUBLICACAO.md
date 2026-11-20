@@ -391,3 +391,8 @@ Publicado evento-confirmar-presenca-reservar-vaga/ com um link natural e dois re
 ## Publicações editoriais — 19/11/2026
 
 Confirmadas peca-aprovada-versao-veiculada/ na primeira rodada e prototipo-site-alcance-aprovacao/ na terceira rodada. A segunda publicação mantém dois links naturais e dois relacionados, copiando sem alterações as 128 recomendações anteriores. Dry-run, hashes prévios, backups, upload temporário, renomeação e confirmação FTP/HTTP concluídos para ambos. Os registros privados dos jobs confirmam os envios. Conferência desktop/mobile dos dois artigos e validadores aprovados: 129 artigos e 137 URLs, sem erros. O commit reúne também os arquivos da primeira publicação já confirmada que ainda aguardavam versionamento. Home, materiais de clientes e alterações institucionais concorrentes preservados.
+
+
+## Manutencao de links — 20/11/2026, rodada 140
+
+Avaliados os 129 artigos e seus dois relacionados. Inseridos quatro links naturais de antigos para os quatro recentes e atualizados seis pares de recomendacoes; preservadas as demais escolhas. Dry-runs e envios sequenciais confirmados por FTP/HTTP, com hashes previos, backups, temporarios e renomeacao. A diferenca inicial de tres arquivos foi conferida linha a linha via FTP e conciliada somente nas quebras de linha locais, sem mudanca de conteudo. Destinos conferidos no navegador e layout representativo verificado em desktop/mobile. Home, textos, capas, clientes e edicoes concorrentes preservados. Planos e avaliacao privada registram as escolhas.

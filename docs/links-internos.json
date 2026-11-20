@@ -1112,6 +1112,38 @@
       "context": "Na PME, a referência pode indicar qual versão foi apresentada, quais escolhas foram confirmadas e quais pontos continuam pendentes.",
       "reason": "Retoma critérios e registro de decisões para delimitar o que foi efetivamente aprovado.",
       "modifiedAt": "2026-11-19"
+    },
+    {
+      "from": "imagem-campanha-prova-entrega",
+      "to": "selecao-portfolio-direcao-trabalho",
+      "anchor": "Um portfólio de trabalhos executados",
+      "context": "Um portfólio de trabalhos executados precisa permitir reconhecer o que foi efetivamente entregue.",
+      "reason": "Aprofunda a seleção e a contextualização de trabalhos executados que funcionam como evidências.",
+      "modifiedAt": "2026-11-20"
+    },
+    {
+      "from": "evento-informar-recursos-acessibilidade",
+      "to": "evento-confirmar-presenca-reservar-vaga",
+      "anchor": "pedir uma inscrição",
+      "context": "Para uma pequena empresa que prepara um encontro presencial, a pergunta útil é o que consegue explicar sobre as condições de participação antes de pedir uma inscrição.",
+      "reason": "Complementa as condições do convite com o significado da inscrição e da confirmação de vaga.",
+      "modifiedAt": "2026-11-20"
+    },
+    {
+      "from": "aprovacao-campanha-feedback-decisoes",
+      "to": "peca-aprovada-versao-veiculada",
+      "anchor": "versões para os canais combinados",
+      "context": "A equipe já ajustou a imagem, exportou o vídeo e preparou as versões para os canais combinados.",
+      "reason": "Conecta a preparação aprovada à conferência do arquivo realmente entregue a cada canal.",
+      "modifiedAt": "2026-11-20"
+    },
+    {
+      "from": "redesign-site-transicao-usabilidade",
+      "to": "prototipo-site-alcance-aprovacao",
+      "anchor": "Uma apresentação de telas",
+      "context": "Uma apresentação de telas mostra composição, hierarquia e linguagem visual.",
+      "reason": "Explica o alcance de uma apresentação de telas em contraste com a avaliação do funcionamento real.",
+      "modifiedAt": "2026-11-20"
     }
   ]
 }

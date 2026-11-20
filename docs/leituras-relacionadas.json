@@ -598,10 +598,10 @@
     "aprovacao-campanha-feedback-decisoes": {
       "targets": [
         "resumo-reuniao-decisoes-pendencias",
-        "uma-boa-restricao-pode-melhorar-uma-ideia"
+        "peca-aprovada-versao-veiculada"
       ],
-      "reason": "Prioriza o registro das decisões e preserva restrições criativas úteis.",
-      "modifiedAt": "2026-11-07"
+      "reason": "O registro das decisões e a conferência da peça efetivamente veiculada completam duas etapas do fluxo de aprovação.",
+      "modifiedAt": "2026-11-20"
     },
     "mensagem-contexto-momento-cliente": {
       "targets": [
@@ -662,10 +662,10 @@
     "redesign-site-transicao-usabilidade": {
       "targets": [
         "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding",
-        "informacoes-empresa-atualizadas-canais"
+        "prototipo-site-alcance-aprovacao"
       ],
-      "reason": "Relacionam a transição do redesign à experiência de marca no site e à atualização das orientações em outros canais.",
-      "modifiedAt": "2026-10-27"
+      "reason": "Preservada a relação entre UX e marca; o alcance do protótipo aprofunda o que uma apresentação de telas permite avaliar antes do uso real.",
+      "modifiedAt": "2026-11-20"
     },
     "atendimento-troca-clareza-encaminhamento": {
       "targets": [
@@ -677,11 +677,11 @@
     },
     "imagem-campanha-prova-entrega": {
       "targets": [
-        "ia-materiais-marca-alem-das-cores",
+        "selecao-portfolio-direcao-trabalho",
         "a-marca-que-voce-posta-e-a-mesma-que-voce-entrega"
       ],
-      "reason": "Relacionam os critérios de criação por IA à coerência entre comunicação pública e entrega real.",
-      "modifiedAt": "2026-10-28"
+      "reason": "A seleção do portfólio aprofunda a função e o contexto das evidências apresentadas; preservada a coerência entre comunicação e entrega.",
+      "modifiedAt": "2026-11-20"
     },
     "humor-marca-cliente-alvo-piada": {
       "targets": [
@@ -966,18 +966,18 @@
     "mensagem-automatica-recebimento-solucao": {
       "targets": [
         "atendimento-troca-clareza-encaminhamento",
-        "informacoes-empresa-atualizadas-canais"
+        "evento-confirmar-presenca-reservar-vaga"
       ],
-      "reason": "O percurso de atendimento aprofunda a passagem entre responsáveis sem perder o contexto; a atualização dos canais ajuda a manter corretas as informações e referências oferecidas automaticamente.",
-      "modifiedAt": "2026-11-15"
+      "reason": "Preservado o encaminhamento de atendimento; o convite de evento concretiza a diferença entre registrar uma resposta e confirmar uma condição.",
+      "modifiedAt": "2026-11-20"
     },
     "evento-informar-recursos-acessibilidade": {
       "targets": [
         "testar-experiencia-alem-equipe-interna",
-        "informacoes-empresa-atualizadas-canais"
+        "evento-confirmar-presenca-reservar-vaga"
       ],
-      "modifiedAt": "2026-11-15",
-      "reason": "Aprofundam a avaliação da experiência por pessoas externas e a manutenção das condições confirmadas nos canais de divulgação."
+      "reason": "Condições de acesso e significado da confirmação são partes complementares de um convite; preservada a avaliação além da equipe interna.",
+      "modifiedAt": "2026-11-20"
     },
     "cupom-desconto-nao-aplicado": {
       "targets": [
@@ -1022,10 +1022,10 @@
     "peca-aprovada-versao-veiculada": {
       "targets": [
         "aprovacao-campanha-feedback-decisoes",
-        "informacoes-empresa-atualizadas-canais"
+        "apresentacao-comercial-manutencao-proxima-versao"
       ],
-      "reason": "Os critérios de aprovação estabelecem a referência da peça; a atualização das informações vigentes completa a conferência entre decisão e comunicação pública.",
-      "modifiedAt": "2026-11-19"
+      "reason": "Critérios de aprovação e manutenção das versões aprofundam a referência aprovada e a passagem dos arquivos para veiculação.",
+      "modifiedAt": "2026-11-20"
     },
     "prototipo-site-alcance-aprovacao": {
       "targets": [
