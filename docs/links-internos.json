@@ -1144,6 +1144,22 @@
       "context": "Uma apresentação de telas mostra composição, hierarquia e linguagem visual.",
       "reason": "Explica o alcance de uma apresentação de telas em contraste com a avaliação do funcionamento real.",
       "modifiedAt": "2026-11-20"
+    },
+    {
+      "from": "ajuda-opcional-dispensar-retomar",
+      "to": "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding",
+      "anchor": "O texto e o comportamento precisam corresponder",
+      "context": "O texto e o comportamento precisam corresponder.",
+      "reason": "Relaciona a linguagem dos controles à experiência de marca durante o uso.",
+      "modifiedAt": "2026-11-20"
+    },
+    {
+      "from": "ajuda-opcional-dispensar-retomar",
+      "to": "redesign-site-transicao-usabilidade",
+      "anchor": "Uma mudança relevante",
+      "context": "Uma mudança relevante pode justificar um aviso específico.",
+      "reason": "Aprofunda a orientação necessária quando mudanças no site afetam percursos conhecidos.",
+      "modifiedAt": "2026-11-20"
     }
   ]
 }

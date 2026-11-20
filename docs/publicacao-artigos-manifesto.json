@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 7321,
-    "sha256": "ec90883aa5d4c55b3de57b7de7f57f88496076b513683e336c22bc13aa6ca2e0"
+    "bytes": 7357,
+    "sha256": "b610cf57fba73c4e7fc5dca0fa94671051994c4bf982189f350fdc4646361907"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -43,6 +43,11 @@
     "path": "adocao-ia-equipe-conhecimento-compartilhado/index.html",
     "sha256": "1d41a500b154ad22b438fdb45536c2b31bd902a642863249410345845cbbc53a",
     "bytes": 25566
+  },
+  {
+    "path": "ajuda-opcional-dispensar-retomar/index.html",
+    "bytes": 25247,
+    "sha256": "e30df1e7c9a9a83ee57d053a287b56826ee35f54dd23ef9dba2cec7b818ace8a"
   },
   {
     "path": "alem-do-anuncio-como-o-boca-a-boca-mantem-sua-marca-viva-quando-a-propaganda-termina/index.html",
@@ -243,6 +248,11 @@
     "path": "assets/artigos-editoriais/7c2fbd14dfa40653542efa2b4c18e26e0b956e22a5f380d13a28d7f176aeca9e.png",
     "bytes": 1550294,
     "sha256": "7c2fbd14dfa40653542efa2b4c18e26e0b956e22a5f380d13a28d7f176aeca9e"
+  },
+  {
+    "path": "assets/artigos-editoriais/83d6c42f28d967df179b14ef1388619eba45f43406b667cb1f47792be0dd32d4.png",
+    "bytes": 1506956,
+    "sha256": "83d6c42f28d967df179b14ef1388619eba45f43406b667cb1f47792be0dd32d4"
   },
   {
     "path": "assets/artigos-editoriais/85d63bf699718c16b692c378648ade462983fb8dc9ec1c581f84172f8fe7c54f.png",
@@ -1156,8 +1166,8 @@
   },
   {
     "path": "blog-marcas-em-acao/index.html",
-    "bytes": 29106,
-    "sha256": "16f5fe68d7e02054e7240e3abf0b458027d59970fa13297832b34c4fcbf94143"
+    "bytes": 29618,
+    "sha256": "1c602e535aa6fc846f9331ab27df14edd545eed4ae9df34e330bd5905d113c2c"
   },
   {
     "path": "blog-marcas-em-movimento/index.html",
@@ -1176,8 +1186,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 25444,
-    "sha256": "093ccaf268581cb3bc8619191606781d06d69efa1df5e9bacd4c67b385cf23aa"
+    "bytes": 25377,
+    "sha256": "d0039fb31b222c6ca72a0b89a420b9b1341d35e054c113d855dbbbe95e130b46"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1711,8 +1721,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 20163,
-    "sha256": "70b7c33e712b9aa1f718aaf8e911b3b0627340aebbcac01481049996e2dea74d"
+    "bytes": 20299,
+    "sha256": "618cda2da486bcf49df88b2f65ddae168cb64bf3bf98cef6a93d81d1924e0b02"
   },
   {
     "path": "solucao-tecnica-aplicacao-limites/index.html",
