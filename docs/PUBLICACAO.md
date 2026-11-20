@@ -386,3 +386,8 @@ Publicado selecao-portfolio-direcao-trabalho/ com dois links naturais e dois rel
 ## Publicação editorial — 18/11/2026, terceira rodada
 
 Publicado evento-confirmar-presenca-reservar-vaga/ com um link natural e dois relacionados; as 126 recomendações anteriores foram preservadas. Dry-run, backups, upload temporário, pré-verificação de hashes e confirmação FTP/HTTP concluídos. O índice de Marcas em Ação foi conciliado localmente com FTP/HTTP e manifesto existente após comprovar diferença exclusiva de quebras de linha; snapshot aprovado e hashes de saída preservados, com evidências privadas. Validadores: 127 artigos e 135 URLs sem erros. Conferência desktop/mobile concluída. Duas redações entregues em Redação, uma revisão de metadados entregue sem alterar corpo/capa e uma pauta de reposição mantida sem submissão. LinkedIn: dois artigos novos e um antigo publicados com texto integral e capas originais, dentro da prioridade e das quotas. Home e materiais de clientes preservados.
+
+
+## Publicações editoriais — 19/11/2026
+
+Confirmadas peca-aprovada-versao-veiculada/ na primeira rodada e prototipo-site-alcance-aprovacao/ na terceira rodada. A segunda publicação mantém dois links naturais e dois relacionados, copiando sem alterações as 128 recomendações anteriores. Dry-run, hashes prévios, backups, upload temporário, renomeação e confirmação FTP/HTTP concluídos para ambos. Os registros privados dos jobs confirmam os envios. Conferência desktop/mobile dos dois artigos e validadores aprovados: 129 artigos e 137 URLs, sem erros. O commit reúne também os arquivos da primeira publicação já confirmada que ainda aguardavam versionamento. Home, materiais de clientes e alterações institucionais concorrentes preservados.

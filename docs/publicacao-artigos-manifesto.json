@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 7251,
-    "sha256": "2f97543c314214415063fe37aab6ada5c4940898ec521b57b185528ac3c7e78c"
+    "bytes": 7321,
+    "sha256": "ec90883aa5d4c55b3de57b7de7f57f88496076b513683e336c22bc13aa6ca2e0"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -365,6 +365,11 @@
     "sha256": "d8286089c1606928250ee47b93526adb1a9d2040d37529ec33978714414a695f"
   },
   {
+    "path": "assets/artigos-editoriais/d9aabf9ef581076dd3901ee66ae6132a237dcb6f0dcc3a8ea5e2489e58f4a1fa.png",
+    "bytes": 2255741,
+    "sha256": "d9aabf9ef581076dd3901ee66ae6132a237dcb6f0dcc3a8ea5e2489e58f4a1fa"
+  },
+  {
     "path": "assets/artigos-editoriais/d9bcdfabc1c53a1e2ea3befc4e076fab1c1d73bbbe17bdf771b3f77c1004b6a4.png",
     "bytes": 1520125,
     "sha256": "d9bcdfabc1c53a1e2ea3befc4e076fab1c1d73bbbe17bdf771b3f77c1004b6a4"
@@ -398,6 +403,11 @@
     "path": "assets/artigos-editoriais/e9006ef3463dc16b77f44976b53baaed5e2aa7e30ebd3860a31ccde68ad15b40.png",
     "bytes": 1334677,
     "sha256": "e9006ef3463dc16b77f44976b53baaed5e2aa7e30ebd3860a31ccde68ad15b40"
+  },
+  {
+    "path": "assets/artigos-editoriais/ea2d474c489c2fa48b5f159efaaba2243f9f14dc017b262bb5fb62dbc11bfcc0.png",
+    "bytes": 2587376,
+    "sha256": "ea2d474c489c2fa48b5f159efaaba2243f9f14dc017b262bb5fb62dbc11bfcc0"
   },
   {
     "path": "assets/artigos-editoriais/eac4f37a0d1d3e302ec884321d8bb704182d9163fe148a9dbb6614f103c7afa9.png",
@@ -1161,13 +1171,13 @@
   },
   {
     "path": "blog-pequeno-mas-estrategico/index.html",
-    "bytes": 29965,
-    "sha256": "8fa92717d8d864eff704bd3e37dc68c6e44b78143dbe94a7beb05321e6888cf4"
+    "bytes": 31017,
+    "sha256": "efb84870972619feebf6bfb327e246bc6688e389d86cd40538b530a2c4116de1"
   },
   {
     "path": "blog/index.html",
-    "bytes": 25492,
-    "sha256": "64119469ca05567f0aaa0c35ac13ab062e6692d19a2c479dc4e3d5c80d571f46"
+    "bytes": 25444,
+    "sha256": "093ccaf268581cb3bc8619191606781d06d69efa1df5e9bacd4c67b385cf23aa"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1575,6 +1585,11 @@
     "sha256": "cd121b494ca756ff8d8a9fc7bc686ae2b8805fd1e8cbc91c56096144f190e358"
   },
   {
+    "path": "peca-aprovada-versao-veiculada/index.html",
+    "bytes": 25203,
+    "sha256": "90a3da46c38f5adc81983ffba062fb452b7ad55c307945c0a4c53b6f4abf36fc"
+  },
+  {
     "path": "personagem-marca-continuidade-pecas/index.html",
     "bytes": 25847,
     "sha256": "869a5af5c166e56020a897cf267032a867913e200b1f0c2c848d7aaa22a02971"
@@ -1613,6 +1628,11 @@
     "path": "proposta-comercial-comparavel-criterios/index.html",
     "bytes": 25177,
     "sha256": "9dd6fe4f3816e048eed2e147de792271e314280dcde62ecf619a056771027a58"
+  },
+  {
+    "path": "prototipo-site-alcance-aprovacao/index.html",
+    "bytes": 25683,
+    "sha256": "a690d47dbc5bc8575788edd7407f4661bc5577a3670024678023239d895132dd"
   },
   {
     "path": "qr-code-embalagem-informacao-util/index.html",
@@ -1691,8 +1711,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 19893,
-    "sha256": "dea0d707ff3c23e341ea5602c9661c6c456c6549fb5f8715f6f90543a9db1f9b"
+    "bytes": 20163,
+    "sha256": "5281434e5783aeeb88d1c7339ead9c6c7d784aa51493dd34c109a8b77e52f6a3"
   },
   {
     "path": "solucao-tecnica-aplicacao-limites/index.html",

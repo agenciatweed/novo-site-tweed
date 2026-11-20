@@ -887,5 +887,19 @@
     "height": 896,
     "source": "conteudos/pauta-reposicao-2026-11-10-76f224c1dec5/imagens/0d062a778fb727d4d301fe490ebbbb0c017e69116f80c872a91f7dfb850079ab.png",
     "sha256": "0d062a778fb727d4d301fe490ebbbb0c017e69116f80c872a91f7dfb850079ab"
+  },
+  "peca-aprovada-versao-veiculada": {
+    "path": "/assets/artigos-editoriais/ea2d474c489c2fa48b5f159efaaba2243f9f14dc017b262bb5fb62dbc11bfcc0.png",
+    "width": 1536,
+    "height": 1024,
+    "source": "conteudos/pauta-reposicao-2026-11-10-8fc510c20ee2/imagens/ea2d474c489c2fa48b5f159efaaba2243f9f14dc017b262bb5fb62dbc11bfcc0.png",
+    "sha256": "ea2d474c489c2fa48b5f159efaaba2243f9f14dc017b262bb5fb62dbc11bfcc0"
+  },
+  "prototipo-site-alcance-aprovacao": {
+    "path": "/assets/artigos-editoriais/d9aabf9ef581076dd3901ee66ae6132a237dcb6f0dcc3a8ea5e2489e58f4a1fa.png",
+    "width": 1536,
+    "height": 1024,
+    "source": "conteudos/pauta-diaria-2026-11-11/imagens/d9aabf9ef581076dd3901ee66ae6132a237dcb6f0dcc3a8ea5e2489e58f4a1fa.png",
+    "sha256": "d9aabf9ef581076dd3901ee66ae6132a237dcb6f0dcc3a8ea5e2489e58f4a1fa"
   }
 }

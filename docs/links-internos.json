@@ -1080,6 +1080,38 @@
       "context": "Na PME, o retorno pode esclarecer o que foi registrado e o próximo passo real.",
       "reason": "Aprofunda a distinção entre receber uma resposta e concluir uma solicitação, pertinente ao retorno depois da manifestação de presença.",
       "modifiedAt": "2026-11-18"
+    },
+    {
+      "from": "peca-aprovada-versao-veiculada",
+      "to": "aprovacao-campanha-feedback-decisoes",
+      "anchor": "referência aprovada",
+      "context": "Compare a saída preparada com a referência aprovada nas informações pertinentes.",
+      "reason": "Retoma os critérios e registros da decisão para orientar a conferência da saída final.",
+      "modifiedAt": "2026-11-19"
+    },
+    {
+      "from": "peca-aprovada-versao-veiculada",
+      "to": "informacoes-empresa-atualizadas-canais",
+      "anchor": "condição de atendimento",
+      "context": "Se uma condição de atendimento mudou desde a decisão, a equipe precisa conferir o que continua válido antes de colocar a peça em circulação.",
+      "reason": "Aprofunda como fazer uma mudança operacional chegar às informações públicas da marca.",
+      "modifiedAt": "2026-11-19"
+    },
+    {
+      "from": "prototipo-site-alcance-aprovacao",
+      "to": "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding",
+      "anchor": "caminho difícil de compreender",
+      "context": "Essas observações podem indicar um nome ambíguo, uma mensagem que promete mais do que deveria ou um caminho difícil de compreender.",
+      "reason": "Aprofunda como a compreensão da navegação participa da experiência de marca, que o protótipo ajuda a discutir.",
+      "modifiedAt": "2026-11-19"
+    },
+    {
+      "from": "prototipo-site-alcance-aprovacao",
+      "to": "aprovacao-campanha-feedback-decisoes",
+      "anchor": "quais escolhas foram confirmadas",
+      "context": "Na PME, a referência pode indicar qual versão foi apresentada, quais escolhas foram confirmadas e quais pontos continuam pendentes.",
+      "reason": "Retoma critérios e registro de decisões para delimitar o que foi efetivamente aprovado.",
+      "modifiedAt": "2026-11-19"
     }
   ]
 }

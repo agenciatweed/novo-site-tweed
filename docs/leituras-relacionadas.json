@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "e790bc09421eeb7430434a90818c12df9d847cb5c0bbd37ebd655d757f70ae96",
+  "catalogSha256": "e7c343463a29c6e31baee652076721476634b30aa2e086c3afbbff0a1e526cc1",
   "reviewedAt": "2026-11-17",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -1018,6 +1018,22 @@
       ],
       "reason": "A precisão dos estados de uma solicitação e as informações confirmadas de participação complementam a comunicação entre convite, resposta e vaga.",
       "modifiedAt": "2026-11-18"
+    },
+    "peca-aprovada-versao-veiculada": {
+      "targets": [
+        "aprovacao-campanha-feedback-decisoes",
+        "informacoes-empresa-atualizadas-canais"
+      ],
+      "reason": "Os critérios de aprovação estabelecem a referência da peça; a atualização das informações vigentes completa a conferência entre decisão e comunicação pública.",
+      "modifiedAt": "2026-11-19"
+    },
+    "prototipo-site-alcance-aprovacao": {
+      "targets": [
+        "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding",
+        "aprovacao-campanha-feedback-decisoes"
+      ],
+      "reason": "A experiência de uso esclarece as perguntas que o protótipo permite investigar; critérios e registro de aprovação delimitam o alcance das decisões tomadas.",
+      "modifiedAt": "2026-11-19"
     }
   }
 }
