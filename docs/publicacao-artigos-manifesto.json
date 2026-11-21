@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 7357,
-    "sha256": "b610cf57fba73c4e7fc5dca0fa94671051994c4bf982189f350fdc4646361907"
+    "bytes": 7396,
+    "sha256": "5532d6fc81bfe539801f18708c91c31935f86b49fafb44f62edee389037d552d"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -238,6 +238,11 @@
     "path": "assets/artigos-editoriais/7442452e2c4b1174637c88951abc0fbeb9902ede9fb0a2d6bfb56362f3c97351.jpg",
     "bytes": 3114567,
     "sha256": "7442452e2c4b1174637c88951abc0fbeb9902ede9fb0a2d6bfb56362f3c97351"
+  },
+  {
+    "path": "assets/artigos-editoriais/77fa1fdd2ddadae887711ab5f35fc32f24fb9fcf64fbd0fb4d753388d8e106ac.png",
+    "bytes": 2326072,
+    "sha256": "77fa1fdd2ddadae887711ab5f35fc32f24fb9fcf64fbd0fb4d753388d8e106ac"
   },
   {
     "path": "assets/artigos-editoriais/7899c96f95d6f9afe8f9a394272a5a5929b237aab1736be988ff00a86a0b133d.png",
@@ -1161,8 +1166,8 @@
   },
   {
     "path": "blog-marcas-com-alma/index.html",
-    "bytes": 19970,
-    "sha256": "bfa35794628bac619b7af410d9052c746984e83626b73a4a74b8fdc5654fca59"
+    "bytes": 22264,
+    "sha256": "fa458a733f8aa0d8c8eb1cdda477aa04de39bc70701ef060d7caf645b57541ac"
   },
   {
     "path": "blog-marcas-em-acao/index.html",
@@ -1186,8 +1191,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 25377,
-    "sha256": "d0039fb31b222c6ca72a0b89a420b9b1341d35e054c113d855dbbbe95e130b46"
+    "bytes": 25298,
+    "sha256": "800c7fe998bf38f74e082dfc31f41ded1016b9017b0208e973e4abc6f0a008e2"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1635,6 +1640,11 @@
     "sha256": "b4dec60f9215aa28c62b0f2d650e24d1a8343fc134e18aecc9765d3ead104896"
   },
   {
+    "path": "produto-surpresa-informacao-escolha/index.html",
+    "bytes": 25513,
+    "sha256": "3cfc659051e5451c595cc3c3ca98dc8c0544151fcf11447cb51c22bdb4a183b7"
+  },
+  {
     "path": "proposta-comercial-comparavel-criterios/index.html",
     "bytes": 25177,
     "sha256": "9dd6fe4f3816e048eed2e147de792271e314280dcde62ecf619a056771027a58"
@@ -1721,8 +1731,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 20299,
-    "sha256": "618cda2da486bcf49df88b2f65ddae168cb64bf3bf98cef6a93d81d1924e0b02"
+    "bytes": 20438,
+    "sha256": "da6796cc37f6b5592a47b040263ca6698b5229597818df54dac0cf9e685aa28f"
   },
   {
     "path": "solucao-tecnica-aplicacao-limites/index.html",

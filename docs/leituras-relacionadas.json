@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "a3dffc70fb65e612d3181dfd54a061a1e20904d4f4bcdcfb4853838a5e3059ad",
+  "catalogSha256": "f0a88130ae21c323cc1f71341b6fba610012107a7d3fe7684f824f206d0eba15",
   "reviewedAt": "2026-11-17",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -1042,6 +1042,14 @@
       ],
       "reason": "Experiência de marca no uso e orientação durante mudanças complementam a análise da ajuda que pode ser dispensada e recuperada.",
       "modifiedAt": "2026-11-20"
+    },
+    "produto-surpresa-informacao-escolha": {
+      "targets": [
+        "embalagem-diferenciar-versoes-produto",
+        "imagem-campanha-prova-entrega"
+      ],
+      "reason": "A identificação das versões e a distinção entre representação visual e entrega complementam a clareza sobre o que é conhecido ou variável numa compra surpresa.",
+      "modifiedAt": "2026-11-21"
     }
   }
 }

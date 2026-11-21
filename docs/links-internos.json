@@ -1160,6 +1160,14 @@
       "context": "Uma mudança relevante pode justificar um aviso específico.",
       "reason": "Aprofunda a orientação necessária quando mudanças no site afetam percursos conhecidos.",
       "modifiedAt": "2026-11-20"
+    },
+    {
+      "from": "produto-surpresa-informacao-escolha",
+      "to": "imagem-campanha-prova-entrega",
+      "anchor": "Uma imagem de referência",
+      "context": "Uma imagem de referência precisa ser reconhecida como referência, sem depender de uma correção posterior pelo atendimento.",
+      "reason": "Aprofunda a identificação do papel de uma imagem, evitando confundir uma possibilidade ilustrada com aquilo que foi efetivamente oferecido.",
+      "modifiedAt": "2026-11-21"
     }
   ]
 }
