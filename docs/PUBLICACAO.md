@@ -406,3 +406,8 @@ Publicado ajuda-opcional-dispensar-retomar/ na terceira rodada, com dois links n
 ## Publicacao editorial — 21/11/2026, rodada 143
 
 Publicado produto-surpresa-informacao-escolha/ na primeira rodada, com um link natural e dois relacionados; as 130 recomendacoes anteriores foram preservadas. Dry-run, hashes previos, backups, temporarios e confirmacao FTP/HTTP concluidos. O indice de Marcas com Alma foi conciliado apenas nas quebras de linha locais depois de comprovar igualdade de todas as linhas e correspondencia do remoto com o manifesto; a retomada preservou os hashes de saida. Capa, titulo, navegacao e leitura conferidos em desktop/mobile. Validadores: 131 artigos e 139 URLs sem erros. Home, clientes, texto e capa aprovados e demais edicoes preservados.
+
+
+## Publicacao editorial — 21/11/2026, rodada 145
+
+Publicado nova-oferta-arquitetura-marcas/ na terceira rodada, com dois links naturais e dois relacionados; as 131 recomendacoes anteriores foram preservadas. Dry-run, hashes previos, backups, temporarios e confirmacao FTP/HTTP concluidos. Conferencia desktop/mobile e validadores aprovados: 132 artigos e 143 URLs. Confirmada republicacao integral no LinkedIn com capa original e legenda vinculada ao blog. Uma redacao e duas revisoes de metadados entregues nas etapas humanas corretas, mais uma pauta de reposicao sem submissao. Home, clientes e alteracoes institucionais concorrentes preservados.

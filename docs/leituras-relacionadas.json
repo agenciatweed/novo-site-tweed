@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "f0a88130ae21c323cc1f71341b6fba610012107a7d3fe7684f824f206d0eba15",
+  "catalogSha256": "fb5d63ffdb7ac37c9f90a6504bd3f9a0b69d61fb79aca3a8d7fd191eb966468f",
   "reviewedAt": "2026-11-17",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -1049,6 +1049,14 @@
         "imagem-campanha-prova-entrega"
       ],
       "reason": "A identificação das versões e a distinção entre representação visual e entrega complementam a clareza sobre o que é conhecido ou variável numa compra surpresa.",
+      "modifiedAt": "2026-11-21"
+    },
+    "nova-oferta-arquitetura-marcas": {
+      "targets": [
+        "nome-produto-clareza-proposta",
+        "seu-logotipo-e-bonito-mas-sua-marca-e-clara"
+      ],
+      "reason": "As duas leituras aprofundam decisões diretamente ligadas à arquitetura da nova oferta: clareza do nome e do descritor no portfólio, e direção estratégica antes do logotipo.",
       "modifiedAt": "2026-11-21"
     }
   }

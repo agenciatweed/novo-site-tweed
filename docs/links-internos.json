@@ -1168,6 +1168,22 @@
       "context": "Uma imagem de referência precisa ser reconhecida como referência, sem depender de uma correção posterior pelo atendimento.",
       "reason": "Aprofunda a identificação do papel de uma imagem, evitando confundir uma possibilidade ilustrada com aquilo que foi efetivamente oferecido.",
       "modifiedAt": "2026-11-21"
+    },
+    {
+      "from": "nova-oferta-arquitetura-marcas",
+      "to": "nome-produto-clareza-proposta",
+      "anchor": "descrições claras de temas e formatos",
+      "context": "No exemplo, uma possibilidade é apresentar os cursos como parte da consultoria, com descrições claras de temas e formatos.",
+      "reason": "A apresentação de cursos sob a marca existente depende de descritores que expliquem a oferta; o destino aprofunda a relação entre nome, descritor e portfólio.",
+      "modifiedAt": "2026-11-21"
+    },
+    {
+      "from": "nova-oferta-arquitetura-marcas",
+      "to": "seu-logotipo-e-bonito-mas-sua-marca-e-clara",
+      "anchor": "razão estratégica",
+      "context": "Uma construção independente também pode ser examinada quando houver uma razão estratégica para isso.",
+      "reason": "O destino desenvolve a clareza de posicionamento como ponto de partida anterior ao desenho de outra identidade.",
+      "modifiedAt": "2026-11-21"
     }
   ]
 }

@@ -915,5 +915,12 @@
     "height": 896,
     "source": "conteudos/pauta-reposicao-2026-11-11-0f0451033c1a/imagens/77fa1fdd2ddadae887711ab5f35fc32f24fb9fcf64fbd0fb4d753388d8e106ac.png",
     "sha256": "77fa1fdd2ddadae887711ab5f35fc32f24fb9fcf64fbd0fb4d753388d8e106ac"
+  },
+  "nova-oferta-arquitetura-marcas": {
+    "path": "/assets/artigos-editoriais/f237fa76a2cd43e0bde7d6950e210c4c508399cf3c7f81659887d7354cf39d99.png",
+    "width": 1536,
+    "height": 1024,
+    "source": "conteudos/pauta-diaria-2026-11-12/imagens/f237fa76a2cd43e0bde7d6950e210c4c508399cf3c7f81659887d7354cf39d99.png",
+    "sha256": "f237fa76a2cd43e0bde7d6950e210c4c508399cf3c7f81659887d7354cf39d99"
   }
 }
