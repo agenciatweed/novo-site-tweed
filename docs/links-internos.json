@@ -1184,6 +1184,22 @@
       "context": "Uma construção independente também pode ser examinada quando houver uma razão estratégica para isso.",
       "reason": "O destino desenvolve a clareza de posicionamento como ponto de partida anterior ao desenho de outra identidade.",
       "modifiedAt": "2026-11-21"
+    },
+    {
+      "from": "logotipo-tamanho-pequeno-aplicacoes",
+      "to": "marca-codigos-visuais-setor",
+      "anchor": "a relação com a marca existente",
+      "context": "O ajuste exige compreender quais elementos sustentam a relação com a marca existente.",
+      "reason": "A discussão dos sinais visuais próprios e da consistência entre pontos de contato complementa a escolha de uma versão compacta reconhecível.",
+      "modifiedAt": "2026-11-22"
+    },
+    {
+      "from": "logotipo-tamanho-pequeno-aplicacoes",
+      "to": "peca-aprovada-versao-veiculada",
+      "anchor": "depois de inserir o arquivo no canal",
+      "context": "Confira também o resultado depois de inserir o arquivo no canal.",
+      "reason": "O destino aprofunda a conferência da aplicação efetivamente veiculada, que não se encerra na aprovação do arquivo.",
+      "modifiedAt": "2026-11-22"
     }
   ]
 }

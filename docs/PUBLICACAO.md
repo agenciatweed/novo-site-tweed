@@ -411,3 +411,8 @@ Publicado produto-surpresa-informacao-escolha/ na primeira rodada, com um link n
 ## Publicacao editorial — 21/11/2026, rodada 145
 
 Publicado nova-oferta-arquitetura-marcas/ na terceira rodada, com dois links naturais e dois relacionados; as 131 recomendacoes anteriores foram preservadas. Dry-run, hashes previos, backups, temporarios e confirmacao FTP/HTTP concluidos. Conferencia desktop/mobile e validadores aprovados: 132 artigos e 143 URLs. Confirmada republicacao integral no LinkedIn com capa original e legenda vinculada ao blog. Uma redacao e duas revisoes de metadados entregues nas etapas humanas corretas, mais uma pauta de reposicao sem submissao. Home, clientes e alteracoes institucionais concorrentes preservados.
+
+
+## Publicacao editorial — 22/11/2026, rodada 147
+
+Publicado logotipo-tamanho-pequeno-aplicacoes/ na primeira rodada, com dois links naturais e dois relacionados; as 132 recomendacoes anteriores foram preservadas. Dry-run, hashes previos, backups, temporarios e confirmacao FTP/HTTP concluidos. Conferencia desktop/mobile e validadores aprovados: 133 artigos e 144 URLs. Confirmada republicacao integral no LinkedIn com capa original e legenda vinculada ao blog. Uma redacao e uma revisao de metadados entregues nas etapas humanas corretas, mais uma pauta diaria sem submissao. Home, clientes e alteracoes institucionais concorrentes preservados.

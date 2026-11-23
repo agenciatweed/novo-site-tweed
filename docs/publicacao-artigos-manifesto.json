@@ -1,8 +1,8 @@
 [
   {
     "path": ".htaccess",
-    "bytes": 7430,
-    "sha256": "7a23db360fe080ac13c3f3c95dc7b21bb3ddc423bd8f49f6a9ed3df74b8ce19d"
+    "bytes": 7469,
+    "sha256": "444555a6256c4042f250fb3a4f3415f6f039c507a3ba0d9fdf604f7e16057945"
   },
   {
     "path": "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar/index.html",
@@ -428,6 +428,11 @@
     "path": "assets/artigos-editoriais/eac4f37a0d1d3e302ec884321d8bb704182d9163fe148a9dbb6614f103c7afa9.png",
     "bytes": 1836302,
     "sha256": "eac4f37a0d1d3e302ec884321d8bb704182d9163fe148a9dbb6614f103c7afa9"
+  },
+  {
+    "path": "assets/artigos-editoriais/eb0c47025a2632ef4a0d9949568eeb27da6d8bb040a8cf661b3d5d5d729a45b1.png",
+    "bytes": 2205054,
+    "sha256": "eb0c47025a2632ef4a0d9949568eeb27da6d8bb040a8cf661b3d5d5d729a45b1"
   },
   {
     "path": "assets/artigos-editoriais/f126c80fbcc70e5642b3021f25057f51cd7b80d0f82ed7e817da705ab9eb9549.png",
@@ -1166,8 +1171,8 @@
   },
   {
     "path": "blog-branding-na-marra/index.html",
-    "bytes": 21362,
-    "sha256": "ffe94e63a16adb97a9bd884008e8271eabac05974f79da3ce1d35eaab5a78c57"
+    "bytes": 22002,
+    "sha256": "97f01d4f612acffe64886f52d33c133c8b93c217d5b38e88cba7796b46493f6f"
   },
   {
     "path": "blog-marcas-com-alma/index.html",
@@ -1196,8 +1201,8 @@
   },
   {
     "path": "blog/index.html",
-    "bytes": 25261,
-    "sha256": "7c3ec2437df57a2a691fe679feb9f7e7d3dbff1a9784a110b1f64ac3586771fd"
+    "bytes": 25220,
+    "sha256": "d025086941dfb0c8495380ac873b5951822837dc78f27bc8a92ee90756457ef3"
   },
   {
     "path": "branding-como-experiencia-do-cliente/index.html",
@@ -1418,6 +1423,11 @@
     "path": "legibilidade-digital-marca-pessoas-ia/index.html",
     "sha256": "35ff184e77291be0d91966971b3d526a2bde730eda4488d89cb43e77e2f2e38d",
     "bytes": 22499
+  },
+  {
+    "path": "logotipo-tamanho-pequeno-aplicacoes/index.html",
+    "bytes": 25358,
+    "sha256": "f92f2ab1418e6a94224615a7ee1b31fd2bffe8d655f6bd722609773e9e240559"
   },
   {
     "path": "marca-causa-explicar-produto-novos-publicos/index.html",
@@ -1741,8 +1751,8 @@
   },
   {
     "path": "sitemap.xml",
-    "bytes": 20916,
-    "sha256": "36409d29c240274fbe6ab9dece79a03a2f2cf32ae0718efca596580223fa1b13"
+    "bytes": 21055,
+    "sha256": "c73553dac90a0725fc1e4530b307c60f8e5f549178448ce66d766b5676fbfee9"
   },
   {
     "path": "solucao-tecnica-aplicacao-limites/index.html",

@@ -922,5 +922,12 @@
     "height": 1024,
     "source": "conteudos/pauta-diaria-2026-11-12/imagens/f237fa76a2cd43e0bde7d6950e210c4c508399cf3c7f81659887d7354cf39d99.png",
     "sha256": "f237fa76a2cd43e0bde7d6950e210c4c508399cf3c7f81659887d7354cf39d99"
+  },
+  "logotipo-tamanho-pequeno-aplicacoes": {
+    "path": "/assets/artigos-editoriais/eb0c47025a2632ef4a0d9949568eeb27da6d8bb040a8cf661b3d5d5d729a45b1.png",
+    "width": 1536,
+    "height": 1024,
+    "source": "conteudos/pauta-reposicao-2026-11-12-ab69d3c1c808/imagens/eb0c47025a2632ef4a0d9949568eeb27da6d8bb040a8cf661b3d5d5d729a45b1.png",
+    "sha256": "eb0c47025a2632ef4a0d9949568eeb27da6d8bb040a8cf661b3d5d5d729a45b1"
   }
 }

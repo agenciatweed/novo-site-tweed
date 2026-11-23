@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "fb5d63ffdb7ac37c9f90a6504bd3f9a0b69d61fb79aca3a8d7fd191eb966468f",
+  "catalogSha256": "a02adf82f9362bbb9f074d9e2e7155a8c31b9fb68f750dbb7336679684b00d97",
   "reviewedAt": "2026-11-17",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -1058,6 +1058,14 @@
       ],
       "reason": "As duas leituras aprofundam decisões diretamente ligadas à arquitetura da nova oferta: clareza do nome e do descritor no portfólio, e direção estratégica antes do logotipo.",
       "modifiedAt": "2026-11-21"
+    },
+    "logotipo-tamanho-pequeno-aplicacoes": {
+      "targets": [
+        "seu-logotipo-e-bonito-mas-sua-marca-e-clara",
+        "peca-aprovada-versao-veiculada"
+      ],
+      "reason": "Clareza da identidade além da beleza do desenho e conferência da versão que chega ao canal complementam a avaliação do logotipo em aplicações restritas.",
+      "modifiedAt": "2026-11-22"
     }
   }
 }
