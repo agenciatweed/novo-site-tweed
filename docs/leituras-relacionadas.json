@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "a02adf82f9362bbb9f074d9e2e7155a8c31b9fb68f750dbb7336679684b00d97",
+  "catalogSha256": "61d7f31e8907e988d21956c52447af643efdb36c8de67f100cbf65f0f1d8b2b8",
   "reviewedAt": "2026-11-17",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -1066,6 +1066,30 @@
       ],
       "reason": "Clareza da identidade além da beleza do desenho e conferência da versão que chega ao canal complementam a avaliação do logotipo em aplicações restritas.",
       "modifiedAt": "2026-11-22"
+    },
+    "retomar-escolha-referencia-produto": {
+      "targets": [
+        "busca-interna-loja-linguagem-cliente",
+        "proposta-comercial-comparavel-criterios"
+      ],
+      "reason": "Encontrar novamente a variante e explicitar diferenças entre opções são complementos diretos à continuidade da seleção.",
+      "modifiedAt": "2026-11-24"
+    },
+    "perguntas-ao-vivo-respostas-marca": {
+      "targets": [
+        "mensagem-automatica-recebimento-solucao",
+        "devolutiva-pesquisa-retorno-participantes"
+      ],
+      "reason": "Distinguir recebimento de solução e oferecer uma devolutiva verificável aprofunda diretamente a responsabilidade pelas perguntas recebidas ao vivo.",
+      "modifiedAt": "2026-11-25"
+    },
+    "audio-video-fala-compreensivel": {
+      "targets": [
+        "peca-aprovada-versao-veiculada",
+        "demonstracao-produto-ajudar-cliente-decidir"
+      ],
+      "reason": "A conferência da versão efetivamente veiculada complementa a revisão do áudio exportado; a demonstração de produto aprofunda quais informações de uso e condições precisam permanecer compreensíveis.",
+      "modifiedAt": "2026-11-25"
     }
   }
 }

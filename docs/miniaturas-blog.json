@@ -929,5 +929,26 @@
     "height": 1024,
     "source": "conteudos/pauta-reposicao-2026-11-12-ab69d3c1c808/imagens/eb0c47025a2632ef4a0d9949568eeb27da6d8bb040a8cf661b3d5d5d729a45b1.png",
     "sha256": "eb0c47025a2632ef4a0d9949568eeb27da6d8bb040a8cf661b3d5d5d729a45b1"
+  },
+  "retomar-escolha-referencia-produto": {
+    "path": "/assets/artigos-editoriais/65868e08e327c0d72d82793422441dc21185ecd4592145bfa7db7f3a58c8dc1f.png",
+    "width": 1536,
+    "height": 1024,
+    "source": "conteudos/pauta-diaria-2026-11-13/imagens/65868e08e327c0d72d82793422441dc21185ecd4592145bfa7db7f3a58c8dc1f.png",
+    "sha256": "65868e08e327c0d72d82793422441dc21185ecd4592145bfa7db7f3a58c8dc1f"
+  },
+  "perguntas-ao-vivo-respostas-marca": {
+    "path": "/assets/artigos-editoriais/eb44b0d22ca373077b4d862467a13e20da06c95fd2b85694c9eda012a8468ae2.png",
+    "width": 1344,
+    "height": 896,
+    "source": "conteudos/pauta-reposicao-2026-11-12-cb848cc54d53/imagens/eb44b0d22ca373077b4d862467a13e20da06c95fd2b85694c9eda012a8468ae2.png",
+    "sha256": "eb44b0d22ca373077b4d862467a13e20da06c95fd2b85694c9eda012a8468ae2"
+  },
+  "audio-video-fala-compreensivel": {
+    "path": "/assets/artigos-editoriais/b25d2c869de0ca99615bd15d74a29d47d517838c9bfc8aec5b45ee1cc82ffbd9.png",
+    "width": 1536,
+    "height": 1024,
+    "source": "conteudos/pauta-diaria-2026-11-14/imagens/b25d2c869de0ca99615bd15d74a29d47d517838c9bfc8aec5b45ee1cc82ffbd9.png",
+    "sha256": "b25d2c869de0ca99615bd15d74a29d47d517838c9bfc8aec5b45ee1cc82ffbd9"
   }
 }
